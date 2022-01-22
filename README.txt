@@ -16,7 +16,8 @@ jokes, and several other things.
 
 Currently in development.
 
-Steps moving forward:
+Things yet to implement:
+-Translate to any language command
 -use voice files when she is cofused, sad, etc
 -edit AIML files to fit her persona
 -Add extra AIML files for Pina herself

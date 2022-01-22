@@ -1,0 +1,29 @@
+******************************************************
+Programmer: Rafael Sanchez
+
+An alicebot named Pina. Uses AIML, python, nltk,
+tkinter, and pygame for several functionalities
+like GUI, brain of the chatbot, pattern matching,
+etc.
+
+It has all the original Alice AIML files, 
+Standard AIML files, and Mitsuku AIML files,
+as well some extra files to expand on her 
+personality.
+
+Pina also makes use of Python to play games, tell
+jokes, and several other things.
+
+Currently in development.
+
+Steps moving forward:
+-use voice files when she is cofused, sad, etc
+-edit AIML files to fit her persona
+-Add extra AIML files for Pina herself
+-Games to play with her: game of pig, blackjack, 
+ tic tac toe, rock paper scissors, Date Me Game 
+ where you go on a virtual date with her ;)
+-Tell me a story functionality
+-Calendar and date functionality
+-Tell me a joke
+-Use nltk as well to expand on her knowledge

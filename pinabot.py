@@ -5,6 +5,8 @@ from PyDictionary import PyDictionary
 import aiml
 import pygame
 import random
+import getpass
+from datetime import datetime
 
 # Create the kernel and learn AIML files
 kernel = aiml.Kernel()
@@ -41,10 +43,15 @@ elif rand==4:
 def pina_says(m, kernel):
     
     dictionary=PyDictionary()
-    if ("what is" in m.lower() or "define" in m.lower() or "definition of" in m.lower() or "meaning of" in m.lower()) and ('rafael sanchez' not in m.lower()):
+    if ("what is" in m.lower() or "define" in m.lower() or "definition of" in m.lower() or "meaning of" in m.lower()) and ('rafael sanchez' not in m.lower() and 'what is your' not in m.lower()):
         r=dictionary.meaning(m.split()[-1])
+        if dictionary.meaning(m.split()[-1],True) is None:
+            return "uuhhh... I don't know."
         g=list(r.values())[0][0]
         return g.capitalize()
+    elif 'shell command' in m.lower():
+        os.system(m[14:])
+        return "Command executed!" 
     elif "+" in m:
         l=m.split('+')
         s1=l[0].strip()
@@ -110,27 +117,35 @@ loading=True
 ind=0
 
 root = Tk()
-root.title('PINA')
+root.title('Pinabot Ver 1.0')
 root.iconbitmap('gui'+os.sep+'icon.ico')
 root.geometry("570x460")
-
+root.resizable(False, False)
 root.configure(background='#d0f8f7')
 
 
 e = Entry(root, width=40, borderwidth=5)
 e.place(x=5, y=5)
 
+d3 = datetime.now().strftime("%d%m%Y%H%M%S")
+file = open("brain"+os.sep+"memory"+os.sep+"chatlog_"+d3+".txt", "a") 
+
 def myClick():
     global e
     global kernel
-    abel.configure(text=pina_says(e.get(), kernel))
+    pina_mes=pina_says(e.get(), kernel)
+    cutoff=408
+    file.write(getpass.getuser()+": "+e.get()+'\n')
+    file.write("Pina: "+pina_mes[0:cutoff]+'\n')
+    abel.configure(text=pina_mes[0:cutoff])
     abel.place(x=8, y=90)
     e.delete(0, END)
+
 
 def func(event):
     myClick()
 root.bind('<Return>', func)
-abel = Label(root, text="", wraplength=240, font="Courier 17", fg="#ff60a9", borderwidth=3, relief="raised")
+abel = Label(root, text="", wraplength=240, font="Courier 13", fg="#ff60a9", borderwidth=3, relief="raised")
 myButton = Button(root, text="Send message!", padx=80, pady=2, command= lambda: myClick(), bg="#fcd6e8", font="Courier 7")
 myButton.place(x=10, y=38)
 
@@ -186,5 +201,11 @@ myLabel = Label(image=img_l[ind])
 myLabel.place(x=260, y=2)
 
 change_image(myLabel, img_l, ind, 1000, sprite_l)
+
+def on_closing():
+    file.close()
+    root.destroy()
+
+root.protocol("WM_DELETE_WINDOW", on_closing)
 
 root.mainloop()

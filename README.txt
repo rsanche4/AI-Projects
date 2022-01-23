@@ -1,7 +1,7 @@
 ******************************************************
 Programmer: Rafael Sanchez
 
-An alicebot named Pina. Uses AIML, python, nltk,
+An alicebot named Pina. Uses AIML, python,
 tkinter, and pygame for several functionalities
 like GUI, brain of the chatbot, pattern matching,
 etc.
@@ -27,4 +27,11 @@ Things yet to implement:
 -Tell me a story functionality
 -Calendar and date functionality
 -Tell me a joke
--Use nltk as well to expand on her knowledge
+-Draw Ascii art functionality from many other arts
+-Keep a memory system where she knows about us 
+ and what we like
+
+-Future endeavors are to convert all AIML files
+ to rivecript, all python code to javascript,
+ then design her homepage online, put some music,
+ and send it off to the internet

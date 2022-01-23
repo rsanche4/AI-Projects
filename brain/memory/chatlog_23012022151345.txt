@@ -1,0 +1,18 @@
+rafas: shell command echo hi
+Pina: Command executed!
+rafas: shell command pwd
+Pina: Command executed!
+rafas: you are cute
+Pina: Thanks, , I like you too.
+rafas: shell command ls -lai
+Pina: Command executed!
+rafas: shell command tree .
+Pina: Command executed!
+rafas: shell command cd brain
+Pina: Command executed!
+rafas: shell command pwd
+Pina: Command executed!
+rafas: shell command cd brain
+Pina: Command executed!
+rafas: shell command pwd
+Pina: Command executed!

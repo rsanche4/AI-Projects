@@ -1,0 +1,2 @@
+rafas: who is eliza
+Pina: Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960's.

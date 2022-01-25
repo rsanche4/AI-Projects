@@ -1,0 +1,10 @@
+-----------| CHAT 25012022011257 STARTED |----------------------------------------------
+
+rafas: who is rafael
+Zoey: I don't know who rafael. I have terrible memory... kinda. Sorry.
+rafas: who is rafael sanchez
+Zoey: I don't know who rafael sanchez. I have terrible memory... kinda. Sorry.
+rafas: rafael  sanchez
+Zoey: Rafael Sanchez is my programmer and creator. He used Python and the AIML module to write me. I get nervous thinking he is constantly probing my brain for bugs.
+
+-----------| CHAT 25012022011257 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

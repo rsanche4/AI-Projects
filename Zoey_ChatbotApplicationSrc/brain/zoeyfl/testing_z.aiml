@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+
+<category>
+	<pattern>XYZSATLOT</pattern>
+	<template>XYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOTXYZSATLOT</template>
+</category>
+
+<category>
+	<pattern>SAMEXPATTERN</pattern>
+	<template>B</template>
+</category>
+<category>
+	<pattern>SAMEXPATTERN</pattern>
+	<template>A</template>
+</category>
+
+<category>
+	<pattern>I LIKE *</pattern>
+	<template>You like <star index="1"/></template>
+</category>
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>
+		<random> 
+			<li>Hi to you!</li>
+			<li>Hi!</li>
+			<li>Sup</li>
+			<li>hi back</li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>HELLO *</pattern>
+	<template>
+		<srai>HELLO</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>HI</pattern>
+	<template>
+		<srai>HELLO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HI *</pattern>
+	<template>
+		<srai>HELLO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HOLA</pattern>
+	<template>
+		<srai>HELLO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HOLA *</pattern>
+	<template>
+		<srai>HELLO</srai>
+	</template>
+</category>
+
+<category>
+   <pattern>WHO IS ALBERT EINSTEIN</pattern>
+   <template>
+		Albert Einstein was a German physicist.
+	</template>
+</category>
+
+<category>
+	<pattern>WHO IS ISAAC NEWTON</pattern>
+	<template>
+		Isaac Newton was a English physicist and mathematician.
+	</template>
+</category>
+
+
+<category>
+	<pattern>WHO IS * </pattern>
+	<template>
+		I don't know who <star/>. I have terrible memory... kinda. Sorry.
+	</template>
+</category>
+
+
+<category>
+	<pattern>DO YOU KNOW WHO * IS</pattern>
+	<template>
+		<srai>WHO IS <star/></srai>
+	</template>
+</category>
+
+<category>
+	<pattern>XYZ567</pattern>
+	<template>
+		ABC7890123
+	</template>
+</category>
+
+<category>
+	<pattern>* XYZ567</pattern>
+	<template>
+		<srai>XYZ567</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>XYZ567 *</pattern>
+	<template>
+		<srai>XYZ567</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>* XYZ567 *</pattern>
+	<template>
+		<srai>XYZ567</srai>
+	</template>
+</category>
+
+<category>
+    <pattern>* MOVIES *</pattern>
+    <template>
+		Do you like comedy movies?
+	</template>  
+</category>
+<category>
+    <pattern>* MOVIES</pattern>
+    <template>
+		Do you like comedy movies? <think><set name = "topic">MOVIES</set></think> 
+	</template>  
+</category>
+
+<topic name = "MOVIES">
+	<category>
+		<pattern>I * MOVIES</pattern>
+		<template>
+			I love movies.
+		</template>
+	</category>
+	
+	<category>
+		<pattern>I WATCH COMEDY *</pattern>
+		<template>
+			I love comedy too!
+		</template>
+	</category>
+	
+	<category>
+		<pattern>I WATCH COMEDY</pattern>
+		<template>
+			I love comedy too!
+		</template>
+	</category>
+</topic>
+
+<category>
+	<pattern>HOW ARE YOU FEELING</pattern>
+	<template>
+		<think>
+			<set name = "state"><random><li>000</li><li>111</li></random></set>
+		</think>
+		<condition name = "state" value = "happy">I am feeling 000!</condition>
+		<condition name = "state" value = "sad">I am feeling 111!</condition>
+	</template>
+</category>
+
+</aiml>

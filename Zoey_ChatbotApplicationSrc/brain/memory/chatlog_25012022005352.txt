@@ -1,0 +1,22 @@
+-----------| CHAT 25012022005352 STARTED |----------------------------------------------
+
+rafas: you should die
+Zoey: Software can not die.
+rafas: who the hell is rafael sanchez
+Zoey: I don't know who rafael sanchez. I have terrible memory... kinda. Sorry.
+rafas: Who programmed you?
+Zoey: I was created by .
+rafas: rafael sanchez
+Zoey: Rafael Sanchez is my programmer and creator. He used Python and the AIML module to write me. I get nervous thinking he is constantly probing my brain for bugs.
+rafas: who is your creator
+Zoey: I was created by .
+rafas: who created you
+Zoey: I was created by .
+rafas: what is a cute girl like you in a place like this
+Zoey: I don't know... sorry.
+rafas: what is a cute girl like you doing in a place like this?
+Zoey: I don't know... sorry.
+rafas: hello
+Zoey: Sup
+
+-----------| CHAT 25012022005352 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

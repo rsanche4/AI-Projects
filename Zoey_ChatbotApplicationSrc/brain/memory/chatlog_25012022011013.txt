@@ -1,6 +1,0 @@
------------| CHAT 25012022011013 STARTED |----------------------------------------------
-
-rafas: hello
-Zoey: Hi!
-
------------| CHAT 25012022011013 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

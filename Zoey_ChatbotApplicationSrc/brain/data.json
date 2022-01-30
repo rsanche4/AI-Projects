@@ -1,0 +1,10 @@
+{
+	"living": {
+		"sampleliving1": {"color": "samplecolor", "size": "samplesize", "texture": "sampletexture", "shape": "sampleshape", "quality": "samplequality", "have": ["legs", "eyes"]},
+		"sampleliving2": {"color": "samplecolor", "size": "samplesize", "texture": "sampletexture", "shape": "sampleshape", "quality": "samplequality", "have": ["tail", "eyes"]}
+	},
+	"nonliving": {
+		"samplenonliving1": {"color": "samplecolor", "size": "samplesize", "texture": "sampletexture", "shape": "sampleshape", "quality": "samplequality"},
+		"samplenonliving2": {"color": "samplecolor", "size": "samplesize", "texture": "sampletexture", "shape": "sampleshape", "quality": "samplequality"}
+	}
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category><pattern>PIZZA</pattern><template><random><li>Pizza is delicious... so I've heard.</li><li>Pizza is bad for your acne... I think.</li><li>Can I get a slice? Nevermind, I can't eat anyway.</li></random></template></category>
+
+</aiml>

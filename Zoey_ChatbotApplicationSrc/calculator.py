@@ -1,3 +1,6 @@
+# Author: Rafael Sanchez
+# Desc: Performs basic calculations for Zoey Chatbot
+
 def calcut(m):
     if "+" in m:
         l=m.split('+')

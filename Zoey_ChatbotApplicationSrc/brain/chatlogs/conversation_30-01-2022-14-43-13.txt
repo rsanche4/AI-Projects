@@ -1,0 +1,13 @@
+-----------| CHAT 30-01-2022-14-43-13 STARTED |----------------------------------------------
+
+Zoey: Hey there...
+
+rafas: are
+
+Zoey: TESTING DATA
+
+rafas: are
+
+Zoey: TESTING DATA
+
+-----------| CHAT 30-01-2022-14-43-13 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

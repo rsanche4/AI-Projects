@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category><pattern>I ATE PIZZA</pattern><template><random><li><srai>EAT</srai></li><li><srai>PIZZA</srai></li></random></template></category>
+<category><pattern>I ATE PIZZA *</pattern><template><random><li><srai>EAT</srai></li><li><srai>PIZZA</srai></li></random></template></category>
+<category><pattern>I EAT PIZZA</pattern><template><random><li><srai>EAT</srai></li><li><srai>PIZZA</srai></li></random></template></category>
+<category><pattern>I EAT PIZZA *</pattern><template><random><li><srai>EAT</srai></li><li><srai>PIZZA</srai></li></random></template></category>
+<category><pattern>I * EAT PIZZA</pattern><template><random><li><srai>EAT</srai></li><li><srai>PIZZA</srai></li></random></template></category>
+<category><pattern>I * EAT PIZZA *</pattern><template><random><li><srai>EAT</srai></li><li><srai>PIZZA</srai></li></random></template></category>
+
+</aiml>

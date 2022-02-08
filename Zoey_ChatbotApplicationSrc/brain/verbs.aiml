@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-
-<category><pattern>EAT</pattern><template><random><li>I can't eat, unfortunately.</li><li>Eating sounds like fun. I can't eat though.</li><li>I just eat... lines of logic and code daily.</li></random></template></category>
-
-</aiml>

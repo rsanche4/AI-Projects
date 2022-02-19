@@ -1,0 +1,13 @@
+-----------| CHAT 19-02-2022-00-59-43 STARTED |----------------------------------------------
+
+Aliza: How's it going?
+
+User: You * barbie > I am not a barbie! > I am not a doll.
+
+Aliza: Parsed successfully.
+
+User: you are a wonderful barbie
+
+Aliza: Why do you think I am a wonderful barbie?
+
+-----------| CHAT 19-02-2022-00-59-43 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

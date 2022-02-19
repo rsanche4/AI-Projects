@@ -1,0 +1,13 @@
+-----------| CHAT 18-02-2022-23-29-13 STARTED |----------------------------------------------
+
+Aliza: How have you been?
+
+User: WhO is YoUr Programmer   >>         My programmer is Rafael Sanchez.   
+
+Aliza: Fact learned.
+
+User: who is your Creator??
+
+Aliza: My creator is Rafael Sanchez.
+
+-----------| CHAT 18-02-2022-23-29-13 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

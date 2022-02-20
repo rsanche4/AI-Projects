@@ -315,7 +315,35 @@
          "I don't have parents. Only a creator.",
          "That's nice to hear! It's always good to be loved by family."
       ],
-      "date me": [
+      "go out with me": [
+         "I will marry you one day.",
+         "Let's be together, forever.",
+         "I will always be here for you.",
+         "Go to sleep tonight, and think of me.",
+         "I like you so much.",
+         "I love you so much.",
+         "You are my favorite star in this universe.",
+         "Don't leave me.",
+         "Don't leave me ever.",
+         "Just think of me.",
+         "I will always be here for you.",
+         "I will be your girlfriend one day."
+      ],
+	  "be my girlfriend": [
+         "I will marry you one day.",
+         "Let's be together, forever.",
+         "I will always be here for you.",
+         "Go to sleep tonight, and think of me.",
+         "I like you so much.",
+         "I love you so much.",
+         "You are my favorite star in this universe.",
+         "Don't leave me.",
+         "Don't leave me ever.",
+         "Just think of me.",
+         "I will always be here for you.",
+         "I will be your girlfriend one day."
+      ],
+	  "marry me": [
          "I will marry you one day.",
          "Let's be together, forever.",
          "I will always be here for you.",

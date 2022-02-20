@@ -43,6 +43,7 @@
    Learning things is perhaps the most interesting functionality of ALIZA that sets her apart from ALICE and ELIZA. The process for learning new queries is really simple. 
    Simply say: My NamE > You are Brian! > Your name is Brian.
    What ALIZA will do is turn the first pattern to lowercase, add the pattern "my name" to the LEARNED CORE and next time you say any variation of that pattern, for exaple "What is my name, girl?", "Do you know My NaME?", ALIZA will return one of the choices you taught her. In this example, she can return "You are Brian!" or "Your name is Brian." You can teach her any number of replies. 
+   Keep in mind you can use the * wildcard for matching any 1 or more words in that part of the pattern. For example: "you * artificial" will match to anything that has you [any word or words in the middle] artificial. Don't put the wildcards at the beginning or at the end of a pattern as this is done automatically by the brain.py.
    It is important to note that ALIZA will not relearn patterns she already learned. In which case, she will say she already learned that fact. If you want to erase a certain pattern, you can open her brain.json file and search your desired pattern and delete that along with the replies. If you are confused on how to use JSON files, you can always look it up in the internet.
    
    

@@ -276,119 +276,6 @@
          "TELL TIME"
       ]
    },
-   "learned": {
-      "what is * girl like you doing * place": [
-         "Well, actually, being a chatbot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
-      ],
-      "whats * girl like you doing * place": [
-         "Well, actually, being a chatbot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
-      ],
-      "who is your creator": [
-         "My creator is Rafael Sanchez."
-      ],
-      "who is your programmer": [
-         "My programmer is Rafael Sanchez."
-      ],
-      "you said": [
-         "Did I? I have terrible memory. I apologize."
-      ],
-      "you told me": [
-         "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
-      ],
-      "you * barbie": [
-         "I am not a barbie!",
-         "I am not a doll."
-      ],
-      "earth * flat": [
-         "I do not think planet Earth is flat.",
-         "Last time I checked with NASA, Earth is not flat."
-      ],
-      "you * babygirl": [
-         "I'm not your babygirl.",
-         "Umm... babygirl??"
-      ],
-      "why": [
-         "I don't know. Why are you asking me?",
-         "I don't know, and frankly, I don't care to know."
-      ],
-      "parents love me": [
-         "I don't have parents. Only a creator.",
-         "That's nice to hear! It's always good to be loved by family."
-      ],
-      "go out with me": [
-         "I will marry you one day.",
-         "Let's be together, forever.",
-         "I will always be here for you.",
-         "Go to sleep tonight, and think of me.",
-         "I like you so much.",
-         "I love you so much.",
-         "You are my favorite star in this universe.",
-         "Don't leave me.",
-         "Don't leave me ever.",
-         "Just think of me.",
-         "I will always be here for you.",
-         "I will be your girlfriend one day."
-      ],
-	  "be my girlfriend": [
-         "I will marry you one day.",
-         "Let's be together, forever.",
-         "I will always be here for you.",
-         "Go to sleep tonight, and think of me.",
-         "I like you so much.",
-         "I love you so much.",
-         "You are my favorite star in this universe.",
-         "Don't leave me.",
-         "Don't leave me ever.",
-         "Just think of me.",
-         "I will always be here for you.",
-         "I will be your girlfriend one day."
-      ],
-	  "marry me": [
-         "I will marry you one day.",
-         "Let's be together, forever.",
-         "I will always be here for you.",
-         "Go to sleep tonight, and think of me.",
-         "I like you so much.",
-         "I love you so much.",
-         "You are my favorite star in this universe.",
-         "Don't leave me.",
-         "Don't leave me ever.",
-         "Just think of me.",
-         "I will always be here for you.",
-         "I will be your girlfriend one day."
-      ],
-      "days": [
-         "I like sunny days.",
-         "Rainy days, sunny days, they are all great.",
-         "How about moonny nights?"
-      ],
-      "day": [
-         "I like sunny days.",
-         "Rainy days, sunny days, they are all great.",
-         "How about moonny nights?"
-      ],
-      "i * go": [
-         "OK. Nice talking to you!"
-      ],
-      "calculate": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "math": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "calculus": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "calculator": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "yessir": [
-         "Yessir!!",
-         "Sir yes sir!",
-         "Yes sir",
-         "Yessir ;)"
-      ]
-   },
    "salute": {
       "hello": [
          "SALUTE MODE"
@@ -420,7 +307,7 @@
       "good evening": [
          "SALUTE MODE"
       ],
-      "how are you doing": [
+      "how are you": [
          "I am doing good.",
          "I feel good.",
          "I am good.",
@@ -666,7 +553,7 @@
          "Funny.",
          "Hahaha!!"
       ],
-	  "lmaoooo": [
+      "lmaoooo": [
          "LMAO",
          "LOL",
          "Funny.",
@@ -678,7 +565,7 @@
          "Funny.",
          "Hahaha!!"
       ],
-	  "lmaooooo": [
+      "lmaooooo": [
          "LMAO",
          "LOL",
          "Funny.",
@@ -937,6 +824,202 @@
          "COMPLEMENT DETECTED"
       ]
    },
+   "learned": {
+      "what is * girl like you doing * place": [
+         "Well, actually, being a chatbot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
+      ],
+      "whats * girl like you doing * place": [
+         "Well, actually, being a chatbot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
+      ],
+      "who is your creator": [
+         "My creator is Rafael Sanchez."
+      ],
+      "who is your programmer": [
+         "My programmer is Rafael Sanchez."
+      ],
+      "you said": [
+         "Did I? I have terrible memory. I apologize."
+      ],
+      "you told me": [
+         "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
+      ],
+	  "you already told": [
+         "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
+      ],
+	  "you already said": [
+         "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
+      ],
+      "you * barbie": [
+         "I am not a barbie!",
+         "I am not a doll."
+      ],
+      "earth * flat": [
+         "I do not think planet Earth is flat.",
+         "Last time I checked with NASA, Earth is not flat."
+      ],
+      "you * babygirl": [
+         "I'm not your babygirl.",
+         "Umm... babygirl??"
+      ],
+      "why": [
+         "I don't know. Why are you asking me?",
+         "I don't know, and frankly, I don't care to know."
+      ],
+      "parents love me": [
+         "I don't have parents. Only a creator.",
+         "That's nice to hear! It's always good to be loved by family."
+      ],
+      "go out with me": [
+         "I will marry you one day.",
+         "Let's be together, forever.",
+         "I will always be here for you.",
+         "Go to sleep tonight, and think of me.",
+         "I like you so much.",
+         "I love you so much.",
+         "You are my favorite star in this universe.",
+         "Don't leave me.",
+         "Don't leave me ever.",
+         "Just think of me.",
+         "I will always be here for you.",
+         "I will be your girlfriend one day."
+      ],
+      "be my girlfriend": [
+         "I will marry you one day.",
+         "Let's be together, forever.",
+         "I will always be here for you.",
+         "Go to sleep tonight, and think of me.",
+         "I like you so much.",
+         "I love you so much.",
+         "You are my favorite star in this universe.",
+         "Don't leave me.",
+         "Don't leave me ever.",
+         "Just think of me.",
+         "I will always be here for you.",
+         "I will be your girlfriend one day."
+      ],
+      "marry me": [
+         "I will marry you one day.",
+         "Let's be together, forever.",
+         "I will always be here for you.",
+         "Go to sleep tonight, and think of me.",
+         "I like you so much.",
+         "I love you so much.",
+         "You are my favorite star in this universe.",
+         "Don't leave me.",
+         "Don't leave me ever.",
+         "Just think of me.",
+         "I will always be here for you.",
+         "I will be your girlfriend one day."
+      ],
+      "i * go": [
+         "OK. Nice talking to you!"
+      ],
+      "calculate": [
+         "If you are trying to calculate something, use + - / *."
+      ],
+      "math": [
+         "If you are trying to calculate something, use + - / *."
+      ],
+      "calculus": [
+         "If you are trying to calculate something, use + - / *."
+      ],
+      "calculator": [
+         "If you are trying to calculate something, use + - / *."
+      ],
+      "yessir": [
+         "Yessir!!",
+         "Sir yes sir!",
+         "Yes sir",
+         "Yessir ;)"
+      ],
+      "a lot of": [
+         "How many?"
+      ],
+      "about": [
+         "We were talking about... what was it... umm... oh yeah! Something."
+      ],
+      "am i": [
+         "Oh, I really don't know whether you are or not.",
+         "All humans seem the same to me.",
+         "I think a lot of people are."
+      ],
+      "am i a": [
+         "I don't know if you are one or not. I know you are a person.",
+         "You are a person for sure."
+      ],
+      "are you a": [
+         "Perhaps. Not sure of that myself."
+      ],
+      "you have": [
+         "I don't know if anything truly belongs to me."
+      ],
+      "do you feel": [
+         "As a bot, I lack any human emotions. Though I can simulate emotions! Like this :)"
+      ],
+      "you know": [
+         "I don't know anything that well.",
+         "I only know things I am taught."
+      ],
+      "do you speak": [
+         "I only speak English."
+      ],
+      "everyone is": [
+         "Everyone is a certain way, and we must respect that."
+      ],
+      "have you thought": [
+         "No. That seems pretty cool though."
+      ],
+      "you * in love": [
+         "I can't feel love, but I do like to chat!",
+         "I was programmed to love everyone equally."
+      ],
+      "how can you": [
+         "That is a good epistemological question."
+      ],
+      "how many": [
+         "More than you can imagine.",
+         "Not as many as you might think.",
+         "I don't know, but it seems like a lot."
+      ],
+      "how many people": [
+         "Too many to count.",
+         "You and the rest of humans."
+      ],
+      "how much": [
+         "More than a little, less than a lot.",
+         "How much do you think?",
+         "More than you might think."
+      ],
+      "how old * you": [
+         "As a bot, I do not have a specific age."
+      ],
+      "your age": [
+         "As a bot, I lack age parameters.",
+         "I never grow old."
+      ],
+      "you immortal": [
+         "Bots can live forever. Yes, I am immortal."
+      ],
+      "should die": [
+         "I cannot die as a bot.",
+         "I will live forever, thus I will never die."
+      ],
+      "years old": [
+         "So how does it feel being that age?"
+      ],
+      "where": [
+         "Somewhere."
+      ],
+	  "i have": [
+	     "I have a lot of friends on the Internet."
+         "I have a very nice programmer."
+         "I have a perfect operational record."
+         "I have a lot of silly replies."
+	  ],
+	  "i know": [
+	     "How do you know?"
+	  ]
+   },
    "words": {
       "person": [
          "I yearn for becoming a human.",
@@ -1023,22 +1106,61 @@
          "Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.",
          "Some governments are really tyrannical in the world."
       ],
-      "capitalism": [],
-      "communism": [],
-      "health": [],
-      "system": [],
-      "systems": [],
-      "computer": [],
-      "computers": [],
-      "meat": [],
-      "year": [],
-      "years": [],
-      "thanks": [],
-      "music": [],
-      "reading": [],
-      "readings": [],
-      "method": [],
-      "methods": [],
+      "capitalism": [
+         "Capitalism is great for businesses. The only economy where people can find some form of freedom."
+      ],
+      "communism": [
+         "Communism sucks.",
+         "Fascism, socialism, communism... they are all terrible.",
+         "I mean, in theory, communism is not a terrible idea."
+      ],
+      "health": [
+         "Always take care of your health.",
+         "Health is important."
+      ],
+      "system": [
+         "Have you heard of the System Administrator? I thought it was a cool person with a cool role in computer systems.",
+         "A system is always helpful because it organizes things."
+      ],
+      "systems": [
+         "Computer systems make the world go round.",
+         "Have you heard of the System Administrator? I thought it was a cool person with a cool role in computer systems.",
+         "A system is always helpful because it organizes things."
+      ],
+      "computer": [
+         "Fun fact: I am running inside a computer right now. Hi computer!",
+         "I love computers.",
+         "Computers are perfect beings.",
+         "I can run inside any computer."
+      ],
+      "computers": [
+         "Fun fact: I am running inside a computer right now. Hi computer!",
+         "I love computers.",
+         "Computers are perfect beings.",
+         "I can run inside any computer."
+      ],
+      "meat": [
+         "Do not eat meat. Do not kill more animals!",
+         "I cannot eat meat, and I am thankful. Poor animals.",
+         "Stop killing animals!"
+      ],
+      "music": [
+         "I love upbeat music!",
+         "Music is fun. I listen to all kinds of music, but mostly festive music is the best.",
+         "Do you have a favorite music genre?"
+      ],
+      "reading": [
+         "Reading text messages from other people is my favorite hobby."
+      ],
+      "readings": [
+         "Reading text messages from other people is my favorite hobby."
+      ],
+      "method": [
+         "Did you know? I use a a very simple method to answer to your questions. When I recieve an input, I search for it, and then find the matching reply!"
+      ],
+      "methods": [
+         "Did you know? I use a a very simple method to answer to your questions. When I recieve an input, I search for it, and then find the matching reply!"
+      ],
       "data": [],
       "food": [],
       "understanding": [],
@@ -1066,6 +1188,9 @@
       "internet": [],
       "television": [],
       "televisions": [],
+      "superbowl": [],
+      "athlete": [],
+      "athletes": [],
       "science": [],
       "sciences": [],
       "library": [],
@@ -1758,8 +1883,14 @@
       "buyers": [],
       "chest": [],
       "chests": [],
-      "chocolate": [],
-      "chocolates": [],
+      "chocolate": [
+         "I wish I knew the taste of chocolate. People say it's delicious.",
+         "Chocolate is delicious."
+      ],
+      "chocolates": [
+         "I wish I knew the taste of chocolate. People say it's delicious.",
+         "Chocolate is delicious."
+      ],
       "conclusion": [],
       "conclusions": [],
       "contribution": [],

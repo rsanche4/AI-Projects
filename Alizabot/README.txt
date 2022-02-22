@@ -62,7 +62,6 @@
 
 7: HOW TO TALK TO HER?
    *******************
-   If you are on Windows, simply double click on the start_gui.exe file. This will open up her graphical user interface.
    If you have Python installed on your system, make sure you have the previous libraries installed (you can use the command "pip install" to install them. Look up "pip" in Google to learn to use it). You can simply open the terminal in this folder and type: python start_gui.py
    It is best to send her complete, simple sentences with a clear subject and predicate. Avoid spelling and grammar mistakes as this might confuse her.
    
@@ -82,7 +81,13 @@
    Everything is done. The only thing left to do is add replies! The WORD CORE specifically, it grows everyday as I find new words and different replies. Given there are already a lot of words, and I am doing this solo, it takes time. Eventually, there will be plenty of replies for all the words she knows.
    
    
-11:WHY DID YOU DO THIS?
-   ********************
+11:HOW DOES THE DEVELOPER TEACH HER RESPONSES?
+   *******************************************
+   I use this random sentence & question generator website: https://randomwordgenerator.com/
+   I use a random sentence, feed it to her, and see if she responds. If she doesn't have a response, I study the sentence and see what words are important and I then write a reply! I do this everytime and over time she accumulates more and more accurate responses to more sentences.
+
+   
+12:WHY DO THIS?
+   ************
    Why not?
 

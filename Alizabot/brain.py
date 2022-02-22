@@ -22,18 +22,31 @@ def chatbot(m):
     rand=random.randint(0, 7)
     if rand==0:
         m=turn_loweri_toI(m)
+        if match(m, "are you"):
+            m=m.replace('are you', 'AM 1')
+        if match(m, "am I"):
+            m=m.replace('am I', 'ARE YOU')
         if match(m, "I am"):
             m=m.replace('I am', 'YOU ARE')
-        elif match(m, 'I'):
+        if match(m, 'I'):
             m=m.replace('I', 'YOU')
         if match(m, "you are"):
             m=m.replace('you are', 'I AM')     
-        elif match(m, "you"):
-            m=m.replace('you', 'I')
+        if match(m, "you"):
+            m=m.replace('you', '1')
         if match(m, "me"):
             m=m.replace('me', 'YOU')
+        if match(m, "my"):
+            m=m.replace('my', 'YOUR')
+        if match(m, "your"):
+            m=m.replace('your', 'MY')
+        if match(m, "mine"):
+            m=m.replace('mine', 'YOURS')
+        if match(m, "yours"):
+            m=m.replace('yours', 'MINE')
+        m=m.replace("1", 'I')
         m_list=m.split()
-        q=["Why do you think ", "Why do you say that ", "What makes you say that ", "Any reason why you think ", "Could you explain why "]
+        q=["Why do you think ", "Why do you say ", "What makes you say ", "Any reason why you think ", "Could you explain why you said "]
         m=" ".join(m_list)
         m=m.strip()
         m=m.lower()
@@ -47,7 +60,7 @@ def chatbot(m):
             for patterns, replies in value.items():
                 if match(m, str(patterns)):
                     if replies==[]:
-                        return ""
+                        return "I matched to this pattern, but there are no replies for it: "+str(patterns)+"."
                     return random.choice(replies)
         return ""
 

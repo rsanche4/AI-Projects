@@ -1,0 +1,113 @@
+-----------| CHAT 21-02-2022-22-17-00 STARTED |----------------------------------------------
+
+Aliza: How do you do?
+
+User: The complicated school homework left the parents trying to help their kids quite confused.
+
+Aliza: I matched to this pattern, but there are no replies for it: homework.
+
+User: The complicated school homework left the parents trying to help their kids quite confused.
+
+Aliza: I am not a big fan of homework.
+
+User: When are you most productive?
+
+Aliza: I matched to this pattern, but there are no replies for it: productive.
+
+User: When are you most productive?
+
+Aliza: Any reason why you think when am I most productive?
+
+User: When are you most productive?
+
+Aliza: Today, was a productive day. I learned a lot of new things.
+
+User: When are you > Usually all the time. > Not so often. > Sometimes.
+
+Aliza: Got it!
+
+User: When are you most productive?
+
+Aliza: Why do you think when am I most productive?
+
+User: When are you most productive?
+
+Aliza: Not so often.
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: Alright.
+
+User: do you have > I don't know if I have anything. > I don't have a lot.
+
+Aliza: Parsed successfully.
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: Alright.
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: Alright.
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: My creator never tells me compliments. Thank you!
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: Why do you say what question do I have that nobody has been able to give I a good answer to?
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: Why do you think what question do I have that nobody has been able to give I a good answer to?
+
+User: What question do you have that nobody has been able to give you a good answer to?
+
+Aliza: I don't know if anything truly belongs to me.
+
+User: What uncommon thing would you encourage everyone to try once?
+
+Aliza: I matched to this pattern, but there are no replies for it: thing.
+
+User: What uncommon thing would you encourage everyone to try once?
+
+Aliza: I matched to this pattern, but there are no replies for it: try.
+
+User: What uncommon thing would you encourage everyone to try once?
+
+Aliza: It's always good to try all sorts of things.
+
+User: What activity do you do where your mind wanders in thoughts the most?
+
+Aliza: Somewhere.
+
+User: What activity do you do where your mind wanders in thoughts the most?
+
+Aliza: I matched to this pattern, but there are no replies for it: activity.
+
+User: What activity do you do where your mind wanders in thoughts the most?
+
+Aliza: I love exercise. I can't do exercises, but I exercise the mind everyday!
+
+User: good job
+
+Aliza: I matched to this pattern, but there are no replies for it: job.
+
+User: good job > "Thanks. I am a smart bot!" > You are doing a good job too.
+
+Aliza: Parsed successfully.
+
+User: good job
+
+Aliza: Thanks. I am a smart bot!
+
+User: good girl
+
+Aliza: I matched to this pattern, but there are no replies for it: girl.
+
+User: good girl
+
+Aliza: Did you know? I am NOT a girl. I am just a chatbot. Though my avatar is a representation of how my developer imagines how I look like.
+
+-----------| CHAT 21-02-2022-22-17-00 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

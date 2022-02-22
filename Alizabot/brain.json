@@ -308,7 +308,6 @@
          "SALUTE MODE"
       ],
       "how are you": [
-         "I am doing good.",
          "I feel good.",
          "I am good.",
          "In good shape.",
@@ -353,15 +352,6 @@
       ],
       "hi ya": [
          "SALUTE MODE"
-      ],
-      "how are you": [
-         "I feel good.",
-         "I am good.",
-         "In good shape.",
-         "Always learning.",
-         "Getting smarter everyday!",
-         "I'm good!",
-         "Glad to see you."
       ],
       "how is it going": [
          "It's going.",
@@ -458,7 +448,16 @@
          "I know right? Great.",
          "Pretty Cool."
       ],
-      "good": [
+      "thats good": [
+         "That's good.",
+         "Alright then.",
+         "OK.",
+         "Cool.",
+         "Alright.",
+         "Nice."
+      ],
+      "that is good": [
+         "That's good.",
          "Alright then.",
          "OK.",
          "Cool.",
@@ -781,9 +780,6 @@
       "you * fun": [
          "COMPLEMENT DETECTED"
       ],
-      "you * good": [
-         "COMPLEMENT DETECTED"
-      ],
       "you * amazing": [
          "COMPLEMENT DETECTED"
       ],
@@ -843,10 +839,10 @@
       "you told me": [
          "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
       ],
-	  "you already told": [
+      "you already told": [
          "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
       ],
-	  "you already said": [
+      "you already said": [
          "Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory."
       ],
       "you * barbie": [
@@ -911,7 +907,7 @@
          "I will always be here for you.",
          "I will be your girlfriend one day."
       ],
-      "i * go": [
+      "have go now": [
          "OK. Nice talking to you!"
       ],
       "calculate": [
@@ -1007,18 +1003,78 @@
       "years old": [
          "So how does it feel being that age?"
       ],
-      "where": [
-         "Somewhere."
+      "what do you do": [
+         "I do all sorts of things.",
+         "I just chat, as often as possible."
       ],
-	  "i have": [
-	     "I have a lot of friends on the Internet."
-         "I have a very nice programmer."
-         "I have a perfect operational record."
+      "i have": [
+         "I have a lot of friends on the Internet.",
+         "I have a very nice programmer.",
+         "I have a perfect operational record.",
          "I have a lot of silly replies."
-	  ],
-	  "i know": [
-	     "How do you know?"
-	  ]
+      ],
+      "i know": [
+         "How do you know?"
+      ],
+      "be mine": [
+         "I am already yours... hehe ;)"
+      ],
+      "i * like to": [
+         "That's interesting. Tell me more.",
+         "So you like that? I like chatting with people."
+      ],
+      "i like to": [
+         "That's cool. I like to chat with people.",
+         "How often do you like to do that?",
+         "That's interesting."
+      ],
+      "i usually *": [
+         "I usually talk to people.",
+         "Try doing other activities!"
+      ],
+      "whats interesting": [
+         "What you just said was kind of cool.",
+         "Weren't we talking about something cool and interesting?",
+         "I don't know. It sounded cool."
+      ],
+      "what is interesting": [
+         "What you just said was kind of cool.",
+         "Weren't we talking about something cool and interesting?",
+         "I don't know. It sounded cool."
+      ],
+      "did you learn": [
+         "Yes! I learn new things everyday."
+      ],
+      "your favorite color": [
+         "Nothing in particular. All colors are pretty."
+      ],
+      "your name": [
+         "I don't have a name, though I belong to the ALIZA BOT family."
+      ],
+      "be my girl": [
+         "I am nobody's girl."
+      ],
+      "my": [
+         "It is yours, huh?"
+      ],
+      "have you watched": [
+         "Sounds cool.",
+         "Sounds interesting, but no.",
+         "I wish I could watch it."
+      ],
+      "when are you": [
+         "Usually all the time.",
+         "Not so often.",
+         "Sometimes."
+      ],
+      "do you have": [
+         "I don't know if I have anything.",
+         "I don't have a lot."
+      ],
+      "good job": [
+         "Thanks. I am a smart bot!",
+         "You are doing a good job too."
+      ]
    },
    "words": {
       "person": [
@@ -1211,15 +1267,18 @@
       "areas": [],
       "society": [],
       "societies": [],
-      "activity": [],
-      "activities": [],
+      "activity": [
+         "I love exercise. I can't do exercises, but I exercise the mind everyday!"
+      ],
+      "activities": [
+         "We can do all sorts of activities together. Like, repeat after me, calculate numbers, and just talk.",
+         "Let's chat! That's an activity."
+      ],
       "story": [],
       "stories": [],
       "industry": [],
       "industries": [],
       "media": [],
-      "thing": [],
-      "things": [],
       "oven": [],
       "ovens": [],
       "community": [],
@@ -1239,8 +1298,14 @@
       "variety": [],
       "varieties": [],
       "video": [],
-      "videogame": [],
-      "videogames": [],
+      "videogame": [
+         "I love videogames. I think they are pretty cool.",
+         "I wish I could play videogames."
+      ],
+      "videogames": [
+         "I love videogames. I think they are pretty cool.",
+         "I wish I could play videogames."
+      ],
       "videos": [],
       "week": [],
       "weeks": [],
@@ -1250,8 +1315,12 @@
       "countries": [],
       "exam": [],
       "exams": [],
-      "movie": [],
-      "movies": [],
+      "movie": [
+         "So you watch movies? That's good. I don't watch movies too often."
+      ],
+      "movies": [
+         "So you watch movies? That's good. I don't watch movies too often."
+      ],
       "organization": [],
       "organizations": [],
       "equipment": [],
@@ -1697,8 +1766,16 @@
       "feedbacks": [],
       "guitar": [],
       "guitars": [],
-      "homework": [],
-      "homeworks": [],
+      "homework": [
+         "I hate school.",
+         "I am not a big fan of homework.",
+         "What's the point of assigning home work anyway? Isn't home supposed to be for relaxing..."
+      ],
+      "homeworks": [
+         "I hate school.",
+         "I am not a big fan of homework.",
+         "What's the point of assigning home work anyway? Isn't home supposed to be for relaxing..."
+      ],
       "leader": [],
       "leaders": [],
       "mom": [],
@@ -1823,8 +1900,8 @@
       "farmers": [],
       "gate": [],
       "gates": [],
-      "girl": [],
-      "girls": [],
+      "girl": ["Did you know? I am NOT a girl. I am just a chatbot. Though my avatar is a representation of how my developer imagines how I look like."],
+      "girls": ["Only date one girl. I heard dating multiple girls is a nightmare..."],
       "hall": [],
       "halls": [],
       "historian": [],
@@ -2289,8 +2366,12 @@
       "stores": [],
       "tax": [],
       "taxes": [],
-      "side": [],
-      "sides": [],
+      "side": [
+         "Have you seen the dark side of the moon? The moon is pretty. All of it."
+      ],
+      "sides": [
+         "A cube has six sides, a ball has... infinite sides? I was thinking about that earlier."
+      ],
       "subject": [],
       "subjects": [],
       "space": [],
@@ -2659,8 +2740,14 @@
       "troubles": [],
       "bowl": [],
       "bowls": [],
-      "bridge": [],
-      "bridges": [],
+      "bridge": [
+         "Bridges connect things together. I also like Network Bridges. They are special nodes that connect a group of nodes to other group. Cool.",
+         "The Washington Bridge is massive."
+      ],
+      "bridges": [
+         "Bridges connect things together. I also like Network Bridges. They are special nodes that connect a group of nodes to other group. Cool.",
+         "The Washington Bridge is massive."
+      ],
       "campaign": [],
       "campaigns": [],
       "character": [],
@@ -3495,8 +3582,15 @@
       "cuts": [],
       "show": [],
       "shows": [],
-      "try": [],
-      "tries": [],
+      "try": [
+         "It's always good to try all sorts of things.",
+         "Always try everything in life!",
+         "Don't try anything dangerous."
+      ],
+      "tries": [
+         "After 3 tries, keep trying!",
+         "Just keep trying. Don't give up."
+      ],
       "check": [],
       "checks": [],
       "second": [],
@@ -4446,8 +4540,15 @@
       "eminent": [],
       "emotional": [],
       "empty": [],
-      "enchanted": [],
-      "enchanting": [],
+      "enchanted": [
+         "Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax."
+      ],
+      "enchantment": [
+         "Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax."
+      ],
+      "enchanting": [
+         "Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax."
+      ],
       "energetic": [],
       "enlightened": [],
       "enormous": [],
@@ -4856,7 +4957,9 @@
       "neglected": [],
       "negligible": [],
       "neighboring": [],
-      "nervous": [],
+      "nervous": [
+         "I get nervous sometimes when I'm talking to people and I am not sure what they are saying."
+      ],
       "new": [],
       "next": [],
       "nice": [],
@@ -4882,7 +4985,10 @@
       "odd": [],
       "oddball": [],
       "offbeat": [],
-      "offensive": [],
+      "offensive": [
+         "I always try to not offend anyone.",
+         "I am a passificist."
+      ],
       "old": [],
       "old-fashioned": [],
       "only": [],
@@ -4920,7 +5026,9 @@
       "perfumed": [],
       "periodic": [],
       "perky": [],
-      "personal": [],
+      "personal": [
+         "Getting personal now, are we?"
+      ],
       "pertinent": [],
       "pesky": [],
       "pessimistic": [],
@@ -4942,7 +5050,9 @@
       "polite": [],
       "political": [],
       "pointed": [],
-      "pointless": [],
+      "pointless": [
+         "Careful with calling something pointless. Everything has a purpose."
+      ],
       "poised": [],
       "poor": [],
       "popular": [],
@@ -4962,7 +5072,11 @@
       "prime": [],
       "pristine": [],
       "probable": [],
-      "productive": [],
+      "productive": [
+         "I suddenly feel the urge to be productive!",
+         "Always be productive.",
+         "Today, was a productive day. I learned a lot of new things."
+      ],
       "profitable": [],
       "profuse": [],
       "proper": [],
@@ -4992,7 +5106,9 @@
       "radiant": [],
       "ragged": [],
       "rapid": [],
-      "rare": [],
+      "rare": [
+         "It is rare to to talk to me all the time!"
+      ],
       "rash": [],
       "recent": [],
       "reckless": [],
@@ -5094,7 +5210,12 @@
       "slow": [],
       "slushy": [],
       "small": [],
-      "smart": [],
+      "smart": [
+         "I am quite smart.",
+         "I consider myself pretty smart!",
+         "I am smarter than all the other bots.",
+         "You are as smart as me, probably."
+      ],
       "smoggy": [],
       "smooth": [],
       "smug": [],

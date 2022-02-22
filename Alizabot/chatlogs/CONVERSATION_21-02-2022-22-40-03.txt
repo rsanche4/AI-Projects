@@ -1,0 +1,13 @@
+-----------| CHAT 21-02-2022-22-40-03 STARTED |----------------------------------------------
+
+Aliza: How have you been?
+
+User: hello!!
+
+Aliza: How have you been?
+
+User: I have been doing great
+
+Aliza: I have a perfect operational record.
+
+-----------| CHAT 21-02-2022-22-40-03 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

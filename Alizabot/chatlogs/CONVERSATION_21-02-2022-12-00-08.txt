@@ -1,0 +1,77 @@
+-----------| CHAT 21-02-2022-12-00-08 STARTED |----------------------------------------------
+
+Aliza: Lovely to see you.
+
+User: be mine
+
+Aliza: I am already yours... hehe ;)
+
+User: ok
+
+Aliza: Cool.
+
+User: how smart are you
+
+Aliza: You are as smart as me, probably.
+
+User: i * like to > That's interesting. Tell me more. > So you like that? I like chatting with people.
+
+Aliza: Ok, I will make sure to remember that.
+
+User: i like to > That's cool. I like to chat with people. > How often do you like to do that? > That's interesting.
+
+Aliza: Fact learned.
+
+User: i like to eat pizza
+
+Aliza: That's cool. I like to chat with people.
+
+User: i usually sit at home and watch tv
+
+Aliza: You said that 'I usually sit at home and watch tv'; I've never heard of of that. If you want to teach me that fact, you can say: PATTERN > ANSWER1 > ANSWER2 > ... > ANSWERN (Ex: my name > You are Raf. > You are Leo.)
+
+User: i usually * > I usually talk to people. > Try doing other activities!
+
+Aliza: Ok, I will make sure to remember that.
+
+User: i usually like to go out
+
+Aliza: OK. Nice talking to you!
+
+User: i like to go out
+
+Aliza: That's interesting.
+
+User: what's interesting?
+
+Aliza: Let me think about 'what's interesting'; That's interesting. If you want to teach me that fact, you can say: PATTERN > ANSWER1 > ANSWER2 > ... > ANSWERN (Ex: my name > You are Raf. > You are Leo.)
+
+User: Whats interesting > What you just said was kind of cool. > Weren't we talking about something cool and interesting? > I don't know. It sounded cool.
+
+Aliza: Learning... learning...
+
+User: What is interesting > What you just said was kind of cool. > Weren't we talking about something cool and interesting? > I don't know. It sounded cool.
+
+Aliza: Learning... learning...
+
+User: ok
+
+Aliza: Cool.
+
+User: did you learn anything today?
+
+Aliza: Today is: 21/02/2022. The time is 12:06:24.
+
+User: did you learn > Yes! I learn new things everyday.
+
+Aliza: One new fact a day keeps... the mindless chatbot at bay?
+
+User: your favorite color > Nothing in particular. All colors are pretty.
+
+Aliza: One new fact a day keeps... the mindless chatbot at bay?
+
+User: your name > I don't have a name, though I belong to the ALIZA BOT family.
+
+Aliza: Got it!
+
+-----------| CHAT 21-02-2022-12-00-08 ENDED | CONVERSATION ARCHIVED SUCCESSFULLY |-----------

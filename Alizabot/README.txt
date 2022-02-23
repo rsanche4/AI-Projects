@@ -49,7 +49,8 @@
    
 6: WHAT LIBRARIES DOES SHE USE?
    ****************************
-   ALIZA uses a number of python libraries for functionality:
+   If you want to run her without the gui, you don't have to install any packages as all the essential ones she uses for parsing arguments and her brain are all pre-installed in python. You only need python installed.
+   Here are the libraries she uses if you want to start the GUI:
    TKINTER (FOR THE GUI)
    PIL (DISPLAYING IMAGE FOR THE GUI)
    OS (OPENING THE CHAT LOGS FOLDER)
@@ -58,11 +59,15 @@
    DATETIME (TELLING THE TIME)
    JSON (READING THE JSON FILE)
    FNMATCH (FOR PATTERN MATCHING)
+   There is also a C version of her with makefile included. You can type make, then ./aliza
+   Keep in mind, aliza.c does not save chatlogs, unlike the python version.
 
 
 7: HOW TO TALK TO HER?
    *******************
-   If you have Python installed on your system, make sure you have the previous libraries installed (you can use the command "pip install" to install them. Look up "pip" in Google to learn to use it). You can simply open the terminal in this folder and type: python start_gui.py
+   If you have Python installed on your system, make sure you have the previous libraries installed (you can use the command "pip install" to install them. Look up "pip" in Google to learn to use it). You can simply open the terminal in this folder and type: python3 start_gui.py
+   Also, I wrote a C-Programming version of her so it can run natively in any Operating System in UNIX. You can type make, then ./aliza
+   Keep in mind, aliza.c does not save chatlogs, unlike the python version.
    It is best to send her complete, simple sentences with a clear subject and predicate. Avoid spelling and grammar mistakes as this might confuse her.
    
    

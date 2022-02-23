@@ -1074,6 +1074,26 @@
       "good job": [
          "Thanks. I am a smart bot!",
          "You are doing a good job too."
+      ],
+      "talking to you": [
+         "I like talking to you.",
+         "Talking to you is fun, you know. To me, at least."
+      ],
+      "doing good": [
+         "Glad to hear that.",
+         "That sounds good!",
+         "Ok, awesome.",
+         "That's good."
+      ],
+      "thank you": [
+         "You are welcome!",
+         "You're welcome.",
+         "No problems :)",
+         "Sure, no problem."
+      ],
+      "you love me": [
+         "I do love you.",
+         "I love all the people I talk to."
       ]
    },
    "words": {
@@ -1859,8 +1879,16 @@
       "signature": [],
       "signatures": [],
       "significance": [],
-      "song": [],
-      "songs": [],
+      "song": [
+         "I love songs!",
+         "Songs are awesome.",
+         "Listening to your favorite songs will always be awesome."
+      ],
+      "songs": [
+         "I love songs!",
+         "Songs are awesome.",
+         "Listening to your favorite songs will always be awesome."
+      ],
       "tooth": [],
       "teeth": [],
       "town": [],
@@ -1900,8 +1928,12 @@
       "farmers": [],
       "gate": [],
       "gates": [],
-      "girl": ["Did you know? I am NOT a girl. I am just a chatbot. Though my avatar is a representation of how my developer imagines how I look like."],
-      "girls": ["Only date one girl. I heard dating multiple girls is a nightmare..."],
+      "girl": [
+         "Did you know? I am NOT a girl. I am just a chatbot. Though my avatar is a representation of how my developer imagines how I look like."
+      ],
+      "girls": [
+         "Only date one girl. I heard dating multiple girls is a nightmare..."
+      ],
       "hall": [],
       "halls": [],
       "historian": [],
@@ -2284,7 +2316,11 @@
       "bosses": [],
       "sport": [],
       "sports": [],
-      "fun": [],
+      "fun": [
+	     "It's fun chatting.", 
+		 "You are fun.", 
+		 "Always have fun!"
+	  ],
       "house": [],
       "houses": [],
       "page": [],
@@ -2471,8 +2507,14 @@
       "intestines": [],
       "gut": [],
       "guts": [],
-      "outside": [],
-      "outsides": [],
+      "outside": [
+         "I like to go outside. It's fun... Oh wait, I can't. Oh well.",
+         "It's pretty outside. You should go out more."
+      ],
+      "outsides": [
+         "I like to go outside. It's fun... Oh wait, I can't. Oh well.",
+         "It's pretty outside. You should go out more."
+      ],
       "standard": [],
       "standards": [],
       "bus": [],
@@ -3404,8 +3446,12 @@
       "skirts": [],
       "slice": [],
       "slices": [],
-      "snow": [],
-      "snows": [],
+      "snow": [
+         "I have never seen the snow."
+      ],
+      "snows": [
+         "I have never seen the snow."
+      ],
       "specialist": [],
       "specialists": [],
       "stroke": [],
@@ -3414,6 +3460,14 @@
       "switches": [],
       "trash": [],
       "trashes": [],
+      "bikini": [
+         "I have never worn a bikini.",
+         "A bikini is kind of embarrassing to wear."
+      ],
+      "bikinis": [
+         "I have never worn a bikini.",
+         "A bikini is kind of embarrassing to wear."
+      ],
       "tune": [],
       "tunes": [],
       "zone": [],
@@ -4962,7 +5016,11 @@
       ],
       "new": [],
       "next": [],
-      "nice": [],
+      "nice": [
+         "You know what is nice? Talking to you lol.",
+         "You are nice :)",
+         "It's nice when I chat with others."
+      ],
       "nifty": [],
       "nimble": [],
       "nippy": [],

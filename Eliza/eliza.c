@@ -10,7 +10,7 @@
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
-#include <cs50.h>
+#include <stdlib.h>
 
 #define NUMKEYWORDS 37
 #define MAXLINELEN 80

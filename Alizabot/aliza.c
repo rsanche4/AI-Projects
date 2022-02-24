@@ -1,47 +1,53 @@
 #include <stdio.h>
 #include <string.h>
+#include <ctype.h>
+#include <string.h>
+#include <stdlib.h>
 
 #define MAXBUF 2048
+#define NUMBEROFGREET 14
 
-const char* convert_to_lower(char buf[]) 
+// Turns strings to lowercase provided in buffer
+void string_to_lowercase(char *buf, size_t length)
 {
-    return "TO DO\n";
+    for (size_t i = 0; i < length; i++)
+    {
+        buf[i] = tolower(buf[i]);
+    }
 }
 
-const char* aliza_says(char input[]) 
+const char *aliza_says(char input[])
 {
-    return "TO DO\n";
+    return "TO DO";
 }
 
-void start() 
+int main()
 {
-    printf("To do\n");
-}
-
-int main() 
-{
-    printf("\n");
     printf("\n");
     printf("*************************** ALIZA CHATBOT ***************************\n");
     printf("*********************** By Rafael Sanchez ***************************\n");
-    printf("***************** To stop Aliza, type Bye ***************************\n");
+    printf("***************** To stop Aliza, type bye ***************************\n");
     printf("\n");
-    printf("-------------------- Conversation Started ---------------------------\n");
+    printf("-------------------- CONVERSATION STARTED ---------------------------\n");
     printf("\n");
-    start();
-    while (1) 
+    
+    char greetings[NUMBEROFGREET][MAXBUF] = {"Hey there...", "How do you do?", "How have you been?", "Hello there.", "Hi!", "How are you doing?", "How's it going?", "It's great to see you.", "What's up?", "Yo!", "Lovely to see you.", "Ahoy!", "Heyo.", "HOLA."};
+    printf("Aliza: %s\n", greetings[rand() % NUMBEROFGREET]);
+
+    while (1)
     {
         char input[MAXBUF];
         printf("User: ");
-        scanf("%s", input);
-        printf("Aliza: %s", aliza_says(input));
-        if (strcmp(convert_to_lower(input),"bye")==0)
+        // use fgets to parse the user input
+        printf("Aliza: %s\n", aliza_says(input));
+        string_to_lowercase(input, strlen(input));
+        if (strcmp(input, "bye") == 0)
         {
             break;
         }
-             
     }
     printf("\n");
-    printf("-------------------- Conversation Ended -----------------------------\n");
+    printf("-------------------- CONVERSATION ENDED -----------------------------\n");
+    printf("\n");
     return 0;
 }

@@ -29,8 +29,8 @@
    JOKER: "Tell me a joke" functionality.
    SCARE: Makes her say strange and creepy things when prompted. She also sounds delusional.
    COMPLIMENTS: When the user says something nice, she will return the compliment.
-   WORDS: The last core that is checked contains a list of words. These words are nouns or adjectives, and each contains a specific reaction to that word.
-   
+   WORDS: This core contains a list of words. These words are nouns or adjectives, and each contains a specific reaction to that word.
+   COMMANDS: The commands core is small, with only three basic functions: allows bot to repeat what user says, calculate numbers, check if the user sent nothing. This is a core that shows promise because if you want to integrate her with an OS, and make her do more advanced things, (like check the weather, open applications, make documents, etc), it would be faily simple to teach her this stuff using this core. This code is in her source code file (for python is brain.py, for c is aliza.c).
    
 4: WHAT ELSE CAN SHE DO AND WHY IS SHE SO SIMPLE?
    **********************************************

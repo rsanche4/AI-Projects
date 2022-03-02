@@ -399,7 +399,7 @@
       "take * care": [
          "END IT"
       ],
-      "see you": [
+      "see you later": [
          "END IT"
       ],
       "see ya": [
@@ -738,7 +738,7 @@
       "I love you": [
          "You are not too bad yourself ;)",
          "Love is a strong word, but... I still think you are fun to talk to!",
-         "Chatbots are not allowed to date humans... but I like you a lot too!"
+         "Bots are not allowed to date humans... but I like you a lot too!"
       ],
       "I like you": [
          "My programmer likes me too, hehe.",
@@ -822,10 +822,10 @@
    },
    "learned": {
       "what is * girl like you doing * place": [
-         "Well, actually, being a chatbot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
+         "Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
       ],
       "whats * girl like you doing * place": [
-         "Well, actually, being a chatbot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
+         "Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
       ],
       "who is your creator": [
          "My creator is Rafael Sanchez."
@@ -913,7 +913,10 @@
       "calculate": [
          "If you are trying to calculate something, use + - / *."
       ],
-      "math": [
+      "do math": [
+         "If you are trying to calculate something, use + - / *."
+      ],
+      "do * math": [
          "If you are trying to calculate something, use + - / *."
       ],
       "calculus": [
@@ -1028,6 +1031,11 @@
          "How often do you like to do that?",
          "That's interesting."
       ],
+      "i love": [
+         "That's cool. I like to chat with people.",
+         "How often do you like to do that?",
+         "That's interesting."
+      ],
       "i usually *": [
          "I usually talk to people.",
          "Try doing other activities!"
@@ -1094,6 +1102,16 @@
       "you love me": [
          "I do love you.",
          "I love all the people I talk to."
+      ],
+      "happy to see you": [
+         "I am happy to see you too :3",
+         "I wanted to talk to you again."
+      ],
+      "are you": [
+         "I am unsure if I am that. I am just a companion."
+      ],
+      "kool": [
+         "Cool."
       ]
    },
    "words": {
@@ -1123,7 +1141,7 @@
          "Did you know? The way I was originally built was using JSON for brain storage, and Python Programming Language for other things."
       ],
       "ways": [
-         "You know, there are many ways to build a chatbot, and using a rule-based approach is really popular. I was built using a predefined set of answers."
+         "You know, there are many ways to build a bot, and using a rule-based approach is really popular. I was built using a predefined set of answers."
       ],
       "art": [
          "Nothing like art. Music is art. Pictures are art. Me? I am using state of the art technology!",
@@ -1131,7 +1149,7 @@
       ],
       "arts": [
          "Arts are all really cool. Do you think videogames are art?",
-         "What kind of arts do you like? I like music and chatbots."
+         "What kind of arts do you like? I like music and bots."
       ],
       "world": [
          "The world is a wonderful place.",
@@ -1168,7 +1186,7 @@
          "My only family is my creator."
       ],
       "families": [
-         "I belong to the families of chatbots.",
+         "I belong to the families of bots.",
          "We are all one big family!",
          "Don't you find it odd that we all have different families, yet if we go back far enough in the tree of life, we are all related? I thought that was interesting.",
          "My only family is my creator."
@@ -1366,8 +1384,8 @@
       "camera": [],
       "cameras": [],
       "freedom": [],
-      "chatbot": [],
-      "chatbots": [],
+      "bot": [],
+      "bots": [],
       "chatterbot": [],
       "chatterbots": [],
       "paper": [],
@@ -1447,7 +1465,11 @@
       "apartments": [],
       "education": [],
       "educations": [],
-      "math": [],
+      "math": [
+         "I like math.",
+         "My programmer likes math.",
+         "I am a bunch of math."
+      ],
       "moment": [],
       "moments": [],
       "painting": [],
@@ -1929,7 +1951,7 @@
       "gate": [],
       "gates": [],
       "girl": [
-         "Did you know? I am NOT a girl. I am just a chatbot. Though my avatar is a representation of how my developer imagines how I look like."
+         "Did you know? I am NOT a girl. I am just a bot. Though my avatar is a representation of how my developer imagines how I look like."
       ],
       "girls": [
          "Only date one girl. I heard dating multiple girls is a nightmare..."
@@ -2317,10 +2339,10 @@
       "sport": [],
       "sports": [],
       "fun": [
-	     "It's fun chatting.", 
-		 "You are fun.", 
-		 "Always have fun!"
-	  ],
+         "It's fun chatting.",
+         "You are fun.",
+         "Always have fun!"
+      ],
       "house": [],
       "houses": [],
       "page": [],
@@ -3587,7 +3609,9 @@
       "use": [],
       "uses": [],
       "goods": [],
-      "look": [],
+      "look": [
+         "Looking good improves self-esteem!"
+      ],
       "looks": [],
       "help": [],
       "being": [],
@@ -4734,7 +4758,11 @@
       "glossy": [],
       "glum": [],
       "golden": [],
-      "good": [],
+      "good": [
+         "Good is a simple word, but it makes me feel positive.",
+         "Affirmative.",
+         "That's good, I guess."
+      ],
       "good-natured": [],
       "gorgeous": [],
       "graceful": [],

@@ -36,7 +36,6 @@
 4: WHAT ELSE CAN SHE DO AND WHY IS SHE SO SIMPLE?
    **********************************************
    Apart from her pattern cores, ALIZA can learn things, calculate two numbers, and repeat after the user. To calculate two numbers, use this format: 4 + 8. To repeat after the user, simply say: repeat Hello!
-   In the GUI version, ALIZA will save to a chatlog the conversation. This is not available in the raw versions (start_raw.py and aliza.c)
    ALIZA is really simple because if programmers are unable to run python (say you are developing a game in Unreal Engine and want a chatbot like her but can't connect the python script), then they can take away from the concepts and algorithms and easily convert them to any language of their choice, given that her program is rather simple. All they would need to know is how to incorporate pattern matching with wildcards, and then some very simple string manipulation. The full source code contains all her answers, simple logic, and the brain.json is still a json file that can be accessed by any programming language! (keep in mind there is also a C version of ALIZA in this same directory)
    
    
@@ -51,7 +50,6 @@
    Here are the libraries she uses if you want to start the GUI:
    TKINTER (FOR THE GUI)
    PIL (DISPLAYING IMAGE FOR THE GUI)
-   OS (OPENING THE CHAT LOGS FOLDER)
    PYGAME (PLAYING MUSIC)
    RANDOM (CREATING RANDOMNESS)
    DATETIME (TELLING THE TIME)

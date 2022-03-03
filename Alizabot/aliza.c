@@ -7,6 +7,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <json-c/json.h>
 
 #define MAXBUF 2048
 #define NUMBEROFGREET 14
@@ -118,25 +119,93 @@ void getRoot(char buf[], int len)
 // stores in reply what aliza will say to the user
 void aliza_says(char input[], char reply[], int input_len)
 {
-    // COMMAND CORE
-    if (is_elem('+', input, input_len) || is_elem('-', input, input_len) || is_elem('/', input, input_len) || is_elem('*', input, input_len))
+    if (strstr(input, "repeat"))
     {
-        // calculate stuff
-    } else if (strstr(input, "repeat"))
-    {
-        // repeat after me
-    } else if (input_len==0)
+        for (int i = 0; i < input_len; i++)
+        {
+            if (((input[i] == 'r') && (i == 0)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == 'r') && (i == 0)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else if (((input[i] == 'e') && (i == 1)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == 'e') && (i == 1)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else if (((input[i] == 'p') && (i == 2)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == 'p') && (i == 2)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else if (((input[i] == 'e') && (i == 3)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == 'e') && (i == 3)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else if (((input[i] == 'a') && (i == 4)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == 'a') && (i == 4)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else if (((input[i] == 't') && (i == 5)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == 't') && (i == 5)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else if (((input[i] == ' ') && (i == 6)))
+            {
+                continue;
+            }
+            else if ((!(input[i] == ' ') && (i == 6)))
+            {
+                strcpy(reply, "I can repeat whatever you say! Just say: repeat <text>");
+                return;
+            }
+            else
+            {
+                char str[1];
+                str[0] = input[i];
+                strcat(reply, str);
+            }
+        }
+    }
+    else if (input_len == 0)
     {
         char noresp[NUMBEROFNORESP][MAXBUF] = {"Are you busy? You said nothing.", "Is anyone there?", "You haven't said anything.", "I'm here waiting for you.", "Get back to me when you are ready.", "Hello?", "I'm waiting.", "Did you mean to send me a blank message?", "Your message was blank."};
         strcpy(reply, noresp[rand() % NUMBEROFNORESP]);
-    } else
-    {
-        // send stuff to json, get it back
-        // also, set conv_ended var to true when we reach END IT
     }
-
+    else
+    {
+        // https://progur.com/2018/12/how-to-parse-json-in-c.html
+    }
 }
 
+// main function
 int main()
 {
     printf("\n");
@@ -152,7 +221,6 @@ int main()
 
     while (1)
     {
-        // TO THIS ADD THE CHATLOG FOLDER THAT IT NEEDS TO WRITE TO IT AS WELL
         char *reply = calloc(MAXBUF, sizeof(char));
         char input[MAXBUF];
         printf("User: ");

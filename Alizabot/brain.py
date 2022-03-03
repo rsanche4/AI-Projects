@@ -69,68 +69,6 @@ def bot(m):
                     return random.choice(replies)
         return ""
 
-def calcut(m):
-    signs=0
-    for i in range(len(m)):
-        if m[i]=='+' or m[i]=='*' or m[i]=='-' or m[i]=='/':
-            signs+=1
-        if signs>1:
-            return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-    if "+" in m:
-        l=m.split('+')
-        s1=l[0].strip()
-        if s1.isnumeric():
-            n1=float(s1)
-            s2=l[1].strip()
-            if s2.isnumeric():
-                n2=float(s2)
-                return str(n1+n2)
-            else:
-                return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-        else:
-            return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-    elif "*" in m:
-        l=m.split('*')
-        s1=l[0].strip()
-        if s1.isnumeric():
-            n1=float(s1)
-            s2=l[1].strip()
-            if s2.isnumeric():
-                n2=float(s2)
-                return str(n1*n2)
-            else:
-                return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-        else:
-            return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-    elif "-" in m:
-        l=m.split('-')
-        s1=l[0].strip()
-        if s1.isnumeric():
-            n1=float(s1)
-            s2=l[1].strip()
-            if s2.isnumeric():
-                n2=float(s2)
-                return str(n1-n2)
-            else:
-                return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-        else:
-            return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-    elif "/" in m:
-        l=m.split('/')
-        s1=l[0].strip()
-        if s1.isnumeric():
-            n1=float(s1)
-            s2=l[1].strip()
-            if s2.isnumeric():
-                n2=float(s2)
-                if n2==0.0:
-                    return "Can't divide by zero... I think."  
-                else:
-                    return str(n1/n2)
-            else:
-                return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
-        else:
-            return "If you are trying to calculate something, just type in this format: number operator number (Ex: 1 + 3)"
 def aliza_says(m):
     temp=m
     m=m.replace('?', '')
@@ -140,9 +78,7 @@ def aliza_says(m):
     m=m.strip() 
     m=m.lower()
     
-    if '+' in m or "-" in m or "/" in m or "*" in m:
-        return calcut(m)
-    elif 'repeat' in m:
+    if 'repeat' in m:
         return temp.replace('repeat', '').strip()
     elif m == "":
         noresp=["Are you busy? You said nothing.", "Is anyone there?", "You haven't said anything.", "I'm here waiting for you.", "Get back to me when you are ready.", "Hello?", "I'm waiting.", "Did you mean to send me a blank message?", "Your message was blank."]

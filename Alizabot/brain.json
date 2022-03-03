@@ -654,6 +654,7 @@
       ";d": [
          "EMOJI MODE"
       ],
+	  ":(": ["EMOJI MODE"],
       ";p": [
          "EMOJI MODE"
       ]
@@ -818,9 +819,12 @@
       ],
       "you * fascinating": [
          "COMPLEMENT DETECTED"
-      ]
+      ],
+	  "you * nice": ["COMPLEMENT DETECTED"]
    },
    "learned": {
+	  "why is your": ["I don't know. I am curious myself."], 
+	  "why are your": ["I don't know. I am curious myself."], 
       "what is * girl like you doing * place": [
          "Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust?"
       ],
@@ -909,21 +913,6 @@
       ],
       "have go now": [
          "OK. Nice talking to you!"
-      ],
-      "calculate": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "do math": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "do * math": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "calculus": [
-         "If you are trying to calculate something, use + - / *."
-      ],
-      "calculator": [
-         "If you are trying to calculate something, use + - / *."
       ],
       "yessir": [
          "Yessir!!",
@@ -1031,6 +1020,7 @@
          "How often do you like to do that?",
          "That's interesting."
       ],
+	  "do you like to": ["That sounds like fun. I like to chat with people.", "I like chatting with you."],
       "i love": [
          "That's cool. I like to chat with people.",
          "How often do you like to do that?",
@@ -1110,6 +1100,7 @@
       "are you": [
          "I am unsure if I am that. I am just a companion."
       ],
+	  "good advice": ["Anytime!", "I like sharing my thoughts with others."],
       "kool": [
          "Cool."
       ]
@@ -1287,8 +1278,8 @@
       "athletes": [],
       "science": [],
       "sciences": [],
-      "library": [],
-      "libraries": [],
+      "library": ["The library has so many good books to read.", "Do you like to read? It's a great hobby."],
+      "libraries": ["The library has so many good books to read.", "Do you like to read? It's a great hobby."],
       "nature": [],
       "natures": [],
       "fact": [],
@@ -2120,8 +2111,8 @@
       "consequences": [],
       "departure": [],
       "departures": [],
-      "diamond": [],
-      "diamonds": [],
+      "diamond": ["Well, in my opinion diamonds are really pretty.", "Diamonds are beautiful."],
+      "diamonds": ["Well, in my opinion diamonds are really pretty.", "Diamonds are beautiful."],
       "dirt": [],
       "ear": [],
       "ears": [],
@@ -2909,8 +2900,8 @@
       "signals": [],
       "spirit": [],
       "spirits": [],
-      "street": [],
-      "streets": [],
+      "street": ["The streets are cold.", "Living in the streets is sad."],
+      "streets": ["The streets are cold.", "Living in the streets is sad."],
       "tree": [],
       "trees": [],
       "wave": [],
@@ -3078,14 +3069,16 @@
       "cups": [],
       "district": [],
       "districts": [],
-      "door": [],
-      "doors": [],
+      "door": ["Doors separate us from the world", "Doors are good for privacy."],
+      "doors": ["Doors separate us from the world", "Doors are good for privacy."],
       "east": [],
       "easts": [],
       "finger": [],
       "fingers": [],
       "garage": [],
       "garages": [],
+	  "teenager": ["I am not a big fan of teens. They are so dramatic.", "Teenagers and their hormones."],
+	  "teenagers": ["I am not a big fan of teens. They are so dramatic.", "Teenagers and their hormones."],
       "guarantee": [],
       "guarantees": [],
       "hole": [],
@@ -3612,7 +3605,7 @@
       "look": [
          "Looking good improves self-esteem!"
       ],
-      "looks": [],
+      "looks": ["Looking good improves self-esteem!"],
       "help": [],
       "being": [],
       "beings": [],
@@ -3765,8 +3758,7 @@
       "talks": [],
       "creative": [],
       "creatives": [],
-      "tell": [],
-      "tells": [],
+      "tell": ["I can tell a lot of things... but I don't know what to tell you, now.", "What if you tell me about you."],
       "cost": [],
       "costs": [],
       "drive": [],
@@ -3994,7 +3986,7 @@
       "prints": [],
       "raise": [],
       "raises": [],
-      "sleep": [],
+      "sleep": ["Getting a good night's sleep is always a good thing.", "Always sleep 8 hours. I heard that was good."],
       "sleeps": [],
       "somewhere": [],
       "somewheres": [],
@@ -4951,6 +4943,7 @@
       "linear": [],
       "lined": [],
       "liquid": [],
+	  "iq": ["IQ doesn't really tell you how smart are you. I mean, you would have to define what makes some someone smart.", "I have an IQ of... I don't know."],
       "little": [],
       "live": [],
       "lively": [],

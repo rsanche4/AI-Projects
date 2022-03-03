@@ -30,11 +30,13 @@
    SCARE: Makes her say strange and creepy things when prompted. She also sounds delusional.
    COMPLIMENTS: When the user says something nice, she will return the compliment.
    WORDS: This core contains a list of words. These words are nouns or adjectives, and each contains a specific reaction to that word.
-   COMMANDS: The commands core is small, with only three basic functions: allows bot to repeat what user says, calculate numbers, check if the user sent nothing. This is a core that shows promise because if you want to integrate her with an OS, and make her do more advanced things, (like check the weather, open applications, make documents, etc), it would be faily simple to teach her this stuff using this core. This code is in her source code file (for python is brain.py, for c is aliza.c).
+   COMMANDS: The commands core is small, with only three basic functions: allows bot to repeat what user says, and check if the user sent nothing. This is a core that shows promise because if you want to integrate her with an OS, and make her do more advanced things, (like check the weather, open applications, make documents, open calculator, etc), it would be faily simple to add this functionality using this core. This code is in her source code file (for python is brain.py, for c is aliza.c).
+   
    
 4: WHAT ELSE CAN SHE DO AND WHY IS SHE SO SIMPLE?
    **********************************************
    Apart from her pattern cores, ALIZA can learn things, calculate two numbers, and repeat after the user. To calculate two numbers, use this format: 4 + 8. To repeat after the user, simply say: repeat Hello!
+   In the GUI version, ALIZA will save to a chatlog the conversation. This is not available in the raw versions (start_raw.py and aliza.c)
    ALIZA is really simple because if programmers are unable to run python (say you are developing a game in Unreal Engine and want a chatbot like her but can't connect the python script), then they can take away from the concepts and algorithms and easily convert them to any language of their choice, given that her program is rather simple. All they would need to know is how to incorporate pattern matching with wildcards, and then some very simple string manipulation. The full source code contains all her answers, simple logic, and the brain.json is still a json file that can be accessed by any programming language! (keep in mind there is also a C version of ALIZA in this same directory)
    
    
@@ -56,7 +58,8 @@
    JSON (READING THE JSON FILE)
    FNMATCH (FOR PATTERN MATCHING)
    There is also a C version of her with makefile included. You can type make, then ./aliza
-   The C version of ALIZA uses: stdio.h string.h ctype.h string.h stdlib.h stdbool.h
+   You might need to install the package I used for parsing JSON files in C. It's called: libjson-c-dev
+   The C version of ALIZA uses: stdio.h string.h ctype.h string.h stdlib.h stdbool.h json-c/json.h
 
 
 7: HOW TO TALK TO HER?

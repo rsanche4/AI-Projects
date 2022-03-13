@@ -1,4 +1,4 @@
-// The original code in C for ALIZA
+// The original code in C for ALIZA UNFINISHED
 // By Rafael Sanchez
 
 #include <stdio.h>
@@ -7,7 +7,9 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include <json-c/json.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <unistd.h>
 
 #define MAXBUF 2048
 #define NUMBEROFGREET 14
@@ -101,7 +103,7 @@ void getRoot(char buf[], int len)
     for (int i = 0; i < len; i++)
     {
 
-        if ((buf[i] == '.') || (buf[i] == '!') || (buf[i] == '?') || (buf[i] == ',') || (buf[i] == '\'') || (buf[i] == '"'))
+        if ((buf[i] == '.') || (buf[i] == '!') || (buf[i] == '?') || (buf[i] == ',') || (buf[i] == '\'') || (buf[i] == '"') ||  || (buf[i] == '#'))
         {
             continue;
         }
@@ -116,9 +118,25 @@ void getRoot(char buf[], int len)
     strcpy(buf, new_buf);
 }
 
+// important for pattern matching
+bool wildCmp(char *pattern, char *string)
+{
+	if(*pattern=='\0' &amp;&amp; *string=='\0')
+		return true;
+		
+	if(*pattern=='?' || *pattern==*string)
+		return WildCmp(pattern+1,string+1);
+		
+	if(*pattern=='*') 
+		return WildCmp(pattern+1,string) || WildCmp(pattern,string+1);
+		
+	return false;
+}
+
 // stores in reply what aliza will say to the user
 void aliza_says(char input[], char reply[], int input_len)
 {
+    // COMMANDS SECTION
     if (strstr(input, "repeat"))
     {
         for (int i = 0; i < input_len; i++)
@@ -201,7 +219,12 @@ void aliza_says(char input[], char reply[], int input_len)
     }
     else
     {
-        // https://progur.com/2018/12/how-to-parse-json-in-c.html
+        // WHAT NEEDS TO BE DONE IS: ADD THE SWAPS FOR QUESTIONS LIKE 'WHY DO YOU SAY I AM SMART?' SIMILAR TO ELIZA
+        // USE WILDCOMP FOR MATCHING AFTER ITERATING THROUGH BRAIN.TXT
+        // AFTER YOU FOUND A REPLY, CHECK IT'S NOT A 'SPECIAL' REPLY, AND IF IT IS ADD THE SPECIAL REPLIES, IF NOT RETURN WITH ANSWER IN REPLY
+        // Files that need to change: aliza.c
+        // NOTE SHE HAS A LIMIT ON HOW MANY REPLIES SHE CAN LEARN (20), except for the Special replies, those are large
+        
     }
 }
 

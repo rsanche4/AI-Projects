@@ -14,7 +14,8 @@ brain.start()
 while True:
     m = input("User: ")
     print("Aliza: "+brain.aliza_says(m))
-    if m.lower() == 'bye':
+    if (brain.conv_ended):
         break
+
 print("")
 print("-------------------- Conversation Ended -----------------------------")

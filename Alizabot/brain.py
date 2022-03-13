@@ -1,9 +1,9 @@
 # Author: Rafael Sanchez
-# Desc: Part of ALIZA Brain in python. Works together with brain.json.
-import json
+# Desc: Part of ALIZA Brain in python. Works together with brain.txt.
 import random
 from datetime import datetime
 import fnmatch
+conv_ended = False
 def match(text, pattern):
     if fnmatch.fnmatch(text, pattern) or fnmatch.fnmatch(text, pattern+" *") or fnmatch.fnmatch(text, "* "+pattern) or fnmatch.fnmatch(text, "* "+pattern+" *"):
         return True
@@ -18,6 +18,11 @@ def turn_loweri_toI(m):
     m=" ".join(m_list)
     m=m.strip()
     return m
+def is_empty(array):
+    for i in range(len(array)):
+        if array[i]!='\0':
+            return False
+    return True
 def bot(m):
     rand=random.randint(0, 7)
     if rand==0:
@@ -59,25 +64,62 @@ def bot(m):
         return random.choice(q)+m+"?"
     else:
         m=turn_loweri_toI(m)
-        with open('brain.json', 'r') as f:
-            data = json.load(f)
-        for key, value in data.items():
-            for patterns, replies in value.items():
-                if match(m, str(patterns)):
-                    if replies==[]:
-                        return "I matched to this pattern, but there are no replies for it: "+str(patterns)+"."
-                    return random.choice(replies)
+        with open('brain.txt', 'r') as f:
+            lines = f.readlines()
+        for line in lines:
+            line=line.strip()
+            pattern = ''
+            isPattern = False
+            isReply = False
+            replies = ''
+            for i in range(len(line)):
+                if line[i]=='#':
+                    isPattern = True
+                elif line[i]=='$':
+                    isPattern = False
+                    isReply = True
+                    replies=replies+line[i]
+                elif isPattern:
+                    pattern=pattern+line[i]
+                elif isReply:
+                    replies=replies+line[i]
+            parsed_replies = ['\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0']
+            counterr = -1
+            temp = ''
+            for j in range(len(replies)):
+                if replies[j]=='$':
+                    counterr+=1
+                    temp = ''
+                else:
+                    temp = temp + replies[j]
+                    parsed_replies[counterr] = temp
+            if match(m, pattern): # PROBLEM EHREEE
+                if is_empty(parsed_replies):
+                    return "I matched to this pattern, but there are no replies for it: "+pattern+"."
+                else:
+                    cpy = []
+                    for i in range(len(parsed_replies)):
+                        if parsed_replies[i]=='\0':
+                            break
+                        cpy.append(parsed_replies[i])
+                    if cpy==[]:
+                        return "I matched to this pattern, but there are no replies for it: "+pattern+"."
+                    return random.choice(cpy)
         return ""
-
 def aliza_says(m):
+    global conv_ended
     temp=m
     m=m.replace('?', '')
     m=m.replace('!', '')
     m=m.replace(',', '')
     m=m.replace('.', '')
+    m=m.replace('$', '')
+    m=m.replace("'", '')
+    m=m.replace('"', '')
+    m=m.replace('#', '')
     m=m.strip() 
     m=m.lower()
-    
+    # COMMANDS SECTION
     if 'repeat' in m:
         return temp.replace('repeat', '').strip()
     elif m == "":
@@ -103,6 +145,7 @@ def aliza_says(m):
             return random.choice(greetings)
         elif r=="END IT":
             leaving=["Nice talking to you!", "I'll be here when you decide to launch me again :)", "See ya.", "Bye bye!", "Take care!", "I'll see you again! Hopefully.", "Over and out.", "Fun conversation.", "As always, thanks for chatting!"]
+            conv_ended = True
             return random.choice(leaving)
         elif r=="EMOJI MODE":
             emoj=[":)","B)",";)","8)","XD","X)","XP",":P",":D",";D",";P"]
@@ -114,7 +157,6 @@ def aliza_says(m):
             da = datetime.now().strftime("Today is: %d/%m/%Y. The time is %H:%M:%S.")
             return da
         return r
-
 def start():
     greetings=["Hey there...", "How do you do?", "How have you been?", "Hello there.", "Hi!", "How are you doing?", "How's it going?", "It's great to see you.", "What's up?", "Yo!", "Lovely to see you.", "Ahoy!", "Heyo.", "HOLA."]
     return random.choice(greetings)

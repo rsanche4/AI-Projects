@@ -1,7 +1,6 @@
    
    ######################
    AUTHOR: RAFAEL SANCHEZ
-   
    PROJECT NAME: ALIZABOT
    ######################
    
@@ -55,6 +54,7 @@
    If you have Python installed on your system, make sure you have the previous libraries installed (you can use the command "pip install" to install them. Look up "pip" in Google to learn to use it). You can simply open the terminal in this folder and type: python3 start_gui.py, or python start_gui.py, or python start_raw.py, or python3 start_raw.py.
    Also, I wrote a C version of her so it can run natively in any Operating System in UNIX. You can type make, then ./aliza
    It is best to send her complete, simple sentences with a clear subject and predicate. Avoid the apostrophe (Send "you are" instead of "you're") and avoid spelling and grammar mistakes as this might confuse her.
+   There is also a version of her running on discord in this server (feel free to drop by, I am always there developing and improving her answers): https://discord.gg/h7vqR2YD
    
    
 7: CAN I USE THIS IN A GAME OR IN MY PROJECT?
@@ -76,8 +76,3 @@
    *******************************************
    I use this random sentence & question generator website: https://randomwordgenerator.com/
    I use a random sentence, feed it to her, and see if she responds. If she doesn't have a response, I study the sentence and see what words are important and I then write a reply! I do this everytime and over time she accumulates more and more accurate responses to more sentences.
-
-   
-11:WHY DO THIS?
-   ************
-   Why not?

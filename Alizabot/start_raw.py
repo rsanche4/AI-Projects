@@ -10,7 +10,6 @@ print("***************** To stop Aliza, type Bye ***************************")
 print("")
 print("-------------------- Conversation Started ---------------------------")
 print("")
-brain.start()
 while True:
     m = input("User: ")
     print("Aliza: "+brain.aliza_says(m))

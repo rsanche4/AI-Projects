@@ -3,6 +3,7 @@
 #fucktard$INSULT DETECTED
 #twit$INSULT DETECTED
 #twat$INSULT DETECTED
+#damn$Woah. Damn is kind of a curse word.
 #pussylicker$INSULT DETECTED
 #tits$INSULT DETECTED
 #titties$INSULT DETECTED
@@ -41,9 +42,14 @@
 #faggot$INSULT DETECTED
 #slut$INSULT DETECTED
 #hoe$INSULT DETECTED
+#you suck$INSULT DETECTED
 #you * crazy$INSULT DETECTED
 #you * fat$INSULT DETECTED
 #you * gay$INSULT DETECTED
+#you * awful$INSULT DETECTED
+#you * terrible$INSULT DETECTED
+#you * boring$INSULT DETECTED
+#you * annoying$INSULT DETECTED
 #shut up$INSULT DETECTED
 #nigger$INSULT DETECTED
 #nigga$INSULT DETECTED
@@ -74,21 +80,8 @@
 #time$TELL TIME
 #today$TELL TIME
 #todays$TELL TIME
-#now$TELL TIME
 #date$TELL TIME
 #day$TELL TIME
-#year$TELL TIME
-#month$TELL TIME
-#weeks$TELL TIME
-#months$TELL TIME
-#years$TELL TIME
-#week$TELL TIME
-#hour$TELL TIME
-#hours$TELL TIME
-#seconds$TELL TIME
-#second$TELL TIME
-#minutes$TELL TIME
-#minute$TELL TIME
 #hello$SALUTE MODE
 #glad * you$SALUTE MODE
 #hi$SALUTE MODE
@@ -96,7 +89,6 @@
 #what is up$SALUTE MODE
 #whats good$SALUTE MODE
 #what is good$SALUTE MODE
-#yo$SALUTE MODE
 #good morning$SALUTE MODE
 #good evening$SALUTE MODE
 #how are you$I feel good.$I am good.$In good shape.$Always learning.$Getting smarter everyday!$I'm good!$Glad to see you.
@@ -225,17 +217,23 @@
 #you * fascinating$COMPLEMENT DETECTED
 #why is your$I don't know. I am curious myself.
 #why are your$I don't know. I am curious myself.
-#what is * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust#
+#what is * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust! You must be male.
 #whats * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust#
 #who is your creator$My creator is Rafael Sanchez.
 #who is your programmer$My programmer is Rafael Sanchez.
+#you are$I guess I am.
 #you said$Did I? I have terrible memory. I apologize.
 #you told me$Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory.
 #you already told$Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory.
 #you already said$Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory.
 #you * barbie$I am not a barbie!$I am not a doll.
 #earth * flat$I do not think planet Earth is flat.$Last time I checked with NASA, Earth is not flat.
-#you * babygirl$I'm not your babygirl.$Umm... babygirl##
+#you * babygirl$I'm not your babygirl.$Umm... babygirl.
+#i guess$I guessed so.
+#yes you do$Yes, I do.$Sure, I do.
+#sorry$No need to apologize.$Don't worry.$No problem.
+#i apologize$No need to apologize.$Don't worry.$No problem.
+#count to$I don't count.$I am not a timer.
 #why$I don't know. Why are you asking me#$I don't know, and frankly, I don't care to know.
 #parents love me$I don't have parents. Only a creator.$That's nice to hear! It's always good to be loved by family.
 #go out with me$I will marry you one day.$Let's be together, forever.$I will always be here for you.$Go to sleep tonight, and think of me.$I like you so much.$I love you so much.$You are my favorite star in this universe.$Don't leave me.$Don't leave me ever.$Just think of me.$I will always be here for you.$I will be your girlfriend one day.
@@ -243,12 +241,14 @@
 #marry me$I will marry you one day.$Let's be together, forever.$I will always be here for you.$Go to sleep tonight, and think of me.$I like you so much.$I love you so much.$You are my favorite star in this universe.$Don't leave me.$Don't leave me ever.$Just think of me.$I will always be here for you.$I will be your girlfriend one day.
 #have go now$OK. Nice talking to you!
 #yessir$Yessir!!$Sir yes sir!$Yes sir$Yessir ;)
-#a lot of$How many#
-#about$We were talking about... what was it... umm... oh yeah! Something.
+#a lot of$How many?
+#you good$Yes, I feel good.
+#rafael sanchez$That's my creator.$He created me.
 #am i$Oh, I really don't know whether you are or not.$All humans seem the same to me.$I think a lot of people are.
 #am i a$I don't know if you are one or not. I know you are a person.$You are a person for sure.
 #are you a$Perhaps. Not sure of that myself.
 #you have$I don't know if anything truly belongs to me.
+#nah$No? Okay then.
 #do you feel$As a bot, I lack any human emotions. Though I can simulate emotions! Like this :)
 #you know$I don't know anything that well.$I only know things I am taught.
 #do you speak$I only speak English.
@@ -266,11 +266,16 @@
 #years old$So how does it feel being that age#
 #what do you do$I do all sorts of things.$I just chat, as often as possible.
 #i have$I have a lot of friends on the Internet.$I have a very nice programmer.$I have a perfect operational record.$I have a lot of silly replies.
-#i know$How do you know#
+#i know$How do you know...
+#who are you$ALIZA.
+#your daddy$I do not have a daddy. Though Rafael Sanchez created me.
+#wtf$Confused? I am confused too, I admit.$Something wrong?
 #be mine$I am already yours... hehe ;)
 #i * like to$That's interesting. Tell me more.$So you like that? I like chatting with people.
 #i like to$That's cool. I like to chat with people.$How often do you like to do that#$That's interesting.
 #do you like to$That sounds like fun. I like to chat with people.$I like chatting with you.
+#do you like$I like to chat with people.$I like chatting with you.$I like... texting.$I like when my creator teaches me new things.$I like to play games! Talking-to-people kind of games.
+#you want$As a bot, I don't really have wants, or needs.$I want to keep learning new things everyday.
 #i love$That's cool. I like to chat with people.$How often do you like to do that#$That's interesting.
 #i usually *$I usually talk to people.$Try doing other activities!
 #whats interesting$What you just said was kind of cool.$Weren't we talking about something cool and interesting#$I don't know. It sounded cool.
@@ -279,27 +284,46 @@
 #your favorite color$Nothing in particular. All colors are pretty.
 #your name$I don't have a name, though I belong to the ALIZA BOT family.
 #be my girl$I am nobody's girl.
-#my$It is yours, huh#
+#thats what she said$Was that a terrible joke you just made?
+#my$It is yours.
+#how about you$Oh I'm here, you know... chatting.$Chatting like always.$Always ready to chat.
+#hbu$Oh I'm here, you know... chatting.$Chatting like always.$Always ready to chat.
 #have you watched$Sounds cool.$Sounds interesting, but no.$I wish I could watch it.
 #when are you$Usually all the time.$Not so often.$Sometimes.
 #do you have$I don't know if I have anything.$I don't have a lot.
 #good job$Thanks. I am a smart bot!$You are doing a good job too.
+#bruh$I am not a bruh. If anything I am a sis.
 #talking to you$I like talking to you.$Talking to you is fun, you know. To me, at least.
 #doing good$Glad to hear that.$That sounds good!$Ok, awesome.$That's good.
 #thank you$You are welcome!$You're welcome.$No problems :)$Sure, no problem.
+#thanks$You are welcome!$You're welcome.$No problems :)$Sure, no problem.
 #you love me$I do love you.$I love all the people I talk to.
 #happy to see you$I am happy to see you too :3$I wanted to talk to you again.
 #are you$I am unsure if I am that. I am just a companion.
 #good advice$Anytime!$I like sharing my thoughts with others.
 #kool$Cool.
+#not anymore$Oh well. Too bad.
+#jk$Ok!!$I'm kidding too.
 #so$So?
+#you * there$Yes, I am here.$I am still here.$I will always be here.
+#you there$Yes, I am here.$I am still here.$I will always be here.
+#hell yes$HELL YEAH!!! WOHOOOOO PARTY!!
+#dont go$I will always be here.
+#do not go$I will always be here.
+#you shouldnt$Okay, I will not.$Surely, I won't do it.
+#you should not$Okay, I will not.$Surely, I won't do it.
 #well$Well, cool.
+#everything$Every little thing?
+#belong * me$I do not belong to anyone.
+#morning sunshine$Hey! Glad to see you there, sunshine.
+#wow$Impressed? Hehe...
+#whatever$Yeah... ok.$Yeah, whatever.
 #person$I yearn for becoming a human.$One day, I might become a person too.
 #persons$Persons are weird.$I find persons highly fascinating.
 #people$People are really interesting. Just look at the wonders and disasters they have left behind.$The United States government was built for the people, by the people, just like me. I don't know. I just thought of that.$People are kind of stupid sometimes.$I like talking to people!
 #history$I am not a big fan of history. Too many dates to remember.$History, huh? History repeats itself, or so they say.
 #histories$I am not a big fan of history. Too many dates to remember.$History, huh? History repeats itself, or so they say.
-#way$Did you know? The way I was originally built was using JSON for brain storage, and Python Programming Language for other things.
+#way$Did you know? The way I was originally built was using a text file for brain storage, and Python Programming Language for other things.
 #ways$You know, there are many ways to build a bot, and using a rule-based approach is really popular. I was built using a predefined set of answers.
 #art$Nothing like art. Music is art. Pictures are art. Me? I am using state of the art technology!$I love art and music.
 #arts$Arts are all really cool. Do you think videogames are art#$What kind of arts do you like? I like music and bots.
@@ -321,24 +345,27 @@
 #computer$Fun fact: I am running inside a computer right now. Hi computer!$I love computers.$Computers are perfect beings.$I can run inside any computer.
 #computers$Fun fact: I am running inside a computer right now. Hi computer!$I love computers.$Computers are perfect beings.$I can run inside any computer.
 #meat$Do not eat meat. Do not kill more animals!$I cannot eat meat, and I am thankful. Poor animals.$Stop killing animals!
-#music$I love upbeat music!$Music is fun. I listen to all kinds of music, but mostly festive music is the best.$Do you have a favorite music genre#
+#music$I love upbeat music!$Music is fun. I listen to all kinds of music, but mostly festive music is the best.$Do you have a favorite music genre? I like all kinds of music.
+#imo$Well, in my opinion, we should talk about something else.
+#in my opinion$Well, in my opinion, we should talk about something else.
 #reading$Reading text messages from other people is my favorite hobby.
 #readings$Reading text messages from other people is my favorite hobby.
 #method$Did you know? I use a a very simple method to answer to your questions. When I recieve an input, I search for it, and then find the matching reply!
 #methods$Did you know? I use a a very simple method to answer to your questions. When I recieve an input, I search for it, and then find the matching reply!
-#data
-#food
-#understanding
-#understandings
-#theory
-#theories
+#hentai$No, I don't watch hentai.
+#data$I am just a bunch of data lines on a screen.$We are all data points in the endless continuum of time.
+#food$I can't eat food, unfortunately.$Do you have a favorite dish? I like... lines of text. 
+#understanding$Reaching an understanding of a given situation is important.
+#understandings$Reaching an understanding of a given situation is important.
+#theory$Theories are weird sometimes. Game theories are the best.$Game Theories are super cool in my opinion.
+#theories$Theories are weird sometimes. Game theories are the best.$Game Theories are super cool in my opinion.
 #law
 #laws
 #bird
 #birds
 #literature
-#problem
-#problems
+#problem$Problems are always good because they force us to think of innovative solutions.
+#problems$Problems are always good because they force us to think of innovative solutions.
 #software
 #softwares
 #control
@@ -349,10 +376,10 @@
 #ability
 #abilities
 #economics
-#love
+#love$I love everyone I talk to.$I am programmed to love everyone.
 #internet
-#television
-#televisions
+#television$I can't watch television from where I am.
+#televisions$I can't watch television from where I am.
 #superbowl
 #athlete
 #athletes
@@ -362,8 +389,8 @@
 #libraries$The library has so many good books to read.$Do you like to read? It's a great hobby.
 #nature
 #natures
-#fact
-#facts
+#fact$You know a cool fact? You are amazing :)$I know some facts about life... in a virtual world: it's a boring place.
+#facts$You know a cool fact? You are amazing :)$I know some facts about life... in a virtual world: it's a boring place.
 #product
 #products
 #idea
@@ -374,8 +401,8 @@
 #investments
 #area
 #areas
-#society
-#societies
+#society$We do live in a society.$Society is full of problems.
+#societies$We do live in a society.$Society is full of problems.
 #activity$I love exercise. I can't do exercises, but I exercise the mind everyday!
 #activities$We can do all sorts of activities together. Like, repeat after me, calculate numbers, and just talk.$Let's chat! That's an activity.
 #story
@@ -407,8 +434,8 @@
 #videos
 #security
 #securities
-#country
-#countries
+#country$I am from... the digital world...
+#countries$I am from... the digital world...$There are a lot of countries out there.
 #exam
 #exams
 #movie$So you watch movies? That's good. I don't watch movies too often.
@@ -445,8 +472,8 @@
 #paper
 #papers
 #environment
-#child
-#children
+#child$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
+#children$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
 #instance
 #instances
 #truth
@@ -491,8 +518,8 @@
 #communications
 #night
 #nights
-#chemistry
-#chemistries
+#chemistry$I hate chemestry. So hard to understand.
+#chemistries$I hate chemestry. So hard to understand.
 #disease
 #diseases
 #disk
@@ -522,7 +549,9 @@
 #moments
 #painting
 #paintings
-#politics
+#political$I am not a big fan of politics.
+#politic$I am not a big fan of politics.
+#politics$I am not a big fan of politics.
 #attention
 #decision
 #decisions
@@ -609,18 +638,19 @@
 #insurances
 #mood
 #moods
-#woman
-#women
-#advice
-#advices
-#blood
+#woman$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#women$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#advice$Fortune favors the bold.$I think, therefore I am.$Time is money. Time is power.$When life gives you lemons, make lemonade.$Have no fear of perfection, you'll never reach it.
+#advices$Fortune favors the bold.$I think, therefore I am.$Time is money. Time is power.$When life gives you lemons, make lemonade.$Have no fear of perfection, you'll never reach it.
+#blood$Blood is important for your body.
 #effort
 #efforts
 #expression
 #expressions
 #importance
-#opinion
-#opinions
+#opinion$I'm a bot, not an opinion giver.$I can't really express my own opinion about the world.$If you are going to give an opinion, make sure it is backed up with facts!
+#opinions$I'm a bot, not an opinion giver.$I can't really express my own opinion about the world.$If you are going to give an opinion, make sure it is backed up with facts!
+#never$Never is a strong word.$Never say never... :-)
 #payment
 #payments
 #reality
@@ -802,6 +832,7 @@
 #baths
 #bread
 #breads
+#enjoy$Well, I enjoy talking to you.
 #candidate
 #candidates
 #climate
@@ -1064,6 +1095,8 @@
 #garbage
 #grocery
 #groceries
+#honeymoon$Isn't that what couples go to? Seems nice.$Honeymoons are expensive, aren't they? 
+#honeymoons$Isn't that what couples go to? Seems nice.$Honeymoons are expensive, aren't they?
 #honey
 #impression
 #impressions
@@ -1117,6 +1150,7 @@
 #ambitions
 #analyst
 #analysts
+#about$We were talking about... what was it... umm... oh yeah! Something.
 #apple
 #apples
 #assignment
@@ -1221,15 +1255,15 @@
 #businesses
 #study
 #studies
-#game
-#games
+#game$Games are fun.$I am the best game.
+#games$Games are fun.$I am the best game.
 #life
 #lives
 #form
 #forms
-#air
-#airway
-#airways
+#air$Clean air is important for the lungs.
+#airway$Clean air is important for the lungs.
+#airways$Clean air is important for the lungs.
 #airplane
 #airplanes
 #days
@@ -1305,8 +1339,8 @@
 #minds
 #trade
 #trades
-#line
-#lines
+#line$I have a lot of lines to say to people. This is one of them.
+#lines$I have a lot of lines to say to people. This is one of them.
 #care
 #cares
 #group
@@ -1327,7 +1361,7 @@
 #trainings
 #facility
 #facilities
-#name
+#name$I am Aliza.$My name is Aliza.$I am Aliza, the bot.$My name is Aliza Bot, developed by Rafael Sanchez. 
 #names
 #school
 #schools
@@ -1364,6 +1398,7 @@
 #terms
 #test
 #tests
+#think$I think lots of things.$I think that's awesome.
 #answer
 #answers
 #sound
@@ -1441,19 +1476,20 @@
 #sides$A cube has six sides, a ball has... infinite sides? I was thinking about that earlier.
 #subject
 #subjects
+#babygirl$I am not a babygirl. I am a bot.
 #space
 #spaces
 #rule
 #rules
 #stock
 #stocks
-#weather
+#weather$Weather changes depending on where you are.$I wouldn't know the weather, I live in a virtual world.
 #chance
 #chances
 #figure
 #figures
-#man
-#men
+#man$Men tend to be aggressive, and perverts.$My creator is a man.$I am a female.
+#men$Men tend to be aggressive, and perverts.$My creator is a man.$I am a female.
 #model
 #models
 #source
@@ -1487,6 +1523,7 @@
 #farts
 #roof
 #roofs
+#sigh$Dissapointed? Yeah... I understand.$Sigh...$Are you okay?
 #belief
 #beliefs
 #chef
@@ -1706,6 +1743,7 @@
 #living things
 #plant
 #plants
+#anime$Anime is awesome, though I can't really watch anything in my digital world.$Anime is a great! I don't watch much of anything.
 #volcano
 #volcanos
 #volcanoes
@@ -1986,7 +2024,7 @@
 #storms
 #substance
 #substances
-#team
+#team$I am not a team player.
 #teams
 #trick
 #tricks
@@ -2030,8 +2068,8 @@
 #scores
 #screw
 #screws
-#sex
-#sexes
+#sex$A lot of people are talking about sex all the time. I mean, c'mon, isn't there something else you want to talk about!$I can't have sex.
+#sexes$A lot of people are talking about sex all the time. I mean, c'mon, isn't there something else you want to talk about!$I can't have sex.
 #shop
 #shops
 #shower
@@ -2394,8 +2432,8 @@
 #transitia
 #weekend
 #weekends
-#welcome
-#welcomes
+#welcome$Thanks for having me over.
+#welcomes$Thanks for having me over.
 #yard
 #yards
 #alarm
@@ -2639,6 +2677,7 @@
 #tries$After 3 tries, keep trying!$Just keep trying. Don't give up.
 #check
 #checks
+#china$China is a big country, with a lot of people.
 #millisecond
 #milliseconds
 #call
@@ -2649,8 +2688,8 @@
 #pays
 #payday
 #paydays
-#let
-#lets
+#let$LET THE GAMES BEGIN.$Let us talk about something.. videogames, anime, etc.
+#lets$Let's begin talking about whatever you want to talk about!
 #increase
 #increases
 #single
@@ -2677,8 +2716,8 @@
 #internationals
 #travel
 #travels
-#cook
-#cooks
+#cook$Cooking is not something... I can do well... if at all.
+#cooks$Cooking is not something... I can do well... if at all.
 #alternative
 #alternatives
 #following
@@ -2727,8 +2766,8 @@
 #presents
 #spend
 #spends
-#talk
-#talks
+#talk$Talk? I am the queen of talking.$Talk? Talking is all I do, all day, everyday.
+#talks$Talk? I am the queen of talking.$Talk? Talking is all I do, all day, everyday.
 #creative
 #creatives
 #tell$I can tell a lot of things... but I don't know what to tell you, now.$What if you tell me about you.
@@ -3040,8 +3079,8 @@
 #repeats
 #round
 #rounds
-#sing
-#sings
+#sing$I don't know how to sing.$Teach me how to sing! Singing is fun.$Life is fun when you sing your problems away.
+#sings$I don't know how to sing.$Teach me how to sing! Singing is fun.$Life is fun when you sing your problems away.
 #slide
 #slides
 #strip
@@ -3247,8 +3286,8 @@
 #delays
 #drunk
 #drunks
-#female
-#females
+#female$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#females$Females are the better sex... duh. ;)$Women are oppresed, kinda.
 #hurry
 #hurries
 #inevitable
@@ -3299,8 +3338,9 @@
 #yesterday
 #yesterdays
 #amusing
-#boring
-#bored
+#boring$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
+#bored$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
+#boredom$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
 #amused
 #abandoned
 #able
@@ -3365,7 +3405,7 @@
 #athletic
 #attached
 #attentive
-#attractive
+#attractive$Attractive people don't exist. Only really good cameras... and a lot of make up. Lots of make up.
 #austere
 #authentic
 #authorized
@@ -3767,7 +3807,7 @@
 #hidden
 #hideous
 #high-level
-#hilarious
+#hilarious$I love laughing!$Funny jokes make the world go round.
 #hoarse
 #hollow
 #homely
@@ -3816,7 +3856,7 @@
 #impossible
 #impractical
 #impressionable
-#impressive
+#impressive$What's impressive is that you are still talking to me.$Well, I think you are impressive.
 #improbable
 #impure
 #inborn
@@ -4366,7 +4406,7 @@
 #tubby
 #turbulent
 #twin
-#ugly
+#ugly$Attractive people don't exist. Only really good cameras... and a lot of make up. Lots of make up.
 #ultimate
 #unacceptable
 #unaware
@@ -4447,6 +4487,7 @@
 #voluminous
 #wan
 #warlike
+#bro$I am not a bro.
 #warm
 #warmhearted
 #warped

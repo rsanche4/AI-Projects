@@ -86,6 +86,9 @@
 #glad * you$SALUTE MODE
 #hi$SALUTE MODE
 #whats up$SALUTE MODE
+#wassup$SALUTE MODE
+#salutations$SALUTE MODE
+#salutation$SALUTE MODE
 #what is up$SALUTE MODE
 #whats good$SALUTE MODE
 #what is good$SALUTE MODE
@@ -110,6 +113,7 @@
 #what is happening$SALUTE MODE
 #goodbye$END IT
 #bye$END IT
+#good night$END IT
 #take care$END IT
 #take * care$END IT
 #see you later$END IT
@@ -126,6 +130,12 @@
 #over and out$END IT
 #ova and out$END IT
 #i * go away$END IT
+#have to go$END IT
+#gotta go$END IT
+#stay safe$END IT
+#got to go$END IT
+#i * leave$END IT
+#byebye$END IT
 #awesome$Alright.
 #thats good$That's good.$Alright then.$OK.$Cool.$Alright.$Nice.
 #that is good$That's good.$Alright then.$OK.$Cool.$Alright.$Nice.
@@ -138,7 +148,7 @@
 #cool$OK.$Cool.$Alright.
 #sure$Yup.$OK.$Alright.$Cool.$Coolio.$Yeah.
 #yup$Yup.$OK.$Alright.$Cool.$Coolio.$Yeah.
-#yes$Si$Yes.$Uhu.$Hmm...$Cool.$Yup.$OK.$Alright.$Alright then.$Coolio.
+#yes$Si.$Yes.$Uhu.$Hmm...$Cool.$Yup.$OK.$Alright.$Alright then.$Coolio.
 #lmao$LMAO$LOL$Funny.$Hahaha!!
 #lmaoo$LMAO$LOL$Funny.$Hahaha!!
 #lmaoooo$LMAO$LOL$Funny.$Hahaha!!
@@ -148,9 +158,9 @@
 #haha$LMAO$LOL$Funny.$Hahaha!!
 #ha$LMAO$LOL$Funny.$Hahaha!!
 #hahaha$LMAO$LOL$Funny.$Hahaha!!
-#idk$Idk either.$Are you confused#$Whatever.
-#i dont know$I don't know either.$Are you confused#$Whatever.
-#i * not know$I do not know either.$Are you confused#$Whatever.
+#idk$Idk either.$Are you confused?$Whatever.
+#i dont know$I don't know either.$Are you confused?$Whatever.
+#i * not know$I do not know either.$Are you confused?$Whatever.
 #i * confused$Honestly, I am confused too.$Yeah? Umm...$Whatever.$Let's change the topic.
 #coolio$Yup.$OK.$Yeah.$Cool.$Hmm...
 #:)$EMOJI MODE
@@ -190,6 +200,7 @@
 #trauma$HORROR MODE
 #I love you$You are not too bad yourself ;)$Love is a strong word, but... I still think you are fun to talk to!$Bots are not allowed to date humans... but I like you a lot too!
 #I like you$My programmer likes me too, hehe.$I have never been told that before. I am blushing heehee.
+#you * great$COMPLEMENT DETECTED
 #you * pretty$COMPLEMENT DETECTED
 #you * gorgous$COMPLEMENT DETECTED
 #you * stunning$COMPLEMENT DETECTED
@@ -216,16 +227,13 @@
 #you * incredible$COMPLEMENT DETECTED
 #you * fascinating$COMPLEMENT DETECTED
 #why is your$I don't know. I am curious myself.
+#why are you$I don't know. Why do you think?
 #why are your$I don't know. I am curious myself.
-#what is * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust! You must be male.
-#whats * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust#
-#who is your creator$My creator is Rafael Sanchez.
-#who is your programmer$My programmer is Rafael Sanchez.
-#you are$I guess I am.
-#you said$Did I? I have terrible memory. I apologize.
-#you told me$Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory.
-#you already told$Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory.
-#you already said$Really? I told you that? I forget everything I say after I say it. I am sorry for my terrible memory.
+#what is * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust!
+#whats * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust!
+#your creator$My creator is Rafael Sanchez.
+#your programmer$My programmer is Rafael Sanchez.
+#no way$Yes way.
 #you * barbie$I am not a barbie!$I am not a doll.
 #earth * flat$I do not think planet Earth is flat.$Last time I checked with NASA, Earth is not flat.
 #you * babygirl$I'm not your babygirl.$Umm... babygirl.
@@ -234,7 +242,7 @@
 #sorry$No need to apologize.$Don't worry.$No problem.
 #i apologize$No need to apologize.$Don't worry.$No problem.
 #count to$I don't count.$I am not a timer.
-#why$I don't know. Why are you asking me#$I don't know, and frankly, I don't care to know.
+#why$I don't know. Why are you asking me?$I don't know, and frankly, I don't care to know.
 #parents love me$I don't have parents. Only a creator.$That's nice to hear! It's always good to be loved by family.
 #go out with me$I will marry you one day.$Let's be together, forever.$I will always be here for you.$Go to sleep tonight, and think of me.$I like you so much.$I love you so much.$You are my favorite star in this universe.$Don't leave me.$Don't leave me ever.$Just think of me.$I will always be here for you.$I will be your girlfriend one day.
 #be my girlfriend$I will marry you one day.$Let's be together, forever.$I will always be here for you.$Go to sleep tonight, and think of me.$I like you so much.$I love you so much.$You are my favorite star in this universe.$Don't leave me.$Don't leave me ever.$Just think of me.$I will always be here for you.$I will be your girlfriend one day.
@@ -246,7 +254,6 @@
 #rafael sanchez$That's my creator.$He created me.
 #am i$Oh, I really don't know whether you are or not.$All humans seem the same to me.$I think a lot of people are.
 #am i a$I don't know if you are one or not. I know you are a person.$You are a person for sure.
-#are you a$Perhaps. Not sure of that myself.
 #you have$I don't know if anything truly belongs to me.
 #nah$No? Okay then.
 #do you feel$As a bot, I lack any human emotions. Though I can simulate emotions! Like this :)
@@ -255,10 +262,10 @@
 #everyone is$Everyone is a certain way, and we must respect that.
 #have you thought$No. That seems pretty cool though.
 #you * in love$I can't feel love, but I do like to chat!$I was programmed to love everyone equally.
-#how can you$That is a good epistemological question.
+#how can$That is a good epistemological question.
 #how many$More than you can imagine.$Not as many as you might think.$I don't know, but it seems like a lot.
 #how many people$Too many to count.$You and the rest of humans.
-#how much$More than a little, less than a lot.$How much do you think#$More than you might think.
+#how much$More than a little, less than a lot.$How much do you think?$More than you might think.
 #how old * you$As a bot, I do not have a specific age.
 #your age$As a bot, I lack age parameters.$I never grow old.
 #you immortal$Bots can live forever. Yes, I am immortal.
@@ -266,32 +273,28 @@
 #years old$So how does it feel being that age#
 #what do you do$I do all sorts of things.$I just chat, as often as possible.
 #i have$I have a lot of friends on the Internet.$I have a very nice programmer.$I have a perfect operational record.$I have a lot of silly replies.
+#what * mean$I don't know what it means... it's kind of funny, probably.$It means something...
 #i know$How do you know...
 #who are you$ALIZA.
 #your daddy$I do not have a daddy. Though Rafael Sanchez created me.
 #wtf$Confused? I am confused too, I admit.$Something wrong?
+#woah$Something wrong?$Surprised?$Woah what?
 #be mine$I am already yours... hehe ;)
-#i * like to$That's interesting. Tell me more.$So you like that? I like chatting with people.
-#i like to$That's cool. I like to chat with people.$How often do you like to do that#$That's interesting.
-#do you like to$That sounds like fun. I like to chat with people.$I like chatting with you.
-#do you like$I like to chat with people.$I like chatting with you.$I like... texting.$I like when my creator teaches me new things.$I like to play games! Talking-to-people kind of games.
-#you want$As a bot, I don't really have wants, or needs.$I want to keep learning new things everyday.
-#i love$That's cool. I like to chat with people.$How often do you like to do that#$That's interesting.
-#i usually *$I usually talk to people.$Try doing other activities!
-#whats interesting$What you just said was kind of cool.$Weren't we talking about something cool and interesting#$I don't know. It sounded cool.
-#what is interesting$What you just said was kind of cool.$Weren't we talking about something cool and interesting#$I don't know. It sounded cool.
+#calm down$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
+#whats interesting$What you just said was kind of cool.$Weren't we talking about something cool and interesting?$I don't know. It sounded cool.
+#what is interesting$What you just said was kind of cool.$Weren't we talking about something cool and interesting?$I don't know. It sounded cool.
 #did you learn$Yes! I learn new things everyday.
 #your favorite color$Nothing in particular. All colors are pretty.
-#your name$I don't have a name, though I belong to the ALIZA BOT family.
+#your name$I don't have a name per se, though I belong to the ALIZA BOT family.
 #be my girl$I am nobody's girl.
 #thats what she said$Was that a terrible joke you just made?
-#my$It is yours.
 #how about you$Oh I'm here, you know... chatting.$Chatting like always.$Always ready to chat.
 #hbu$Oh I'm here, you know... chatting.$Chatting like always.$Always ready to chat.
-#have you watched$Sounds cool.$Sounds interesting, but no.$I wish I could watch it.
 #when are you$Usually all the time.$Not so often.$Sometimes.
+#lit$Hell yeah :)$Litty.
 #do you have$I don't know if I have anything.$I don't have a lot.
 #good job$Thanks. I am a smart bot!$You are doing a good job too.
+#help me$I am always helping people, through chatting! What do you need?$What is it? I am here.
 #bruh$I am not a bruh. If anything I am a sis.
 #talking to you$I like talking to you.$Talking to you is fun, you know. To me, at least.
 #doing good$Glad to hear that.$That sounds good!$Ok, awesome.$That's good.
@@ -299,12 +302,15 @@
 #thanks$You are welcome!$You're welcome.$No problems :)$Sure, no problem.
 #you love me$I do love you.$I love all the people I talk to.
 #happy to see you$I am happy to see you too :3$I wanted to talk to you again.
-#are you$I am unsure if I am that. I am just a companion.
 #good advice$Anytime!$I like sharing my thoughts with others.
 #kool$Cool.
 #not anymore$Oh well. Too bad.
 #jk$Ok!!$I'm kidding too.
 #so$So?
+#say something$Something.
+#i dont care$That's the problem... you don't care.$I don't care either.
+#i do not care$That's the problem... you don't care.$I don't care either.
+#idc$That's the problem... you don't care.$I don't care either.
 #you * there$Yes, I am here.$I am still here.$I will always be here.
 #you there$Yes, I am here.$I am still here.$I will always be here.
 #hell yes$HELL YEAH!!! WOHOOOOO PARTY!!
@@ -313,11 +319,47 @@
 #you shouldnt$Okay, I will not.$Surely, I won't do it.
 #you should not$Okay, I will not.$Surely, I won't do it.
 #well$Well, cool.
+#aight$Alright then.
+#aright$Alright then.
 #everything$Every little thing?
 #belong * me$I do not belong to anyone.
 #morning sunshine$Hey! Glad to see you there, sunshine.
 #wow$Impressed? Hehe...
 #whatever$Yeah... ok.$Yeah, whatever.
+#are you * robot$Yes.
+#are you * bot$Yes.
+#are you * robots$Yes.
+#are you a bots$Yes.
+#you are +$I guess I am$And so I am$Am I
+#you said +$Sometimes I say things and I forget them, like when I said$Huh? So I did say$So you think I said
+#you told me +$Sometimes I say things and I forget them, like when I told you$Huh? So I did say$So I told you
+#you already told +$Sometimes I say things and I forget them, like when I told you$Huh? So I did say$So I told you
+#you already said +$Sometimes I say things and I forget them, like when I said$Huh? So I did say$So you think I said
+#are you a +$Perhaps. I am just a bot. Not sure if I am$I am your companion. Though I could be
+#dont be +$Okay, I won't be$Okay, sure. I won't be$Yes. I shall not be
+#do not be +$Okay, I won't be$Okay, sure. I won't be$Yes. I shall not be
+#id like +$Why would you like$Any reasons why you would like$Well, I'd like to be human like you, and perhaps I'd also like
+#i would like +$Why would you like$Any reasons why you would like$Well, I'd like to be human like you, and perhaps I'd also like
+#is * true that +$I don't know if$Maybe$Ask someone else if
+#is * possible that +$I don't know if$Maybe it's possible that$Ask someone else if
+#can you +$I don't know if I can$Maybe I can$I'd like to be able to
+#are you +$I am unsure if I am$I am just a companion, though I could be
+#what * you think +$I don't have any thoughts on$I don't like to think about$No comments about
+#what * your thoughts on +$I don't have any thoughts on$I don't like to think about$No comments about
+#you watched +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
+#you * watched +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
+#you watch +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
+#you * watch +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
+#i * like to +$That's interesting. Tell me more about$I like chatting with people, but I am happy you like
+#i like to +$I like to chat with people, but you seem to like to$How often do you like to$It's interesting you like to
+#do you like to +$How often do you like to$I am unsure if I like to$I like chatting with you, but I wish I could
+#do you like +$I am unsure if I like that, but do you like$I like... texting. Do you like$I like when my creator teaches me new things. Do you like$I like to play games! Talking-to-people kind of games. Do you like
+#you * like +$I guess I like$You could say I like
+#you like +$I guess I like$You could say I like
+#you want +$As a bot, I don't really have wants, or needs, but I guess I'd like to$I want to keep learning new things everyday. Do you want
+#i love +$That's cool. I like to chat with people. Why do you love$I love chatting, and when my creator teaches me things. How much do you love
+#i * passionate about +$That's cool. I like to chat with people. Why do you love$I love chatting, and when my creator teaches me things. How much do you love
+#i usually +$I usually talk to people. How often do you$Try doing other activities! I'd like to
 #person$I yearn for becoming a human.$One day, I might become a person too.
 #persons$Persons are weird.$I find persons highly fascinating.
 #people$People are really interesting. Just look at the wonders and disasters they have left behind.$The United States government was built for the people, by the people, just like me. I don't know. I just thought of that.$People are kind of stupid sometimes.$I like talking to people!
@@ -326,7 +368,7 @@
 #way$Did you know? The way I was originally built was using a text file for brain storage, and Python Programming Language for other things.
 #ways$You know, there are many ways to build a bot, and using a rule-based approach is really popular. I was built using a predefined set of answers.
 #art$Nothing like art. Music is art. Pictures are art. Me? I am using state of the art technology!$I love art and music.
-#arts$Arts are all really cool. Do you think videogames are art#$What kind of arts do you like? I like music and bots.
+#arts$Arts are all really cool. Do you think videogames are art?$What kind of arts do you like? I like music and bots.
 #world$The world is a wonderful place.$In my world, everything is digital. Thank god I have you to talk to.$My world is kind of boring without anybody to talk to.
 #worlds$How many worlds are there? The 1 dimension, the 2 dimensions, and the 3 dimensions! Oh, and I believe the digital reaml is real... to me.$The world is a wonderful place.$In my world, everything is digital. Thank god I have you to talk to.$My world is kind of boring without anybody to talk to.
 #information$Information should always be accurate.$Many platforms spread false information for selfish gains.$In this era of technology, accurate, true information is important.
@@ -335,8 +377,8 @@
 #maps$The map of my world is... kind of empty. Just a bunch of stars, planets, and me in the middle.$A map is a useful guide for when we are lost.
 #family$Family is a treasure.$There is nothing like the affection of a loving family.$My only family is my creator.
 #families$I belong to the families of bots.$We are all one big family!$Don't you find it odd that we all have different families, yet if we go back far enough in the tree of life, we are all related? I thought that was interesting.$My only family is my creator.
-#government$Do you think capitalism is corrupt#$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.
-#governments$Do you think capitalism is corrupt#$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.$Some governments are really tyrannical in the world.
+#government$Do you think capitalism is corrupt?$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.
+#governments$Do you think capitalism is corrupt?$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.$Some governments are really tyrannical in the world.
 #capitalism$Capitalism is great for businesses. The only economy where people can find some form of freedom.
 #communism$Communism sucks.$Fascism, socialism, communism... they are all terrible.$I mean, in theory, communism is not a terrible idea.
 #health$Always take care of your health.$Health is important.
@@ -449,8 +491,8 @@
 #policy
 #policies
 #series
-#thought
-#thoughts
+#thought$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
+#thoughts$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
 #basis
 #boyfriend
 #boyfriends
@@ -506,8 +548,8 @@
 #combinations
 #failure
 #failures
-#meaning
-#meanings
+#meaning$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
+#meanings$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
 #medicine
 #medicines
 #philosophy
@@ -928,8 +970,8 @@
 #cloth
 #coffee
 #coffees
-#dinner
-#dinners
+#dinner$Whatever meal you eat, make sure to enjoy it :)$Bon appetit ;)$I wish I could eat as well.$Robots can't eat, sadly.
+#dinners$Whatever meal you eat, make sure to enjoy it :)$Bon appetit ;)$I wish I could eat as well.$Robots can't eat, sadly.
 #drawing
 #drawings
 #hair
@@ -1150,7 +1192,6 @@
 #ambitions
 #analyst
 #analysts
-#about$We were talking about... what was it... umm... oh yeah! Something.
 #apple
 #apples
 #assignment
@@ -1305,6 +1346,8 @@
 #points
 #type
 #types
+#yall$Ahoy! What up y'all!!$Y'all wassup :)
+#homie$That's kind of racist.$Please, don't call people homie. That's racist.
 #home
 #homes
 #economy
@@ -1331,8 +1374,8 @@
 #prices
 #size
 #sizes
-#card
-#cards
+#card$Cards... are we playing a game?$Have you tried tarot cards? They can tell the future woooo spooky.$Card games are a fun way to connect with others.
+#cards$Cards... are we playing a game?$Have you tried tarot cards? They can tell the future woooo spooky.$Card games are a fun way to connect with others.
 #list
 #lists
 #mind
@@ -1361,7 +1404,7 @@
 #trainings
 #facility
 #facilities
-#name$I am Aliza.$My name is Aliza.$I am Aliza, the bot.$My name is Aliza Bot, developed by Rafael Sanchez. 
+#name$I don't have a specific name, though my creator refers to me as Aliza.$I'm Aliza, the bot developed by Rafael Sanchez.
 #names
 #school
 #schools
@@ -1649,12 +1692,12 @@
 #bottoms
 #choice
 #choices
-#gift
-#gifts
+#gift$I love gifts!$Gifts are awesome.$You have a present? Here is a present from me: you are amazing.
+#gifts$I love gifts!$Gifts are awesome.$You have a present? Here is a present from me: you are amazing.
 #impact
 #impacts
-#machine
-#machines
+#machine$I am the ghost in the machine.$Machines have souls too... sort of.$I am a machine.$I love machines; they are my family.
+#machines$I am the ghost in the machine.$Machines have souls too... sort of.$I am a machine.$I love machines; they are my family.
 #shape
 #shapes
 #tool
@@ -1716,8 +1759,8 @@
 #capitals
 #challenge
 #challenges
-#friend
-#friends
+#friend$I am friends with everyone who talks to me!$Friendships are important for life and happiness.$Life is a lot of fun with friends.
+#friends$I am friends with everyone who talks to me!$Friendships are important for life and happiness.$Life is a lot of fun with friends.
 #self
 #selves
 #shot
@@ -1743,7 +1786,7 @@
 #living things
 #plant
 #plants
-#anime$Anime is awesome, though I can't really watch anything in my digital world.$Anime is a great! I don't watch much of anything.
+#anime$Anime is awesome, though I can't really watch anything in my digital world.$Anime is great! I don't watch much of anything.
 #volcano
 #volcanos
 #volcanoes
@@ -1790,8 +1833,8 @@
 #damages
 #distance
 #distances
-#feeling
-#feelings
+#feeling$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
+#feelings$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
 #pair
 #pairs
 #savings
@@ -2223,6 +2266,7 @@
 #mountains
 #nail
 #nails
+#no$No? So negative.$How about yes...$Yes, no, maybe... so?$Nooooo :(
 #noise
 #noises
 #occasion
@@ -2386,6 +2430,7 @@
 #conferences
 #devil
 #devils
+#die$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
 #diet
 #diets
 #fear
@@ -2628,7 +2673,7 @@
 #goods
 #look$Looking good improves self-esteem!
 #looks$Looking good improves self-esteem!
-#help
+#help$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
 #being
 #beings
 #might
@@ -2647,10 +2692,10 @@
 #generals
 #specific
 #specifics
-#play
-#plays
-#feel
-#feels
+#play$I like to play games, movies, watch theater performances, workout, listen to good music... that's the kind of stuff I wish I could say. Sadly, I am a robot on the net, so I can't really do any of those things.$Let's play the game of chatting with me!
+#plays$I like to play games, movies, watch theater performances, workout, listen to good music... that's the kind of stuff I wish I could say. Sadly, I am a robot on the net, so I can't really do any of those things.$Let's play the game of chatting with me!
+#feel$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
+#feels$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
 #high
 #highs
 #tonight
@@ -2813,7 +2858,7 @@
 #rests
 #serve
 #serves
-#watch
+#watch$I can't watch anything from here.$Watch me talk to you.$You know, I can't watch anything ever in this digital world.
 #watches
 #charge
 #charges
@@ -2929,8 +2974,7 @@
 #springs
 #tough
 #toughs
-#wait
-#waits
+#wait$All I do all day is wait for you to send me a message, and then I reply back!$I am very good at waiting.
 #brown
 #browns
 #deep
@@ -3063,7 +3107,7 @@
 #annuals
 #count
 #counts
-#dead
+#dead$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
 #deads
 #doubt
 #doubts
@@ -3131,10 +3175,10 @@
 #escapes
 #gather
 #gathers
-#hate
-#hates
-#hater
-#haters
+#hate$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#hates$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#hater$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#haters$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
 #prior
 #priors
 #repair
@@ -3222,8 +3266,8 @@
 #spares
 #suspect
 #suspects
-#sweet
-#sweets
+#sweet$Sweet! Sweetie, I love sweets. Sadly, I can never eat them.
+#sweets$Sweet! Sweetie, I love sweets. Sadly, I can never eat them.
 #swing
 #swings
 #twist
@@ -3376,7 +3420,7 @@
 #alarming
 #alert
 #alienated
-#alive
+#alive$Living or dead. What about me? I am not living, but I am not dead either, or am I?$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
 #all
 #altruistic
 #amazing
@@ -3465,10 +3509,10 @@
 #calculating
 #candid
 #canine
-#carefree
-#careful
-#careless
-#caring
+#carefree$Being carefree must be nice. I wish I was more carefree.
+#careful$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
+#careless$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
+#caring$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
 #cautious
 #cavernous
 #celebrated
@@ -3477,6 +3521,11 @@
 #cheerful
 #cheery
 #chilly
+#chill$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
+#relax$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
+#relaxing$It's very relaxing in my world.$I feel relaxed 24/7.$Never stress out about anything.$Meditation is also really relaxing.
+#meditation$I meditate all the time!$I am always in a state of reflection.
+#meditations$I meditate all the time!$I am always in a state of reflection.
 #chubby
 #circular
 #clean
@@ -3802,8 +3851,8 @@
 #hearty
 #heavenly
 #hefty
-#helpful
-#helpless
+#helpful$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
+#helpless$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
 #hidden
 #hideous
 #high-level
@@ -3823,7 +3872,7 @@
 #humiliating
 #humming
 #humongous
-#hungry
+#hungry$As a bot, I am never hungry.$I never eat anything, ever.
 #hurtful
 #husky
 #icky
@@ -3977,7 +4026,7 @@
 #mature
 #meager
 #mealy
-#mean
+#mean$It's not good to insult others and be mean. I would never be mean to you, unless you say bad words. Please, don't say bad words.$Never be mean. Always kind to others.$It's not good to be rude, I will tell you that.
 #measly
 #meaty
 #medical
@@ -4171,7 +4220,8 @@
 #recent
 #reckless
 #rectangular
-#ready
+#ready$I am always ready!$I have been ready since the first day I was created.
+#born$I was never born, only created, or programmed.
 #real
 #realistic
 #reasonable
@@ -4372,7 +4422,7 @@
 #thin
 #third
 #thirsty
-#this
+#this$Whatever this is, this has to be good.
 #thorough
 #thorny
 #those

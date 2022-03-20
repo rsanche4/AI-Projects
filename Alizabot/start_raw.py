@@ -12,7 +12,7 @@ print("-------------------- Conversation Started ---------------------------")
 print("")
 while True:
     m = input("User: ")
-    print("Aliza: "+brain.aliza_says(m))
+    print("Aliza: "+brain.aliza_says(m, 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt', 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain0.txt'))
     if (brain.conv_ended):
         break
 

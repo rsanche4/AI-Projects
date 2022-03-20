@@ -15,7 +15,7 @@ def girl_says(m):
         for pattern, reply in data.items():
             if m==pattern:
                 return reply
-        learn_str = input("TYPE WHAT I SHOULD SAY FOR THAT-> ")
+        learn_str = input("Clevergirl: "+m+'\nUser: ')
         learn_str=learn_str.replace('?', '')
         learn_str=learn_str.replace('!', '')
         learn_str=learn_str.replace(',', '')

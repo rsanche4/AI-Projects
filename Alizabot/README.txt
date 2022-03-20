@@ -12,18 +12,24 @@
    
 2: HOW ALIZA WORKS?
    ****************
-   The most important file for ALZIA are brain.txt and either aliza.c or brain.py. The .py or .c communicate with the .txt for extracting the correct answer. brain.txt contain all of aliza's answers and their replies. When the user sends her a pattern (and it's not a command or a special query), ALIZA can do 1 of 2 things. She can either ask the user why they think that way, imitating the questions ELIZA would ask, or she can look up the pattern and match it with other patterns she knows the answer to.
+   Refer to brain.txt for all her main replies, and brain0.txt for special replies.
+   1-Aliza parses your input.
+   2-Aliza first opens brain.txt, and checks your query with all the different queries there.
+   3-Aliza will check if she should ask the user why they think so, and if she chooses not to task then she proceeds to pattern matching.
+   4-It checks pattern in this order: insults, check the time commands, different greetings, goodbyes, agreements, emojis, tell me a joke queries, horror answers, compliments, extra queries she has learned, queries using the + sign (more on that later), and lastly specific keywords.
+   5-If, after everything, she has no idea what to say, she will return the special response the empty string. (There are other responses that trigger special responses which are located in brain0.txt. (Learned patterns and specific words do not trigger special responses.)   
    
    
 3: WHAT ELSE CAN SHE DO AND WHY IS SHE SO SIMPLE?
    **********************************************
    ALIZA can repeat after the user, and also check if the user sent anything at all. This part of her code is known as the "commands section" and can be enhanced depending on your own project. For example, it would be fairly simple to teach her to open a browser, check the weather, etc. All you need is to write code that would do this in this section. She should always return a string in this section, and in the .c file, she should always copy her answer to the reply array. To repeat after the user, simply say: repeat Hello!
-   ALIZA is really simple because if programmers are unable to run python (say you are developing a game in Unreal Engine and want a chatbot like her but can't connect the python script), then they can take away from the concepts and algorithms and easily convert them to any language of their choice, given that her program is rather simple. All they would need to know is how to incorporate pattern matching with wildcards, and then some very simple string manipulation. The full source code contains all her answers, simple logic, and the brain.txt is still a txt file that can be accessed by any programming language! (keep in mind there is also a C version of ALIZA in this same directory)
+   ALIZA is really simple because if programmers are unable to run python (say you are developing a game in Unreal Engine and want a chatbot like her but can't connect the python script), then they can take away from the concepts and algorithms and easily convert them to any language of their choice, given that her program is rather simple. All they would need to know is how to incorporate pattern matching with wildcards, and then some very simple string manipulation. The full source code contains all her answers, simple logic, and the brain.txt and brain0.txt is still a txt file that can be accessed by any programming language! (keep in mind there is also a C version of ALIZA in this same directory)
    
    
 4: HOW TO TEACH HER NEW THINGS?
    ****************************
-   Go ahead and open the brain.txt file. Search for the query "#person", right above this, you can start writing whatever queries you want to teach her in this format: #PATTERN$ANSWER1$ANSWER2... where PATTERN is what she will match the queries to and the replies what she will say. There is a limit to how many answers she can learn per pattern (20). She will select a random reply from all the replies she was taught. Note that you can use wildcards to match with 1 or more words in the middle of the sentence. For example: "I * tall" will match to "I am tall" or "I look tall", etc. Don't put the wildcards at the beginning or at the end of a pattern as this is done automatically when matching to different patterns.
+   Go ahead and open the brain.txt file. Search for the query "#person", right above this, you can start writing whatever queries you want to teach her (in 1 line) in this format: #PATTERN$ANSWER1$ANSWER2... where PATTERN is what she will match the queries to and the replies what she will say. There is a limit to how many answers she can learn per pattern (20). She will select a random reply from all the replies she was taught. Note that you can use wildcards to match with 1 or more words in the middle of the sentence. For example: "I * tall" will match to "I am tall" or "I look tall", etc. Don't put the wildcards at the beginning or at the end of a pattern as this is done automatically when matching to different patterns. On top of this, Aliza can incorporate certain words the user said into her responses using the plus sign at the end of a pattern. For example: "#are you +$I am" So when the user says, "Are you tall?", she will reply "I am tall." This basically appended whatever was in the plus sign in the query at the end of her response. In this case it was just 1 word: tall. For using the plus sign, it HAS to be at the end of the pattern. Incorrect usage: "are + you". Also, when using * together with +, do not put them right next to each other. There needs to be a word separating them. Example: "you * like +" is correct. "you like * +" is incorrect. Just the "+" by itself in a query is also incorrect. PLease, also leave a space between the + and the last word. For example: "you like+" is incorrect. "you like +" is correct. "you like + " with extra space in the end is also incorrect.
+   I should mention that brain0.txt is also a secondary file which has important special replies like "tell me a joke" replies, etc. The limit of responses for brain0 is 500. This file is mainly for storing different jokes, among other things that she could say.
    
    
 5: WHAT LIBRARIES DOES SHE USE?
@@ -43,7 +49,6 @@
    #include <ctype.h>
    #include <string.h>
    #include <stdlib.h>
-   #include <stdbool.h>
    #include <sys/types.h>
    #include <sys/stat.h>
    #include <unistd.h>
@@ -57,22 +62,11 @@
    There is also a version of her running on discord in this server (feel free to drop by, I am always there developing and improving her answers): https://discord.gg/h7vqR2YD
    
    
-7: CAN I USE THIS IN A GAME OR IN MY PROJECT?
-   ******************************************
-   Of course! Just remember to credit me as the creator of her design. You can even change the name to a specific character you have in mind since she never calls herself "ALIZA". This is great because you can simply give it its own unique name and this can be extended to NPCs, unique clones of her, a 3D humanoid clone etc.
-   
-   
-8: DID YOU MAKE THE IMAGE AND MUSIC?
+7: DID YOU MAKE THE IMAGE AND MUSIC?
    *********************************
    If you are referring to the GUI version, then no. I got the music from the internet and the image was commissioned. All rights go to their respective owners.
    
 
-9: IS THIS PROJECT FINISHED?
+8: IS THIS PROJECT FINISHED?
    *************************
    Everything is done. The only thing left to do is add replies! Her brain grows everyday as I find new words and different replies. Given there are already a lot of words, and I am doing this solo, it takes time. Eventually, there will be plenty of replies for all the words she knows.
-   
-   
-10:HOW DOES THE DEVELOPER TEACH HER RESPONSES?
-   *******************************************
-   I use this random sentence & question generator website: https://randomwordgenerator.com/
-   I use a random sentence, feed it to her, and see if she responds. If she doesn't have a response, I study the sentence and see what words are important and I then write a reply! I do this everytime and over time she accumulates more and more accurate responses to more sentences.

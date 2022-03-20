@@ -6,16 +6,20 @@
 #include <ctype.h>
 #include <string.h>
 #include <stdlib.h>
-#include <stdbool.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>
 
 #define MAXBUF 2048
-#define NUMBEROFGREET 14
-#define NUMBEROFNORESP 9
 
-bool conv_ended = false;
+int conv_ended = 0;
+
+// Structure of a category with 1 pattern and multiple replies
+typedef struct
+{
+    char pattern[MAXBUF];
+    char replies[MAXBUF][MAXBUF];
+} Category;
 
 void flushArr(char array[], int len)
 {
@@ -25,26 +29,42 @@ void flushArr(char array[], int len)
     }
 }
 
-// turns strings to lowercase provided in buffer
-void string_to_lowercase(char buf[], size_t length)
+// reverses a string
+char *strrev(char *str)
 {
-    for (size_t i = 0; i < length; i++)
+      char *p1, *p2;
+
+      if (! str || ! *str)
+            return str;
+      for (p1 = str, p2 = str + strlen(str) - 1; p2 > p1; ++p1, --p2)
+      {
+            *p1 ^= *p2;
+            *p2 ^= *p1;
+            *p1 ^= *p2;
+      }
+      return str;
+}
+
+// turns strings to lowercase provided in buffer
+void string_to_lowercase(char buf[], int length)
+{
+    for (int i = 0; i < length; i++)
     {
         buf[i] = tolower(buf[i]);
     }
 }
 
 // searches if a character is in an array
-bool is_elem(char c, char str[], int len)
+int is_elem(char c, char str[], int len)
 {
     for (int i = 0; i < len; i++)
     {
         if (str[i] == c)
         {
-            return true;
+            return 1;
         }
     }
-    return false;
+    return 0;
 }
 
 // removes leading spaces
@@ -103,7 +123,7 @@ void getRoot(char buf[], int len)
     for (int i = 0; i < len; i++)
     {
 
-        if ((buf[i] == '.') || (buf[i] == '!') || (buf[i] == '?') || (buf[i] == ',') || (buf[i] == '\'') || (buf[i] == '"') ||  || (buf[i] == '#'))
+        if ((buf[i] == '.') || (buf[i] == '!') || (buf[i] == '?') || (buf[i] == ',') || (buf[i] == '\'') || (buf[i] == '"') || (buf[i] == '#') || (buf[i] == '$') || (buf[i] == '*') || (buf[i] == '+'))
         {
             continue;
         }
@@ -119,18 +139,24 @@ void getRoot(char buf[], int len)
 }
 
 // important for pattern matching
-bool wildCmp(char *pattern, char *string)
+int wildCmp(char *pattern, char *string)
 {
-	if(*pattern=='\0' &amp;&amp; *string=='\0')
-		return true;
+	if(*pattern=='\0' && *string=='\0')
+		return 1;
 		
 	if(*pattern=='?' || *pattern==*string)
-		return WildCmp(pattern+1,string+1);
+		return wildCmp(pattern+1,string+1);
 		
 	if(*pattern=='*') 
-		return WildCmp(pattern+1,string) || WildCmp(pattern,string+1);
+		return wildCmp(pattern+1,string) || wildCmp(pattern,string+1);
 		
-	return false;
+	return 0;
+}
+
+// parses the text file, writing all the categories to the array cats
+void parser(char filename[], Category cats[])
+{
+    return;
 }
 
 // stores in reply what aliza will say to the user
@@ -214,17 +240,11 @@ void aliza_says(char input[], char reply[], int input_len)
     }
     else if (input_len == 0)
     {
-        char noresp[NUMBEROFNORESP][MAXBUF] = {"Are you busy? You said nothing.", "Is anyone there?", "You haven't said anything.", "I'm here waiting for you.", "Get back to me when you are ready.", "Hello?", "I'm waiting.", "Did you mean to send me a blank message?", "Your message was blank."};
-        strcpy(reply, noresp[rand() % NUMBEROFNORESP]);
+        // call parser on the no responses brain0.txt
     }
     else
     {
-        // WHAT NEEDS TO BE DONE IS: ADD THE SWAPS FOR QUESTIONS LIKE 'WHY DO YOU SAY I AM SMART?' SIMILAR TO ELIZA
-        // USE WILDCOMP FOR MATCHING AFTER ITERATING THROUGH BRAIN.TXT
-        // AFTER YOU FOUND A REPLY, CHECK IT'S NOT A 'SPECIAL' REPLY, AND IF IT IS ADD THE SPECIAL REPLIES, IF NOT RETURN WITH ANSWER IN REPLY
-        // Files that need to change: aliza.c
-        // NOTE SHE HAS A LIMIT ON HOW MANY REPLIES SHE CAN LEARN (20), except for the Special replies, those are large
-        
+        // parse the txt
     }
 }
 
@@ -239,8 +259,7 @@ int main()
     printf("-------------------- CONVERSATION STARTED ---------------------------\n");
     printf("\n");
 
-    char greetings[NUMBEROFGREET][MAXBUF] = {"Hey there...", "How do you do?", "How have you been?", "Hello there.", "Hi!", "How are you doing?", "How's it going?", "It's great to see you.", "What's up?", "Yo!", "Lovely to see you.", "Ahoy!", "Heyo.", "HOLA."};
-    printf("Aliza: %s\n", greetings[rand() % NUMBEROFGREET]);
+    // call parser on the greets
 
     while (1)
     {
@@ -248,11 +267,17 @@ int main()
         char input[MAXBUF];
         printf("User: ");
         fgets(input, MAXBUF, stdin);
-        input[strlen(input) - 1] = '\0';
+        removeLeadingSpaces(input, strlen(input));
+        removeTrail(input, strlen(input));
+        getRoot(input, strlen(input));
+        string_to_lowercase(input, strlen(input));
+        removeLeadingSpaces(input, strlen(input));
+        removeTrail(input, strlen(input));
+        input[strlen(input)] = '\0';
         aliza_says(input, reply, strlen(input));
         printf("Aliza: %s\n", reply);
         free(reply);
-        if (conv_ended)
+        if (conv_ended==1)
         {
             break;
         }

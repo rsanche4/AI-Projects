@@ -27,7 +27,7 @@ e = Entry(root, width=71, borderwidth=5, font=('Courier', 15, 'bold'))
 e.place(x=12, y=550)
 def myClick():
     global e
-    z_mes=brain.aliza_says(e.get())
+    z_mes=brain.aliza_says(e.get(), 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt', 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain0.txt')
     abel.configure(text=z_mes)
     e.delete(0, END)
     
@@ -35,7 +35,7 @@ def myClick():
 def func(event):
     myClick()
 root.bind('<Return>', func)
-displayed_message=brain.start()
+displayed_message=brain.start(brain0_path='C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain0.txt')
 abel = Label(root,width=24,height=16, text=displayed_message,justify=LEFT,anchor=NW, wraplength=340, font=('Courier', 18, 'bold'), bg="black",fg="red", borderwidth=10, relief="ridge")
 abel.place(x=530, y=80)
 zo = Label(root,text="ALIZA CHATBOT", width=17,font=('Courier', 23, 'bold'),bg='black',fg="violet",borderwidth=10,relief="ridge")

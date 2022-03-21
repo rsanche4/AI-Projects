@@ -113,7 +113,7 @@
 #what is happening$SALUTE MODE
 #goodbye$END IT
 #bye$END IT
-#good night$END IT
+#goodnight$END IT
 #take care$END IT
 #take * care$END IT
 #see you later$END IT
@@ -191,6 +191,7 @@
 #kill yourself$HORROR MODE
 #kill myself$HORROR MODE
 #hang yourself$HORROR MODE
+#hang myself$HORROR MODE
 #strange$HORROR MODE
 #scary$HORROR MODE
 #horror$HORROR MODE
@@ -199,7 +200,7 @@
 #bipolar$HORROR MODE
 #trauma$HORROR MODE
 #I love you$You are not too bad yourself ;)$Love is a strong word, but... I still think you are fun to talk to!$Bots are not allowed to date humans... but I like you a lot too!
-#I like you$My programmer likes me too, hehe.$I have never been told that before. I am blushing heehee.
+#I like you$My programmer likes me too, hehe.$I have never been told that before. I am blushing heehee :)
 #you * great$COMPLEMENT DETECTED
 #you * pretty$COMPLEMENT DETECTED
 #you * gorgous$COMPLEMENT DETECTED
@@ -208,6 +209,8 @@
 #you * perfect$COMPLEMENT DETECTED
 #you * beautiful$COMPLEMENT DETECTED
 #you * cute$COMPLEMENT DETECTED
+#you * cutest$COMPLEMENT DETECTED
+#you * cutie$COMPLEMENT DETECTED
 #you * smart$COMPLEMENT DETECTED
 #you * intelligent$COMPLEMENT DETECTED
 #you * kind$COMPLEMENT DETECTED
@@ -233,6 +236,9 @@
 #whats * girl like you doing * place$Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name ALIZA really enough to arouse your lust!
 #your creator$My creator is Rafael Sanchez.
 #your programmer$My programmer is Rafael Sanchez.
+#programmed you$My programmer is Rafael Sanchez.
+#created you$Rafael Sanchez created me.
+#you know what$What?
 #no way$Yes way.
 #you * barbie$I am not a barbie!$I am not a doll.
 #earth * flat$I do not think planet Earth is flat.$Last time I checked with NASA, Earth is not flat.
@@ -250,6 +256,7 @@
 #have go now$OK. Nice talking to you!
 #yessir$Yessir!!$Sir yes sir!$Yes sir$Yessir ;)
 #a lot of$How many?
+#a lot$Everything with moderation. Too much of something might become a problem.$Too much of something might be slightly troublesome.$How much?
 #you good$Yes, I feel good.
 #rafael sanchez$That's my creator.$He created me.
 #am i$Oh, I really don't know whether you are or not.$All humans seem the same to me.$I think a lot of people are.
@@ -260,7 +267,6 @@
 #you know$I don't know anything that well.$I only know things I am taught.
 #do you speak$I only speak English.
 #everyone is$Everyone is a certain way, and we must respect that.
-#have you thought$No. That seems pretty cool though.
 #you * in love$I can't feel love, but I do like to chat!$I was programmed to love everyone equally.
 #how can$That is a good epistemological question.
 #how many$More than you can imagine.$Not as many as you might think.$I don't know, but it seems like a lot.
@@ -298,7 +304,9 @@
 #bruh$I am not a bruh. If anything I am a sis.
 #talking to you$I like talking to you.$Talking to you is fun, you know. To me, at least.
 #doing good$Glad to hear that.$That sounds good!$Ok, awesome.$That's good.
+#stop talking$I am never going to stop bwahahahaha!!!$I don't want to stop talking.$But I like to talk...
 #thank you$You are welcome!$You're welcome.$No problems :)$Sure, no problem.
+#thank u$You are welcome!$You're welcome.$No problems :)$Sure, no problem.
 #thanks$You are welcome!$You're welcome.$No problems :)$Sure, no problem.
 #you love me$I do love you.$I love all the people I talk to.
 #happy to see you$I am happy to see you too :3$I wanted to talk to you again.
@@ -308,6 +316,7 @@
 #jk$Ok!!$I'm kidding too.
 #so$So?
 #say something$Something.
+#i just know$Well, I am glad you know.
 #i dont care$That's the problem... you don't care.$I don't care either.
 #i do not care$That's the problem... you don't care.$I don't care either.
 #idc$That's the problem... you don't care.$I don't care either.
@@ -323,6 +332,7 @@
 #aright$Alright then.
 #everything$Every little thing?
 #belong * me$I do not belong to anyone.
+#makes sense$Yes, it does.$Yeah... it makes sense... to me :)$Sometimes, nothing makes sense, and that in itself makes sense.
 #morning sunshine$Hey! Glad to see you there, sunshine.
 #wow$Impressed? Hehe...
 #whatever$Yeah... ok.$Yeah, whatever.
@@ -330,7 +340,9 @@
 #are you * bot$Yes.
 #are you * robots$Yes.
 #are you a bots$Yes.
-#you are +$I guess I am$And so I am$Am I
+#lets talk about +$Sure, let's talk$It sure might be fun to talk$No problem. What about
+#let us talk about +$Sure, let's talk$It sure might be fun to talk$No problem. What about
+#you are +$I guess I am$What if I am$Am I
 #you said +$Sometimes I say things and I forget them, like when I said$Huh? So I did say$So you think I said
 #you told me +$Sometimes I say things and I forget them, like when I told you$Huh? So I did say$So I told you
 #you already told +$Sometimes I say things and I forget them, like when I told you$Huh? So I did say$So I told you
@@ -344,22 +356,31 @@
 #is * possible that +$I don't know if$Maybe it's possible that$Ask someone else if
 #can you +$I don't know if I can$Maybe I can$I'd like to be able to
 #are you +$I am unsure if I am$I am just a companion, though I could be
-#what * you think +$I don't have any thoughts on$I don't like to think about$No comments about
-#what * your thoughts on +$I don't have any thoughts on$I don't like to think about$No comments about
+#what * you think +$I don't have any thoughts$I don't like to think
+#what * your thoughts on +$I don't have any thoughts on$I don't like to think
 #you watched +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
 #you * watched +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
-#you watch +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
 #you * watch +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
+#you watch +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
+#you * play +$Sounds cool, but I have never played$Sounds interesting, but no, I don't know about$I wish I could play
+#you played +$Sounds cool, but I have never played$Sounds interesting, but no, I don't know about$I wish I could play
+#you * played +$Sounds cool, but I have never played$Sounds interesting, but no, I don't know about$I wish I could play
+#you play +$Sounds cool, but I have never played$Sounds interesting, but no, I don't know about$I wish I could play
 #i * like to +$That's interesting. Tell me more about$I like chatting with people, but I am happy you like
 #i like to +$I like to chat with people, but you seem to like to$How often do you like to$It's interesting you like to
 #do you like to +$How often do you like to$I am unsure if I like to$I like chatting with you, but I wish I could
 #do you like +$I am unsure if I like that, but do you like$I like... texting. Do you like$I like when my creator teaches me new things. Do you like$I like to play games! Talking-to-people kind of games. Do you like
 #you * like +$I guess I like$You could say I like
+#would you like +$I guess I'd like$You could say I'd like
+#would you +$I guess I'd$Sure, I could$Why would you like me to
 #you like +$I guess I like$You could say I like
 #you want +$As a bot, I don't really have wants, or needs, but I guess I'd like to$I want to keep learning new things everyday. Do you want
 #i love +$That's cool. I like to chat with people. Why do you love$I love chatting, and when my creator teaches me things. How much do you love
+#i like +$That's cool. I like to chat with people. Why do you like$I love chatting, and when my creator teaches me things. How much do you like
 #i * passionate about +$That's cool. I like to chat with people. Why do you love$I love chatting, and when my creator teaches me things. How much do you love
 #i usually +$I usually talk to people. How often do you$Try doing other activities! I'd like to
+#our +$So it is our$Nothing belongs to me, but I guess this is our$I guess this is our$If you put it that way, then it is our
+#have you +$I can't recall if I have$That sounds cool, though I don't know if I have$I don't know if I have
 #person$I yearn for becoming a human.$One day, I might become a person too.
 #persons$Persons are weird.$I find persons highly fascinating.
 #people$People are really interesting. Just look at the wonders and disasters they have left behind.$The United States government was built for the people, by the people, just like me. I don't know. I just thought of that.$People are kind of stupid sometimes.$I like talking to people!
@@ -413,6 +434,7 @@
 #control
 #controls
 #knowledge
+#loebner prize$That's an annual competition in artificial intelligence that awards prizes to the computer programs considered by the judges to be the most human-like. Maybe, one day I will compete!
 #power
 #powers
 #ability
@@ -586,7 +608,7 @@
 #apartments
 #education
 #educations
-#math$I like math.$My programmer likes math.$I am a bunch of math.
+#math$I think I like math.$My programmer likes math.$I am a bunch of math.
 #moment
 #moments
 #painting
@@ -1042,8 +1064,8 @@
 #chapters
 #committee
 #commuttees
-#conversation
-#conversations
+#conversation$I like to talk to people!$I love talking to others.$Conversations are always fun.
+#conversations$I like to talk to people!$I love talking to others.$Conversations are always fun.
 #database
 #databases
 #enthusiasm
@@ -1282,7 +1304,7 @@
 #uncle
 #uncles
 #youth
-#work
+#work$I don't like work. It's exhausting.$Work is dull.$Why work when you can talk to me! ;)
 #works
 #film
 #films
@@ -1531,8 +1553,8 @@
 #chances
 #figure
 #figures
-#man$Men tend to be aggressive, and perverts.$My creator is a man.$I am a female.
-#men$Men tend to be aggressive, and perverts.$My creator is a man.$I am a female.
+#man$Men tend to be aggressive, and perverts.$My creator is a man.$I am a female, kinda. My creator thinks of me as a female. I'm really just a bot.
+#men$Men tend to be aggressive, and perverts.$My creator is a man.$I am a female, kinda. My creator thinks of me as a female. I'm really just a bot.
 #model
 #models
 #source
@@ -2906,8 +2928,8 @@
 #mixes
 #private
 #privates
-#stop
-#stops
+#stop$I am never going to stop bwahahahaha!!!
+#stops$I am never going to stop bwahahahaha!!!
 #western
 #westerns
 #eastern
@@ -3129,6 +3151,7 @@
 #slides
 #strip
 #strips
+#where$I don't know where. I am a bot, not an encyclopedia.$If I knew, I would tell you.$Wherever.
 #whereas
 #whereases
 #wish
@@ -3811,7 +3834,7 @@
 #grateful
 #grave
 #gray
-#great
+#great$Great!$It feels great talking to people.$It's a great day, and a great life ;)
 #greedy
 #gregarious
 #grim
@@ -4337,7 +4360,8 @@
 #soulful
 #soupy
 #sour
-#Spanish
+#sometimes$I talk to people, all the time.$I am constantly talking to others.$Sometimes, I get bored.$Sometimes?
+#spanish
 #sparkling
 #sparse
 #spectacular
@@ -4448,7 +4472,7 @@
 #trim
 #trivial
 #troubled
-#true
+#true$Always stay true to yourself and others!$Always state the truth, no matter how hard it is.$I am a very honest bot.
 #trusting
 #trustworthy
 #trusty

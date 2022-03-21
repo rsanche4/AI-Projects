@@ -27,7 +27,7 @@
 <category><pattern>TORONTO IS IN CANADA</pattern>
 <template>Yes.</template>
 </category>
-<category><pattern>ROMA  IN ITALIA</pattern>
+<category><pattern>ROMA IN ITALIA</pattern>
 <template>Yes.</template>
 </category>
 <category><pattern>WARSAW IS A TOWN IN POLAND</pattern>

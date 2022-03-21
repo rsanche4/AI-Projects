@@ -51,6 +51,10 @@ def swaps(m):
         m=m.replace("you were", "I WAS")
     if match(m, "I was"):
         m=m.replace("I was", "YOU WERE")
+    if match(m, "myself"):
+        m=m.replace("myself", "YOURSELF")
+    if match(m, "yourself"):
+        m=m.replace("yourself", "MYSELF")
     m=m.replace("1", 'I')
     m_list=m.split()
     m=" ".join(m_list)
@@ -132,7 +136,7 @@ def bot(m, brain_path):
                         return "I matched to this pattern, but there are no replies for it: "+old_pattern+"."
                     final = random.choice(cpy)
                     if there_is_plus:
-                        if ('how ' in final.lower() or 'what ' in final.lower() or 'who ' in final.lower() or 'when ' in final.lower() or 'why ' in final.lower() or 'where ' in final.lower()) and '?' not in final:
+                        if ('how ' in final.lower() or 'what ' in final.lower() or 'who ' in final.lower() or 'when ' in final.lower() or 'why ' in final.lower() or 'where ' in final.lower() or 'do you ' in final.lower()) and '?' not in final:
                             final = final +' '+swaps(appending_words)+'?'
                         else:
                             final = final +' '+swaps(appending_words)+'.'
@@ -197,8 +201,11 @@ def aliza_says(m, brain_path="brain.txt", brain0_path="brain0.txt"):
     m=m.strip() 
     m=m.lower()
     # COMMANDS SECTION
-    if 'repeat' in m[0:7]:
-        return temp.replace('repeat', '').strip()
+    if 'repeat' in m[0:7] or 'say' in m[0:3]:
+        temp = temp.lower()
+        temp = temp.replace('repeat', '').strip()
+        temp = temp.replace('say', '').strip()
+        return swaps(temp)
     elif m == "":
         return "Your message was blank."
     else:

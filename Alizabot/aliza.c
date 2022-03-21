@@ -265,7 +265,7 @@ int main()
     {
         char *reply = calloc(MAXBUF, sizeof(char));
         char input[MAXBUF];
-        printf("User: ");
+        printf("> ");
         fgets(input, MAXBUF, stdin);
         removeLeadingSpaces(input, strlen(input));
         removeTrail(input, strlen(input));
@@ -275,7 +275,7 @@ int main()
         removeTrail(input, strlen(input));
         input[strlen(input)] = '\0';
         aliza_says(input, reply, strlen(input));
-        printf("Aliza: %s\n", reply);
+        printf("%s\n", reply);
         free(reply);
         if (conv_ended==1)
         {

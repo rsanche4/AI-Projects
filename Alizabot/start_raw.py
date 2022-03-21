@@ -1,20 +1,23 @@
 # Sends message to ALIZA. No Gui.
 # Author: Rafael Sanchez
 
+from datetime import datetime
 import brain
 print("")
+print("***************************")
+print("ALIZA CHATBOT")
+print("By Rafael Sanchez")
+print("To stop talking to Aliza, say goodbye!")
+da = datetime.now().strftime("%d/%m/%Y %H:%M:%S.")
+print("Conversation start: "+da)
 print("")
-print("*************************** ALIZA CHATBOT ***************************")
-print("*********************** By Rafael Sanchez ***************************")
-print("***************** To stop Aliza, type Bye ***************************")
-print("")
-print("-------------------- Conversation Started ---------------------------")
-print("")
+print(brain.start())
 while True:
-    m = input("User: ")
-    print("Aliza: "+brain.aliza_says(m, 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt', 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain0.txt'))
+    m = input("> ")
+    print(brain.aliza_says(m))
     if (brain.conv_ended):
         break
 
 print("")
-print("-------------------- Conversation Ended -----------------------------")
+db = datetime.now().strftime("%d/%m/%Y %H:%M:%S.")
+print("Conversation end: "+db)

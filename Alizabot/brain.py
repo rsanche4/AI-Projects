@@ -88,7 +88,7 @@ def bot(m, brain_path):
                     pattern=pattern+line[i]
                 elif isReply:
                     replies=replies+line[i]
-            parsed_replies = ['\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0']
+            parsed_replies = ['\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0', '\0']
             counterr = -1
             temp = ''
             for j in range(len(replies)):
@@ -142,8 +142,8 @@ def bot(m, brain_path):
                             final = final +' '+swaps(appending_words)+'.'
                     return final
         return ""
-def open_brain0(m, brain0_path):
-    with open(brain0_path, 'r') as f:
+def open_brain(m, brain_path):
+    with open(brain_path, 'r') as f:
         lines = f.readlines()
     for line in lines:
         line=line.strip()
@@ -185,7 +185,7 @@ def open_brain0(m, brain0_path):
                     return "I matched to this pattern, but there are no replies for it: "+pattern+"."
                 return random.choice(cpy)
     return ""
-def aliza_says(m, brain_path="brain.txt", brain0_path="brain0.txt"):
+def aliza_says(m, brain_path="brain.txt"):
     global conv_ended
     temp=m
     m=m.replace('?', '')
@@ -211,25 +211,25 @@ def aliza_says(m, brain_path="brain.txt", brain0_path="brain0.txt"):
     else:
         r=bot(m, brain_path)
         if r=="":
-            return open_brain0("NOTFOUND", brain0_path)
+            return open_brain("NOTFOUND", brain_path)
         elif r=="INSULT DETECTED":
-            return open_brain0("INSULT", brain0_path)
+            return open_brain("INSULT", brain_path)
         elif r=="COMPLEMENT DETECTED":
-            return open_brain0("COMPLEMENT", brain0_path)
+            return open_brain("COMPLEMENT", brain_path)
         elif r=="JOKE MODE":
-            return open_brain0("JOKES", brain0_path)
+            return open_brain("JOKES", brain_path)
         elif r=="SALUTE MODE":
-            return open_brain0("SALUTE", brain0_path)
+            return open_brain("SALUTE", brain_path)
         elif r=="END IT":
             conv_ended = True
-            return open_brain0("FIN", brain0_path)
+            return open_brain("FIN", brain_path)
         elif r=="EMOJI MODE":
-            return open_brain0("EMOJI", brain0_path)
+            return open_brain("EMOJI", brain_path)
         elif r=="HORROR MODE":
-            return open_brain0("HORROR", brain0_path)
+            return open_brain("HORROR", brain_path)
         elif r=="TELL TIME":
             da = datetime.now().strftime("Today is: %d/%m/%Y. The time is %H:%M:%S.")
             return da
         return r
-def start(brain0_path="brain0.txt"):
-    return open_brain0("START", brain0_path)
+def start(brain_path="brain.txt"):
+    return open_brain("START", brain_path)

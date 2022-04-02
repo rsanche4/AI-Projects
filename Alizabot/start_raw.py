@@ -1,6 +1,5 @@
 # Sends message to ALIZA. No Gui.
 # Author: Rafael Sanchez
-
 from datetime import datetime
 import brain
 print("")

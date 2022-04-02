@@ -10,6 +10,7 @@ pygame.mixer.init()
 number_of_tracks = 6
 rand = random.randint(0, number_of_tracks-1)
 pygame.mixer.music.load("track"+str(rand)+".mp3")
+pygame.mixer.music.set_volume(0.5)
 pygame.mixer.music.play(-1)
 
 loading=True
@@ -27,15 +28,13 @@ e = Entry(root, width=71, borderwidth=5, font=('Courier', 15, 'bold'))
 e.place(x=12, y=550)
 def myClick():
     global e
-    z_mes=brain.aliza_says(e.get(), 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt', 'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain0.txt')
-    abel.configure(text=z_mes)
+    z_mes=brain.aliza_says(e.get())
     e.delete(0, END)
-    
-
+    abel.configure(text=z_mes)
 def func(event):
     myClick()
 root.bind('<Return>', func)
-displayed_message=brain.start(brain0_path='C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain0.txt')
+displayed_message=brain.start()
 abel = Label(root,width=24,height=16, text=displayed_message,justify=LEFT,anchor=NW, wraplength=340, font=('Courier', 18, 'bold'), bg="black",fg="red", borderwidth=10, relief="ridge")
 abel.place(x=530, y=80)
 zo = Label(root,text="ALIZA CHATBOT", width=17,font=('Courier', 23, 'bold'),bg='black',fg="violet",borderwidth=10,relief="ridge")

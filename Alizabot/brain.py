@@ -8,6 +8,9 @@ def match(text, pattern):
     if fnmatch.fnmatch(text, pattern) or fnmatch.fnmatch(text, pattern+" *") or fnmatch.fnmatch(text, "* "+pattern) or fnmatch.fnmatch(text, "* "+pattern+" *"):
         return True
     else:
+        plural = pattern+'s'
+        if fnmatch.fnmatch(text, plural) or fnmatch.fnmatch(text, plural+" *") or fnmatch.fnmatch(text, "* "+plural) or fnmatch.fnmatch(text, "* "+plural+" *"):
+            return True
         return False
 def turn_loweri_toI(m):
     m_list=m.split()

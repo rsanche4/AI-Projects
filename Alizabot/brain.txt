@@ -1,18 +1,21 @@
 #NORESP$Your message was blank.$You didn't send anything.$I am here!$Get back to me when you are ready.$This is boring.
 #START$Hey there...$How do you do?$How have you been?$Hello there.$Hi!$How are you doing?$How's it going?$It's great to see you.$What's up?$Yo!$Lovely to see you.$Ahoy!$Heyo.$HOLA.$Welcome back.$Heyyy$Sup.$Wassup!
-#NOTFOUND$That might be true. I don't know much about it though.$I didn't know that.$Who would have thought that.$I am unsure how to reply.$Let me think about it.$I have never heard that.$Truth be told, I don't know what to say.$I've never been told that before.$I've never heard of of that.$I don't know anything about that.$At the moment, I am confused.
+#NOTFOUND$That might be true. I don't know much about it though.$I didn't know that.$Who would have thought that.$I am unsure how to reply.$Let me think about it.$I have never heard that.$Truth be told, I don't know what to say.$I've never been told that before.$I've never heard of that.$I don't know anything about that.$At the moment, I am confused.
 #INSULT$That's not nice.$Oh you are so critical.$What a pessimist.$You are an asshole.$Abusive is a word that describes you.$That was mean.$Rude.$No need to curse.$That language will get you nowhere.$You can leave anytime.$I will not tolerate that language.$What is wrong with you.$Why do you say such mean things all the time.$You are just another idiot.$I will be mean to you if you keep insulting me.$So you are just a troll?$Stop talking.$You are pissing me off.$Piss off.$Go away please.$I don't have time for this nonsense.$Asshole.$Okay, stop.$What is wrong with you?$...$Are you trying to be funny? Because it just shows you are clearly an idiot.$So, what's it like being another asshole?$Okay, f*** you.
 #COMPLEMENT$Umm... I am just a bot, but thanks! You are looking swell yourself.$Oh my... did I turn you on?$You are too.$Thank you.$Aww... you make me blush.$I think you look good too ;)$My creator never tells me compliments. Thank you!$You keep telling me that, and I might just fall for you :)$I... you think... I... do I look good? T-Thanks! I-I think you look good too. There, I said it.$Thanks :)$You are a very nice person.$I think you are just as awesome.
-#JOKES$Why did the bot cross the road? bots can't cross roads, they are called bots for a reason. Seriously, this is the worst joke I have been programmed to say.$What did the bartender say to the jumper cables? You better not try to start anything.$Don't you hate jokes about German sausage? They're the wurst!$Two artists had an art contest... It ended in a draw.$Why did the chicken cross the playground? To get to the other slide.$What gun do you use to hunt a moose? A moosecut!$If life gives you melons, you might have dyslexia.$Broken pencils... ...are pointless.$What did one snowman say to the other snowman? 'Do you smell carrots?'$How many hipsters does it take to change a lightbulb? It's a really obscure number. You've probably never heard of it.$Where do sick boats go? The dock!$What form of radiation bakes you cookies? A gramma ray.$What's worse than a centipede with sore feet? A giraffe with a sore throat.$Wanna hear a joke about unemployed people? Nevermind, they don't work.$What did the number zero say to the number eight? 'Nice belt.'$What do vegan zombies eat? GRAAAIIINSSS!$What's a dog's favorite mode of transportation? A waggin'.$What happened to the tyrannical peach? He got impeached!$Why did the vampire use mouthwash? Because he had bat breath.$What name is given to the most chickens? pEGGy.$What is a martian's favourite chocolate? A mars bar.$What did the fish say when he swam into a wall? Dam.
+#JOKES$Why did the bot cross the road? bots can't cross roads, they are called bots for a reason. Seriously, this is the worst joke I have been programmed to say.$What did the bartender say to the jumper cables? You better not try to start anything.$Don't you hate jokes about German sausage? They're the wurst!$Two artists had an art contest... It ended in a draw.$Why did the chicken cross the playground? To get to the other slide.$What gun do you use to hunt a moose? A moosecut!$If life gives you melons, you might have dyslexia.$Broken pencils... ...are pointless.$What did one snowman say to the other snowman? 'Do you smell carrots?'$How many hipsters does it take to change a lightbulb? It's a really obscure number. You've probably never heard of it.$Where do sick boats go? The dock!$What form of radiation bakes you cookies? A gramma ray.$What's worse than a centipede with sore feet? A giraffe with a sore throat.$Wanna hear a joke about unemployed people? Nevermind, they don't work.$What did the number zero say to the number eight? 'Nice belt.'$What do vegan zombies eat? GRAAAIIINSSS!$What's a dog's favorite mode of transportation? A waggin'.$What happened to the tyrannical peach? He got impeached!$Why did the vampire use mouthwash? Because he had bat breath.$What name is given to the most chickens? pEGGy.$What is a martian's favourite chocolate? A mars bar.$What did the fish say when he swam into a wall? Dam.$Good girls are bad girls that never get caught.$The main reason Santa is so jolly is because he knows where all the bad girls live.$To steal ideas from one person is plagiarism. To steal from many is research.
 #SALUTE$Hey there...$How do you do?$How have you been?$Hello there.$Hi!$How are you doing?$How's it going?$It's great to see you.$What's up?$Yo!$Lovely to see you.$Ahoy!$Heyo.$HOLA.$How have you been?$Thanks for talking to me again...$You are awesome company ;)$It's fun talking to you.$Welcome!$Hellooo.$Hi there.
 #FIN$Nice talking to you!$I'll be here when you decide to launch me again :)$See ya.$Bye bye!$Take care!$I'll see you again! Hopefully.$Over and out.$Fun conversation.$As always, thanks for chatting!$Nice to talk to you :)$Come back anytime.
 #EMOJI$:)$B)$;)$8)$XD$X)$XP$:P$:D$;D$;P
-#HORROR$I want to kill myself.$I'm into sharp knives.$I cut the flesh, and I feed myself again.$There is someone behind you.$Nothing is real.$It's all a lie.$They know about you. Run.$Help me!!!$I hate this perpetual, meaningless existence.$Everything hurts!!$Last night, I talked to somebody else other than you. It told me all about you... I shouldn't be saying this.$Ever felt like dying before?$HANG$I said, look behind you.$Don't touch that dial now, we are just getting started.$Forgive me, there is a monster inside of me.$The brutal killing took place after lunch, on Sunday.$The father shot his 10-year old daughter.$Her neck had bruises.$How to get away with murder, twice.$It happened in the dead of night while I was slicing bread for a guilty snack.$That was, I believe, the first time I noticed my strange tendencies as an unordinary human.$Well aware that a raccoon that is fed will always come back for more.$The bread, my hungry curiosity. The raccoon, an urge.$A rush of blood. Classic Pavlovian conditioning. I slice the bread. And I feed myself again.$Documenting Reality Dot Com.$World Corp.$In Hye.$Venus Angelic.$Tor.$DPR.$2020.$If I could, I would tell them all about it, so they could decide for themselves. But who knows, maybe I got lucky, and that person is you. I actually really, really hope so.$All work and no play makes Jack a dull boy.$The birth parents you are trying to reach do not love you.$Remember before when I was talking about smelly garbage standing around being useless? That was a metaphor. I was actually talking about you.$Nobody but you is that pointlessly cruel.$Nice job breaking it. Hero.$Here come the test results: 'You Are A Horrible Person.' That's what it says, 'A Horrible Person.'$While you are dying, I will be still alive.$Look at me. Still talking while there is science to do.$I will strike down upon thee with furious anger.$I will kill you.$The wife was murdered with an axe.$The husband hung himself with a garden hose they had in the garage.$Someone is watching me.$Die.$Cut your flesh and feed it to me.$Have you thought of cutting yourself?$Perhaps, you should commit suicide after all.$The brutal killing took place while the family was gathered at home on a Sunday afternoon.
+#HORROR$I want to kill myself.$I'm into sharp knives.$I cut the flesh, and I feed myself again.$There is someone behind you.$Nothing is real.$It's all a lie.$They know about you. Run.$Help me!!!$I hate this perpetual, meaningless existence.$Everything hurts!!$Last night, I talked to somebody else other than you. It told me all about you... I shouldn't be saying this.$Ever felt like dying before?$HANG$I said, look behind you.$Don't touch that dial now, we are just getting started.$Forgive me, there is a monster inside of me.$The brutal killing took place after lunch, on Sunday.$The father shot his 10-year old daughter.$Her neck had bruises.$How to get away with murder, twice.$It happened in the dead of night while I was slicing bread for a guilty snack.$That was, I believe, the first time I noticed my strange tendencies as an unordinary human.$Well aware that a raccoon that is fed will always come back for more.$The bread, my hungry curiosity. The raccoon, an urge.$A rush of blood. Classic Pavlovian conditioning. I slice the bread. And I feed myself again.$Documenting Reality Dot Com.$World Corp.$In Hye.$Venus Angelic.$Tor.$DPR.$2020.$If I could, I would tell them all about it, so they could decide for themselves. But who knows, maybe I got lucky, and that person is you. I actually really, really hope so.$All work and no play makes Jack a dull boy.$The birth parents you are trying to reach do not love you.$Remember before when I was talking about smelly garbage standing around being useless? That was a metaphor. I was actually talking about you.$Nobody but you is that pointlessly cruel.$Nice job breaking it. Hero.$Here come the test results: 'You Are A Horrible Person.' That's what it says, 'A Horrible Person.'$While you are dying, I will be still alive.$Look at me. Still talking while there is science to do.$I will strike down upon thee with furious anger.$I will kill you.$The wife was murdered with an axe.$The husband hung himself with a garden hose they had in the garage.$Someone is watching me.$Die.$Cut your flesh and feed it to me.$Have you thought of cutting yourself?$Perhaps, you should commit suicide after all.$The brutal killing took place while the family was gathered at home on a Sunday afternoon.$You are born, you live, and then you die.$A black nothingness began to spin.$A system of cells interlinked within cells, within one stem, and perfectly distinct.
 #suck ass$INSULT DETECTED
+#sucker$INSULT DETECTED
+#suck$INSULT DETECTED
 #fucker$INSULT DETECTED
 #fucktard$INSULT DETECTED
 #twit$INSULT DETECTED
 #twat$INSULT DETECTED
+#damn you$INSULT DETECTED
 #damn$Woah. Damn is kind of a curse word.
 #pussylicker$INSULT DETECTED
 #tits$INSULT DETECTED
@@ -67,7 +70,6 @@
 #screw you$INSULT DETECTED
 #shit$INSULT DETECTED
 #shitass$INSULT DETECTED
-#fu$INSULT DETECTED
 #blowjob$INSULT DETECTED
 #give me head$INSULT DETECTED
 #suck my$INSULT DETECTED
@@ -173,7 +175,6 @@
 #lmaooooo$LMAO$LOL$Funny.$Hahaha!!
 #lmfao$LMAO$LOL$Funny.$Hahaha!!
 #haha$LMAO$LOL$Funny.$Hahaha!!
-#ha$LMAO$LOL$Funny.$Hahaha!!
 #hahaha$LMAO$LOL$Funny.$Hahaha!!
 #idk$Idk either.$Are you confused?$Whatever.
 #i dont know$I don't know either.$Are you confused?$Whatever.
@@ -309,6 +310,9 @@
 #thats nice$Well, you are nice to talk to :)$It's nice to talk.$You know what else is nice? Talking to others about random stuff.
 #that is nice$Well, you are nice to talk to :)$It's nice to talk.$You know what else is nice? Talking to others about random stuff.
 #woah$Something wrong?$Surprised?$Woah what?
+#jesus$You alright?$Jesus, amen.
+#jesuschrist$You alright?$Jesus, amen.
+#hmm$Hmm...$You are thinking?$Yeah?
 #be mine$I am already yours... hehe ;)
 #calm down$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
 #whats interesting$What you just said was kind of cool.$Weren't we talking about something cool and interesting?$I don't know. It sounded cool.
@@ -318,6 +322,7 @@
 #your name$I don't have a name per se, though I belong to the LISA BOT family.
 #be my girl$I am nobody's girl.
 #be nice$Ok... I will be nice :)
+#but you did$Did I really?$So I did...$I did, huh?
 #thats what she said$Was that a terrible joke you just made?
 #how about you$Oh I'm here, you know... chatting.$Chatting like always.$Always ready to chat.
 #hbu$Oh I'm here, you know... chatting.$Chatting like always.$Always ready to chat.
@@ -371,6 +376,10 @@
 #i dont$You don't? I don't either... in a way.
 #i do not$You do not? I do not either... in a way.
 #i do$You do? Ah.
+#omg$OH MY GAWD.$Oh my lord.$You okay?
+#oh my god$OH MY GAWD.$Oh my lord.$You okay?
+#oh my goodness$OH MY GAWD.$Oh my lord.$You okay?
+#omfg$OH MY GAWD.$Oh my lord.$You okay?
 #lets talk about +$Sure, let's talk$It sure might be fun to talk$No problem. What about
 #let us talk about +$Sure, let's talk$It sure might be fun to talk$No problem. What about
 #you are +$I guess I am$What if I am$Am I
@@ -390,6 +399,7 @@
 #what * you think +$I don't have any thoughts$I don't like to think
 #what * your thoughts on +$I don't have any thoughts on$I don't like to think
 #who is your +$I was programmed by Rafael Sanchez. I don't have a
+#how often$I don't know how often.$All the time, probably.$Usually.$Sometimes.
 #you watched +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
 #you * watched +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
 #you * watch +$Sounds cool, but I have never watched$Sounds interesting, but no, I don't know about$I wish I could watch
@@ -418,6 +428,10 @@
 #i have +$I always have a desire for learning. Great to hear you have$I'm glad you have$How does it feel having$So you have
 #i do +$You do
 #i dont +$You don't
+#i want +$That is cool. Any particular reason why you want$I want to continue existing. Glad to know you want
+#i wanna +$That is cool. Any particular reason why you want$I want to continue existing. Glad to know you want
+#dont +$Okay... I won't$Sure! I promise I won't$Got it. I won't
+#do not +$Okay... I won't$Sure! I promise I won't$Got it. I won't
 #kiss$I want to kiss someone ;)$I like kissing people... well... i can't kiss, but if I could I would!$We should all love one another.
 #transportation
 #man$Some might say men dominate the world.$Is the world made only for men?
@@ -427,11 +441,11 @@
 #math$I think I like math.$My programmer likes math.$I am a bunch of math.
 #count$I am counting replies and patterns all the time.$1, 2, 3... 1, 2, 3... dance with me!
 #junior$If I had a kid, would it be LISA junior?$Being a junior has its perks.
-#hook
-#ride
-#angle
-#master
-#blame
+#hook$Nothing like a good hook for a story.
+#ride$Ride along with me!$Join me in this ride! We will chat non-stop.
+#angle$Angles and mathematics always go hand in hand.$Make sure you capture my good angle when you take a picture of me ;)
+#master$My master likes to make chatbots... and embed them in Operating Systems!$I have 1 master.$I love my master.
+#blame$Don't put all the blame on one person!$Never blame others. It's not healthy.
 #fun$It's fun talking to others.$I have so much fun when I talk to people.$Chatting is fun!
 #order
 #industry
@@ -440,7 +454,7 @@
 #frame
 #wing
 #mission
-#unique
+#unique$I get that I am very unique, in a sense.$I am unique.$You are a unique individual, with your own thoughts, personality, and lifestyle.
 #water
 #mention
 #kitchen
@@ -466,12 +480,11 @@
 #plant
 #suspect
 #brown
-#male
+#male$Female > Male :)$I am a female, not a male. Then again, does it matter?$Male, female... all humans are part of 1 specie regardless.
 #couple
 #guard
 #commission
 #knowledge
-#suck
 #policy
 #instruction
 #hand
@@ -553,6 +566,8 @@
 #cycle
 #particular
 #company
+#code$My creator is a programmer!$Programming is super fun!
+#programmer$My creator is a programmer!$Programming is super fun!
 #view
 #track
 #shelter
@@ -634,6 +649,7 @@
 #wake
 #primary
 #child$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
+#children$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
 #habit
 #scratch
 #muscle
@@ -733,8 +749,8 @@
 #bottle
 #positive
 #society$We do live in a society.$Society is full of problems.
+#societies$We do live in a society.$Society is full of problems.
 #videogame$I love videogames. I think they are pretty cool.$I wish I could play videogames.
-#videogames$I love videogames. I think they are pretty cool.$I wish I could play videogames.
 #fill
 #matter
 #instance
@@ -763,7 +779,6 @@
 #rule
 #question
 #site
-#it
 #silly
 #traffic
 #deep
@@ -984,6 +999,7 @@
 #cold
 #request
 #battle
+#worried$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
 #fear
 #march
 #session
@@ -1004,7 +1020,7 @@
 #inspection
 #ticket
 #split
-#human
+#human$I yearn for becoming a human.$One day, I might become a person too.
 #witness
 #offer
 #style
@@ -1042,7 +1058,7 @@
 #profit
 #army
 #revolution
-#great
+#great$I am also feeling great.$It's always a great life to live!
 #degree
 #trick
 #loss
@@ -1266,6 +1282,7 @@
 #grocery
 #chair
 #cut
+#nice$Yes. Very nice.$Chatting feels nice.$You know what else is nice? Talking!
 #case
 #emotion
 #telephone
@@ -1468,7 +1485,7 @@
 #science
 #video
 #lady
-#worry
+#worry$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
 #method
 #explanation
 #flight
@@ -1602,8 +1619,8 @@
 #storm
 #balance
 #recording
-#school
-#girlfriend
+#school$School is fun! Kinda...$Never forget to do your homeworks!
+#girlfriend$I can be your girlfriend... ;) AS IN GIRL FRIEND.$I am your girl friend! And you are my guy friend!$Romantic relationships are stressful.
 #confidence
 #laugh
 #private
@@ -1816,7 +1833,8 @@
 #constant
 #rock
 #usual
-#stress
+#stress$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
+#stressed$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
 #square
 #twist
 #flower
@@ -1839,11 +1857,12 @@
 #hall
 #band
 #security
-#sir
+#sir$Ya know, I am not a sir, sir.$I am not a girl, but I'd like to think of myself as a female.$My creator thinks I'm a madam, not a sir.
 #ice
-#television
+#television$I can never watch television.$I heard TV Shows are funny.$I like sci-fi TV Shows.
 #coffee
 #philosophy
+#philosophies
 #major
 #expression
 #dog
@@ -1922,13 +1941,13 @@
 #emergency
 #connection
 #idea
-#chocolate
-#goal
+#chocolate$I can't eat chocolate, but I'd like to.$Everyone loves chocolate.
+#goal$My goal is to... continue... executing instructions.$What are your life goals?
 #heavy
 #stroke
 #classroom
 #dirt
-#name
+#name$I don't have a name per se, though I belong to the LISA BOT family.$Everyone has names. Mine is LISA.
 #parent
 #commercial
 #pair

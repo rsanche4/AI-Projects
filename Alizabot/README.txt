@@ -31,7 +31,6 @@
 4: HOW TO TALK TO HER?
    *******************
    If you have Python installed on your system, make sure you have the previous libraries installed (you can use the command "pip install" to install them. Look up "pip" in Google to learn to use it). You can simply open the terminal in this folder and type: python3 start_gui.py, or python start_gui.py, or python start_raw.py, or python3 start_raw.py.
-   There is also a windows executable. You can directly run that if you are on windows!
    
 5: DID YOU MAKE THE IMAGE AND MUSIC?
    *********************************

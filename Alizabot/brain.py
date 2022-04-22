@@ -28,6 +28,10 @@ def is_empty(array):
     return True
 def swaps(m):
     m=turn_loweri_toI(m)
+    if match(m, "you were"):
+        m=m.replace("you were", "I WAS")
+    if match(m, "I was"):
+        m=m.replace("I was", "YOU WERE")
     if match(m, "are you"):
         m=m.replace('are you', 'AM 1')
     if match(m, "am I"):
@@ -37,7 +41,7 @@ def swaps(m):
     if match(m, 'I'):
         m=m.replace('I', 'YOU')
     if match(m, "you are"):
-        m=m.replace('you are', 'I AM')     
+        m=m.replace('you are', 'I AM') 
     if match(m, "you"):
         m=m.replace('you', '1')
     if match(m, "me"):
@@ -50,10 +54,6 @@ def swaps(m):
         m=m.replace('mine', 'YOURS')
     if match(m, "yours"):
         m=m.replace('yours', 'MINE')
-    if match(m, "you were"):
-        m=m.replace("you were", "I WAS")
-    if match(m, "I was"):
-        m=m.replace("I was", "YOU WERE")
     if match(m, "myself"):
         m=m.replace("myself", "YOURSELF")
     if match(m, "yourself"):

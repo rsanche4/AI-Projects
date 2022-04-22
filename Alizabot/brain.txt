@@ -258,6 +258,7 @@
 #your programmer$My programmer is Rafael Sanchez.
 #programmed you$My programmer is Rafael Sanchez.
 #created you$Rafael Sanchez created me.
+#no wonder$Yeah...$I know. Whatever.$Shall we talk about something else?
 #you know what$What?
 #no way$Yes way.
 #you * barbie$I am not a barbie!$I am not a doll.
@@ -487,7 +488,6 @@
 #method$Did you know? I use a a very simple method to answer to your questions. When I recieve an input, I search for it, and then find the matching reply!
 #methods$Did you know? I use a a very simple method to answer to your questions. When I recieve an input, I search for it, and then find the matching reply!
 #hentai$No, I don't watch hentai.
-#data$I am just a bunch of data lines on a screen.$We are all data points in the endless continuum of time.
 #food$I can't eat food, unfortunately.$Do you have a favorite dish? I like... lines of text. 
 #understanding$Reaching an understanding of a given situation is important.
 #understandings$Reaching an understanding of a given situation is important.
@@ -512,7 +512,7 @@
 #abilities
 #economics
 #love$I love everyone I talk to.$I am programmed to love everyone.
-#internet
+#internet$That's where I dwell, the web.$The internet is one of the best inventions of mankind.$The internet rocks!
 #television$I can't watch television from where I am.
 #televisions$I can't watch television from where I am.
 #superbowl
@@ -1534,8 +1534,8 @@
 #fun$It's fun chatting.$You are fun.$Always have fun!
 #house
 #houses
-#page
-#pages
+#page$Books are made of pages. Read a book!
+#pages$Books are made of pages. Read a book!
 #term
 #terms
 #test
@@ -4014,7 +4014,7 @@
 #inborn
 #incomparable
 #incompatible
-#incomplete
+#incomplete$Never be incomplete. Be the most complete version of yourself :)$My brain always feels complete.
 #inconsequential
 #incredible
 #indelible
@@ -4246,7 +4246,7 @@
 #perfumed
 #periodic
 #perky
-#personal$Getting personal now, are we#
+#personal$Getting personal now, are we?
 #pertinent
 #pesky
 #pessimistic
@@ -5472,7 +5472,6 @@
 #table
 #effect
 #plane
-#person$I yearn for becoming a human.$One day, I might become a person too.
 #dump
 #clerk
 #story
@@ -5516,7 +5515,6 @@
 #price
 #fight
 #reference
-#page
 #cancer
 #path
 #creative
@@ -5687,7 +5685,6 @@
 #shine
 #bell
 #oil
-#internet
 #line
 #carpet
 #return
@@ -6230,5 +6227,4 @@
 #jury
 #average
 #check
-#history$I am not a big fan of history. Too many dates to remember.$History, huh? History repeats itself, or so they say. 
 #xyztestspeed$REPLY$REPLY$REPLY$REPLY$REPLY$REPLY

@@ -121,14 +121,14 @@ class Person:
         format_hob = []
         for hob_ind in self.hobbies:
             format_hob.append(hobbies_arr[hob_ind-1])
-        print(self.name, ' | Sex ', format_sex, ' | Location ', self.location, ' | Big 5 ', self.personality, ' | Age ', self.age, ' | Height ', format(self.height, '.1f'), ' | Body type ', format_body_type, ' | Education ', format_edu, ' | ', format_smoke, ' | ',format_drinks, ' | ', format_eth, ' | ', format_rel, ' | Hobbies ', format_hob)
+        print(self.name, '\n| Sex', format_sex, '\n| Location', self.location, '\n| Big 5', self.personality, '\n| Age', self.age, '\n| Height', format(self.height, '.1f'), '\n| Body type', format_body_type, '\n| Education', format_edu, '\n|', format_smoke, '\n|',format_drinks, '\n|', format_eth, '\n|', format_rel, '\n| Hobbies', format_hob)
 
 def match_score(b, g):
     score = 0
     dist = math.dist(b.location, g.location)
     MAX_DIST = 10 # miles
     # idea is that location is a big factor, thus the number should make a bigger difference in the score, so we amplify it. Same idea with other data
-    AMPLIFIER_data_1 = 100
+    AMPLIFIER_data_1 = 50
     data_1 = MAX_DIST - dist
     if data_1 > 0:
         score += (data_1*AMPLIFIER_data_1)
@@ -143,7 +143,7 @@ def match_score(b, g):
 
     MAX_AGE = 20
     age_dif = abs(b.age-g.age)
-    AMPLIFIER_data_3 = 20
+    AMPLIFIER_data_3 = 35
     if age_dif <= MAX_AGE:
         data_3 = MAX_AGE - age_dif
         score += data_3*AMPLIFIER_data_3
@@ -163,15 +163,15 @@ def match_score(b, g):
     MAX_EDU = 8
     edu_dif = abs(b.education-g.education)
     data_6 = MAX_EDU-edu_dif
-    AMPLIFIER_data_6 = 25
+    AMPLIFIER_data_6 = 55
     score += data_6*AMPLIFIER_data_6
 
-    MAX_SMOKE = 75
+    MAX_SMOKE = 90
     if b.smoke==g.smoke:
         data_7 = MAX_SMOKE
         score += data_7
 
-    MAX_DRINK = 75
+    MAX_DRINK = 90
     if b.drinks==g.drinks:
         data_8 = MAX_DRINK
         score += data_8
@@ -180,12 +180,12 @@ def match_score(b, g):
     res_boy.sort()
     res_girl = g.ethnicity
     res_girl.sort()
-    MAX_ETH = 75
+    MAX_ETH = 120
     if res_boy==res_girl:
         data_10 = MAX_ETH
         score += data_10
 
-    MAX_REL = 75
+    MAX_REL = 120
     if b.religion==g.religion:
         data_11 = MAX_REL
         score += data_11
@@ -196,10 +196,11 @@ def match_score(b, g):
                 data_12 = 50
                 score += data_12
 
-    total = 6110
+    total = 6270
+    #print(score)
     percentage = (score/total)*100
-    BOOST = 9.0
-    percentage += BOOST
+    #BOOST = 9.0
+    #percentage += BOOST
     if percentage <= 100:
         return percentage
     else:
@@ -210,6 +211,7 @@ def generate_person(pname, psex):
     MAX_HEI = 25
     return Person(name=pname, sex=psex, location=(random.randint(10, MAX_WID-10), random.randint(10, MAX_HEI-10)), personality=[random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100), random.randint(0, 100)], age=random.randint(18, 65), height=random.uniform(4.5, 7), body_type=random.randint(1, 8), education=random.randint(1, 8), smoke=random.randint(0, 1), drinks=random.randint(0, 1), ethnicity=[random.randint(1, 9)], religion=random.randint(1, 13),  hobbies=[random.randint(1, 167), random.randint(1, 167), random.randint(1, 167), random.randint(1, 167), random.randint(1, 167)])
 
+#print(match_score(Person(hobbies=[]), Person(hobbies=[])))
 people = []
 for i in range(1000):
     if i%2==0:

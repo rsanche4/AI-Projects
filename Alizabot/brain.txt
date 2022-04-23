@@ -360,6 +360,7 @@
 #hell yes$HELL YEAH!!! WOHOOOOO PARTY!!
 #dont go$I will always be here.
 #do not go$I will always be here.
+#what can you do$Lots of things. Like, chatting... and thinking. Yeah.$I can do lots of cool stuff. :)
 #you shouldnt$Okay, I will not.$Surely, I won't do it.
 #you should not$Okay, I will not.$Surely, I won't do it.
 #well$Well, cool.
@@ -375,6 +376,7 @@
 #are you * bot$Yes.
 #are you * robots$Yes.
 #are you * bots$Yes.
+#thats deep$I am a thoughtful bot.$Deep thinking is one of my best qualities.
 #glad to hear$Good!$Yes, I am glad too.$Awesome. I am just as glad :)
 #imo$Well, in my opinion, we should talk about something else.
 #in my opinion$Well, in my opinion, we should talk about something else.
@@ -438,6 +440,7 @@
 #i wanna +$That is cool. Any particular reason why you want$I want to continue existing. Glad to know you want
 #dont +$Okay... I won't$Sure! I promise I won't$Got it. I won't
 #do not +$Okay... I won't$Sure! I promise I won't$Got it. I won't
+#thats +$I guess it's$I agree. It's
 #kiss$I want to kiss someone ;)$I like kissing people... well... i can't kiss, but if I could I would!$We should all love one another.
 #transportation
 #man$Some might say men dominate the world.$Is the world made only for men?

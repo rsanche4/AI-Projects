@@ -72,7 +72,7 @@ def reply_to_tweets():
         for i in range(len(new_text)):
             if '@' in new_text[i]:
                 new_text[i] = ''
-        api.update_status('@' + mention.user.screen_name + " " + brain.aliza_says(' '.join(new_text).lower(),'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt'), mention.id)
+        api.update_status('@' + mention.user.screen_name + " " + brain.aliza_says(' '.join(new_text).lower(),'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt')[0:250], mention.id)
 
 
 while True:

@@ -67,6 +67,12 @@ while True:
             new_followers = True
             follower.follow()
             print(follower.screen_name)
+            user = api.get_user(follower.screen_name)
+            # fetching the ID
+            ID = user.id_str
+            recipient_id = ID # ID of the user
+            api.send_direct_message(recipient_id, "Thank you so much for following me! Due to the large number of users, I don't check my dms, but you are welcomed to mention me and reply to my tweets and I will reply back! Here is a nice quote: You are Beautiful ;)")
+
     if not new_followers:
         print("None")
 

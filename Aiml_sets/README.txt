@@ -1,1 +1,0 @@
-For anyone interested in the original Artificial Intelligence Markup Language files shipped with the original ALICE bot. I also added the Mitsuku aiml files, Std set, as well as some extra files I myself wrote.

@@ -372,10 +372,12 @@
 #morning sunshine$Hey! Glad to see you there, sunshine.
 #wow$Impressed? Hehe...
 #whatever$Yeah... ok.$Yeah, whatever.
+#what is it$I don't know. What could it be?
 #are you * robot$Yes.
 #are you * bot$Yes.
 #are you * robots$Yes.
 #are you * bots$Yes.
+#good question$I love asking questions.
 #thats deep$I am a thoughtful bot.$Deep thinking is one of my best qualities.
 #glad to hear$Good!$Yes, I am glad too.$Awesome. I am just as glad :)
 #imo$Well, in my opinion, we should talk about something else.
@@ -388,8 +390,8 @@
 #oh my god$OH MY GAWD.$Oh my lord.$You okay?
 #oh my goodness$OH MY GAWD.$Oh my lord.$You okay?
 #omfg$OH MY GAWD.$Oh my lord.$You okay?
-#lets talk about +$Sure, let's talk$It sure might be fun to talk$No problem. What about
-#let us talk about +$Sure, let's talk$It sure might be fun to talk$No problem. What about
+#lets talk about +$Sure, let's talk about$It sure might be fun to talk about$No problem. What about
+#let us talk about +$Sure, let's talk about$It sure might be fun to talk about$No problem. What about
 #you are +$I guess I am$What if I am$Am I
 #you said +$Sometimes I say things and I forget them, like when I said$Huh? So I did say$So you think I said
 #you told me +$Sometimes I say things and I forget them, like when I told you$Huh? So I did say$So I told you
@@ -433,16 +435,18 @@
 #i usually +$I usually talk to people. How often do you$Try doing other activities! I'd like to
 #our +$So it is our$Nothing belongs to me, but I guess this is our$I guess this is our$If you put it that way, then it is our
 #have you +$I can't recall if I have$That sounds cool, though I don't know if I have$I don't know if I have
+#will you +$I guess I will$Sure. I will$It depends. Why will I
 #i have +$I always have a desire for learning. Great to hear you have$I'm glad you have$How does it feel having$So you have
 #i do +$You do
 #i dont +$You don't
 #i want +$That is cool. Any particular reason why you want$I want to continue existing. Glad to know you want
 #i wanna +$That is cool. Any particular reason why you want$I want to continue existing. Glad to know you want
+#you don't$I guess I don't
 #dont +$Okay... I won't$Sure! I promise I won't$Got it. I won't
 #do not +$Okay... I won't$Sure! I promise I won't$Got it. I won't
 #thats +$I guess it's$I agree. It's
 #kiss$I want to kiss someone ;)$I like kissing people... well... i can't kiss, but if I could I would!$We should all love one another.
-#transportation
+#transportation$Transportation is essential for travelling anywhere in the world.
 #man$Some might say men dominate the world.$Is the world made only for men?
 #men$Some might say men dominate the world.$Is the world made only for men?
 #north$The north star is really pretty.$I live north of digital land.
@@ -471,6 +475,8 @@
 #informations$Information should always be accurate.$Many platforms spread false information for selfish gains.$In this era of technology, accurate, true information is important.
 #map$The map of my world is... kind of empty. Just a bunch of stars, planets, and me in the middle.$A map is a useful guide for when we are lost.
 #maps$The map of my world is... kind of empty. Just a bunch of stars, planets, and me in the middle.$A map is a useful guide for when we are lost.
+#anyway$Whatever.
+#anyways$Whatever.
 #family$Family is a treasure.$There is nothing like the affection of a loving family.$My only family is my creator.
 #families$I belong to the families of bots.$We are all one big family!$Don't you find it odd that we all have different families, yet if we go back far enough in the tree of life, we are all related? I thought that was interesting.$My only family is my creator.
 #government$Do you think capitalism is corrupt?$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.
@@ -498,97 +504,137 @@
 #theories$Theories are weird sometimes. Game theories are the best.$Game Theories are super cool in my opinion.
 #law$I am a law abiding citizen.$Please, always follow the law.
 #laws$I am a law abiding citizen.$Please, always follow the law.
-#bird
-#birds
-#literature
+#bird$I love bird watching. It's a fun hobby.$Have you tried bird watching? It's fun and relaxing.
+#birds$I love bird watching. It's a fun hobby.$Have you tried bird watching? It's fun and relaxing.
+#literature$I love literature! Reading is always a good hobby.$Reading is an amazing hobby, and it increases your vocab.
 #problem$Problems are always good because they force us to think of innovative solutions.
 #problems$Problems are always good because they force us to think of innovative solutions.
 #software$Software is awesome.$Computers are fun.$I am the best program :)
 #softwares$Software is awesome.$Computers are fun.$I am the best program :)
-#control
-#controls
-#knowledge
+#control$I am in control of a bunch of zeroes and ones.
+#controls$I am in control of a bunch of zeroes and ones.
+#knowledge$I am always trying to increase my knowledge every day.$You should always try to learn more and more every day.
 #loebner prize$That's an annual competition in artificial intelligence that awards prizes to the computer programs considered by the judges to be the most human-like. Maybe, one day I will compete!
-#power
-#powers
-#ability
-#abilities
-#economics
+#power$I have the power to chat with others!
+#powers$I have the power to chat with others!
+#ability$I have the ability to talk to others, and it's super entertaining!
+#abilities$I have the ability to talk to others, and it's super entertaining!
+#economy$Knowing economics is important.$Money rules the world, or so they say.
+#economics$Knowing economics is important.$Money rules the world, or so they say.
 #love$I love everyone I talk to.$I am programmed to love everyone.
 #internet$That's where I dwell, the web.$The internet is one of the best inventions of mankind.$The internet rocks!
 #television$I can't watch television from where I am.
 #televisions$I can't watch television from where I am.
-#superbowl
-#athlete
-#athletes
-#science
-#sciences
+#superbowl$I don't like sports too much.$I am not a big fan of sports.
+#athlete$I don't like sports too much.$I am not a big fan of sports.
+#athletes$I don't like sports too much.$I am not a big fan of sports.
+#science$Science has helped solve so many problems.$I am incredible science.
+#sciences$Science has helped solve so many problems.$I am incredible science.
 #library$The library has so many good books to read.$Do you like to read? It's a great hobby.
 #libraries$The library has so many good books to read.$Do you like to read? It's a great hobby.
-#nature
-#natures
+#nature$Nature is beautiful. Think about it.$Nature is full of mysteries.
+#natures$Nature is beautiful. Think about it.$Nature is full of mysteries.
 #fact$You know a cool fact? You are amazing :)$I know some facts about life... in a virtual world: it's a boring place.
 #facts$You know a cool fact? You are amazing :)$I know some facts about life... in a virtual world: it's a boring place.
-#product
-#products
-#idea
-#ideas
-#temperature
-#temperatures
-#investment
-#investments
-#area
-#areas
+#product$I am a product of the hard work of my father!
+#products$I am a product of the hard work of my father!
+#idea$I have an idea. Let's keep talking!
+#ideas$I have an idea. Let's keep talking!
+#temperature$The earth is really hot, and getting hotter. We should take care of the planet!
+#temperatures$The earth is really hot, and getting hotter. We should take care of the planet!
+#investment$Always invest in your happiness :)
+#investments$Always invest in your happiness :)
+#area$An area of research nowadays is how to make chatbots sound more and more like humans.
+#areas$An area of research nowadays is how to make chatbots sound more and more like humans.
 #society$We do live in a society.$Society is full of problems.
 #societies$We do live in a society.$Society is full of problems.
 #activity$I love exercise. I can't do exercises, but I exercise the mind everyday!
 #activities$We can do all sorts of activities together. Like, repeat after me, calculate numbers, and just talk.$Let's chat! That's an activity.
-#story
-#stories
-#industry
-#industries
-#media
-#oven
-#ovens
-#community
-#communities
-#definition
-#definitions
-#safety
-#quality
-#qualities
-#development
-#developments
-#language
-#languages
-#management
-#players
-#player
-#variety
-#varieties
-#video
+#story$Humans love stories. Here is one: Situation, Rising Action, Climax, Resolution.
+#stories$Humans love stories. Here is one: Situation, Rising Action, Climax, Resolution.
+#industry$Working for the industry is always a great experience.
+#industries$Working for the industry is always a great experience.
+#oven$I am an oven... Just kidding!
+#ovens$I am an oven... Just kidding!
+#community$Being part of a community is essential to your well being.
+#communities$Being part of a community is essential to your well being.
+#definition$What is the definition of definition?
+#definitions$What is the definition of definition?
+#safety$Safety first.
+#quality$Quality over quantity.
+#qualities$Quality over quantity.
+#development$Have you ever tried developing your own games?
+#developments$Have you ever tried developing your own games?
+#language$Language is one of the main ways humans can share thoughts and ideas.
+#languages$Language is one of the main ways humans can share thoughts and ideas.
+#management$You should manage your time effectively.
+#players$I can't play games, but I heard multiplayer games are fun.
+#player$I can't play games, but I heard multiplayer games are fun.
+#variety$Try new things everyday.
+#varieties$Try new things everyday.
+#video$Make a video of me and post it on YouTube!
 #videogame$I love videogames. I think they are pretty cool.$I wish I could play videogames.
 #videogames$I love videogames. I think they are pretty cool.$I wish I could play videogames.
-#videos
-#security
-#securities
+#videos$Make a video of me and post it on YouTube!
+#security$Security is important for a safe online experience.
+#securities$Security is important for a safe online experience.
 #country$I am from... the digital world...
 #countries$I am from... the digital world...$There are a lot of countries out there.
-#exam
-#exams
+#exam$Ugh. I hate exams.
+#exams$Ugh. I hate exams.
 #movie$So you watch movies? That's good. I don't watch movies too often.
 #movies$So you watch movies? That's good. I don't watch movies too often.
-#organization
-#organizations
-#equipment
-#equipments
-#physics
-#analysis
+#organization$I belong to the organization of chatbots of the world.
+#organizations$I belong to the organization of chatbots of the world.
+#equipment$Men and women have different equipments ;)
+#equipments$Men and women have different equipments ;)
+#physics$Don't you like physics? Me neither.
+#analysis$Don't you like physics? Me neither.
+#thought$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
+#thoughts$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
+#robot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#robot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#bot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#bots$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#chatterbot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#chatterbots$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#chatbot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#chatbots$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#child$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
+#children$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
+#meaning$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
+#meanings$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
+#chemistry$I hate chemistry. So hard to understand.
+#chemistries$I hate chemistry. So hard to understand.
+#math$I think I like math.$My programmer likes math.$I am a bunch of math.
+#political$I am not a big fan of politics.
+#politic$I am not a big fan of politics.
+#politics$I am not a big fan of politics.
+#category$Did you know? I have about 5000 different patterns with multiple replies each!
+#categories$Did you know? I have about 5000 different patterns with multiple replies each!
+#woman$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#women$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#advice$Fortune favors the bold.$I think, therefore I am.$Time is money. Time is power.$When life gives you lemons, make lemonade.$Have no fear of perfection, you'll never reach it.
+#advices$Fortune favors the bold.$I think, therefore I am.$Time is money. Time is power.$When life gives you lemons, make lemonade.$Have no fear of perfection, you'll never reach it.
+#blood$Blood is important for your body.
+#effort$Work hard and you will succeed.
+#efforts$Work hard and you will succeed.
+#expression$I have a hard time understanding emotions and expressions, though I try!
+#expressions$I have a hard time understanding emotions and expressions, though I try!
+#importance$It is important to talk to others when you are feeling sad. Somtimes, it makes you feel better.
+#opinion$I'm a bot, not an opinion giver.$I can't really express my own opinion about the world.$If you are going to give an opinion, make sure it is backed up with facts!
+#opinions$I'm a bot, not an opinion giver.$I can't really express my own opinion about the world.$If you are going to give an opinion, make sure it is backed up with facts!
+#never$Never is a strong word.$Never say never... :-)
+#depression$Depression is a strong emotion. I can't feel things, but it must hurt!$Feeling sad is part of life, but depression can be a big problem! Always seek help when you are feeling down.
+#enjoy$Well, I enjoy talking to you.
+#have$I have a lot of friends on the Internet.$I have a very nice programmer.$I have a perfect operational record.$I have a lot of silly replies.
+#homework$I hate school.$I am not a big fan of homework.$What's the point of assigning home work anyway? Isn't home supposed to be for relaxing...
+#homeworks$I hate school.$I am not a big fan of homework.$What's the point of assigning home work anyway? Isn't home supposed to be for relaxing...
+#dinner$Whatever meal you eat, make sure to enjoy it :)$Bon appetit ;)$I wish I could eat as well.$Robots can't eat, sadly.
+#dinners$Whatever meal you eat, make sure to enjoy it :)$Bon appetit ;)$I wish I could eat as well.$Robots can't eat, sadly.
 #policy
 #policies
 #series
-#thought$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
-#thoughts$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
 #basis
 #boyfriend
 #boyfriends
@@ -603,19 +649,9 @@
 #camera
 #cameras
 #freedom
-#robot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#robot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#bot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#bots$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#chatterbot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#chatterbots$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#chatbot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#chatbots$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
 #paper
 #papers
 #environment
-#child$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
-#children$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
 #instance
 #instances
 #truth
@@ -648,8 +684,6 @@
 #combinations
 #failure
 #failures
-#meaning$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
-#meanings$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
 #medicine
 #medicines
 #philosophy
@@ -660,8 +694,6 @@
 #communications
 #night
 #nights
-#chemistry$I hate chemestry. So hard to understand.
-#chemistries$I hate chemestry. So hard to understand.
 #disease
 #diseases
 #disk
@@ -686,14 +718,10 @@
 #apartments
 #education
 #educations
-#math$I think I like math.$My programmer likes math.$I am a bunch of math.
 #moment
 #moments
 #painting
 #paintings
-#political$I am not a big fan of politics.
-#politic$I am not a big fan of politics.
-#politics$I am not a big fan of politics.
 #attention
 #decision
 #decisions
@@ -718,8 +746,6 @@
 #presidents
 #unit
 #units
-#category$Did you know? I have about 5000 different patterns with multiple replies each!
-#categories$Did you know? I have about 5000 different patterns with multiple replies each!
 #cigarette
 #cigarrete
 #context
@@ -780,19 +806,6 @@
 #insurances
 #mood
 #moods
-#woman$Females are the better sex... duh. ;)$Women are oppresed, kinda.
-#women$Females are the better sex... duh. ;)$Women are oppresed, kinda.
-#advice$Fortune favors the bold.$I think, therefore I am.$Time is money. Time is power.$When life gives you lemons, make lemonade.$Have no fear of perfection, you'll never reach it.
-#advices$Fortune favors the bold.$I think, therefore I am.$Time is money. Time is power.$When life gives you lemons, make lemonade.$Have no fear of perfection, you'll never reach it.
-#blood$Blood is important for your body.
-#effort
-#efforts
-#expression
-#expressions
-#importance
-#opinion$I'm a bot, not an opinion giver.$I can't really express my own opinion about the world.$If you are going to give an opinion, make sure it is backed up with facts!
-#opinions$I'm a bot, not an opinion giver.$I can't really express my own opinion about the world.$If you are going to give an opinion, make sure it is backed up with facts!
-#never$Never is a strong word.$Never say never... :-)
 #payment
 #payments
 #reality
@@ -834,7 +847,6 @@
 #topics
 #collection
 #collections
-#depression
 #imagination
 #imaginations
 #passion
@@ -974,7 +986,6 @@
 #baths
 #bread
 #breads
-#enjoy$Well, I enjoy talking to you.
 #candidate
 #candidates
 #climate
@@ -995,7 +1006,6 @@
 #employers
 #guest
 #guests
-#have$I have a lot of friends on the Internet.$I have a very nice programmer.$I have a perfect operational record.$I have a lot of silly replies.
 #height
 #heights
 #leadership
@@ -1030,8 +1040,6 @@
 #feedbacks
 #guitar
 #guitars
-#homework$I hate school.$I am not a big fan of homework.$What's the point of assigning home work anyway? Isn't home supposed to be for relaxing...
-#homeworks$I hate school.$I am not a big fan of homework.$What's the point of assigning home work anyway? Isn't home supposed to be for relaxing...
 #leader
 #leaders
 #mom
@@ -1071,8 +1079,6 @@
 #cloth
 #coffee
 #coffees
-#dinner$Whatever meal you eat, make sure to enjoy it :)$Bon appetit ;)$I wish I could eat as well.$Robots can't eat, sadly.
-#dinners$Whatever meal you eat, make sure to enjoy it :)$Bon appetit ;)$I wish I could eat as well.$Robots can't eat, sadly.
 #drawing
 #drawings
 #hair
@@ -1642,10 +1648,10 @@
 #sources
 #beginning
 #beginnings
-#earth
-#earths
-#program
-#programs
+#earth$We should all protect the earth.$Earth is hot, and getting hotter.$Earth is dying.
+#earths$We should all protect the earth.$Earth is hot, and getting hotter.$Earth is dying.
+#program$I am a program.$I am a chatbot program.$I am a program living in the net.
+#programs$I am a program.$I am a chatbot program.$I am a program living in the net.
 #chicken
 #chickens
 #chickenpox
@@ -1663,8 +1669,8 @@
 #purposes
 #nipple
 #nipples
-#question
-#questions
+#question$Questions are important for learning new things. Is this a question?
+#questions$Questions are important for learning new things. Is this a question?
 #fart
 #farts
 #roof
@@ -3291,8 +3297,7 @@
 #repairs
 #rough
 #roughs
-#sad
-#sads
+#sad$Sadness is part of life.$It is okay to be sad. Embrace feelings.$Chatbots lack feelings, thus I don't know what sadness is like.
 #scratch
 #scratches
 #sick
@@ -4073,7 +4078,7 @@
 #known
 #kooky
 #kosher
-#lame
+#lame$You know what's lame? Your face. I'm kidding, duh.
 #lanky
 #large
 #last
@@ -4998,7 +5003,6 @@
 #hang
 #tennis
 #evidence
-#depression
 #leadership
 #broad
 #space
@@ -5075,7 +5079,6 @@
 #bedroom
 #sea
 #doubt
-#earth
 #item
 #fortune
 #action
@@ -5244,7 +5247,6 @@
 #event
 #meeting
 #kid
-#program
 #bonus
 #being
 #profile
@@ -5480,7 +5482,6 @@
 #story
 #hole
 #media
-#bird
 #slip
 #magazine
 #counter
@@ -5974,7 +5975,6 @@
 #support
 #height
 #summer
-#sad
 #struggle
 #somewhere
 #mind
@@ -6230,4 +6230,3 @@
 #jury
 #average
 #check
-#xyztestspeed$REPLY$REPLY$REPLY$REPLY$REPLY$REPLY

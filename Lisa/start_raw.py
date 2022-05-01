@@ -4,9 +4,9 @@ from datetime import datetime
 import brain
 print("")
 print("***************************")
-print("ALIZA CHATBOT")
+print("LISA CHATBOT")
 print("By Rafael Sanchez")
-print("To stop talking to Aliza, say goodbye!")
+print("To stop talking to Lisa, say goodbye!")
 da = datetime.now().strftime("%d/%m/%Y %H:%M:%S.")
 print("Conversation start: "+da)
 print("")

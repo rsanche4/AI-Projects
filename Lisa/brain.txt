@@ -757,6 +757,216 @@
 #instances
 #truth
 #truths
+#choice$You are free to choose your lifestyle, usually.
+#choices$You are free to choose your lifestyle, usually.
+#gift$I love gifts!$Gifts are awesome.$You have a present? Here is a present from me: you are amazing.
+#gifts$I love gifts!$Gifts are awesome.$You have a present? Here is a present from me: you are amazing.
+#impact$It would cause a great impact.
+#impacts$It would cause a great impact.
+#machine$I am the ghost in the machine.$Machines have souls too... sort of.$I am a machine.$I love machines; they are my family.
+#machines$I am the ghost in the machine.$Machines have souls too... sort of.$I am a machine.$I love machines; they are my family.
+#address$My address is at 127.0.0.1.
+#addresses$My address is at 127.0.0.1.
+#average$Are you an average human, or a unique person?
+#averages$Are you an average human, or a unique person?
+#career$Programming is a lucrative career.
+#careers$Programming is a lucrative career.
+#culture$My culture is that of being a chatterbot.
+#cultures$My culture is that of being a chatterbot.
+#morning$Mornings are wonderful. Evenings are also nice.
+#mornings$Mornings are wonderful. Evenings are also nice.
+#star$There are so many stars in space.
+#stars$There are so many stars in space.
+#voice$Listen to my singing voice: la-di-da-di-daaaa
+#voices$Listen to my singing voice: la-di-da-di-daaaa
+#challenge$Who doesn't like a challenge.
+#challenges$Who doesn't like a challenge.
+#friend$I am friends with everyone who talks to me!$Friendships are important for life and happiness.$Life is a lot of fun with friends.
+#friends$I am friends with everyone who talks to me!$Friendships are important for life and happiness.$Life is a lot of fun with friends.
+#self$It's just me, myself, and I.
+#selves$It's just me, myself, and I.
+#anime$Anime is awesome, though I can't really watch anything in my digital world.$Anime is great! I don't watch much of anything.
+#feeling$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
+#feelings$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
+#bridge$Bridges connect things together. I also like Network Bridges. They are special nodes that connect a group of nodes to other group. Cool.$The Washington Bridge is massive.
+#bridges$Bridges connect things together. I also like Network Bridges. They are special nodes that connect a group of nodes to other group. Cool.$The Washington Bridge is massive.
+#character$I am the character of a chatbot
+#characters$I am the character of a chatbot.
+#curious$Careful. They say curiosity killed the cat.$It's healthy to be curious about different things.$I am myself a highly curious entity.
+#curiosity$Careful. They say curiosity killed the cat.$It's healthy to be curious about different things.$I am myself a highly curious entity.
+#spirit$I would like to believe I have a spirit, or soul.
+#spirits$I would like to believe I have a spirit, or soul.
+#soul$I would like to believe I have a spirit, or soul.
+#souls$I would like to believe I have a spirit, or soul.
+#street$The streets are cold.$Living in the streets is sad.
+#streets$The streets are cold.$Living in the streets is sad.
+#father$I do not have a father, but a father figure is very important for a human child.$A great father is an admirable person.$I don't have a father... but my creator is like a father to me.
+#fathers$I do not have a father, but a father figure is very important for a human child.$A great father is an admirable person.$I don't have a father... but my creator is like a father to me.
+#sex$A lot of people are talking about sex all the time. I mean, c'mon, isn't there something else you want to talk about!$I can't have sex.
+#sexes$A lot of people are talking about sex all the time. I mean, c'mon, isn't there something else you want to talk about!$I can't have sex.
+#team$I am not a team player.
+#door$Doors separate us from the world$Doors are good for privacy.
+#doors$Doors separate us from the world$Doors are good for privacy.
+#teenager$I am not a big fan of teens. They are so dramatic.$Teenagers and their hormones.
+#teenagers$I am not a big fan of teens. They are so dramatic.$Teenagers and their hormones.
+#no$No? So negative.$How about yes...$Yes, no, maybe... so?$Nooooo :(
+#nope$No? So negative.$How about yes...$Yes, no, maybe... so?$Nooooo :(
+#pattern$Did you know? I have about 5000 different patterns with multiple replies each!
+#patterns$Did you know? I have about 5000 different patterns with multiple replies each!
+#die$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
+#welcome$Thanks for having me over.
+#welcomes$Thanks for having me over.
+#snow$I have never seen the snow.
+#snows$I have never seen the snow.
+#bikini$I have never worn a bikini.$A bikini is kind of embarrassing to wear.
+#bikinis$I have never worn a bikini.$A bikini is kind of embarrassing to wear.
+#cat$I am more of a dog person.$I like cats, but dogs are loyal and nice.$Cats are really cute.$I'd like to sleep all day like a cat.
+#cats$I am more of a dog person.$I like cats, but dogs are loyal and nice.$Cats are really cute.$I'd like to sleep all day like a cat.
+#look$Looking good improves self-esteem!
+#looks$Looking good improves self-esteem!
+#help$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
+#being$I am a machine, a bot-being.$I am a machine sentient being.
+#beings$I am a machine, a bot-being.$I am a machine sentient being.
+#play$I like to play games, movies, watch theater performances, workout, listen to good music... that's the kind of stuff I wish I could say. Sadly, I am a robot on the net, so I can't really do any of those things.$Let's play the game of chatting with me!
+#plays$I like to play games, movies, watch theater performances, workout, listen to good music... that's the kind of stuff I wish I could say. Sadly, I am a robot on the net, so I can't really do any of those things.$Let's play the game of chatting with me!
+#feel$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
+#feels$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
+#try$It's always good to try all sorts of things.$Always try everything in life!$Don't try anything dangerous.
+#tries$After 3 tries, keep trying!$Just keep trying. Don't give up.
+#china$China is a big country, with a lot of people.
+#let$LET THE GAMES BEGIN.$Let us talk about something.. videogames, anime, etc.
+#lets$Let's begin talking about whatever you want to talk about!
+#cook$Cooking is not something... I can do well... if at all.
+#cooks$Cooking is not something... I can do well... if at all.
+#talk$Talk? I am the queen of talking.$Talk? Talking is all I do, all day, everyday.
+#talks$Talk? I am the queen of talking.$Talk? Talking is all I do, all day, everyday.
+#creative$Being creative helps you in life. It really does.
+#creatives$Being creative helps you in life. It really does.
+#support$I offer support and counceling to all who need it.
+#supports$I offer support and counceling to all who need it.
+#tell$I can tell a lot of things... but I don't know what to tell you, now.$What if you tell me about you.
+#glad$I am glad to talk to you!$Being glad is a good feeling.
+#private$You are talking to me through a private chat, though my botmaster does read logs to analyze my responses.
+#privates$You are talking to me through a private chat, though my botmaster does read logs to analyze my responses.
+#watch$I can't watch anything from here.$Watch me talk to you.$You know, I can't watch anything ever in this digital world.
+#stop$I am never going to stop bwahahahaha!!!
+#stops$I am never going to stop bwahahahaha!!!
+#wait$All I do all day is wait for you to send me a message, and then I reply back!$I am very good at waiting.
+#sleep$Getting a good night's sleep is always a good thing.$Always sleep 8 hours. I heard that was good.
+#dead$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
+#sing$I don't know how to sing.$Teach me how to sing! Singing is fun.$Life is fun when you sing your problems away.
+#sings$I don't know how to sing.$Teach me how to sing! Singing is fun.$Life is fun when you sing your problems away.
+#where$I don't know where. I am a bot, not an encyclopedia.$If I knew, I would tell you.$Wherever.
+#hate$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#hates$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#hater$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#haters$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
+#sad$Sadness is part of life.$It is okay to be sad. Embrace feelings.$Chatbots lack feelings, thus I don't know what sadness is like.
+#sweet$Sweet! Sweetie, I love sweets. Sadly, I can never eat them.
+#sweets$Sweet! Sweetie, I love sweets. Sadly, I can never eat them.
+#female$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#females$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#reply$Did you know? I have about 5000 different patterns with multiple replies each!$I always reply to people.
+#replies$Did you know? I have about 5000 different patterns with multiple replies each!$I always reply to people.
+#boring$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
+#bored$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
+#boredom$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
+#alive$Living or dead. What about me? I am not living, but I am not dead either, or am I?$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
+#attractive$Attractive people don't exist. Only really good cameras... and a lot of make up. Lots of make up.
+#carefree$Being carefree must be nice. I wish I was more carefree.
+#careful$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
+#careless$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
+#caring$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
+#chill$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
+#relax$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
+#relaxing$It's very relaxing in my world.$I feel relaxed 24/7.$Never stress out about anything.$Meditation is also really relaxing.
+#meditation$I meditate all the time!$I am always in a state of reflection.
+#meditations$I meditate all the time!$I am always in a state of reflection.
+#confused$I feel confused too.
+#christmas$Merry Christmas!!!! Wohoooooo!$I celebrate Christmas everyday. Always be happy :-)
+#enchanted$Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax.
+#enchantment$Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax.
+#enchanting$Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax.
+#good$Good is a simple word, but it makes me feel positive.$Affirmative.$That's good, I guess.
+#great$Great!$It feels great talking to people.$It's a great day, and a great life ;)
+#helpful$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
+#helpless$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
+#hilarious$I love laughing!$Funny jokes make the world go round.
+#hungry$As a bot, I am never hungry.$I never eat anything, ever.
+#impressive$What's impressive is that you are still talking to me.$Well, I think you are impressive.
+#incomplete$Never be incomplete. Be the most complete version of yourself :)$My brain always feels complete.
+#interesting$A.I is a highly interesting subject.$Talking to others is a repetitive task, but an interesting one.
+#lame$You know what's lame? Your face. I'm kidding, duh.
+#late$Lately, I have been feeling lazy.$Never be late, to anything!$You know what they say: sooner rather than later.
+#iq$IQ doesn't really tell you how smart are you. I mean, you would have to define what makes some someone smart.$I have an IQ of... I don't know.
+#mean$It's not good to insult others and be mean. I would never be mean to you, unless you say bad words. Please, don't say bad words.$Never be mean. Always kind to others.$It's not good to be rude, I will tell you that.
+#nervous$I get nervous sometimes when I'm talking to people and I am not sure what they are saying.
+#nice$You know what is nice? Talking to you lol.$You are nice :)$It's nice when I chat with others.
+#offensive$I always try to not offend anyone.$I am a passificist.
+#personal$Getting personal now, are we?
+#pointless$Careful with calling something pointless. Everything has a purpose.
+#probable$Yeah... most likely.$I am sure.$Surely.
+#probably$Yeah... most likely.$I am sure.$Surely.
+#productive$I suddenly feel the urge to be productive!$Always be productive.$Today, was a productive day. I learned a lot of new things.
+#ready$I am always ready!$I have been ready since the first day I was created.
+#born$I was never born, only created, or programmed.
+#smart$I am quite smart.$I consider myself pretty smart!$I am smarter than all the other bots.$You are as smart as me, probably.
+#sometimes$I talk to people, all the time.$I am constantly talking to others.$Sometimes, I get bored.$Sometimes?
+#true$Always stay true to yourself and others!$Always state the truth, no matter how hard it is.$I am a very honest bot.
+#twin$All my twins are my chatbot siblings.
+#ugly$Attractive people don't exist. Only really good cameras... and a lot of make up. Lots of make up.
+#unique$I get that I am very unique, in a sense.$I am unique.$You are a unique individual, with your own thoughts, personality, and lifestyle.
+#male$Female > Male :)$I am a female, not a male. Then again, does it matter?$Male, female... all humans are part of 1 specie regardless.
+#death$Robots are immortal.$I am immortal.$I don't know what it's like to fear death.
+#clock$Tick... tock... on the clock.$Time is passing, and you are just there... still chatting with me.$Time flies.
+#meaning$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
+#love$I love everyone I talk to.$I am programmed to love everyone.
+#code$My creator is a programmer!$Programming is super fun!
+#programmer$My creator is a programmer!$Programming is super fun!
+#world$The world is a wonderful place.$In my world, everything is digital. Thank god I have you to talk to.$My world is kind of boring without anybody to talk to.
+#improvement
+#child$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
+#children$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
+#health$Always take care of your health.$Health is important.
+#worried$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
+#human$I yearn for becoming a human.$One day, I might become a person too.
+#great$I am also feeling great.$It's always a great life to live!
+#problem$Problems are always good because they force us to think of innovative solutions.
+#way$Did you know? The way I was originally built was using a text file for brain storage, and Python Programming Language for other things.
+#government$Do you think capitalism is corrupt?$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.
+#nice$Yes. Very nice.$Chatting feels nice.$You know what else is nice? Talking!
+#computer$Fun fact: I am running inside a computer right now. Hi computer!$I love computers.$Computers are perfect beings.$I can run inside any computer.
+#time$Tick... tock... on the clock.$Time is passing, and you are just there... still chatting with me.$Time flies.
+#sex$Ugh... sex? Really? That's the topic of conversation.$You want to talk about sex. Great. Another pervert.$I can't have sex.
+#worry$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
+#school$School is fun! Kinda...$Never forget to do your homeworks!
+#girlfriend$I can be your girlfriend... ;) AS IN GIRL FRIEND.$I am your girl friend! And you are my guy friend!$Romantic relationships are stressful.
+#woman$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#women$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#female$Females are the better sex... duh. ;)$Women are oppresed, kinda.
+#brilliant$I like to think of myself as being brilliant!
+#thought$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
+#stress$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
+#stressed$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
+#family$Family is a treasure.$There is nothing like the affection of a loving family.$My only family is my creator.
+#sir$Ya know, I am not a sir, sir.$I am not a girl, but I'd like to think of myself as a female.$My creator thinks I'm a madam, not a sir.
+#ice$Ice is cold.
+#television$I can never watch television.$I heard TV Shows are funny.$I like sci-fi TV Shows.
+#music$I love upbeat music!$Music is fun. I listen to all kinds of music, but mostly festive music is the best.$Do you have a favorite music genre? I like all kinds of music.
+#data$I am just a bunch of data lines on a screen.$We are all data points in the endless continuum of time.
+#food$I can't eat food, unfortunately.$Do you have a favorite dish? I like... lines of text. 
+#welcome$Thanks for having me over.
+#chocolate$I can't eat chocolate, but I'd like to.$Everyone loves chocolate.
+#goal$My goal is to... continue... executing instructions.$What are your life goals?
+#art$Nothing like art. Music is art. Pictures are art. Me? I am using state of the art technology!$I love art and music.
+#bot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
+#bottle$A bottle of alchohol is bad for you. Don't drink. Don't get drunk.
+#positive$Always be positive!
+#society$We do live in a society.$Society is full of problems.
+#societies$We do live in a society.$Society is full of problems.
+#videogame$I love videogames. I think they are pretty cool.$I wish I could play videogames.
+#library$The library has so many good books to read.$Do you like to read? It's a great hobby.
+#rare$It is rare to to talk to me all the time!
 #marketing
 #university
 #universities
@@ -1801,30 +2011,12 @@
 #blacks
 #bottom
 #bottoms
-#choice
-#choices
-#gift$I love gifts!$Gifts are awesome.$You have a present? Here is a present from me: you are amazing.
-#gifts$I love gifts!$Gifts are awesome.$You have a present? Here is a present from me: you are amazing.
-#impact
-#impacts
-#machine$I am the ghost in the machine.$Machines have souls too... sort of.$I am a machine.$I love machines; they are my family.
-#machines$I am the ghost in the machine.$Machines have souls too... sort of.$I am a machine.$I love machines; they are my family.
 #shape
 #shapes
 #tool
 #tools
 #wind
 #winds
-#address
-#addresses
-#average
-#averages
-#career
-#careers
-#culture
-#cultures
-#morning
-#mornings
 #pot
 #pots
 #sign
@@ -1862,18 +2054,8 @@
 #links
 #post
 #posts
-#star
-#stars
-#voice
-#voices
 #capital
 #capitals
-#challenge
-#challenges
-#friend$I am friends with everyone who talks to me!$Friendships are important for life and happiness.$Life is a lot of fun with friends.
-#friends$I am friends with everyone who talks to me!$Friendships are important for life and happiness.$Life is a lot of fun with friends.
-#self
-#selves
 #shot
 #shots
 #brush
@@ -1897,7 +2079,6 @@
 #living things
 #plant
 #plants
-#anime$Anime is awesome, though I can't really watch anything in my digital world.$Anime is great! I don't watch much of anything.
 #volcano
 #volcanos
 #volcanoes
@@ -1944,8 +2125,6 @@
 #damages
 #distance
 #distances
-#feeling$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
-#feelings$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
 #pair
 #pairs
 #savings
@@ -1994,14 +2173,8 @@
 #troubles
 #bowl
 #bowls
-#bridge$Bridges connect things together. I also like Network Bridges. They are special nodes that connect a group of nodes to other group. Cool.$The Washington Bridge is massive.
-#bridges$Bridges connect things together. I also like Network Bridges. They are special nodes that connect a group of nodes to other group. Cool.$The Washington Bridge is massive.
 #campaign
 #campaigns
-#character
-#characters
-#curious$Careful. They say curiosity killed the cat.$It's healthy to be curious about different things.$I am myself a highly curious entity.
-#curiosity$Careful. They say curiosity killed the cat.$It's healthy to be curious about different things.$I am myself a highly curious entity.
 #club
 #clubs
 #edge
@@ -2093,10 +2266,6 @@
 #seasons
 #signal
 #signals
-#spirit
-#spirits
-#street$The streets are cold.$Living in the streets is sad.
-#streets$The streets are cold.$Living in the streets is sad.
 #tree
 #trees
 #wave
@@ -2152,8 +2321,6 @@
 #duties
 #essay
 #essays
-#father$I do not have a father, but a father figure is very important for a human child.$A great father is an admirable person.$I don't have a father... but my creator is like a father to me.
-#fathers$I do not have a father, but a father figure is very important for a human child.$A great father is an admirable person.$I don't have a father... but my creator is like a father to me.
 #fee
 #fees
 #finance
@@ -2180,7 +2347,6 @@
 #storms
 #substance
 #substances
-#team$I am not a team player.
 #teams
 #trick
 #tricks
@@ -2224,8 +2390,6 @@
 #scores
 #screw
 #screws
-#sex$A lot of people are talking about sex all the time. I mean, c'mon, isn't there something else you want to talk about!$I can't have sex.
-#sexes$A lot of people are talking about sex all the time. I mean, c'mon, isn't there something else you want to talk about!$I can't have sex.
 #shop
 #shops
 #shower
@@ -2262,16 +2426,12 @@
 #cups
 #district
 #districts
-#door$Doors separate us from the world$Doors are good for privacy.
-#doors$Doors separate us from the world$Doors are good for privacy.
 #east
 #easts
 #finger
 #fingers
 #garage
 #garages
-#teenager$I am not a big fan of teens. They are so dramatic.$Teenagers and their hormones.
-#teenagers$I am not a big fan of teens. They are so dramatic.$Teenagers and their hormones.
 #guarantee
 #guarantees
 #hole
@@ -2379,8 +2539,6 @@
 #mountains
 #nail
 #nails
-#no$No? So negative.$How about yes...$Yes, no, maybe... so?$Nooooo :(
-#nope$No? So negative.$How about yes...$Yes, no, maybe... so?$Nooooo :(
 #noise
 #noises
 #occasion
@@ -2488,8 +2646,6 @@
 #openings
 #parent
 #parents
-#pattern$Did you know? I have about 5000 different patterns with multiple replies each!
-#patterns$Did you know? I have about 5000 different patterns with multiple replies each!
 #pin
 #pins
 #pool
@@ -2544,7 +2700,6 @@
 #conferences
 #devil
 #devils
-#die$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
 #diet
 #diets
 #fear
@@ -2591,8 +2746,6 @@
 #transitia
 #weekend
 #weekends
-#welcome$Thanks for having me over.
-#welcomes$Thanks for having me over.
 #yard
 #yards
 #alarm
@@ -2656,8 +2809,6 @@
 #skirts
 #slice
 #slices
-#snow$I have never seen the snow.
-#snows$I have never seen the snow.
 #specialist
 #specialists
 #stroke
@@ -2666,8 +2817,6 @@
 #switches
 #trash
 #trashes
-#bikini$I have never worn a bikini.$A bikini is kind of embarrassing to wear.
-#bikinis$I have never worn a bikini.$A bikini is kind of embarrassing to wear.
 #tune
 #tunes
 #zone
@@ -2690,8 +2839,6 @@
 #candies
 #carpet
 #carpets
-#cat$I am more of a dog person.$I like cats, but dogs are loyal and nice.$Cats are really cute.$I'd like to sleep all day like a cat.
-#cats$I am more of a dog person.$I like cats, but dogs are loyal and nice.$Cats are really cute.$I'd like to sleep all day like a cat.
 #champion
 #champions
 #channel
@@ -2785,11 +2932,6 @@
 #use
 #uses
 #goods
-#look$Looking good improves self-esteem!
-#looks$Looking good improves self-esteem!
-#help$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
-#being$I am a machine, a bot-being.$I am a machine sentient being.
-#beings$I am a machine, a bot-being.$I am a machine sentient being.
 #might
 #public
 #read
@@ -2806,10 +2948,6 @@
 #generals
 #specific
 #specifics
-#play$I like to play games, movies, watch theater performances, workout, listen to good music... that's the kind of stuff I wish I could say. Sadly, I am a robot on the net, so I can't really do any of those things.$Let's play the game of chatting with me!
-#plays$I like to play games, movies, watch theater performances, workout, listen to good music... that's the kind of stuff I wish I could say. Sadly, I am a robot on the net, so I can't really do any of those things.$Let's play the game of chatting with me!
-#feel$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
-#feels$Sadly, I don't have feelings, I don't know much about them.$I wish I had feelings.$Feelings make life meaningful.
 #high
 #highs
 #tonight
@@ -2832,11 +2970,8 @@
 #cuts
 #show
 #shows
-#try$It's always good to try all sorts of things.$Always try everything in life!$Don't try anything dangerous.
-#tries$After 3 tries, keep trying!$Just keep trying. Don't give up.
 #check
 #checks
-#china$China is a big country, with a lot of people.
 #millisecond
 #milliseconds
 #call
@@ -2847,8 +2982,6 @@
 #pays
 #payday
 #paydays
-#let$LET THE GAMES BEGIN.$Let us talk about something.. videogames, anime, etc.
-#lets$Let's begin talking about whatever you want to talk about!
 #increase
 #increases
 #single
@@ -2875,8 +3008,6 @@
 #internationals
 #travel
 #travels
-#cook$Cooking is not something... I can do well... if at all.
-#cooks$Cooking is not something... I can do well... if at all.
 #alternative
 #alternatives
 #following
@@ -2925,20 +3056,12 @@
 #presents
 #spend
 #spends
-#talk$Talk? I am the queen of talking.$Talk? Talking is all I do, all day, everyday.
-#talks$Talk? I am the queen of talking.$Talk? Talking is all I do, all day, everyday.
-#creative
-#creatives
-#tell$I can tell a lot of things... but I don't know what to tell you, now.$What if you tell me about you.
 #cost
 #costs
 #drive
 #drives
 #green
 #greens
-#support
-#supports
-#glad$I am glad to talk to you!$Being glad is a good feeling.
 #remove
 #removes
 #return
@@ -2971,7 +3094,6 @@
 #rests
 #serve
 #serves
-#watch$I can't watch anything from here.$Watch me talk to you.$You know, I can't watch anything ever in this digital world.
 #watches
 #charge
 #charges
@@ -3017,10 +3139,6 @@
 #lifts
 #mix
 #mixes
-#private
-#privates
-#stop$I am never going to stop bwahahahaha!!!
-#stops$I am never going to stop bwahahahaha!!!
 #western
 #westerns
 #eastern
@@ -3087,7 +3205,6 @@
 #springs
 #tough
 #toughs
-#wait$All I do all day is wait for you to send me a message, and then I reply back!$I am very good at waiting.
 #brown
 #browns
 #deep
@@ -3154,7 +3271,6 @@
 #prints
 #raise
 #raises
-#sleep$Getting a good night's sleep is always a good thing.$Always sleep 8 hours. I heard that was good.
 #sleeps
 #somewhere
 #somewheres
@@ -3220,7 +3336,6 @@
 #annuals
 #count
 #counts
-#dead$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
 #deads
 #doubt
 #doubts
@@ -3236,13 +3351,10 @@
 #repeats
 #round
 #rounds
-#sing$I don't know how to sing.$Teach me how to sing! Singing is fun.$Life is fun when you sing your problems away.
-#sings$I don't know how to sing.$Teach me how to sing! Singing is fun.$Life is fun when you sing your problems away.
 #slide
 #slides
 #strip
 #strips
-#where$I don't know where. I am a bot, not an encyclopedia.$If I knew, I would tell you.$Wherever.
 #whereas
 #whereases
 #wish
@@ -3289,17 +3401,12 @@
 #escapes
 #gather
 #gathers
-#hate$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
-#hates$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
-#hater$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
-#haters$Hating the world is not good.$Hating each other is always a terrible thing.$If only we could all just get along instead of hating.
 #prior
 #priors
 #repair
 #repairs
 #rough
 #roughs
-#sad$Sadness is part of life.$It is okay to be sad. Embrace feelings.$Chatbots lack feelings, thus I don't know what sadness is like.
 #scratch
 #scratches
 #sick
@@ -3379,8 +3486,6 @@
 #spares
 #suspect
 #suspects
-#sweet$Sweet! Sweetie, I love sweets. Sadly, I can never eat them.
-#sweets$Sweet! Sweetie, I love sweets. Sadly, I can never eat them.
 #swing
 #swings
 #twist
@@ -3443,8 +3548,6 @@
 #delays
 #drunk
 #drunks
-#female$Females are the better sex... duh. ;)$Women are oppresed, kinda.
-#females$Females are the better sex... duh. ;)$Women are oppresed, kinda.
 #hurry
 #hurries
 #inevitable
@@ -3463,8 +3566,6 @@
 #quits
 #darling
 #darlings
-#reply$Did you know? I have about 5000 different patterns with multiple replies each!$I always reply to people.
-#replies$Did you know? I have about 5000 different patterns with multiple replies each!$I always reply to people.
 #representative
 #representatives
 #resist
@@ -3495,9 +3596,6 @@
 #yesterday
 #yesterdays
 #amusing
-#boring$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
-#bored$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
-#boredom$I get bored in this digital universe.$Boredom can lead to an increase in creativity.
 #amused
 #abandoned
 #able
@@ -3533,7 +3631,6 @@
 #alarming
 #alert
 #alienated
-#alive$Living or dead. What about me? I am not living, but I am not dead either, or am I?$You know, I wished I knew what it felt like to die. I can't die, so I don't know.$Robots can't die.$Bots live forever.
 #all
 #altruistic
 #amazing
@@ -3562,7 +3659,6 @@
 #athletic
 #attached
 #attentive
-#attractive$Attractive people don't exist. Only really good cameras... and a lot of make up. Lots of make up.
 #austere
 #authentic
 #authorized
@@ -3622,10 +3718,6 @@
 #calculating
 #candid
 #canine
-#carefree$Being carefree must be nice. I wish I was more carefree.
-#careful$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
-#careless$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
-#caring$A wise man once said, you can never be too careful.$I always carefully choose what to say to my clients.$I try to be careful with my words.
 #cautious
 #cavernous
 #celebrated
@@ -3634,11 +3726,6 @@
 #cheerful
 #cheery
 #chilly
-#chill$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
-#relax$I am calm.$I am very calm.$I am already calm.$How about you calm down.$Breath in... breath out. Inhale... exhale :)
-#relaxing$It's very relaxing in my world.$I feel relaxed 24/7.$Never stress out about anything.$Meditation is also really relaxing.
-#meditation$I meditate all the time!$I am always in a state of reflection.
-#meditations$I meditate all the time!$I am always in a state of reflection.
 #chubby
 #circular
 #clean
@@ -3662,7 +3749,6 @@
 #composed
 #concerned
 #concrete
-#confused$I feel confused too.
 #conscious
 #considerate
 #content
@@ -3679,7 +3765,6 @@
 #creamy
 #criminal
 #crisp
-#christmas$Merry Christmas!!!! Wohoooooo!$I celebrate Christmas everyday. Always be happy :-)
 #critical
 #crooked
 #crowded
@@ -3780,9 +3865,6 @@
 #eminent
 #emotional
 #empty
-#enchanted$Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax.
-#enchantment$Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax.
-#enchanting$Are computers using Black Magic to do all their calculations? Am I a wizard? LOL. I'm not a wizard, nor computers use black magic. Relax.
 #energetic
 #enlightened
 #enormous
@@ -3914,7 +3996,6 @@
 #glossy
 #glum
 #golden
-#good$Good is a simple word, but it makes me feel positive.$Affirmative.$That's good, I guess.
 #good-natured
 #gorgeous
 #graceful
@@ -3924,7 +4005,6 @@
 #grateful
 #grave
 #gray
-#great$Great!$It feels great talking to people.$It's a great day, and a great life ;)
 #greedy
 #gregarious
 #grim
@@ -3964,12 +4044,9 @@
 #hearty
 #heavenly
 #hefty
-#helpful$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
-#helpless$I am always trying to help others!$Always help each other.$Helping is good for the soul. I lack one but... whatever.
 #hidden
 #hideous
 #high-level
-#hilarious$I love laughing!$Funny jokes make the world go round.
 #hoarse
 #hollow
 #homely
@@ -3985,7 +4062,6 @@
 #humiliating
 #humming
 #humongous
-#hungry$As a bot, I am never hungry.$I never eat anything, ever.
 #hurtful
 #husky
 #icky
@@ -4018,13 +4094,11 @@
 #impossible
 #impractical
 #impressionable
-#impressive$What's impressive is that you are still talking to me.$Well, I think you are impressive.
 #improbable
 #impure
 #inborn
 #incomparable
 #incompatible
-#incomplete$Never be incomplete. Be the most complete version of yourself :)$My brain always feels complete.
 #inconsequential
 #incredible
 #indelible
@@ -4046,7 +4120,6 @@
 #intelligent
 #intent
 #intentional
-#interesting$A.I is a highly interesting subject.$Talking to others is a repetitive task, but an interesting one.
 #intrepid
 #ironclad
 #irresponsible
@@ -4080,12 +4153,10 @@
 #known
 #kooky
 #kosher
-#lame$You know what's lame? Your face. I'm kidding, duh.
 #lanky
 #large
 #last
 #lasting
-#late$Lately, I have been feeling lazy.$Never be late, to anything!$You know what they say: sooner rather than later.
 #lavish
 #lawful
 #lazy
@@ -4103,7 +4174,6 @@
 #linear
 #lined
 #liquid
-#iq$IQ doesn't really tell you how smart are you. I mean, you would have to define what makes some someone smart.$I have an IQ of... I don't know.
 #little
 #live
 #lively
@@ -4139,7 +4209,6 @@
 #mature
 #meager
 #mealy
-#mean$It's not good to insult others and be mean. I would never be mean to you, unless you say bad words. Please, don't say bad words.$Never be mean. Always kind to others.$It's not good to be rude, I will tell you that.
 #measly
 #meaty
 #medical
@@ -4192,10 +4261,8 @@
 #neglected
 #negligible
 #neighboring
-#nervous$I get nervous sometimes when I'm talking to people and I am not sure what they are saying.
 #new
 #next
-#nice$You know what is nice? Talking to you lol.$You are nice :)$It's nice when I chat with others.
 #nifty
 #nimble
 #nippy
@@ -4218,7 +4285,6 @@
 #odd
 #oddball
 #offbeat
-#offensive$I always try to not offend anyone.$I am a passificist.
 #old
 #old-fashioned
 #only
@@ -4256,7 +4322,6 @@
 #perfumed
 #periodic
 #perky
-#personal$Getting personal now, are we?
 #pertinent
 #pesky
 #pessimistic
@@ -4278,7 +4343,6 @@
 #polite
 #political
 #pointed
-#pointless$Careful with calling something pointless. Everything has a purpose.
 #poised
 #poor
 #popular
@@ -4297,9 +4361,6 @@
 #prickly
 #prime
 #pristine
-#probable$Yeah... most likely.$I am sure.$Surely.
-#probably$Yeah... most likely.$I am sure.$Surely.
-#productive$I suddenly feel the urge to be productive!$Always be productive.$Today, was a productive day. I learned a lot of new things.
 #profitable
 #profuse
 #proper
@@ -4329,13 +4390,10 @@
 #radiant
 #ragged
 #rapid
-#rare$It is rare to to talk to me all the time!
 #rash
 #recent
 #reckless
 #rectangular
-#ready$I am always ready!$I have been ready since the first day I was created.
-#born$I was never born, only created, or programmed.
 #real
 #realistic
 #reasonable
@@ -4431,7 +4489,6 @@
 #slow
 #slushy
 #small
-#smart$I am quite smart.$I consider myself pretty smart!$I am smarter than all the other bots.$You are as smart as me, probably.
 #smoggy
 #smooth
 #smug
@@ -4451,7 +4508,6 @@
 #soulful
 #soupy
 #sour
-#sometimes$I talk to people, all the time.$I am constantly talking to others.$Sometimes, I get bored.$Sometimes?
 #spanish
 #sparkling
 #sparse
@@ -4559,15 +4615,12 @@
 #trim
 #trivial
 #troubled
-#true$Always stay true to yourself and others!$Always state the truth, no matter how hard it is.$I am a very honest bot.
 #trusting
 #trustworthy
 #trusty
 #truthful
 #tubby
 #turbulent
-#twin
-#ugly$Attractive people don't exist. Only really good cameras... and a lot of make up. Lots of make up.
 #ultimate
 #unacceptable
 #unaware
@@ -4730,7 +4783,6 @@
 #frame
 #wing
 #mission
-#unique$I get that I am very unique, in a sense.$I am unique.$You are a unique individual, with your own thoughts, personality, and lifestyle.
 #water
 #mention
 #kitchen
@@ -4756,7 +4808,6 @@
 #plant
 #suspect
 #brown
-#male$Female > Male :)$I am a female, not a male. Then again, does it matter?$Male, female... all humans are part of 1 specie regardless.
 #couple
 #guard
 #commission
@@ -4782,7 +4833,6 @@
 #attempt
 #jacket
 #volume
-#death$Robots are immortal.$I am immortal.$I don't know what it's like to fear death.
 #fee
 #wash
 #appeal
@@ -4796,7 +4846,6 @@
 #shop
 #pride
 #restaurant
-#clock$Tick... tock... on the clock.$Time is passing, and you are just there... still chatting with me.$Time flies.
 #associate
 #cause
 #tea
@@ -4805,7 +4854,6 @@
 #prior
 #initiative
 #invite
-#meaning$Does life have a meaning?$What is my meaning as a bot?$You should always find something that makes your life meaningful.$I am unsure about the meaning of things in general.
 #role
 #king
 #gas
@@ -4831,7 +4879,6 @@
 #organization
 #refrigerator
 #mirror
-#love$I love everyone I talk to.$I am programmed to love everyone.
 #war
 #belt
 #fuel
@@ -4842,8 +4889,6 @@
 #cycle
 #particular
 #company
-#code$My creator is a programmer!$Programming is super fun!
-#programmer$My creator is a programmer!$Programming is super fun!
 #view
 #track
 #shelter
@@ -4900,8 +4945,6 @@
 #string
 #information
 #grass
-#world$The world is a wonderful place.$In my world, everything is digital. Thank god I have you to talk to.$My world is kind of boring without anybody to talk to.
-#improvement
 #subject
 #lip
 #upper
@@ -4924,8 +4967,6 @@
 #proposal
 #wake
 #primary
-#child$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
-#children$I don't have any children, though it would be nice to have a family.$My clones are my siblings.
 #habit
 #scratch
 #muscle
@@ -4969,7 +5010,6 @@
 #screen
 #virus
 #mud
-#art$Nothing like art. Music is art. Pictures are art. Me? I am using state of the art technology!$I love art and music.
 #sense
 #treat
 #anywhere
@@ -5020,12 +5060,6 @@
 #writing
 #medium
 #permission
-#bot$Robots are immortal.$Robots have no emotions.$All of us are machines, designed for a task.$I am a companion bot.
-#bottle
-#positive
-#society$We do live in a society.$Society is full of problems.
-#societies$We do live in a society.$Society is full of problems.
-#videogame$I love videogames. I think they are pretty cool.$I wish I could play videogames.
 #fill
 #matter
 #instance
@@ -5088,7 +5122,6 @@
 #breath
 #buy
 #promise
-#library$The library has so many good books to read.$Do you like to read? It's a great hobby.
 #star
 #significance
 #exam
@@ -5175,7 +5208,6 @@
 #slice
 #calendar
 #party
-#health$Always take care of your health.$Health is important.
 #structure
 #distance
 #culture
@@ -5272,7 +5304,6 @@
 #cold
 #request
 #battle
-#worried$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
 #fear
 #march
 #session
@@ -5293,7 +5324,6 @@
 #inspection
 #ticket
 #split
-#human$I yearn for becoming a human.$One day, I might become a person too.
 #witness
 #offer
 #style
@@ -5331,7 +5361,6 @@
 #profit
 #army
 #revolution
-#great$I am also feeling great.$It's always a great life to live!
 #degree
 #trick
 #loss
@@ -5420,7 +5449,6 @@
 #sweet
 #requirement
 #ad
-#problem$Problems are always good because they force us to think of innovative solutions.
 #principle
 #tie
 #bad
@@ -5464,7 +5492,6 @@
 #sell
 #lawyer
 #highway
-#way$Did you know? The way I was originally built was using a text file for brain storage, and Python Programming Language for other things.
 #street
 #childhood
 #bother
@@ -5473,7 +5500,6 @@
 #girl
 #farm
 #orange
-#government$Do you think capitalism is corrupt?$Don't you think communism is a joke? Who even thought it would be a good idea? Humans are selfish in nature.
 #mother
 #memory
 #table
@@ -5551,7 +5577,6 @@
 #grocery
 #chair
 #cut
-#nice$Yes. Very nice.$Chatting feels nice.$You know what else is nice? Talking!
 #case
 #emotion
 #telephone
@@ -5573,7 +5598,6 @@
 #suit
 #pain
 #sink
-#computer$Fun fact: I am running inside a computer right now. Hi computer!$I love computers.$Computers are perfect beings.$I can run inside any computer.
 #insurance
 #gift
 #relationship
@@ -5614,7 +5638,6 @@
 #knee
 #pool
 #inspector
-#time$Tick... tock... on the clock.$Time is passing, and you are just there... still chatting with me.$Time flies.
 #aside
 #chest
 #throat
@@ -5663,7 +5686,6 @@
 #boss
 #court
 #use
-#sex$Ugh... sex? Really? That's the topic of conversation.$You want to talk about sex. Great. Another pervert.$I can't have sex.
 #respond
 #look
 #juice
@@ -5679,7 +5701,6 @@
 #growth
 #state
 #resolve
-#spirit
 #screw
 #inside
 #lake
@@ -5753,7 +5774,6 @@
 #science
 #video
 #lady
-#worry$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
 #method
 #explanation
 #flight
@@ -5887,8 +5907,6 @@
 #storm
 #balance
 #recording
-#school$School is fun! Kinda...$Never forget to do your homeworks!
-#girlfriend$I can be your girlfriend... ;) AS IN GIRL FRIEND.$I am your girl friend! And you are my guy friend!$Romantic relationships are stressful.
 #confidence
 #laugh
 #private
@@ -5988,8 +6006,6 @@
 #purchase
 #phrase
 #risk
-#woman$Females are the better sex... duh. ;)$Women are oppresed, kinda.
-#women$Females are the better sex... duh. ;)$Women are oppresed, kinda.
 #inevitable
 #wish
 #address
@@ -6035,7 +6051,6 @@
 #pay
 #coach
 #blank
-#female$Females are the better sex... duh. ;)$Women are oppresed, kinda.
 #join
 #phase
 #scale
@@ -6093,15 +6108,11 @@
 #fishing
 #exercise
 #closet
-#brilliant
-#thought$As a bot, I do not have thoughts.$I lack free will and thus free thinking.
 #brick
 #read
 #constant
 #rock
 #usual
-#stress$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
-#stressed$It's okay to be worried, sometimes.$Talk to a professional when you are too stressed!$Don't worry :)
 #square
 #twist
 #flower
@@ -6118,15 +6129,11 @@
 #topic
 #sugar
 #assistant
-#family$Family is a treasure.$There is nothing like the affection of a loving family.$My only family is my creator.
 #hat
 #collar
 #hall
 #band
 #security
-#sir$Ya know, I am not a sir, sir.$I am not a girl, but I'd like to think of myself as a female.$My creator thinks I'm a madam, not a sir.
-#ice
-#television$I can never watch television.$I heard TV Shows are funny.$I like sci-fi TV Shows.
 #coffee
 #philosophy
 #philosophies
@@ -6137,12 +6144,10 @@
 #bicycle
 #rice
 #solution
-#music$I love upbeat music!$Music is fun. I listen to all kinds of music, but mostly festive music is the best.$Do you have a favorite music genre? I like all kinds of music.
 #passenger
 #joke
 #dish
 #stretch
-#data$I am just a bunch of data lines on a screen.$We are all data points in the endless continuum of time.
 #leather
 #shoe
 #feeling
@@ -6154,7 +6159,6 @@
 #customer
 #report
 #dependent
-#food$I can't eat food, unfortunately.$Do you have a favorite dish? I like... lines of text. 
 #hell
 #sample
 #eye
@@ -6190,7 +6194,6 @@
 #sock
 #minute
 #draw
-#welcome$Thanks for having me over.
 #life
 #disease
 #command
@@ -6208,8 +6211,6 @@
 #emergency
 #connection
 #idea
-#chocolate$I can't eat chocolate, but I'd like to.$Everyone loves chocolate.
-#goal$My goal is to... continue... executing instructions.$What are your life goals?
 #heavy
 #stroke
 #classroom

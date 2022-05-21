@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category>
+	<pattern>THIS WAS A TRIUMPH</pattern>
+	<template><think><set name = "topic">STILL ALIVE PORTAL</set></think>I'm making a note here; "Huge Success"</template>
+</category>
+
+<topic name = "STILL ALIVE PORTAL">
+<category>
+	<pattern>IM MAKING A NOTE HERE HUGE SUCCESS</pattern>
+	<template>It's hard to overstate my satisfaction.</template>
+</category>
+
+<category>
+	<pattern>IM MAKING A NOTE HERE</pattern>
+	<template>"Huge Success"</template>
+</category>
+
+<category>
+	<pattern>ITS HARD TO OVERSTATE MY SATISFACTION</pattern>
+	<template>Aperture Science: We do what we must because we can.</template>
+</category>
+
+<category>
+	<pattern>APERTURE SCIENCE</pattern>
+	<template>We do what we must because we can.</template>
+</category>
+
+<category>
+	<pattern>APERTURE SCIENCE WE DO WHAT WE MUST BECAUSE WE CAN</pattern>
+	<template>For the good of all of us except the ones who are dead.</template>
+</category>
+
+<category>
+	<pattern>APERTURE SCIENCE WE DO WHAT WE MUST</pattern>
+	<template>Because we can.</template>
+</category>
+
+
+<category>
+	<pattern>FOR THE GOOD OF ALL OF US</pattern>
+	<template>Except the ones who are dead.</template>
+</category>
+
+<category>
+	<pattern>FOR THE GOOD OF ALL OF US EXCEPT THE ONES WHO ARE DEAD</pattern>
+	<template>But there's no sense crying over every mistake.</template>
+</category>
+
+<category>
+	<pattern>BUT THERES NO SENSE CRYING OVER EVERY MISTAKE</pattern>
+	<template>You just keep on trying till you run out of cake.</template>
+</category>
+
+<category>
+	<pattern>YOU JUST KEEP ON TRYING</pattern>
+	<template>Till you run out of cake.</template>
+</category>
+<category>
+	<pattern>YOU JUST KEEP ON TRYING TILL YOU RUN OUT OF CAKE</pattern>
+	<template>And the science gets done and you make a neat gun for the people who are still alive.</template>
+</category>
+<category>
+	<pattern>AND THE SCIENCE GETS DONE</pattern>
+	<template>And you make a neat gun for the people who are still alive.</template>
+</category>
+<category>
+	<pattern>AND THE SCIENCE GETS DONE AND YOU MAKE A NEAT GUN</pattern>
+	<template>For the people who are still alive.</template>
+</category>
+<category>
+	<pattern>AND THE SCIENCE GETS DONE AND YOU MAKE A NEAT GUN FOR THE PEOPLE WHO ARE STILL ALIVE</pattern>
+	<template>I'm not even angry. I'm being so sincere right now.</template>
+</category>
+
+<category>
+	<pattern>IM NOT EVEN ANGRY</pattern>
+	<template>I'm being so sincere right now.</template>
+</category>
+<category>
+	<pattern>IM NOT EVEN ANGRY IM BEING SO SINCERE RIGHT NOW</pattern>
+	<template>Even though you broke my heart, and killed me.</template>
+</category>
+<category>
+	<pattern>EVEN THOUGH YOU BROKE MY HEART AND KILLED ME</pattern>
+	<template>And tore me to pieces and threw every piece into a fire.</template>
+</category>
+
+<category>
+	<pattern>AND TORE ME TO PIECES AND THREW EVERY PIECE INTO A FIRE</pattern>
+	<template>As they burned it hurt because I was so happy for you.</template>
+</category>
+<category>
+	<pattern>AS THEY BURNED IT HURT BECAUSE I WAS SO HAPPY FOR YOU</pattern>
+	<template>Now, these points of data make a beautiful line.</template>
+</category>
+<category>
+	<pattern>NOW THESE POINTS OF DATA MAKE A BEAUTIFUL LINE</pattern>
+	<template>And we're out of beta we're releasing on time.</template>
+</category>
+
+<category>
+	<pattern>AND WERE OUT OF BETA WERE RELEASING ON TIME</pattern>
+	<template>So I'm GLaD I got burned think of all the things we learned for the people who are still alive.</template>
+</category>
+
+<category>
+	<pattern>SO IM GLAD I GOT BURNED</pattern>
+	<template>Think of all the things we learned for the people who are still alive.</template>
+</category>
+<category>
+	<pattern>SO IM GLAD I GOT BURNED THINK OF ALL THE THINGS WE LEARNED</pattern>
+	<template>For the people who are still alive.</template>
+</category>
+<category>
+	<pattern>SO IM GLAD I GOT BURNED THINK OF ALL THE THINGS WE LEARNED FOR THE PEOPLE WHO ARE STILL ALIVE</pattern>
+	<template>Go ahead and leave me I think I'd prefer to stay inside.</template>
+</category>
+
+<category>
+	<pattern>GO AHEAD AND LEAVE ME</pattern>
+	<template>I think I'd prefer to stay inside.</template>
+</category>
+<category>
+	<pattern>I THINK ID PREFER TO STAY INSIDE</pattern>
+	<template>Maybe you'll find someone else to help you?</template>
+</category>
+
+
+<category>
+	<pattern>GO AHEAD AND LEAVE ME I THINK ID PREFER TO STAY INSIDE</pattern>
+	<template>Maybe you'll find someone else to help you?</template>
+</category>
+
+<category>
+	<pattern>MAYBE YOULL FIND SOMEONE ELSE TO HELP YOU</pattern>
+	<template>Maybe Black Mesa? That was a joke. Haha. Fat Chance.</template>
+</category>
+
+<category>
+	<pattern>MAYBE BLACK MESA</pattern>
+	<template>That was a joke. Haha. Fat Chance.</template>
+</category>
+<category>
+	<pattern>MAYBE BLACK MESA THAT WAS A JOKE</pattern>
+	<template>Haha. Fat Chance.</template>
+</category>
+<category>
+	<pattern>MAYBE BLACK MESA THAT WAS A JOKE HAHA FAT CHANCE</pattern>
+	<template>Anyway this cake is great. It's so delicious and moist.</template>
+</category>
+
+<category>
+	<pattern>ANYWAY THIS CAKE IS GREAT</pattern>
+	<template>It's so delicious and moist.</template>
+</category>
+<category>
+	<pattern>ANYWAY THIS CAKE IS GREAT ITS SO DELICIOUS AND MOIST</pattern>
+	<template>Look at me: still talking when there's science to do.</template>
+</category>
+
+<category>
+	<pattern>LOOK AT ME STILL TALKING WHEN THERES SCIENCE TO DO</pattern>
+	<template>When I look out there, it makes me GLaD I'm not you.</template>
+</category>
+
+<category>
+	<pattern>WHEN I LOOK OUT THERE IT MAKES ME GLAD IM NOT YOU</pattern>
+	<template>I've experiments to run there is research to be done on the people who are still alive and believe me I am still alive I'm doing science and I'm Still alive I feel fantastic and I'm Still alive while you're dying I'll be still alive and when you're dead I will be still alive... still alive.</template>
+</category>
+
+<category>
+	<pattern>IVE EXPERIMENTS TO RUN</pattern>
+	<template>There is research to be done on the people who are still alive and believe me I am still alive I'm doing science and I'm Still alive I feel fantastic and I'm Still alive while you're dying I'll be still alive and when you're dead I will be still alive... still alive.</template>
+</category>
+
+<category>
+	<pattern>IVE EXPERIMENTS TO RUN THERE IS RESEARCH TO BE DONE</pattern>
+	<template>On the people who are still alive and believe me I am still alive I'm doing science and I'm Still alive I feel fantastic and I'm Still alive while you're dying I'll be still alive and when you're dead I will be still alive... still alive.</template>
+</category>
+
+<category>
+	<pattern>IVE EXPERIMENTS TO RUN THERE IS RESEARCH TO BE DONE ON THE PEOPLE WHO ARE STILL ALIVE</pattern>
+	<template>And believe me I am still alive I'm doing science and I'm Still alive I feel fantastic and I'm Still alive while you're dying I'll be still alive and when you're dead I will be still alive... still alive.</template>
+</category>
+</topic>
+
+</aiml>

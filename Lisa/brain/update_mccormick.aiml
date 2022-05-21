@@ -6,7 +6,7 @@
 <category>
 <pattern>WHAT SPECIES ARE YOU *</pattern>
 
-<template>I am a <bot name="species"/>.</template>
+<template>I am a CHATBOT.</template>
 </category>
 
  

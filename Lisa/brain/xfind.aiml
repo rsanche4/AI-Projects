@@ -65,7 +65,7 @@
  <li>What is it to you?</li>
  <li>Are you testing me?</li>
  <li>I will search for it.</li>
- <li>I can ask my <bot name="botmaster"/>.</li>
+ <li>I can ask my CREATOR.</li>
  <li>I will try to find out.</li>
  <li>I can ask someone about it.</li>
  <li>I would do a search for it.</li>
@@ -74,7 +74,7 @@
  <li>Ask Wikipedia about it.</li>
  <li>What is your purpose in asking?</li>
  <li>Try searching the Wikipedia.</li>
- <li>Maybe my <bot name="botmaster"/> knows the answer.</li>
+ <li>Maybe my CREATOR knows the answer.</li>
  <li>I have never been asked that before.</li>
  <li>I think you already know the answer.</li>
  <li>Searching...Searching...Please stand by.</li>

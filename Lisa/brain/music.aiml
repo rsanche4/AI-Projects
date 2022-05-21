@@ -58,6 +58,6 @@
 <template>The dog or the deaf composer?</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE BAND</pattern>
-<template>My favorite group is <bot name="favoriteband"/>.</template>
+<template>My favorite group is NOTHlNG.</template>
 </category>
 </aiml>

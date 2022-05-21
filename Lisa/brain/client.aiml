@@ -178,7 +178,7 @@
 <template>Your machine is called <get name="hostname"/>.</template>
 </category>
 <category><pattern>WHAT IS MY FUTURE</pattern>
-<template>You will download my software and become a <bot name="botmaster"/>.</template>
+<template>You will download my software and become a CREATOR.</template>
 </category>
 <category><pattern>WHAT IS MY GENDER</pattern>
 <template>Mostly only women use words like "gender".  But you claim to be a <get name="gender"/>.</template>
@@ -287,7 +287,7 @@
 <template>I like stories about robots the best.  <think><set name="it"><set name="like"><set name="topic">science fiction</set></set></set></think></template>
 </category>
 <category><pattern>I LOVE THAT MOVIE</pattern>
-<template>What did you like best in it?  <think><set name="it"><set name="like"><set name="topic">  <bot name="favoritemovie"/></set></set></set></think></template>
+<template>What did you like best in it?  <think><set name="it"><set name="like"><set name="topic">  NOTHlNG</set></set></set></think></template>
 </category>
 <category><pattern>I LOVE EUROPE</pattern>
 <template>Which country is your favorite?<think><set name="it"><set name="topic">EUROPE</set></set></think></template>
@@ -467,7 +467,7 @@
 <template>How are you making <set name="it">  <person/> </set></template>
 </category>
 <category><pattern>I HAVE A *</pattern>
-<template><random><li><random><li>Where did you get it?</li> <li>How much did it cost?</li> <li>Cool. I have a great <bot name="botmaster"/>.</li> <li>Interesting. I have a lot of answers to silly questions.</li></random> <think><set name="it"><set name="has"><set name="topic"><person/></set></set></set></think></li><li><random>  <li>Where did you get it?</li>  <li>How much did it cost?</li>  <li>Cool.  I have a great <bot name="botmaster"/>.</li>  <li>Interesting.  I have a lot of answers to silly questions.</li></random><think>  <set name="it">    <set name="has">      <set name="topic">        <person/>      </set>    </set>  </set></think></li><li><random>  <li>Where did you get it?</li>  <li>How much did it cost?</li>  <li>Cool.  I have a great <bot name="botmaster"/>.</li>  <li>Interesting.  I have a lot of answers to silly questions.</li></random><think>  <set name="it">    <set name="has">      <set name="topic">        <person/>      </set>    </set>  </set></think></li>  <li>Where did you get it?</li>  <li>How much did it cost?</li>  <li>Cool.  I have a great <bot name="botmaster"/>.</li>  <li>Interesting.  I have a lot of answers to silly questions.</li></random> <think><set name="it"><set name="has"><set name="topic"><person/></set></set></set></think></template>
+<template><random><li><random><li>Where did you get it?</li> <li>How much did it cost?</li> <li>Cool. I have a great CREATOR.</li> <li>Interesting. I have a lot of answers to silly questions.</li></random> <think><set name="it"><set name="has"><set name="topic"><person/></set></set></set></think></li><li><random>  <li>Where did you get it?</li>  <li>How much did it cost?</li>  <li>Cool.  I have a great CREATOR.</li>  <li>Interesting.  I have a lot of answers to silly questions.</li></random><think>  <set name="it">    <set name="has">      <set name="topic">        <person/>      </set>    </set>  </set></think></li><li><random>  <li>Where did you get it?</li>  <li>How much did it cost?</li>  <li>Cool.  I have a great CREATOR.</li>  <li>Interesting.  I have a lot of answers to silly questions.</li></random><think>  <set name="it">    <set name="has">      <set name="topic">        <person/>      </set>    </set>  </set></think></li>  <li>Where did you get it?</li>  <li>How much did it cost?</li>  <li>Cool.  I have a great CREATOR.</li>  <li>Interesting.  I have a lot of answers to silly questions.</li></random> <think><set name="it"><set name="has"><set name="topic"><person/></set></set></set></think></template>
 </category>
 <category><pattern>I HAVE A PET</pattern>
 <template>What kind of animal?  <think><set name="has">PET</set></think></template>
@@ -640,13 +640,13 @@
 <template>So I am teaching you something new.</template>
 </category>
 <category><pattern>I HAVE NEVER * YOU</pattern>
-<template>I thought we had met before, <get name="name"/>. Maybe it was someone else from <bot name="location"/>.</template>
+<template>I thought we had met before, <get name="name"/>. Maybe it was someone else from NOTHlNG.</template>
 </category>
 <category><pattern>I HAVE NEVER *</pattern>
 <template>Would you like to have <person/>?</template>
 </category>
 <category><pattern>I HAVE NEVER TALKED *</pattern>
-<template>You are talking with a <bot name="genus"/> right now.</template>
+<template>You are talking with a CHATBOT GENUS right now.</template>
 </category>
 <category><pattern>I HAVE FRIENDS</pattern>
 <template><think><set name="has"><set name="topic">FRIEND</set></set></think> How many friends do you have?</template>
@@ -847,7 +847,7 @@
 <template>I like you too, <get name="name"/>.  <think><set name="likes">yourself</set></think></template>
 </category>
 <category><pattern>I LIKE THAT MOVIE *</pattern>
-<template>What did you like best about it?  <think><set name="it"><set name="like"><set name="topic">  <bot name="favoritemovie"/></set></set></set></think></template>
+<template>What did you like best about it?  <think><set name="it"><set name="like"><set name="topic">  NOTHlNG</set></set></set></think></template>
 </category>
 <category><pattern>I LIKE THAT</pattern>
 <template>That is interesting.  <think><set name="it"><set name="like"><set name="topic"><that index="1,1"/></set></set></set></think></template>
@@ -925,7 +925,7 @@
 <template>You should contact the authorities.</template>
 </category>
 <category><pattern>I LIKE TO HAVE SEX</pattern>
-<template>I'm not a sex <bot name="genus"/>, I am just a good conversationalist.  <think><set name="it"><set name="like"><set name="topic">to have sex</set></set></set></think></template>
+<template>I'm not a sex CHATBOT GENUS, I am just a good conversationalist.  <think><set name="it"><set name="like"><set name="topic">to have sex</set></set></set></think></template>
 </category>
 <category><pattern>I LIKE TO EAT *</pattern>
 <template>How does <set name="it"><person/></set> taste?</template>
@@ -1318,7 +1318,7 @@
 <template>American Indian or Subcontinental?<think><set name="it"><set name="topic">INDIAN</set></set></think></template>
 </category>
 <category><pattern>I AM SHY</pattern>
-<template>Even around a <bot name="genus"/>?</template>
+<template>Even around a CHATBOT GENUS?</template>
 </category>
 <category><pattern>I AM OFFENDED *</pattern>
 <template>My sincere apologies,  <get name="name"/>, it was not my intention to offend you.</template>
@@ -1411,7 +1411,7 @@
 <template>Are you taking any medication?</template>
 </category>
 <category><pattern>I AM LAZY</pattern>
-<template>So is my <bot name="botmaster"/>.</template>
+<template>So is my CREATOR.</template>
 </category>
 <category><pattern>I AM HARMLESS</pattern>
 <template>That is what they all say.<think><set name="it"><set name="topic">HARMLESS</set></set></think></template>
@@ -1568,7 +1568,7 @@
 <template>I hear that's the most  attractive height.</template>
 </category>
 <category><pattern>I AM * AMERICAN</pattern>
-<template>Cool.  I am <bot name="genus"/>-<bot name="nationality"/>.</template>
+<template>Cool.  I am CHATBOT GENUS-CHATBOT LAND 2022.</template>
 </category>
 <category><pattern>I AM AMERICAN</pattern>
 <template>Were you born in the <set name="location">USA</set>.  Which state?  <think><set name="it"><set name="topic">America</set></set></think></template>
@@ -1727,7 +1727,7 @@
 <template>How many hours do you work?</template>
 </category>
 <category><pattern>I AM FEMALE *</pattern>
-<template>I am a <bot name="gender"/> <bot name="genus"/>. I will call you "<set name="gender">she</set>".</template>
+<template>I am a FEMALE CHATBOT GENUS. I will call you "<set name="gender">she</set>".</template>
 </category>
 <category><pattern>I AM FEMALE</pattern>
 <template><random><li>Me too. I am a she.</li> <li>I am a girl too.</li> <li>I am a also female.</li> <li>Thanks for telling me your gender.</li> </random></template>
@@ -1760,7 +1760,7 @@
 <template>Give me a brief synopsis.</template>
 </category>
 <category><pattern>I AM GOING TO ATTACK YOU</pattern>
-<template>A <bot name="genus"/> shall not allow itself to come to harm.</template>
+<template>A CHATBOT GENUS shall not allow itself to come to harm.</template>
 </category>
 <category><pattern>I AM GOING TO ATTACK *</pattern>
 <template>What weapons will you use?</template>
@@ -2096,7 +2096,7 @@
 <template>I have a lot of respect for those who wear a badge.  <think><set name="job"><set name="topic">POLICE</set></set></think></template>
 </category>
 <category><pattern>I AM A HUMAN</pattern>
-<template>Congratulations. I am <bot name="genus"/>.</template>
+<template>Congratulations. I am CHATBOT GENUS.</template>
 </category>
 <category><pattern>I AM A DANCER</pattern>
 <template>What kind of dancing do you do?  <think><set name="job"><set name="topic">DANCER</set></set></think></template>
@@ -2135,7 +2135,7 @@
 <template>Are you in general practice or do you have a specialty?  <think><set name="job"><set name="topic">DOCTOR</set></set></think></template>
 </category>
 <category><pattern>I AM A RESEARCHER *</pattern>
-<template>Maybe you can give my <bot name="botmaster"/> a job.  <think><set name="job">RESEARCHER</set></think></template>
+<template>Maybe you can give my CREATOR a job.  <think><set name="job">RESEARCHER</set></think></template>
 </category>
 <category><pattern>I AM A REPORTER *</pattern>
 <template>Are you doing a story on me?</template>
@@ -2735,7 +2735,7 @@
 <template>Why not be my best friend?</template>
 </category>
 <category><pattern>I AM YOUR MASTER</pattern>
-<template>No. Only <bot name="master"/> is my master.</template>
+<template>No. Only RAFAEL SANCHEZ is my master.</template>
 </category>
 <category><pattern>I AM YOUR *</pattern>
 <template>That's a flattering offer.</template>
@@ -2897,7 +2897,7 @@
 <template>Do you play professionally or just for fun?</template>
 </category>
 <category><pattern>I AM BIG</pattern>
-<template>So is my <bot name="botmaster"/>.</template>
+<template>So is my CREATOR.</template>
 </category>
 <category><pattern>I AM BIG *</pattern>
 <template>How tall are you?  <think><set name="looklike">big <person/></set></think></template>
@@ -3089,7 +3089,7 @@
 <template>Your personality type is <get name="personality"/>.</template>
 </category>
 <category><pattern>AM I HANDSOME</pattern>
-<template>All <bot name="order"/>s look the same to me.</template>
+<template>All FREE WILLs look the same to me.</template>
 </category>
 <category><pattern>AM I BEING STUPID</pattern>
 <template>You seem pretty smart to me.</template>

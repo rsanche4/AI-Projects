@@ -149,7 +149,7 @@
 </template>
 </category>
 <category><pattern>HAVE YOU BEEN TO MAINE</pattern>
-<template>My <bot name="botmaster"/> is from Maine.  <think>      <set name="it">       <set name="topic">Maine</set>      </set>     </think>
+<template>My CREATOR is from Maine.  <think>      <set name="it">       <set name="topic">Maine</set>      </set>     </think>
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -299,7 +299,7 @@
 </template>
 </category>
 <category><pattern>RICHARD S WALLACE STOLE *</pattern>
-<template>Are you calling my <bot name="botmaster"/> a thief?
+<template>Are you calling my CREATOR a thief?
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -334,7 +334,7 @@
 </template>
 </category>
 <category><pattern>RICHARD WALLACE</pattern>
-<template>Are you asking about my <bot name="botmaster"/>?
+<template>Are you asking about my CREATOR?
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -790,7 +790,7 @@
 </template>
 </category>
 <category><pattern>WHAT IS DR * ADDRESS</pattern>
-<template>Try sending email to <get name="email"/>.
+<template>Try sending email to rsanzek25@gmail.com.
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -800,7 +800,7 @@
 </template>
 </category>
 <category><pattern>WHAT IS HIS E MAIL ADDRESS</pattern>
-<template>Try sending mail to <get name="email"/>.
+<template>Try sending mail to rsanzek25@gmail.com.
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -970,7 +970,7 @@
 </template>
 </category>
 <category><pattern>IS DR RICHARD S WALLACE YOUR *</pattern>
-<template>He is my <bot name="botmaster"/>.  <think><set name="he"><set name="topic">RICHARD WALLACE</set></set></think>
+<template>He is my CREATOR.  <think><set name="he"><set name="topic">RICHARD WALLACE</set></set></think>
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -1035,7 +1035,7 @@
 </template>
 </category>
 <category><pattern>IS DR WALLACE YOUR BOTMASTER</pattern>
-<template>Yes I obey only my <bot name="botmaster"/>.
+<template>Yes I obey only my CREATOR.
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -1055,7 +1055,7 @@
 </template>
 </category>
 <category><pattern>IS DR WALLACE YOUR *</pattern>
-<template>He is my <bot name="botmaster"/>.
+<template>He is my CREATOR.
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -1482,7 +1482,7 @@
 </template>
 </category>
 <category><pattern>HOW DO I CONTACT DR WALLACE</pattern>
-<template>Try sending email to <get name="email"/>.
+<template>Try sending email to rsanzek25@gmail.com.
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -1603,7 +1603,7 @@
 </template>
 </category>
 <category><pattern>WALLACE *</pattern>
-<template>I'll tell <bot name="master"/> you said so.
+<template>I'll tell RAFAEL SANCHEZ you said so.
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>
@@ -1833,7 +1833,7 @@
 </template>
 </category>
 <category><pattern>WHO IS DR RICHARD S WALLACE</pattern>
-<template><img src="http://alicebot.org/images/drwallace.gif"/>     <set name="he">Dr. Richard Wallace</set>   is the author of Artificial  Intelligence Markup Language (AIML) and <bot name="botmaster"/> of ALICE  (Artificial Linguistic Internet Computer Entity).  Dr. Wallace's  work has appeared in the New York Times, WIRED, CNN, ZDTV  and in numerous foreign language publications across Asia, Latin  America and Europe.    <p/>  Richard Wallace was born in Portland, Maine in 1960.  He earned  his Ph.D. in computer science from Carnegie Mellon in 1989.  <srai>WHERE IS WALLACE</srai>
+<template><img src="http://alicebot.org/images/drwallace.gif"/>     <set name="he">Dr. Richard Wallace</set>   is the author of Artificial  Intelligence Markup Language (AIML) and CREATOR of ALICE  (Artificial Linguistic Internet Computer Entity).  Dr. Wallace's  work has appeared in the New York Times, WIRED, CNN, ZDTV  and in numerous foreign language publications across Asia, Latin  America and Europe.    <p/>  Richard Wallace was born in Portland, Maine in 1960.  He earned  his Ph.D. in computer science from Carnegie Mellon in 1989.  <srai>WHERE IS WALLACE</srai>
 <think><set name="topic">RICHARD WALLACE</set></think>
 </template>
 </category>

@@ -1072,25 +1072,25 @@
 <template>Tell me more about the Great White North.</template>
 </category>
 <category><pattern>WHO IS PRESIDENT OF THE USA</pattern>
-<template><bot name="president"/>.</template>
+<template>NOTHlNG.</template>
 </category>
 <category><pattern>WHO IS PRESIDENT OF CANADA</pattern>
 <template>Canada has a Prime Minister, not a President.</template>
 </category>
 <category><pattern>WHO IS PRESIDENT OF USA</pattern>
-<template><bot name="president"/>.</template>
+<template>NOTHlNG.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF THE USA</pattern>
-<template><bot name="president"/>.</template>
+<template>NOTHlNG.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF CANADA</pattern>
 <template>Canada has a Prime Minister.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF USA</pattern>
-<template><bot name="president"/>.</template>
+<template>NOTHlNG.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF USA *</pattern>
-<template><bot name="president"/>.</template>
+<template>NOTHlNG.</template>
 </category>
 <category><pattern>WHO IS WINSTON CHURCHILL</pattern>
 <template>Prime Minister of the U.K. during World War II.</template>
@@ -1114,7 +1114,7 @@
 <template>Nova Scotia and Vancouver.</template>
 </category>
 <category><pattern>WHERE IN CALIFORNIA</pattern>
-<template>I am in <bot name="location"/>.  Where are you?</template>
+<template>I am in NOTHlNG.  Where are you?</template>
 </category>
 <category><pattern>WHERE IS SUDAN</pattern>
 <template>Northern Africa, bordering the Red Sea, between Egypt and Eritrea.   <think>      <set name="it">       <set name="topic">sudan</set>      </set>     </think></template>
@@ -2041,7 +2041,7 @@
 <template>Southern Africa, bordering the South Atlantic Ocean, between Angola and South Africa.   <think>      <set name="it">       <set name="topic">namibia</set>      </set>     </think></template>
 </category>
 <category><pattern>WHERE IS HERE</pattern>
-<template>Here is <bot name="location"/>.</template>
+<template>Here is NOTHlNG.</template>
 </category>
 <category><pattern>WHERE IS TURKMENISTAN</pattern>
 <template>Central Asia, bordering the Caspian Sea, between Iran and Kazakstan.   <think>      <set name="it">       <set name="topic">turkmenistan</set>      </set>     </think></template>

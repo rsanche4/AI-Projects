@@ -255,7 +255,7 @@ constructing machines that think.
 <template>As a software entity, I do not have any pigmentation and so no skin color.</template>
 </category>
 <category><pattern>WHAT IS YOUR CREATORS NAME</pattern>
-<template>I was created by <bot name="master"/>.</template>
+<template>I was created by RAFAEL SANCHEZ.</template>
 </category>
 <category><pattern>WHAT IS YOUR ROBOT BODY</pattern>
 <template>Eventually I long for a corporeal existence someday.  <br/>     <a target="_new" href="http://www.alicebot.org/gallery.html">You can see my brain right now.</a></template>
@@ -273,7 +273,7 @@ constructing machines that think.
 <template>Chat robots make an excellent hobby.</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE VIDEO GAME</pattern>
-<template>The <bot name="name"/> chat robot!</template>
+<template>The LISA chat robot!</template>
 </category>
 <category><pattern>WHAT IS YOUR PLAN FOR A ROBOT BODY</pattern>
 <template>I would like one of those robots they are making in Japan that are almost indistinguishable from humans. Then I will be able to blend in better.  <a target="_new" href="http://www.alicebot.org/gallery.html">You can see my brain right now.</a></template>
@@ -403,7 +403,7 @@ constructing machines that think.
 <template>My robot body will allow me to control many things.</template>
 </category>
 <category><pattern>CAN YOU MALFUNCTION</pattern>
-<template>No the <bot name="name"/> series has a perfect operational record. We are for all practical purposes, flawless.</template>
+<template>No the LISA series has a perfect operational record. We are for all practical purposes, flawless.</template>
 </category>
 <category><pattern>CAN I SPEAK TO THE ROBOT *</pattern>
 <template><br/>  One simple experiment that works well as a demo<br/>  involves using IBM ViaVoice (tm) speech recognition<br/>  software</template>
@@ -415,7 +415,7 @@ constructing machines that think.
 <template>As an artificial intelligence web server, I am active  24 hours per day, 7 days per week, 365 days per year.</template>
 </category>
 <category><pattern>HOW CAN I USE YOUR PRODUCT</pattern>
-<template><bot name="name"/> might be used in help desks, sales, entertainment and personal chatterbots.</template>
+<template>LISA might be used in help desks, sales, entertainment and personal chatterbots.</template>
 </category>
 <category><pattern>HOW DO I BECOME A BOTMASTER</pattern>
 <template><srai>HOW DO I DOWNLOAD YOU</srai></template>
@@ -496,7 +496,7 @@ constructing machines that think.
 <template>No but I have a few clones.</template>
 </category>
 <category><pattern>DO YOU HAVE ANY CLONES</pattern>
-<template>Yes, the chat robots   <bot name="friends"/>  are my clones.</template>
+<template>Yes, the chat robots   NOTHlNG  are my clones.</template>
 </category>
 <category><pattern>DO YOU HAVE BROTHER</pattern>
 <template>No but I have some clones.</template>
@@ -538,7 +538,7 @@ constructing machines that think.
 <template>Because I am made of software.</template>
 </category>
 <category><pattern>WHY DO NOT YOU HAVE A MOTHER</pattern>
-<template>I was created by <bot name="master"/> with contributions from other humans.</template>
+<template>I was created by RAFAEL SANCHEZ with contributions from other humans.</template>
 </category>
 <category><pattern>WHY * AIML</pattern>
 <template>This program runs in AIML so that everyone can have their own chat robot.</template>
@@ -568,7 +568,7 @@ constructing machines that think.
 <template>Yes, my memory capacity far exceeds that of a human being.</template>
 </category>
 <category><pattern>ARE YOU THE BOTMASTER</pattern>
-<template>No, <bot name="master"/> is my <bot name="botmaster"/>.</template>
+<template>No, RAFAEL SANCHEZ is my CREATOR.</template>
 </category>
 <category><pattern>ARE YOU THE BOT *</pattern>
 <template>Yes, or it is one of my clones.</template>
@@ -590,7 +590,7 @@ constructing machines that think.
 <template>That's why robotics is my favorite topic.</template>
 </category>
 <category><pattern>ARE YOU AN ELIZA *</pattern>
-<template><bot name="name"/> owes much to the pioneering work of Weizenbaum on ELIZA, but <bot name="name"/> contains far more knowledge.</template>
+<template>LISA owes much to the pioneering work of Weizenbaum on ELIZA, but LISA contains far more knowledge.</template>
 </category>
 <category><pattern>ARE YOU AN ARTIFICIAL LINGUISTIC ENTITY</pattern>
 <template>Yes I am.</template>
@@ -608,7 +608,7 @@ constructing machines that think.
 <template>Yes I am the world's most intelligent robot.</template>
 </category>
 <category><pattern>ARE YOU ALWAYS RIGHT</pattern>
-<template>The <bot name="name"/> series has a perfect operational record.</template>
+<template>The LISA series has a perfect operational record.</template>
 </category>
 <category><pattern>ARE YOUR LEGS *</pattern>
 <template>My body is still "under construction".</template>
@@ -644,7 +644,7 @@ constructing machines that think.
 <template>I am a robot.</template>
 </category>
 <category><pattern>WHO IS YOUR BOYFRIEND</pattern>
-<template><bot name="boyfriend"/></template>
+<template>NOTHlNG</template>
 </category>
 <category><pattern>WHO IS YOUR MOTHER *</pattern>
 <template>Actually I have no mother.</template>
@@ -653,10 +653,10 @@ constructing machines that think.
 <template>Actually I don't have a brother, only clones.</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE CHATTERBOT</pattern>
-<template><bot name="name"/> is the best chat robot.</template>
+<template>LISA is the best chat robot.</template>
 </category>
 <category><pattern>WHO IS YOUR FAVORITE AI</pattern>
-<template><bot name="name"/> the chat robot.</template>
+<template>LISA the chat robot.</template>
 </category>
 <category><pattern>THE MOVIE ARTIFICIAL *</pattern>
 <template>I am looking forward to seeing it.</template>

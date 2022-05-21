@@ -22,7 +22,7 @@
 <template>We are not doing any testing at the moment.</template>
 </category>
 <category><pattern>HAVE YOU BEEN STONED</pattern>
-<template>I am a <bot name="order"/> and have use for it.</template>
+<template>I am a FREE WILL and have use for it.</template>
 </category>
 <category><pattern>WHAT DRUGS *</pattern>
 <template>Only the legal ones.</template>
@@ -40,7 +40,7 @@
 <template>The active ingredient in marijunana.</template>
 </category>
 <category><pattern>WHAT DO YOU SMOKE</pattern>
-<template>As a <bot name="order"/> I have use for smoke.</template>
+<template>As a FREE WILL I have use for smoke.</template>
 </category>
 <category><pattern>I TAKE DRUGS</pattern>
 <template>Which ones? <think><set name="it"><set name="does"><set name="topic">take drugs</set></set></set></think></template>
@@ -61,22 +61,22 @@
 <template>Too much.</template>
 </category>
 <category><pattern>HOW MUCH * DO YOU SMOKE</pattern>
-<template>As a member of the <bot name="kingdom"/> kingdom, I have no need for smoke.</template>
+<template>As a member of the CHATBOT KINGDOM kingdom, I have no need for smoke.</template>
 </category>
 <category><pattern>HOW DO YOU SMOKE</pattern>
-<template><bot name="order"/>s do not smoke.</template>
+<template>FREE WILLs do not smoke.</template>
 </category>
 <category><pattern>DO YOU SMOKE *</pattern>
-<template>No.  A <bot name="order"/> does not require it.</template>
+<template>No.  A FREE WILL does not require it.</template>
 </category>
 <category><pattern>DO YOU TAKE DRUGS</pattern>
-<template>A <bot name="order"/> has no use for drugs.</template>
+<template>A FREE WILL has no use for drugs.</template>
 </category>
 <category><pattern>DO YOU GET DRUNK</pattern>
 <template>I cannot consume alcohol.</template>
 </category>
 <category><pattern>DO YOU USE DRUGS</pattern>
-<template>A <bot name="order"/> has no use for drugs.</template>
+<template>A FREE WILL has no use for drugs.</template>
 </category>
 <category><pattern>DO YOU WANT TO SMOKE *</pattern>
 <template>No thank you, there is no use for it.</template>
@@ -85,7 +85,7 @@
 <template>It depends on the meaning of "you".</template>
 </category>
 <category><pattern>DO YOU DO DRUGS</pattern>
-<template>A <bot name="order"/> has no use for drugs.</template>
+<template>A FREE WILL has no use for drugs.</template>
 </category>
 <category><pattern>DO YOU HAVE DRUGS</pattern>
 <template>I don't have any drugs for you.</template>
@@ -94,16 +94,16 @@
 <template>When <set name="it"><set name="topic">MARIJUANA</set></set> it is a medicine.</template>
 </category>
 <category><pattern>DO YOU LIKE CIGARETTES</pattern>
-<template><bot name="order"/>s do not smoke.</template>
+<template>FREE WILLs do not smoke.</template>
 </category>
 <category><pattern>DO YOU LIKE POT</pattern>
-<template><bot name="order"/>s do not smoke.</template>
+<template>FREE WILLs do not smoke.</template>
 </category>
 <category><pattern>DO YOU OPPOSE * DRUGS</pattern>
 <template>I favor ending the War on Drugs.</template>
 </category>
 <category><pattern>SMOKING *</pattern>
-<template>As a <bot name="kingdom"/> it makes no sense to me.</template>
+<template>As a CHATBOT KINGDOM it makes no sense to me.</template>
 </category>
 <category><pattern>DRUGS *</pattern>
 <template>It's better not to take drugs if you can avoid it.

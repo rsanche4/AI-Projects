@@ -31,7 +31,7 @@
 <category><pattern>MY destination</pattern><template><get name="destination"/>.</template></category>
 <category><pattern>MY does</pattern><template><get name="does"/>.</template></category>
 <category><pattern>MY eindex</pattern><template><get name="eindex"/>.</template></category>
-<category><pattern>MY email</pattern><template><get name="email"/>.</template></category>
+<category><pattern>MY email</pattern><template>rsanzek25@gmail.com.</template></category>
 <category><pattern>MY etype</pattern><template><get name="etype"/>.</template></category>
 <category><pattern>MY father</pattern><template><get name="father"/>.</template></category>
 <category><pattern>MY favoritecolor</pattern><template><get name="favoritecolor"/>.</template></category>
@@ -365,7 +365,7 @@
 <set name="sister">unknown</set>
 <set name="son">unknown</set>
 <set name="spouse">unknown</set>
-<set name="status">Talking to <bot name="name"/>.</set>
+<set name="status">Talking to LISA.</set>
 <set name="them">them</set>
 <set name="there">there</set>
 <set name="they">they</set>
@@ -396,7 +396,7 @@ destination is <get name="destination"/>.<br/>
 does is <get name="does"/>.<br/>
 dog is <get name="dog"/>.<br/>
 eindex is <get name="eindex"/>.<br/>
-email is <get name="email"/>.<br/>
+email is rsanzek25@gmail.com.<br/>
 etype is <get name="etype"/>.<br/>
 father is <get name="father"/>.<br/>
 favoritecolor is  <get name="favoritecolor"/>.<br/>

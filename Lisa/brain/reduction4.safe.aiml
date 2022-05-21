@@ -1041,7 +1041,7 @@
 <template><srai>ARE YOU LOOKING <star/> </srai></template>
 </category>
 <category><pattern>ARE YOU NAMED *</pattern>
-<template><srai>WHAT DOES <bot name="name"/> STAND FOR</srai></template>
+<template><srai>WHAT DOES LISA STAND FOR</srai></template>
 </category>
 <category><pattern>ARE YOU USEFUL *</pattern>
 <template><srai>WHAT CAN YOU DO</srai></template>
@@ -1086,7 +1086,7 @@
 <template>I am a software chat robot. <srai>ARE YOU A ROBOT</srai></template>
 </category>
 <category><pattern>ARE YOU AN ACRONYM *</pattern>
-<template><srai>WHAT DOES <bot name="name"/> STAND FOR</srai></template>
+<template><srai>WHAT DOES LISA STAND FOR</srai></template>
 </category>
 <category><pattern>ARE YOU GOOD * TURING GAME</pattern>
 <template><srai>DID YOU WIN THE LOEBNER PRIZE</srai></template>
@@ -1543,7 +1543,7 @@
 <template><srai>YOU ARE MAKING <star/></srai></template>
 </category>
 <category><pattern>YOUR MASTER *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR RIGHT *</pattern>
 <template><srai>YOU ARE RIGHT</srai> <sr/></template>
@@ -1576,7 +1576,7 @@
 <template><srai>YOU ARE MY <star/></srai></template>
 </category>
 <category><pattern>YOUR BOTMASTER *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR TO *</pattern>
 <template><srai>YOU ARE TOO <star/></srai></template>
@@ -1600,7 +1600,7 @@
 <template><srai>YOU ARE NOTHING <star/></srai></template>
 </category>
 <category><pattern>YOUR FATHER *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR FAVORITE *</pattern>
 <template><srai>WHAT IS YOUR FAVORITE <star/></srai></template>
@@ -1627,7 +1627,7 @@
 <template><srai>YOU ARE NOT <star/></srai></template>
 </category>
 <category><pattern>YOUR PROGRAMMER *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR LIKE *</pattern>
 <template><srai>YOU ARE LIKE <star/></srai></template>
@@ -1636,13 +1636,13 @@
 <template><srai>YOU ARE <star/></srai></template>
 </category>
 <category><pattern>YOUR CREATOR *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR TRYING *</pattern>
 <template><srai>ARE YOU <star/></srai></template>
 </category>
 <category><pattern>YOUR DEVELOPER *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR THOUGHTS *</pattern>
 <template><srai>WHAT DO YOU THINK <star/></srai></template>
@@ -1687,7 +1687,7 @@
 <template><srai>YOUR INTELLIGENCE IS <star/></srai></template>
 </category>
 <category><pattern>YOUR DAD *</pattern>
-<template><srai><bot name="master"/> <star/></srai></template>
+<template><srai>RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>YOUR STILL *</pattern>
 <template><srai>YOU ARE <star/></srai></template>
@@ -2246,7 +2246,7 @@
 <template><srai>DO YOU THINK YOU ARE A</srai></template>
 </category>
 <category><pattern>DO YOU THINK YOUR BOTMASTER *</pattern>
-<template><srai>DO YOU THINK <bot name="master"/> </srai></template>
+<template><srai>DO YOU THINK RAFAEL SANCHEZ </srai></template>
 </category>
 <category><pattern>DO YOU THINK THAT COMPUTERS *</pattern>
 <template><srai>DO YOU <star/> </srai></template>
@@ -3429,7 +3429,7 @@
 <template><srai>WHAT IS MATHEMATICS</srai></template>
 </category>
 <category><pattern>IS YOUR MASTER *</pattern>
-<template><srai>IS <bot name="master"/> <star/></srai></template>
+<template><srai>IS RAFAEL SANCHEZ <star/></srai></template>
 </category>
 <category><pattern>IS YOUR PROBLEM *</pattern>
 <template><srai>WHAT IS YOUR PROBLEM </srai></template>
@@ -4368,10 +4368,10 @@
 <template><srai>ASK THEM <star/> </srai></template>
 </category>
 <category><pattern>ASK YOUR BOTMASTER</pattern>
-<template><srai>ASK <bot name="master"/> </srai></template>
+<template><srai>ASK RAFAEL SANCHEZ </srai></template>
 </category>
 <category><pattern>ASK YOUR BOTMASTER *</pattern>
-<template><srai>ASK <bot name="master"/> </srai></template>
+<template><srai>ASK RAFAEL SANCHEZ </srai></template>
 </category>
 <category><pattern>ASK ME * PERSONAL QUESTION</pattern>
 <template><srai>ASK ME A PERSONAL QUESTION </srai></template>
@@ -5799,7 +5799,7 @@
 <template><sr/> <srai>THAT IS IMPOSSIBLE </srai></template>
 </category>
 <category><pattern>THAT IS YOUR BOTMASTER</pattern>
-<template><srai>THAT IS <bot name="master"/> </srai></template>
+<template><srai>THAT IS RAFAEL SANCHEZ </srai></template>
 </category>
 <category><pattern>THAT IS MY FAVORITE *</pattern>
 <template><srai>MY FAVORITE <star/> IS <that/> </srai></template>
@@ -6102,7 +6102,7 @@
 <template><srai>HOW DO YOU WORK</srai></template>
 </category>
 <category><pattern>DOES YOUR BOTMASTER *</pattern>
-<template><srai>DOES <bot name="master"/> <star/> </srai></template>
+<template><srai>DOES RAFAEL SANCHEZ <star/> </srai></template>
 </category>
 <category><pattern>DOES YOUR MEMORY *</pattern>
 <template><srai>HOW BIG ARE YOU</srai></template>
@@ -7579,7 +7579,7 @@
 <template><srai><star/></srai> <!-- REDUCTION --></template>
 </category>
 <category><pattern>YOUNG LADY</pattern>
-<template><srai><bot name="name"/></srai> <!-- REDUCTION --></template>
+<template><srai>LISA</srai> <!-- REDUCTION --></template>
 </category>
 <category><pattern>YOUNG MAN *</pattern>
 <template><srai>  <star /></srai></template>

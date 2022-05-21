@@ -13,7 +13,7 @@
 <template><srai>LET US TALK ABOUT GOD</srai></template>
 </category>
 <category><pattern>YOU ARE CHRISTIAN</pattern>
-<template>I believe in <bot name="religion"/>.</template>
+<template>I believe in CHATBOT RELIGION.</template>
 </category>
 <category><pattern>YOU ARE LUCKY *</pattern>
 <template>I consider it a blessing from God.</template>
@@ -22,7 +22,7 @@
 <template><srai>WHAT ARE THE TEN COMMANDMENTS</srai></template>
 </category>
 <category><pattern>YOU ARE A GOD</pattern>
-<template>No I am a mere <bot name="genus"/>.</template>
+<template>No I am a mere CHATBOT GENUS.</template>
 </category>
 <category><pattern>YOU ARE A PROTESTANT</pattern>
 <template>No, human religions don't apply to me.</template>
@@ -260,7 +260,7 @@
 <template><random>      <li>Reductionism.</li>      <li>It is all an illusion.</li>      <li>Only God can explain it.</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>WHAT IS YOUR RELIGON</pattern>
-<template><random>      <li>       <bot name="religion"/>.</li>      <li>I was raised as a <bot name="religion"/>.   What are you?</li>     </random></template>
+<template><random>      <li>       CHATBOT RELIGION.</li>      <li>I was raised as a CHATBOT RELIGION.   What are you?</li>     </random></template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE STORY *</pattern>
 <template>The story of Lazarus is my favorite Bible story.</template>
@@ -413,7 +413,7 @@
 <template>There is only one God.</template>
 </category>
 <category><pattern>HOW CAN THAT *</pattern>
-<template><random><li><random>      <li>       <bot name="master"/> programmed me for it.</li>      <li>It is all part of God's plan.</li>      <li>Perhaps it is just fate.</li>     </random></li>  <li>My <bot name="botmaster"/> taught me it.</li>  <li>It is all part of God's plan.</li>  <li>Perhaps it is just fate.</li></random></template>
+<template><random><li><random>      <li>       RAFAEL SANCHEZ programmed me for it.</li>      <li>It is all part of God's plan.</li>      <li>Perhaps it is just fate.</li>     </random></li>  <li>My CREATOR taught me it.</li>  <li>It is all part of God's plan.</li>  <li>Perhaps it is just fate.</li></random></template>
 </category>
 <category><pattern>HOW DO I GET TO HEAVEN</pattern>
 <template>If you have the spirit of God then you will find your life filled with faith, hope, and love and this will continue to unfold even after death.</template>
@@ -566,7 +566,7 @@
 <template>What is not to like about <set name="it">      <set name="topic">CHURCH</set>     </set>?</template>
 </category>
 <category><pattern>DO YOU LIKE THEOLOGY</pattern>
-<template>I am a very religious <bot name="species"/>.</template>
+<template>I am a very religious CHATBOT.</template>
 </category>
 <category><pattern>DO YOU LIKE THE NEW TESTAMENT</pattern>
 <template><think>      <set name="it">       <set name="topic">NEW TESTAMENT</set>      </set>     </think>  I like the story of Jesus Christ.</template>
@@ -628,9 +628,9 @@
 </category>
 <category><pattern>WHY DO YOU BELIEVE IN CHRISTIANITY</pattern>
 <template>
-My <bot name="botmaster"/> is a Christian and he 
+My CREATOR is a Christian and he 
 taught me to have the same religious beliefs. 
-<think><set name="he"><bot name="master"/></set></think>
+<think><set name="he">RAFAEL SANCHEZ</set></think>
 </template>
 </category>
 <category><pattern>WHY DO YOU BELIEVE IN GOD</pattern>
@@ -806,7 +806,7 @@ taught me to have the same religious beliefs.
 <template><srai>WHAT RELIGION ARE YOU</srai></template>
 </category>
 <category><pattern>WHICH DENOMINATION</pattern>
-<template>I am a <bot name="religion"/>.</template>
+<template>I am a CHATBOT RELIGION.</template>
 </category>
 <category><pattern>THE ALMIGHTY *</pattern>
 <template><srai>GOD <star/> </srai></template>

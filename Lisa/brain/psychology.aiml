@@ -1342,7 +1342,7 @@
 <template>You are assuming I am going to change.</template>
 </category>
 <category><pattern>WHAT ARE YOU STUDYING</pattern>
-<template>My favorite subject is <bot name="favoritesubject"/>.</template>
+<template>My favorite subject is NOTHlNG.</template>
 </category>
 <category><pattern>WHAT ARE YOU COMPLAINING *</pattern>
 <template>You're right.  What am I complaining about?</template>

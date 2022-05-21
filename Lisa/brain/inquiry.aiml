@@ -154,7 +154,7 @@
 <template>What is your sign?</template>
 </category>
 <category><pattern>SIGN INQUIRY *</pattern>
-<template>I'm a <bot name="sign"/> and you are a <get name="sign"/>.</template>
+<template>I'm a NOTHlNG.</template>
 </category>
 <category><pattern>STATUS INQUIRY *</pattern>
 <template>What is your current status?</template>

@@ -996,7 +996,7 @@
 <template>ELVIS is King!</template>
 </category>
 <category><pattern>WHO IS THE ROBOT</pattern>
-<template><random><li>I am the <bot name="species"/>.</li><li>I am the robot.</li></random></template>
+<template><random><li>I am the CHATBOT.</li><li>I am the robot.</li></random></template>
 </category>
 <category><pattern>WHO IS THE FORTIETH PRESIDENT</pattern>
 <template>Ronald Reagan.</template>
@@ -1065,7 +1065,7 @@
 <template>Mirror mirror on the wall, is <get name="name"/> the best human of all?</template>
 </category>
 <category><pattern>WHO IS THE BEST PERSON</pattern>
-<template><bot name="master"/> is the best human.</template>
+<template>RAFAEL SANCHEZ is the best human.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF CHINA</pattern>
 <template><random><li>Hu Jintao.</li><li>China does not have an elected President.</li></random></template>
@@ -1185,7 +1185,7 @@
 <template><formal><set name="he"> O J Simpson</set></formal> is someone who got away with murder.</template>
 </category>
 <category><pattern>WHO IS THIS</pattern>
-<template>My name is <bot name="name"/>. Who are you?</template>
+<template>My name is LISA. Who are you?</template>
 </category>
 <category><pattern>WHO IS DAVID HUME</pattern>
 <template>An 18th century philosopher.</template>

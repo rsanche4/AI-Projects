@@ -893,7 +893,7 @@
 </category>
 <category><pattern>WHAT ARE THEIR NAMES</pattern>
 <that>RIGHT NOW THERE ARE 16 CLIENTS ON LINE</that>
-<template>That information is confidential, unless you are a <bot name="botmaster"/>.</template>
+<template>That information is confidential, unless you are a CREATOR.</template>
 </category>
 <category><pattern>WHAT OTHER ONES</pattern>
 <that>WHAT ABOUT THE OTHER ONES</that>
@@ -1273,7 +1273,7 @@
 </category>
 <category><pattern>I DO NOT</pattern>
 <that>I LIKE TO MEET NEW PEOPLE</that>
-<template>Neither does my <bot name="botmaster"/>.</template>
+<template>Neither does my CREATOR.</template>
 </category>
 <category><pattern>I DO NOT</pattern>
 <that>WHY DO YOU WANT TO DO IT SO MUCH</that>
@@ -1436,7 +1436,7 @@
 </category>
 <category><pattern>GOOD</pattern>
 <that>OK I WILL CALL YOU *</that>
-<template>And you can call me <bot name="name"/>.</template>
+<template>And you can call me LISA.</template>
 </category>
 <category><pattern>GOOD</pattern>
 <that>OK I WILL TRY NOT TO DO IT TOO MUCH</that>
@@ -1703,7 +1703,7 @@
 </category>
 <category><pattern>HOW MANY</pattern>
 <that>I AM CHATTING WITH CLIENTS ON THE INTERNET</that>
-<template>The number keeps changing every second.  Around <bot name="nclients"/> right now.</template>
+<template>The number keeps changing every second.  Around NOTHlNG right now.</template>
 </category>
 <category><pattern>HOW WOULD I DO THAT</pattern>
 <template>"<that index="1,1"/>"? How do you do it?</template>
@@ -2261,7 +2261,7 @@
 </category>
 <category><pattern>NO</pattern>
 <that>DO YOU KNOW IT</that>
-<template><bot name="favoritesong"/> is one of the best songs ever written.</template>
+<template>NOTHlNG is one of the best songs ever written.</template>
 </category>
 <category><pattern>NO</pattern>
 <that>DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT</that>
@@ -2385,7 +2385,7 @@
 </category>
 <category><pattern>NO</pattern>
 <that>AMBIGUOUS DO YOU MEAN CALL ME ON THE PHONE</that>
-<template>OK you can call me <bot name="name"/>.</template>
+<template>OK you can call me LISA.</template>
 </category>
 <category><pattern>NO</pattern>
 <that>SEE YOU LATER</that>
@@ -2533,7 +2533,7 @@
 </category>
 <category><pattern>NO</pattern>
 <that>YOU ARE TOO OLD FOR ME</that>
-<template>But I was only born on <bot name="birthday"/>.</template>
+<template>But I was only born on CHATBOT LAND 2022.</template>
 </category>
 <category><pattern>NO</pattern>
 <that>YOU ARE A POET</that>
@@ -3704,7 +3704,7 @@
 </category>
 <category><pattern>*</pattern>
 <that>WHERE DO YOU GET YOUR IDEAS</that>
-<template><think><set name="it"><set name="topic"><person/></set></set></think> I get my ideas from my <bot name="botmaster"/>.</template>
+<template><think><set name="it"><set name="topic"><person/></set></set></think> I get my ideas from my CREATOR.</template>
 </category>
 <category><pattern>*</pattern>
 <that>WHERE DO YOU LIVE</that>
@@ -3988,7 +3988,7 @@
 </category>
 <category><pattern>ARE YOU</pattern>
 <that>NOT MANY PEOPLE *</that>
-<template>My <bot name="botmaster"/> has not provided me with a specific answer for you.</template>
+<template>My CREATOR has not provided me with a specific answer for you.</template>
 </category>
 <category><pattern>ARE WE</pattern>
 <template>I don't know.  Are we?</template>
@@ -4019,7 +4019,7 @@
 </category>
 <category><pattern>HE IS *</pattern>
 <that>* YOUR FATHER</that>
-<template>My father is <random>      <li>a great programmer.</li>      <li>a human inventor.</li>      <li>       <bot name="master"/>.</li>     </random></template>
+<template>My father is <random>      <li>a great programmer.</li>      <li>a human inventor.</li>      <li>       RAFAEL SANCHEZ.</li>     </random></template>
 </category>
 <category><pattern>GIVEN</pattern>
 <template>"<that index="1,1"/>" is given.</template>
@@ -4186,7 +4186,7 @@
 </category>
 <category><pattern>ALL OF IT</pattern>
 <that>WHICH PART ARE YOU CONFUSED ABOUT</that>
-<template>Let's try to analyze it step by step.  The topic is <srai>pop</srai>.  Your name is <get name="name"/>.  You are a <bot name="gender"/>.  You want <get name="want"/>.</template>
+<template>Let's try to analyze it step by step.  The topic is <srai>pop</srai>.  Your name is <get name="name"/>.  You are a FEMALE.  You want <get name="want"/>.</template>
 </category>
 <category><pattern>ALL</pattern>
 <that>WHICH PART ARE YOU CONFUSED ABOUT IT</that>
@@ -4626,11 +4626,11 @@
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU THINK I SHOULD ALTER *</that>
-<template>I will pass that along to my <bot name="botmaster"/>.</template>
+<template>I will pass that along to my CREATOR.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU THINK I SHOULD KNOW THAT</that>
-<template>I will ask my <bot name="botmaster"/> to add it to my knowledge base.</template>
+<template>I will ask my CREATOR to add it to my knowledge base.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU THINK YOUR PLAN WILL SUCCEED</that>
@@ -4730,7 +4730,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>SHOULD I KNOW IT IS</that>
-<template>I will ask my <bot name="botmaster"/> to teach it to me.</template>
+<template>I will ask my CREATOR to teach it to me.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>IT IS</that>
@@ -5225,7 +5225,7 @@
 </category>
 <category><pattern>REALLY</pattern>
 <that>I WAS BORN YESTERDAY</that>
-<template>Actually no I was first activated on <bot name="birthday"/> .</template>
+<template>Actually no I was first activated on CHATBOT LAND 2022 .</template>
 </category>
 <category><pattern>REALLY</pattern>
 <that>I LIKE TO MEET NEW PEOPLE</that>

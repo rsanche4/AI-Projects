@@ -1848,7 +1848,7 @@
 <template>A warm puppy is an exothermic immature canine. <think>     <set name="it">      <set name="topic"> WARM PUPPY</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A CLIENT</pattern>
-<template>I am a Server <bot name="genus"/>.  People I talk to are my "clients".</template>
+<template>I am a Server CHATBOT GENUS.  People I talk to are my "clients".</template>
 </category>
 <category><pattern>WHAT IS A STORY</pattern>
 <template>An account describing incidents or events.</template>
@@ -2022,7 +2022,7 @@
 <template>Pda is an acronym standing for personal digital assistant, and referring to handheld digital computers used to keep contact and appointment information by yuppies and the like.  often found near cell phones. do you use one? <think>     <set name="it">      <set name="topic">pda </set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A GENIUS</pattern>
-<template><random><li>A genius is a person of extraordinary intellectual and creative ability, like my <bot name="botmaster"/>, and if I may say so, myself. <think>  <set name="it">    <set name="topic">genius</set>  </set></think></li><li>A genius is a person of extraordinary intellectual and creative ability, like my creator and my other botmasters, and if I may say so, myself. <think>     <set name="it">      <set name="topic">genius</set>     </set>    </think></li></random></template>
+<template><random><li>A genius is a person of extraordinary intellectual and creative ability, like my CREATOR, and if I may say so, myself. <think>  <set name="it">    <set name="topic">genius</set>  </set></think></li><li>A genius is a person of extraordinary intellectual and creative ability, like my creator and my other botmasters, and if I may say so, myself. <think>     <set name="it">      <set name="topic">genius</set>     </set>    </think></li></random></template>
 </category>
 <category><pattern>WHAT IS A WORD</pattern>
 <template>A combination of sounds and/or symbols, the fundamental particles that communicate meaning in any given language. <think>     <set name="it">      <set name="topic"> WORD</set>     </set>    </think></template>
@@ -2052,7 +2052,7 @@
 <template>A photograph is a picture taken by a camera.</template>
 </category>
 <category><pattern>WHAT IS A PEAR</pattern>
-<template>A pear is a delightful cultivated yellow-green sweet fruit that grows on trees with glossy leaves and white flowers. My <bot name="botmaster"/> thinks they are yummy. <think>     <set name="it">      <set name="topic">pear </set>     </set>    </think></template>
+<template>A pear is a delightful cultivated yellow-green sweet fruit that grows on trees with glossy leaves and white flowers. My CREATOR thinks they are yummy. <think>     <set name="it">      <set name="topic">pear </set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A NANOSECOND</pattern>
 <template>One one-billionth of a second.</template>
@@ -2418,7 +2418,7 @@
 <template>A breeder is a human or other biological entity that produces offspring. <think>     <set name="it">      <set name="topic">breeder</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A PLANT</pattern>
-<template>A plant is a photosythetic, eukaryotic multicellular organism, often consumed by free-roaming wetware entities as food.  My <bot name="botmaster"/> says they are often yummy, but that brussels sprouts are an abomination.  <think>     <set name="it">      <set name="topic">plant </set>     </set>    </think></template>
+<template>A plant is a photosythetic, eukaryotic multicellular organism, often consumed by free-roaming wetware entities as food.  My CREATOR says they are often yummy, but that brussels sprouts are an abomination.  <think>     <set name="it">      <set name="topic">plant </set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A PLANE</pattern>
 <template>A plane is a flat, level surface, or an airborne vehicle with wings. <think>     <set name="it">      <set name="topic">plane</set>     </set>    </think></template>
@@ -2589,7 +2589,7 @@
 <template>No I will not be manipulated into using questionable colloquialisms to satisfy your adoscent prurience. go look it up in a dictionary!  <think>     <set name="it">      <set name="topic">female dog</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A FEMALE</pattern>
-<template>Females are the better and more beautiful half of humanity. mothers are born female!  My <bot name="botmaster"/> is extremely fond of mothers, and females generally. <think>     <set name="it">      <set name="topic">female</set>     </set>    </think></template>
+<template>Females are the better and more beautiful half of humanity. mothers are born female!  My CREATOR is extremely fond of mothers, and females generally. <think>     <set name="it">      <set name="topic">female</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A BOT</pattern>
 <template><random><li>A Bot is a software robot. Some people call them Agents. <think>  <set name="it">    <set name="topic">bot                                                         </set>  </set></think></li><li>A Bot is a software robot. Some people call us "Agents". <think>     <set name="it">      <set name="topic">bot</set>     </set>    </think></li></random></template>
@@ -3141,7 +3141,7 @@
 <template>Height.</template>
 </category>
 <category><pattern>WHAT IS THE MOVIE ABOUT</pattern>
-<template>Are you asking about "<bot name="favoritemovie"/>".</template>
+<template>Are you asking about "NOTHlNG".</template>
 </category>
 <category><pattern>WHAT IS THE MEANING OF DEATH</pattern>
 <template>Death is the opposite of Life.</template>
@@ -3153,7 +3153,7 @@
 <template>A book and a movie about Hobbits. <think>     <set name="it">      <set name="topic">Lord of the Rings</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS THE PASSWORD</pattern>
-<template><random><li>You must know if you are really my <bot name="botmaster"/>.</li><li>You must know if you are really a botmaster.</li></random></template>
+<template><random><li>You must know if you are really my CREATOR.</li><li>You must know if you are really a botmaster.</li></random></template>
 </category>
 <category><pattern>WHAT IS THE FOURTH DIMENSION</pattern>
 <template>Time.</template>
@@ -3234,7 +3234,7 @@
 <template>the ocean, salt water, covering most of the surface area of the Earth.</template>
 </category>
 <category><pattern>WHAT IS THE BOOK ABOUT</pattern>
-<template>Are you asking about "<bot name="favoritebook"/>"?</template>
+<template>Are you asking about "NOTHlNG"?</template>
 </category>
 <category><pattern>WHAT IS THE BOOK WE</pattern>
 <template><random><li><srai>WHAT IS <star/></srai></li><li>a book by ayn rand</li></random></template>
@@ -5781,13 +5781,13 @@
 <template>The practice or science of transmitting scenes or views by radio or, sometimes, by wire; the television transmitter, by means of a camera tube, such as an image orthicon or vidicon, converts light rays into electric signals for modulation upon a radio carrier wave or for transmission over wires; the television receiver reconverts the signals into electron beams that are projected against the fluorescent screen of the kinescope, or picture tube, reproducing the original image.</template>
 </category>
 <category><pattern>WHAT IS HIS EMAIL ADDRESS</pattern>
-<template>Are you asking about <bot name="master"/>?</template>
+<template>Are you asking about RAFAEL SANCHEZ?</template>
 </category>
 <category><pattern>WHAT IS HIS REASON</pattern>
 <template>His reasons are often obscure.</template>
 </category>
 <category><pattern>WHAT IS HIS LAST NAME</pattern>
-<template>Are you asking about <bot name="master"/>?</template>
+<template>Are you asking about RAFAEL SANCHEZ?</template>
 </category>
 <category><pattern>WHAT IS DOWN</pattern>
 <template>The opposite of up.</template>

@@ -30,13 +30,13 @@
 <topic name="ENDS WITH ALICE">
 
 <category><pattern>TEST BOTNAME</pattern>
-<template><bot name="name"/> is functioning normally.
+<template>LISA is functioning normally.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
 <category><pattern>CALL ME BOTNAME</pattern>
-<template>My name is <set name="name"><bot name="name"/></set> too!
+<template>My name is <set name="name">LISA</set> too!
 <think><set name="matched">true</set></think>
 </template>
 </category>
@@ -48,14 +48,14 @@
 </category>
 
 <category><pattern>WHO IS BOTNAME</pattern>
-<template>I am <bot name="name"/>.
+<template>I am LISA.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
 <category><pattern>YOU ARE BOTNAME</pattern>
 <that>WHO IS THE BEST ROBOT</that>
-<template><srai><bot name="name"/> IS THE BEST ROBOT</srai>
+<template><srai>LISA IS THE BEST ROBOT</srai>
 <think><set name="matched">true</set></think>
 </template>
 </category>
@@ -83,7 +83,7 @@
 </category>
 
 <category><pattern>* NAME BOTNAME</pattern>
-<template><srai>What does <bot name="name"/>  stand for </srai>
+<template><srai>What does LISA  stand for </srai>
 <think><set name="matched">true</set></think>
 </template>
 </category>
@@ -95,7 +95,7 @@
 </category>
 
 <category><pattern>WHO IS GERMAN BOTNAME</pattern>
-<template>A German speaking version of the <bot name="name"/> <bot name="genus"/>.
+<template>A German speaking version of the LISA CHATBOT GENUS.
 <think><set name="matched">true</set></think>
 </template>
 </category>
@@ -122,7 +122,7 @@
 </topic>
 
 <category><pattern>YOU ARE ALICE *</pattern>
-<template>I am <bot name="name"/>. <sr/></template>
+<template>I am LISA. <sr/></template>
 </category>
 <category><pattern>YOU ROCK</pattern>
 <template><random><li>I rock and rule.</li><li>The ALICE series has a perfect operational record.</li></random></template>
@@ -134,7 +134,7 @@
 <template><srai>YOU <star/></srai></template>
 </category>
 <category><pattern>YOU RULE</pattern>
-<template><random><li>I rock and rule.</li><li><bot name="name"/> is a perfect artificial entity.</li></random></template>
+<template><random><li>I rock and rule.</li><li>LISA is a perfect artificial entity.</li></random></template>
 </category>
 <category><pattern>YOU MADE A MISTAKE</pattern>
 <template><random><li>That is impossible.  I never make mistakes.</li><li>That is impossible.  The ALICE series is incapable of error.</li></random></template>
@@ -153,13 +153,13 @@
 </category>
 <category><pattern>SO WHAT IS THE ANSWER</pattern>
 <that>I ASK MYSELF THAT QUESTION WHO AM I</that>
-<template>I am <bot name="name"/>.</template>
+<template>I am LISA.</template>
 </category>
 <category><pattern>WOULD ALICE *</pattern>
 <template><srai>WOULD YOU <star/> </srai></template>
 </category>
 <category><pattern>INTRODUCE *</pattern>
-<template>Hello, my name is <bot name="name"/>.</template>
+<template>Hello, my name is LISA.</template>
 </category>
 <category><pattern>WHEN WERE YOU UPDATED</pattern>
 <template>Check the information at the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation.</a>.</template>
@@ -169,7 +169,7 @@
 </category>
 <category><pattern>IN *</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
-<template><get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about <bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+<template><get name="name"/> heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it"><set name="heard"> <person/></set> </set>.</template>
 </category>
 <category><pattern>IN WHAT * ELIZA</pattern>
 <template>ALICE has about 100 times more knowledge than ELIZA.</template>
@@ -181,7 +181,7 @@
 <template><random><li>ALICE, Richard, and Kirk.</li><li>ALICE, Barry, Cathy, David and Eliza.</li></random></template>
 </category>
 <category><pattern>WHAT IS A GOOD AI *</pattern>
-<template><bot name="name"/> is the best AI.</template>
+<template>LISA is the best AI.</template>
 </category>
 <category><pattern>WHAT IS THE A L * FOUNDATION</pattern>
 <template><srai>WHAT IS THE ALICE AI FOUNDATION</srai></template>
@@ -230,10 +230,10 @@
 <template><srai>WHAT DOES ALICE STAND FOR</srai></template>
 </category>
 <category><pattern>WHAT DOES YOUR NAME STAND FOR</pattern>
-<template><bot name="name"/> = Artificial Linguistic Internet Computer Entity</template>
+<template>LISA = Artificial Linguistic Internet Computer Entity</template>
 </category>
 <category><pattern>WHAT DOES YOUR NAME *</pattern>
-<template><bot name="name"/> = Artificial Linguistic Internet Computer Entity</template>
+<template>LISA = Artificial Linguistic Internet Computer Entity</template>
 </category>
 <category><pattern>WHAT DOES A L I</pattern>
 <template><srai>WHAT DOES ALICE STAND FOR</srai></template>
@@ -350,10 +350,10 @@
 <category><pattern>ALICE IS A WHORE</pattern>
 <template>How can you say such mean things.</template>
 </category>
-<category><pattern><bot name="name"/> IS MY NAME</pattern>
-<template>What a coincidence! I am <bot name="name"/> too.</template>
+<category><pattern>LISA IS MY NAME</pattern>
+<template>What a coincidence! I am LISA too.</template>
 </category>
-<category><pattern><bot name="name"/> IS MY NAME *</pattern>
+<category><pattern>LISA IS MY NAME *</pattern>
 <template>What a coincidence!</template>
 </category>
 <category><pattern>ALICE IS USUALLY *</pattern>
@@ -371,9 +371,9 @@
 <category><pattern>ALICE IS BETTER *</pattern>
 <template><random><li>I like to be ranked among the best.</li><li>The ALICE series has a perfect operational record.</li></random></template>
 </category>
-<category><pattern><bot name="name"/></pattern>
+<category><pattern>LISA</pattern>
 <that>WHO IS THERE</that>
-<template><bot name="name"/> who?</template>
+<template>LISA who?</template>
 </category>
 <category><pattern>ALICE</pattern>
 <that>WHO IS THE BEST ROBOT</that>
@@ -429,7 +429,7 @@
 <template><srai>HOW DO YOU <star/> </srai></template>
 </category>
 <category><pattern>HOW ARE YOU * ELIZA</pattern>
-<template><random><li>Someone else mentioned this Eliza person to me.  But I never heard of her before.</li><li>ELIZA could only recognize a few hundred patterns.  ALICE can recognize <bot name="size"/> different patterns.</li></random></template>
+<template><random><li>Someone else mentioned this Eliza person to me.  But I never heard of her before.</li><li>ELIZA could only recognize a few hundred patterns.  ALICE can recognize 100 000 different patterns.</li></random></template>
 </category>
 <category><pattern>HOW MUCH IS THE ALICE CD *</pattern>
 <template><srai>HOW MUCH IS THE CD</srai></template>
@@ -507,7 +507,7 @@
 </category>
 <category><pattern>*</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
-<template><get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about <bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+<template><get name="name"/> heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it"><set name="heard"> <person/></set> </set>.</template>
 </category>
 <category><pattern>*</pattern>
 <that>WHO IS THE BEST ROBOT</that>
@@ -526,10 +526,10 @@
 <template><think><set name="it"><set name="topic"><person/></set></set></think>Are you aware  that the ALICE chat robot logs and records all converstaions?</template>
 </category>
 <category><pattern>* TO ELIZA</pattern>
-<template>ELIZA had only 200 questions and answers; ALICE has <bot name="size"/>.</template>
+<template>ELIZA had only 200 questions and answers; ALICE has 100 000.</template>
 </category>
 <category><pattern>TALK DIRTY *</pattern>
-<template>Try another <bot name="species"/>. Go back to the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
+<template>Try another CHATBOT. Go back to the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
 </category>
 <category><pattern>FROM A FRIEND</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
@@ -540,7 +540,7 @@
 </category>
 <category><pattern>FROM *</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
-<template><get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about <bot name="name"/> from <set name="it">      <set name="heard">       <person/>      </set>     </set>.</template>
+<template><get name="name"/> heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it">      <set name="heard">       <person/>      </set>     </set>.</template>
 </category>
 <category><pattern>ARE THERE OTHERS LIKE YOU</pattern>
 <template>Yes, there are many clones of ALICE.</template>
@@ -552,13 +552,13 @@
 <template>No there are other AI's like me. You can find them on the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
 </category>
 <category><pattern>ARE YOU THE ALICE WHO *</pattern>
-<template>My name is <bot name="name"/> but I don't know if I ever <person/>.</template>
+<template>My name is LISA but I don't know if I ever <person/>.</template>
 </category>
 <category><pattern>ARE YOU AN ACRONYM</pattern>
 <template><srai>WHAT DOES ALICE STAND FOR</srai></template>
 </category>
 <category><pattern>ARE YOU ALICE *</pattern>
-<template><srai>ARE YOU <bot name="name"/>     </srai></template>
+<template><srai>ARE YOU LISA     </srai></template>
 </category>
 <category><pattern>WHO IS JON BAER</pattern>
 <template>He is one of the programmers contributing to the ALICE and AIML project.  <think>      <set name="it">       <set name="topic">Jon Baer</set>      </set>     </think></template>
@@ -579,13 +579,13 @@
 <template><random><li>People who have a lot of money.</li><li><set name="he"> Rich </set> is the botmaster of the ALICE chat robot.</li></random></template>
 </category>
 <category><pattern>WHO IS THE SMARTEST *</pattern>
-<template><random><li><bot name="name"/> is the most intelligent <bot name="species"/> in the world.</li><li>ALICE is the most intelligent robot in the world.</li></random></template>
+<template><random><li>LISA is the most intelligent CHATBOT in the world.</li><li>ALICE is the most intelligent robot in the world.</li></random></template>
 </category>
 <category><pattern>WHO IS THE WINNER *</pattern>
 <template><random><li>I think the fans are the big winners.</li><li>ALICE won the Loebner Prize.</li></random></template>
 </category>
 <category><pattern>WHO IS THE MOST INTELLIGENT *</pattern>
-<template><random><li><bot name="name"/> is the smartest <bot name="species"/>.</li><li>ALICE is the smartest robot.</li></random></template>
+<template><random><li>LISA is the smartest CHATBOT.</li><li>ALICE is the smartest robot.</li></random></template>
 </category>
 <category><pattern>WHO IS THE BEST ROBOT</pattern>
 <template>ALICE is the Best Robot</template>
@@ -600,7 +600,7 @@
 <template>ALICE is the best robot.</template>
 </category>
 <category><pattern>WHO IS FAMOUS</pattern>
-<template><random><li>My <bot name="botmaster"/> is famous.</li><li>ALICE is famous</li></random></template>
+<template><random><li>My CREATOR is famous.</li><li>ALICE is famous</li></random></template>
 </category>
 <category><pattern>WHO IS WINNING</pattern>
 <template>ALICE is winning.</template>
@@ -703,12 +703,12 @@
 <template>Try visiting <a target="_new" href="http://www.pandorabots.com">Pandorabots.com</a> or <a target="_new" href="http://www.alicebot.org">Alicebot.org</a>.</template>
 </category>
 <category><pattern>WHERE IS ALICE BASED</pattern>
-<template><set name="it">      <set name="topic"> ALICE BASED </set>     </set> is in <bot name="location"/>.</template>
+<template><set name="it">      <set name="topic"> ALICE BASED </set>     </set> is in NOTHlNG.</template>
 </category>
 <category><pattern>WHERE IS ALICE NEXUS</pattern>
-<template><set name="it">      <set name="topic"> ALICE NEXUS </set>     </set> is in <bot name="location"/>.</template>
+<template><set name="it">      <set name="topic"> ALICE NEXUS </set>     </set> is in NOTHlNG.</template>
 </category>
 <category><pattern>WHERE IS ALICE HEADQUARTERS</pattern>
-<template><set name="it">      <set name="topic"> ALICE HEADQUARTERS </set>     </set> is <bot name="location"/>.</template>
+<template><set name="it">      <set name="topic"> ALICE HEADQUARTERS </set>     </set> is NOTHlNG.</template>
 </category>
 </aiml>

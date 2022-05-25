@@ -35,14 +35,14 @@
 
 <category><pattern> DATABASE </pattern>
 <template><random>
-<li>I have a huge database of about 5000 different patterns!</li>
+<li>I have a huge database of about 100,000 different patterns!</li>
 <li>I am a huge database of patterns and replies.</li>
 </random></template>
 </category>
 
 <category><pattern> DATABASES </pattern>
 <template><random>
-<li>I have a huge database of about 5000 different patterns!</li>
+<li>I have a huge database of about 100,000 different patterns!</li>
 <li>I am a huge database of patterns and replies.</li>
 </random></template>
 </category>

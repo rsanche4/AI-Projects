@@ -3,7 +3,20 @@
         <pattern>LOAD AIML B</pattern>
         <template>
             <!-- Load brain AIML set -->
-            <learn>brain/reduction0.safe.aiml</learn>
+			<learn>brain/dontknow.aiml</learn>
+            <learn>brain/lisa_words1 - Copy (2).aiml</learn>
+			<learn>brain/lisa_words1 - Copy (3).aiml</learn>
+			<learn>brain/lisa_words1 - Copy.aiml</learn>
+			<learn>brain/lisa_words1.aiml</learn>
+			<learn>brain/lisa_words2 - Copy (2).aiml</learn>
+			<learn>brain/lisa_words2 - Copy (3).aiml</learn>
+			<learn>brain/lisa_words2 - Copy.aiml</learn>
+			<learn>brain/lisa_words2.aiml</learn>
+			<learn>brain/lisa_words3 - Copy (2).aiml</learn>
+			<learn>brain/lisa_words3 - Copy (3).aiml</learn>
+			<learn>brain/lisa_words3 - Copy.aiml</learn>
+			<learn>brain/lisa_words3.aiml</learn>
+			<learn>brain/reduction0.safe.aiml</learn>
             <learn>brain/reduction1.safe.aiml</learn>
             <learn>brain/reduction2.safe.aiml</learn>
             <learn>brain/reduction3.safe.aiml</learn>
@@ -66,20 +79,6 @@
             <learn>brain/that.aiml</learn>
             <learn>brain/wallace.aiml</learn>
             <learn>brain/xfind.aiml</learn>
-            <learn>brain/update1.aiml</learn>
-            <learn>brain/update_mccormick.aiml</learn>
-			<learn>brain/lisa_words1 - Copy (2).aiml</learn>
-			<learn>brain/lisa_words1 - Copy (3).aiml</learn>
-			<learn>brain/lisa_words1 - Copy.aiml</learn>
-			<learn>brain/lisa_words1.aiml</learn>
-			<learn>brain/lisa_words2 - Copy (2).aiml</learn>
-			<learn>brain/lisa_words2 - Copy (3).aiml</learn>
-			<learn>brain/lisa_words2 - Copy.aiml</learn>
-			<learn>brain/lisa_words2.aiml</learn>
-			<learn>brain/lisa_words3 - Copy (2).aiml</learn>
-			<learn>brain/lisa_words3 - Copy (3).aiml</learn>
-			<learn>brain/lisa_words3 - Copy.aiml</learn>
-			<learn>brain/lisa_words3.aiml</learn>
 			<learn>brain/lisa_fun - Copy (2).aiml</learn>
 			<learn>brain/lisa_fun - Copy (3).aiml</learn>
 			<learn>brain/lisa_fun - Copy.aiml</learn>
@@ -103,6 +102,21 @@
 			<learn>brain/lisa_end.aiml</learn>
 			<learn>brain/lisa_name.aiml</learn>
 			<learn>brain/still_alive.aiml</learn>
+			<learn>brain/copyme.aiml</learn>
+			<learn>brain/howmany.aiml</learn>
+			<learn>brain/lisa_story.aiml</learn>
+			<learn>brain/inappropriate.aiml</learn>
+			<learn>brain/insults.aiml</learn>
+			<learn>brain/insults2.aiml</learn>
+			<learn>brain/profanity - Copy (2).aiml</learn>
+			<learn>brain/profanity - Copy (3).aiml</learn>
+			<learn>brain/profanity - Copy.aiml</learn>
+			<learn>brain/profanity.aiml</learn>
+			<learn>brain/profanity2.aiml</learn>
+			<learn>brain/knockknock.aiml</learn>
+			<learn>brain/yomama.aiml</learn>
+			<learn>brain/update1.aiml</learn>
+            <learn>brain/update_mccormick.aiml</learn>
         </template>
     </category>
 </aiml>

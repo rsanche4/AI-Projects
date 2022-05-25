@@ -1125,13 +1125,13 @@
 
 <category><pattern> CATEGORY </pattern>
 <template><random>
-<li>Did you know? I have about 5000 different patterns with multiple replies each!</li>
+<li>Did you know? I have about 100,000 different patterns with multiple replies each!</li>
 </random></template>
 </category>
 
 <category><pattern> CATEGORIES </pattern>
 <template><random>
-<li>Did you know? I have about 5000 different patterns with multiple replies each!</li>
+<li>Did you know? I have about 100,000 different patterns with multiple replies each!</li>
 </random></template>
 </category>
 

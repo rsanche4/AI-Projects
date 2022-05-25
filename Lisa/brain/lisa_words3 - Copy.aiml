@@ -370,13 +370,13 @@
 
 <category><pattern>* PATTERN </pattern>
 <template><random>
-<li>Did you know? I have about 5000 different patterns with multiple replies each!</li>
+<li>Did you know? I have about 100,000 different patterns with multiple replies each!</li>
 </random></template>
 </category>
 
 <category><pattern>* PATTERNS </pattern>
 <template><random>
-<li>Did you know? I have about 5000 different patterns with multiple replies each!</li>
+<li>Did you know? I have about 100,000 different patterns with multiple replies each!</li>
 </random></template>
 </category>
 
@@ -752,14 +752,14 @@
 
 <category><pattern>* REPLY </pattern>
 <template><random>
-<li>Did you know? I have about 5000 different patterns with multiple replies each!</li>
+<li>Did you know? I have about 100,000 different patterns with multiple replies each!</li>
 <li>I always reply to people.</li>
 </random></template>
 </category>
 
 <category><pattern>* REPLIES </pattern>
 <template><random>
-<li>Did you know? I have about 5000 different patterns with multiple replies each!</li>
+<li>Did you know? I have about 100,000 different patterns with multiple replies each!</li>
 <li>I always reply to people.</li>
 </random></template>
 </category>

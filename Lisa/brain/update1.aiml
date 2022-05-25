@@ -1128,7 +1128,7 @@
 </category>
 <topic name="ME">
 <category><pattern>*</pattern>
-<template><think><set name="he">RAFAEL SANCHEZ</set></think><random><li>I am a NOTHlNG </set></set>?</li></random></template>
+<template><think><set name="he">RAFAEL SANCHEZ</set></think><random><li>I am a NOTHlNG </li></random></template>
 </category>
 </topic>
 <category><pattern>*</pattern>

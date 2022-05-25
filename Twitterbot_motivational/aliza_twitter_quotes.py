@@ -1,17 +1,13 @@
 # -*- encoding: utf-8 -*-
-# Description: Using markivify to recreate a markov chain bot Aliza, along with chatterbot functions
+# Description: Using inspirational quotes to post tweets
 # Edited by: Rafael Sanchez
 # April, 2022
 
 import tweepy
 import time
-import numpy as np
 import random
 import datetime
 import csv
-import sys
-sys.path.append('C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot')
-import brain
 
 CONSUMER_KEY = ""
 CONSUMER_SECRET = ""
@@ -43,6 +39,10 @@ def convert(seconds):
 
     return "%d:%02d:%02d" % (hour, minutes, seconds)
 
+pos = True
+should_post = input("Should I post a quote? Y/n: ")
+if should_post.lower() == 'n':
+    pos = False
 
 while True:
     # Likes messages regarding computers and/or universe and/or Lain Iwakura and/or other things
@@ -89,12 +89,13 @@ while True:
         print("None")
 
     # Generates quotes
-    r = random.randint(0, len(rows)-1)
-    msg = rows[r][1][0:250]
-    api.update_status(msg)
     sleep_time = random.randint(MIN_TIME, MAX_TIME)
-    current_time = datetime.datetime.now()
-    print("Latest Status Update: " + str(current_time) + ".\nTime before next tweet: " + convert(sleep_time) + ".\nAliza said: '" + msg + "'")
+    if pos:
+        r = random.randint(0, len(rows)-1)
+        msg = rows[r][1][0:250]
+        api.update_status(msg)
+        current_time = datetime.datetime.now()
+        print("Latest Status Update: " + str(current_time) + ".\nTime before next tweet: " + convert(sleep_time) + ".\nAliza said: '" + msg + "'")
 
     # Replies to tweets that mention us
     print("Going to sleep for " + str(sleep_time) + " seconds.")

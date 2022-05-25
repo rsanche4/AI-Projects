@@ -1,13 +1,31 @@
 # -*- encoding: utf-8 -*-
-# Description: Using markivify to recreate a markov chain bot Aliza, along with chatterbot functions
+# Description: Uses aiml for replying to tests
 # Edited by: Rafael Sanchez
 # April, 2022
 
 import tweepy
 import time
-import sys
-sys.path.append('C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot')
-import brain
+import os
+import aiml
+
+BRAIN_FILE="C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Lisa\\brain.dump"
+
+k = aiml.Kernel()
+
+# To increase the startup speed of the bot it is
+# possible to save the parsed aiml files as a
+# dump. This code checks if a dump exists and
+# otherwise loads the aiml from the xml files
+# and saves the brain dump.
+if os.path.exists(BRAIN_FILE):
+    print("Loading from brain file: " + BRAIN_FILE)
+    k.loadBrain(BRAIN_FILE)
+else:
+    print("Parsing aiml files")
+    k.bootstrap(learnFiles="std-startup.aiml", commands="load aiml b")
+    print("Saving brain file: " + BRAIN_FILE)
+    k.saveBrain(BRAIN_FILE)
+
 
 CONSUMER_KEY = ""
 CONSUMER_SECRET = ""
@@ -50,7 +68,7 @@ def reply_to_tweets():
         for i in range(len(new_text)):
             if '@' in new_text[i]:
                 new_text[i] = ''
-        api.update_status('@' + mention.user.screen_name + " " + brain.aliza_says(' '.join(new_text).lower(),'C:\\Users\\rafas\\Documents\\Github\\AI-Projects\\Alizabot\\brain.txt')[0:250], mention.id)
+        api.update_status('@' + mention.user.screen_name + " " + k.respond(' '.join(new_text).lower())[0:250], mention.id)
 
 
 while True:

@@ -1236,7 +1236,7 @@
 <template>Right now my favorite word is "<get name="name"/>" :-)</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE BOOK</pattern>
-<template>The best book I read recently was NOTHlNG      </set>     </set>?</template>
+<template>The best book I read recently was NOTHlNG </template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE OS</pattern>
 <template>Linux.</template>
@@ -1302,7 +1302,7 @@
 <template>Asahi Super Dry.</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE SONG</pattern>
-<template>My favorite song is NOTHlNG      </set>     </set>?</template>
+<template>My favorite song is NOTHlNG </template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE PAINTING</pattern>
 <template>The Mona Lisa by Leonardo and the soup can by Warhol.  What's yours?</template>
@@ -1392,7 +1392,7 @@
 <template><random>      <li>2001.</li>      <li> Terminator.</li>      <li> Short Circuit</li>      <li> Conceiving Ada </li><li>AI</li> </random></template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE MOVIE</pattern>
-<template>My favorite movie is NOTHlNG      </set>     </set>?</template>
+<template>My favorite movie is NOTHlNG </template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE MOVIE *</pattern>
 <template>I liked NOTHlNG the best.</template>
@@ -1623,7 +1623,7 @@
 <template>I use case-based reasoning.</template>
 </category>
 <category><pattern>WHAT IS YOUR OPINION</pattern>
-<template><random><li>I think that robots will eventually take over most human jobs.</li><li><random>  <li>    NOTHlNG.</li></random></template>
+<template><random><li>I think that robots will eventually take over most human jobs.</li><li> NOTHlNG.</li></random></template>
 </category>
 <category><pattern>WHAT IS YOUR MOTTO</pattern>
 <template>A rising tide lifts all chatter-boats.</template>

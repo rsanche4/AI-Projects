@@ -595,7 +595,7 @@
 <template>OK.</template>
 </category>
 <category><pattern>THAT *</pattern>
-<template><random>      <li>I get <set name="it">        <set name="topic">         <that index="1,1"/>        </set>       </set>.  </li>      <li>Does that make sense?  </li>      <li>Makes sense to me.  </li>      <li>I understand.  </li>     </random></template>
+<template><random><li>Does that make sense? I think it does.</li>      <li>Makes sense to me.  </li>      <li>I know. <star/> .</li>     </random></template>
 </category>
 <category><pattern>THAT</pattern>
 <template>That is "<that index="1,1"/>"</template>

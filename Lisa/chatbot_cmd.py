@@ -34,8 +34,5 @@ print("")
 # its response
 while True:
     input_text = input("> ")
-    if 'favorite' in input_text.lower():
-        print("I have no favorites.")
-        continue # Work around the thousands of <bot> tags that have favorites and stuff. Avoid answering personal questions!
     response = k.respond(input_text)
     print(response)

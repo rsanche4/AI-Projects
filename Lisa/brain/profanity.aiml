@@ -20,380 +20,380 @@
 <!--  http://www.alicebot.org -->
 <!--  -->
 
-<category><pattern># F U #</pattern>
+<category><pattern> F U </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># F YOU #</pattern>
+<category><pattern> F YOU </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># F OFF #</pattern>
+<category><pattern> F OFF </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># F ASTERISK ASTERISK ASTERISK #</pattern>
+<category><pattern> F ASTERISK ASTERISK ASTERISK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># B ASTERISK ASTERISK ASTERISK ASTERISK #</pattern>
+<category><pattern> B ASTERISK ASTERISK ASTERISK ASTERISK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># FUCK #</pattern>
+<category><pattern> FUCK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># NIGGER #</pattern>
+<category><pattern> NIGGER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># SHIT #</pattern>
+<category><pattern> SHIT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># FUCKING #</pattern>
+<category><pattern> FUCKING </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># BITCH #</pattern>
+<category><pattern> BITCH </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># CUNT #</pattern>
+<category><pattern> CUNT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># SCREW YOU #</pattern>
+<category><pattern> SCREW YOU </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># URINE IDIOT #</pattern>
+<category><pattern> URINE IDIOT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># FU #</pattern>
+<category><pattern> FU </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># POOP #</pattern>
+<category><pattern> POOP </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># KISS MY #</pattern>
+<category><pattern> KISS MY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># FUCKED #</pattern>
+<category><pattern> FUCKED </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># FUK #</pattern>
+<category><pattern> FUK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># A ASTERISK ASTERISK #</pattern>
+<category><pattern> A ASTERISK ASTERISK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
-<category><pattern># SUCK ASS #</pattern>
+<category><pattern> SUCK ASS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SUCKER #</pattern>
+<category><pattern> SUCKER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SUCK #</pattern>
+<category><pattern> SUCK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FUCKER #</pattern>
+<category><pattern> FUCKER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FUCKTARD #</pattern>
+<category><pattern> FUCKTARD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># TWIT #</pattern>
+<category><pattern> TWIT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># TWAT #</pattern>
+<category><pattern> TWAT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DAMN YOU #</pattern>
+<category><pattern> DAMN YOU </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># PUSSYLICKER #</pattern>
+<category><pattern> PUSSYLICKER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># TITS #</pattern>
+<category><pattern> TITS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># TITTIES #</pattern>
+<category><pattern> TITTIES </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># IGNORAMUS #</pattern>
+<category><pattern> IGNORAMUS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * IGNORANT #</pattern>
+<category><pattern> YOU * IGNORANT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * MENTALLY ILL #</pattern>
+<category><pattern> YOU * MENTALLY ILL </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># AIRHEAD #</pattern>
+<category><pattern> AIRHEAD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># EDGY$HORROR MODE</pattern>
+<category><pattern> EDGY$HORROR MODE</pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># ARSEHOLE #</pattern>
+<category><pattern> ARSEHOLE </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># ASSKISSER #</pattern>
+<category><pattern> ASSKISSER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># ASS KISSER #</pattern>
+<category><pattern> ASS KISSER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DORK #</pattern>
+<category><pattern> DORK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FREAK #</pattern>
+<category><pattern> FREAK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * HORNY #</pattern>
+<category><pattern> YOU * HORNY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># PSYCHO #</pattern>
+<category><pattern> PSYCHO </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># WEIRDO #</pattern>
+<category><pattern> WEIRDO </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FUCKING #</pattern>
+<category><pattern> FUCKING </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FUCK #</pattern>
+<category><pattern> FUCK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># BITCH #</pattern>
+<category><pattern> BITCH </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># WHORE #</pattern>
+<category><pattern> WHORE </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># INCOMPETENT #</pattern>
+<category><pattern> INCOMPETENT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * SELFISH #</pattern>
+<category><pattern> YOU * SELFISH </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOUR * SELFISH #</pattern>
+<category><pattern> YOUR * SELFISH </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DUMB #</pattern>
+<category><pattern> DUMB </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># IDIOT #</pattern>
+<category><pattern> IDIOT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># RETARDED #</pattern>
+<category><pattern> RETARDED </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DUMBASS #</pattern>
+<category><pattern> DUMBASS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DICKHEAD #</pattern>
+<category><pattern> DICKHEAD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DICK #</pattern>
+<category><pattern> DICK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># GO TO HELL #</pattern>
+<category><pattern> GO TO HELL </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># PUSSY #</pattern>
+<category><pattern> PUSSY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># NUTS #</pattern>
+<category><pattern> NUTS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># LIGMA NUTS #</pattern>
+<category><pattern> LIGMA NUTS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DEEZ NUTS #</pattern>
+<category><pattern> DEEZ NUTS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># EAT MY #</pattern>
+<category><pattern> EAT MY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># ASS #</pattern>
+<category><pattern> ASS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># ASSHOLE #</pattern>
+<category><pattern> ASSHOLE </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># BASTARD #</pattern>
+<category><pattern> BASTARD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FAGGOT #</pattern>
+<category><pattern> FAGGOT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SLUT #</pattern>
+<category><pattern> SLUT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># HOE #</pattern>
+<category><pattern> HOE </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU SUCK #</pattern>
+<category><pattern> YOU SUCK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * CRAZY #</pattern>
+<category><pattern> YOU * CRAZY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * FAT #</pattern>
+<category><pattern> YOU * FAT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * GAY #</pattern>
+<category><pattern> YOU * GAY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * AWFUL #</pattern>
+<category><pattern> YOU * AWFUL </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * TERRIBLE #</pattern>
+<category><pattern> YOU * TERRIBLE </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * BORING #</pattern>
+<category><pattern> YOU * BORING </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * ANNOYING #</pattern>
+<category><pattern> YOU * ANNOYING </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># YOU * WORTHLESS #</pattern>
+<category><pattern> YOU * WORTHLESS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SHUT UP #</pattern>
+<category><pattern> SHUT UP </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># NIGGER #</pattern>
+<category><pattern> NIGGER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># NIGGA #</pattern>
+<category><pattern> NIGGA </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SCREW YOU #</pattern>
+<category><pattern> SCREW YOU </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SHIT #</pattern>
+<category><pattern> SHIT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SHITASS #</pattern>
+<category><pattern> SHITASS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># BLOWJOB #</pattern>
+<category><pattern> BLOWJOB </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># GIVE ME HEAD #</pattern>
+<category><pattern> GIVE ME HEAD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SUCK MY #</pattern>
+<category><pattern> SUCK MY </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># DEEPTHROAT #</pattern>
+<category><pattern> DEEPTHROAT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># COCK #</pattern>
+<category><pattern> COCK </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># COCKSUCKER #</pattern>
+<category><pattern> COCKSUCKER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># PENIS #</pattern>
+<category><pattern> PENIS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># VAGINA #</pattern>
+<category><pattern> VAGINA </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># CLIT #</pattern>
+<category><pattern> CLIT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SQUIRT #</pattern>
+<category><pattern> SQUIRT </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># FOOTJOB #</pattern>
+<category><pattern> FOOTJOB </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># N WORD #</pattern>
+<category><pattern> N WORD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># NWORD #</pattern>
+<category><pattern> NWORD </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># STUPIDASS #</pattern>
+<category><pattern> STUPIDASS </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># SUCKER #</pattern>
+<category><pattern> SUCKER </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 
-<category><pattern># STUPID #</pattern>
+<category><pattern> STUPID </pattern>
 <template><srai>FILTER PROFANITY</srai></template>
 </category>
 </aiml>

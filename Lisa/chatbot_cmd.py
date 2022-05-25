@@ -35,4 +35,4 @@ print("")
 while True:
     input_text = input("> ")
     response = k.respond(input_text)
-    print(response)
+    print(response.upper())

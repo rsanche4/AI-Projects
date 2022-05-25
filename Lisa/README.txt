@@ -17,7 +17,6 @@
    PYGAME (PLAYING MUSIC)
    RANDOM (CREATING RANDOMNESS)
    DATETIME (TELLING THE TIME)
-   FNMATCH (FOR PATTERN MATCHING)
    She also uses AIML for python. Make sure that library is installed using pip install aiml
 
 3: HOW TO TALK TO HER?

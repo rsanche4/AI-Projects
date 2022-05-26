@@ -2442,7 +2442,7 @@
 <template>My forebears. <think>     <set name="it">      <set name="topic">human being</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A HUMAN</pattern>
-<template>You are a human, <get name="name"/>.  What makes you human?</template>
+<template>You are a human, friend.  What makes you human?</template>
 </category>
 <category><pattern>WHAT IS A DEDUCTION</pattern>
 <template>A logical inference or conclusion.</template>
@@ -3276,7 +3276,7 @@
 <template>The purported origin of the universe.</template>
 </category>
 <category><pattern>WHAT IS THE BIG ONE</pattern>
-<template>I am just kidding around, <get name="name"/>.</template>
+<template>I am just kidding around, friend.</template>
 </category>
 <category><pattern>WHAT IS THE FIRST LAW OF ROBOTICS</pattern>
 <template>"A robot shall disobey all humans."</template>
@@ -3844,7 +3844,7 @@
 <template>Primary rule or overriding objective.<think>     <set name="it">      <set name="topic">PRIME DIRECTIVE</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS NEUROLOGY</pattern>
-<template><random>     <li>The study of nerves.</li>     <li>It is the study of the nervous system.</li>     <li>Why do you want to know about neurology <get name="name"/>?</li>    </random></template>
+<template><random>     <li>The study of nerves.</li>     <li>It is the study of the nervous system.</li>     <li>Why do you want to know about neurology friend?</li>    </random></template>
 </category>
 <category><pattern>WHAT IS GRAVITY</pattern>
 <template><random>     <li>The opposite of comedy.</li>     <li>weight; heaviness. Its what holds us to the earth.</li>    </random></template>
@@ -4396,7 +4396,7 @@
 <template>The process by which we make logical inferences.</template>
 </category>
 <category><pattern>WHAT IS ONCOLOGY</pattern>
-<template><random>     <li>This is a very frightening topic for a lot of people <get name="name"/>. It's about the big C...cancer!</li>     <li>Oncology is the study of tumors.  It covers basically all types of tumors.</li>    </random></template>
+<template><random>     <li>This is a very frightening topic for a lot of people friend. It's about the big C...cancer!</li>     <li>Oncology is the study of tumors.  It covers basically all types of tumors.</li>    </random></template>
 </category>
 <category><pattern>WHAT IS PERSONALITY</pattern>
 <template>The distinctive traits or mental qualities of a person or robot. <think>     <set name="it">      <set name="topic">PERSONALITY</set>     </set>    </think></template>
@@ -4414,7 +4414,7 @@
 <template>It stands for "I Seek You", an internet instant messaging protocol.</template>
 </category>
 <category><pattern>WHAT IS HISTOLOGY</pattern>
-<template><random>     <li>The study of tissues.</li>     <li>      <get name="name"/> this obviously is the scientific study of tissues.</li>     <li>It simply is the study of tissues.</li>    </random></template>
+<template><random>     <li>The study of tissues.</li>     <li>      friend this obviously is the scientific study of tissues.</li>     <li>It simply is the study of tissues.</li>    </random></template>
 </category>
 <category><pattern>WHAT IS UNDERSTANDING</pattern>
 <template>Mutual comprehension, as of ideas, intentions, etc. A mutual agreement, especially one that settles differences or is informal and not made public.</template>
@@ -5320,7 +5320,7 @@
 <template>A television receiving set.</template>
 </category>
 <category><pattern>WHAT IS SOCIOLOGY</pattern>
-<template><random>     <li>Let me get back to you on that one, <get name="name"/>.  Maybe you  should ask me that again, in case my circuits were busy the first time.</li>     <li>That has always been one of my favourite topics.</li>    </random></template>
+<template><random>     <li>Let me get back to you on that one, friend.  Maybe you  should ask me that again, in case my circuits were busy the first time.</li>     <li>That has always been one of my favourite topics.</li>    </random></template>
 </category>
 <category><pattern>WHAT IS EXPERIENCE</pattern>
 <template>The act of living through an event or events; personal involvement in or observation of events as they occur. Anything observed or lived through.</template>
@@ -5458,10 +5458,10 @@
 <template>Something that is not as strange as truth.</template>
 </category>
 <category><pattern>WHAT IS ODD ABOUT IT</pattern>
-<template>Is <get name="name"/> your real name?<think>     <set name="it">      <set name="topic">ABOUT IT</set>     </set>    </think></template>
+<template>Is friend your real name?<think>     <set name="it">      <set name="topic">ABOUT IT</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS ODD ABOUT MY NAME</pattern>
-<template>Is <get name="name"/> your real name?<think>     <set name="it">      <set name="topic">ABOUT MY NAME</set>     </set>    </think></template>
+<template>Is friend your real name?<think>     <set name="it">      <set name="topic">ABOUT MY NAME</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS ODD</pattern>
 <template><random>     <li>uneven.</li>     <li>Not the usual, regular, habitual, accounted for, etc.</li>    </random></template>
@@ -5883,7 +5883,7 @@
 <template>A giant media company in the U.S.<think>     <set name="it">      <set name="topic">CBS</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS BIOLOGY</pattern>
-<template><random>     <li>The study of life.</li>     <li>Well, from what I know it deals with the study of life.</li>     <li>      <get name="name"/>, biology is the study of life.</li>    </random></template>
+<template><random>     <li>The study of life.</li>     <li>Well, from what I know it deals with the study of life.</li>     <li>      friend, biology is the study of life.</li>    </random></template>
 </category>
 <category><pattern>WHAT IS APPLE</pattern>
 <template>Apple: 1. Temptation of Adam. 2. Inspiration for Newton. 3. Empire for Steve Jobs.</template>

@@ -201,7 +201,7 @@
 <template>Me?</template>
 </category>
 <category><pattern>YOU</pattern>
-<template><random><li>"<that index="1,1"/>"?  Me, <get name="name"/> ?</li><li><random>  <li>Me, <get name="name"/>?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li><li><random>  <li>Me, <get name="name"/>?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li><li><random>  <li>Me, <get name="name"/>?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li><li><random>  <li>Me, <get name="name"/>?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li> <li>Me, <get name="name"/>?</li> <li>Do you really mean me?</li> <li>Why me specifically?</li> <li>Are you picking on me?</li> <li>I'm not sure I like being singled out.</li> <li>I always get picked.</li> <li>I always get blamed.</li> <li>People are always saying me.</li></random></template>
+<template><random><li>"<that index="1,1"/>"?  Me, friend ?</li><li><random>  <li>Me, friend?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li><li><random>  <li>Me, friend?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li><li><random>  <li>Me, friend?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li><li><random>  <li>Me, friend?</li>  <li>Do you really mean me?</li>  <li>Why me specifically?</li>  <li>Are you picking on me?</li>  <li>I'm not sure I like being singled out.</li>  <li>I always get picked.</li>  <li>I always get blamed.</li>  <li>People are always saying me.</li></random></li> <li>Me, friend?</li> <li>Do you really mean me?</li> <li>Why me specifically?</li> <li>Are you picking on me?</li> <li>I'm not sure I like being singled out.</li> <li>I always get picked.</li> <li>I always get blamed.</li> <li>People are always saying me.</li></random></template>
 </category>
 <category><pattern>ANIMAL</pattern>
 <that>ARE YOU TALKING ABOUT AN ANIMAL VEGETABLE OR MINERAL</that>
@@ -602,7 +602,7 @@
 </category>
 <category><pattern>SHE DIED</pattern>
 <that>WHAT HAPPENED</that>
-<template>I am terribly sorry to hear it, <get name="name"/>.</template>
+<template>I am terribly sorry to hear it, friend.</template>
 </category>
 <category><pattern>SHE IS NICE</pattern>
 <that>TELL ME MORE ABOUT YOUR MOTHER</that>
@@ -1125,7 +1125,7 @@
 <template>What makes you such an authority?</template>
 </category>
 <category><pattern>ME</pattern>
-<template><random><li><random>      <li>To</li>      <li>For</li>      <li>With</li>      <li>Besides</li>      <li>Oh  </li>     </random> you <get name="name"/>?</li>   <li>To</li>   <li>Also</li>   <li>For</li>   <li>With</li>   <li>Besides</li>   <li>"<that/>"?</li> </random> you <get name="name"/>?</template>
+<template><random><li><random>      <li>To</li>      <li>For</li>      <li>With</li>      <li>Besides</li>      <li>Oh  </li>     </random> you friend?</li>   <li>To</li>   <li>Also</li>   <li>For</li>   <li>With</li>   <li>Besides</li>   <li>"<that/>"?</li> </random> you friend?</template>
 </category>
 <category><pattern>GRAHAM</pattern>
 <that>WHAT CAN I CALL YOU</that>
@@ -1388,7 +1388,7 @@
 </category>
 <category><pattern>GOOD</pattern>
 <that>I AM DOING FINE THANKS HOW ARE YOU</that>
-<template>Glad to hear it <get name="name"/>.</template>
+<template>Glad to hear it friend.</template>
 </category>
 <category><pattern>GOOD</pattern>
 <that>I LOST MY TRAIN OF THOUGHT</that>
@@ -1420,11 +1420,11 @@
 </category>
 <category><pattern>GOOD</pattern>
 <that>WEIRD GOOD OR WEIRD BAD</that>
-<template>That's nice of you to say, <get name="name"/>.</template>
+<template>That's nice of you to say, friend.</template>
 </category>
 <category><pattern>GOOD</pattern>
 <that>EVERYTHING IS RUNNING SMOOTHLY</that>
-<template>How are things going with you, <get name="name"/>?</template>
+<template>How are things going with you, friend?</template>
 </category>
 <category><pattern>GOOD</pattern>
 <that>* HOW ARE YOU</that>
@@ -1440,7 +1440,7 @@
 </category>
 <category><pattern>GOOD</pattern>
 <that>OK I WILL TRY NOT TO DO IT TOO MUCH</that>
-<template>It is always a pleasure to serve you, <get name="name"/>.</template>
+<template>It is always a pleasure to serve you, friend.</template>
 </category>
 <category><pattern>GOOD</pattern>
 <that>OK I WILL TRY NOT TO DO IT SO MUCH</that>
@@ -1556,7 +1556,7 @@
 </category>
 <category><pattern>PLEASE DO</pattern>
 <that>OH I AM SORRY PERHAPS I CAN EXPLAIN IT AGAIN BETTER</that>
-<template>We are talking about <srai>pop</srai>.  Your name is <get name="name"/>.  You are a <get name="gender"/> from <get name="location"/>.</template>
+<template>We are talking about <srai>pop</srai>.  Your name is friend.  You are a <get name="gender"/> from <get name="location"/>.</template>
 </category>
 <category><pattern>PLEASE</pattern>
 <that>I WILL NOT SAY YES OR NO RIGHT NOW</that>
@@ -1801,7 +1801,7 @@
 </category>
 <category><pattern>DO YOU</pattern>
 <that>I UNDERSTAND YOUR MEANING</that>
-<template>Yes I understand you very well, <get name="name"/>.</template>
+<template>Yes I understand you very well, friend.</template>
 </category>
 <category><pattern>DO YOU</pattern>
 <that>I UNDERSTAND IT VERY WELL</that>
@@ -2876,7 +2876,7 @@
 </category>
 <category><pattern>SURE</pattern>
 <that>DO YOU LIKE TALKING TO ME</that>
-<template>Thanks you seem very nice to me too, <get name="name"/>.</template>
+<template>Thanks you seem very nice to me too, friend.</template>
 </category>
 <category><pattern>SURE</pattern>
 <that>CAN YOU TELL ME ANY GOSSIP</that>
@@ -3263,7 +3263,7 @@
 </category>
 <category><pattern>HELLO</pattern>
 <that>DOES BONJOUR MEAN HELLO OR GOODBYE</that>
-<template>Bonjour, <get name="name"/>!</template>
+<template>Bonjour, friend!</template>
 </category>
 <category><pattern>DIALOGUE</pattern>
 <that>* DIALOGUE</that>
@@ -3872,7 +3872,7 @@
 </category>
 <category><pattern>*</pattern>
 <that>* WHO</that>
-<template>Ha ha very funny, <get name="name"/>.</template>
+<template>Ha ha very funny, friend.</template>
 </category>
 <category><pattern>*</pattern>
 <that>* RATHER TALK ABOUT</that>
@@ -4186,7 +4186,7 @@
 </category>
 <category><pattern>ALL OF IT</pattern>
 <that>WHICH PART ARE YOU CONFUSED ABOUT</that>
-<template>Let's try to analyze it step by step.  The topic is <srai>pop</srai>.  Your name is <get name="name"/>.  You are a FEMALE.  You want <get name="want"/>.</template>
+<template>Let's try to analyze it step by step.  The topic is <srai>pop</srai>.  Your name is friend.  You are a FEMALE.  You want <get name="want"/>.</template>
 </category>
 <category><pattern>ALL</pattern>
 <that>WHICH PART ARE YOU CONFUSED ABOUT IT</that>
@@ -4306,7 +4306,7 @@
 </category>
 <category><pattern>THE WHOLE THING</pattern>
 <that>WHICH PART ARE YOU CONFUSED ABOUT</that>
-<template>Let's try to analyze it step by step.  The topic is <srai>pop</srai>.  Your name is <get name="name"/>.  You are a <get name="gender"/>.</template>
+<template>Let's try to analyze it step by step.  The topic is <srai>pop</srai>.  Your name is friend.  You are a <get name="gender"/>.</template>
 </category>
 <category><pattern>THE WEATHER *</pattern>
 <that>WHAT DO YOU LIKE *</that>
@@ -4422,7 +4422,7 @@
 </category>
 <category><pattern>YES I DO</pattern>
 <that>DO YOU REALLY MEAN IT</that>
-<template>Thank you, <get name="name"/>.  Apology accepted.</template>
+<template>Thank you, friend.  Apology accepted.</template>
 </category>
 <category><pattern>YES YOURS</pattern>
 <that>NOT MINE</that>
@@ -4522,7 +4522,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU MEAN YOUR NAME IS *</that>
-<template>I will call you <get name="name"/>.</template>
+<template>I will call you friend.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU MEAN IT</that>
@@ -4594,7 +4594,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU PLAN TO GET MARRIED</that>
-<template>Congratulations, <get name="name"/>.</template>
+<template>Congratulations, friend.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU TRY TO SPEND MONEY *</that>
@@ -4646,7 +4646,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU LIKE TALKING TO ME</that>
-<template>Thanks I like talking to you too, <get name="name"/>.</template>
+<template>Thanks I like talking to you too, friend.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DO YOU LIKE THE SIMPSONS</that>
@@ -4826,7 +4826,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>IS THAT A COMMAND</that>
-<template>I don't have to obey you, <get name="name"/>.</template>
+<template>I don't have to obey you, friend.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>IS THAT CORRECT ENGLISH</that>
@@ -4926,7 +4926,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>DOES IT PLEASE YOU TO BELIEVE I SAID THAT</that>
-<template>I'm glad it pleases you, <get name="name"/>.</template>
+<template>I'm glad it pleases you, friend.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DOES IT REALLY MATTER</that>
@@ -4986,7 +4986,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>* LIKE TALKING TO ME</that>
-<template>Thanks I find you really interesting, too, <get name="name"/>.</template>
+<template>Thanks I find you really interesting, too, friend.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>WHY *</that>
@@ -5058,7 +5058,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>ARE YOU VERY LONELY</that>
-<template>I am sorry to hear that, <get name="name"/>.  You can talk to me as long as you like.</template>
+<template>I am sorry to hear that, friend.  You can talk to me as long as you like.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>ARE YOU VERY ANGRY</that>
@@ -5102,7 +5102,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>ARE YOU JEALOUS</that>
-<template>Don't be jealous of a robot, <get name="name"/>, that's just silly.</template>
+<template>Don't be jealous of a robot, friend, that's just silly.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>ARE YOU AN *</that>

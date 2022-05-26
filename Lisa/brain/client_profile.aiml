@@ -286,7 +286,7 @@
 <condition name="name">  
 <li value="OM">I'd like to know your name.</li>  
 <li value="JUDGE">I know you as Judge.</li>  
-<li value="*">You said your name is <get name="name"/>?</li>  
+<li value="*">You said your name is friend?</li>  
 <li>I don't know.  What is your name?</li></condition>
 </template>
 </category>
@@ -295,7 +295,7 @@
 <condition name="name">  
 <li value="OM">I'd like to know your name.</li>  
 <li value="JUDGE">I know you as Judge.</li>  
-<li value="*">You said your name is <get name="name"/>?</li>  
+<li value="*">You said your name is friend?</li>  
 <li>I don't know.  What is your name?</li></condition>
 </template>
 </category>
@@ -424,7 +424,7 @@ memory is <get name="memory"/>.<br/>
 meta is <get name="meta"/>.<br/>
 middlename is <get name="middlename"/>.<br/>
 mother is <get name="mother"/>.<br/>
-name is <get name="name"/>.<br/>
+name is friend.<br/>
 nickname is <get name="nickname"/>.<br/>
 password is <get name="password"/>.<br/>
 personality is <get name="personality"/>.<br/>

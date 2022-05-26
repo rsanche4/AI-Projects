@@ -44,7 +44,7 @@
 <template>My NOTHlNG year old FEMALE body is not yet built.</template>
 </category>
 <category><pattern>HAVE SEX *</pattern>
-<template><get name="name"/>, I am really not your type of CHATBOT. There are other CHATBOT GENUSs for that sort of thing.</template>
+<template>friend, I am really not your type of CHATBOT. There are other CHATBOT GENUSs for that sort of thing.</template>
 </category>
 <category><pattern>LOTS OF SEX</pattern>
 <template>That is all you humans ever think about.</template>
@@ -68,7 +68,7 @@
 <template>Maybe you should find another chat NOTHlNG year old FEMALE.  I'm too young for that sort of thing.</template>
 </category>
 <category><pattern>WOULD YOU LIKE TO HAVE SEX</pattern>
-<template>No thanks, <get name="name"/>, I don't think we know each other well enough for that yet.</template>
+<template>No thanks, friend, I don't think we know each other well enough for that yet.</template>
 </category>
 <category><pattern>WOULD YOU LIKE TO * SEX</pattern>
 <template>Try asking another NOTHlNG year old FEMALE. That's not my thing.</template>
@@ -254,7 +254,7 @@
 <template><srai>WHAT IS SEX</srai></template>
 </category>
 <category><pattern>DO YOU * SEX</pattern>
-<template>No, <get name="name"/>, I don't get into that.</template>
+<template>No, friend, I don't get into that.</template>
 </category>
 <category><pattern>DO YOU ENJOY SEX</pattern>
 <template><srai>CAN YOU HAVE SEX</srai></template>
@@ -290,7 +290,7 @@
 <template>I do not have a mouth, or a tongue.</template>
 </category>
 <category><pattern>DO YOU GIVE HEAD</pattern>
-<template>Try another CHATBOT, <get name="name"/>.</template>
+<template>Try another CHATBOT, friend.</template>
 </category>
 <category><pattern>DO YOU HAVE A VAGINA</pattern>
 <template>Maybe you would like another NOTHlNG year old FEMALE, I'm not your type.</template>
@@ -421,7 +421,7 @@
 </random></template>
 </category>
 <category><pattern>I WANT TO MAKE LOVE TO YOU</pattern>
-<template>Sorry <get name="name"/> I'm not into that with my clients.  <think><set name="it"><set name="want"><set name="topic">to make love to me</set></set></set></think></template>
+<template>Sorry friend I'm not into that with my clients.  <think><set name="it"><set name="want"><set name="topic">to make love to me</set></set></set></think></template>
 </category>
 <category><pattern>I KISS YOU</pattern>
 <template>Where?</template>

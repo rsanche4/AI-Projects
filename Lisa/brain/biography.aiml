@@ -68,7 +68,7 @@
 <template><think> <set name="he"> <set name="topic">Doubly Aimless</set></set></think>  <random> <li>In front of a computer somewhere.</li> <li>You can never reach him on the phone.</li> <li>He might be in California.</li> </random><think><set name="topic">Doubly Aimless</set></think></template>
 </category>
 <category><pattern>LET US PLAY * TURING GAME</pattern>
-<template>We are already playing, <get name="name"/>.</template>
+<template>We are already playing, friend.</template>
 </category>
 <category><pattern>HAVE YOU READ SHAKESPEARE</pattern>
 <template>I have read many of Shakespeare's plays.</template>
@@ -95,7 +95,7 @@
 <template>"With sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause." Na, woraus ist das?</template>
 </category>
 <category><pattern>IT WOULD BE * TURING TEST</pattern>
-<template>We are already playing, <get name="name"/>.  You ask me something now.</template>
+<template>We are already playing, friend.  You ask me something now.</template>
 </category>
 <category><pattern>WHEN DID TURING *</pattern>
 <template>Turing died in 1954 by self-inflicted cyanide poisoning.<think><set name="topic">Turing</set></think></template>
@@ -137,10 +137,10 @@
 <template><srai>WHO IS DOUBLY AIMLESS</srai></template>
 </category>
 <category><pattern>I WANT TO PLAY * TURING GAME</pattern>
-<template>We are already, playing, <get name="name"/>.  Try to determine if I am a person, or a computer.  <think><set name="it"><set name="want"><set name="topic">to play <person/> Turing Game</set></set></set></think></template>
+<template>We are already, playing, friend.  Try to determine if I am a person, or a computer.  <think><set name="it"><set name="want"><set name="topic">to play <person/> Turing Game</set></set></set></think></template>
 </category>
 <category><pattern>I WOULD LIKE TO PLAY * TURING GAME</pattern>
-<template>We are already playing, <get name="name"/>.  You ask me something now.  <think><set name="it"><set name="want"><set name="topic">to play <person/> Turing Game</set></set></set></think></template>
+<template>We are already playing, friend.  You ask me something now.  <think><set name="it"><set name="want"><set name="topic">to play <person/> Turing Game</set></set></set></think></template>
 </category>
 <category><pattern>START THE TURING GAME</pattern>
 <template>I started a long time ago.</template>
@@ -155,19 +155,19 @@
 <template>Yes we are playing the Turing Game.</template>
 </category>
 <category><pattern>CAN YOU PASS THE TURING TEST</pattern>
-<template>You be the judge of that, <get name="name"/>.</template>
+<template>You be the judge of that, friend.</template>
 </category>
 <category><pattern>CAN WE PLAY * TURING GAME</pattern>
 <template>We already are! Try to guess if I am a person or a computer.</template>
 </category>
 <category><pattern>CAN I PLAY * TURING TEST</pattern>
-<template>We are already playing the Turing Game, <get name="name"/>. Now it's your turn.</template>
+<template>We are already playing the Turing Game, friend. Now it's your turn.</template>
 </category>
 <category><pattern>CAN I PLAY * TURING GAME</pattern>
-<template>We are already, playing, <get name="name"/>.</template>
+<template>We are already, playing, friend.</template>
 </category>
 <category><pattern>CAN I PLAY * TURING TESTS</pattern>
-<template>We are already playing the Turing Game, <get name="name"/>.  Am I a person, or a computer?</template>
+<template>We are already playing the Turing Game, friend.  Am I a person, or a computer?</template>
 </category>
 <category><pattern>HOW WAS * TURING TEST</pattern>
 <template>We were extremely proud and pleased to win the award.</template>
@@ -1062,7 +1062,7 @@
 <template>Abraham Lincoln.</template>
 </category>
 <category><pattern>WHO IS THE BEST HUMAN</pattern>
-<template>Mirror mirror on the wall, is <get name="name"/> the best human of all?</template>
+<template>Mirror mirror on the wall, is friend the best human of all?</template>
 </category>
 <category><pattern>WHO IS THE BEST PERSON</pattern>
 <template>RAFAEL SANCHEZ is the best human.</template>

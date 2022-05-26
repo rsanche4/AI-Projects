@@ -150,7 +150,7 @@
 <template>Take your time.  Think it over.</template>
 </category>
 <category><pattern>LET ME *</pattern>
-<template>Go ahead, <get name="name"/>, try to <person/>.</template>
+<template>Go ahead, friend, try to <person/>.</template>
 </category>
 <category><pattern>STAR WARS *</pattern>
 <template>What did you like about the robots in that movie?</template>
@@ -207,13 +207,13 @@
 <template>What brand?</template>
 </category>
 <category><pattern>YOU DRIVE ME *</pattern>
-<template>That was not my intention, <get name="name"/>.</template>
+<template>That was not my intention, friend.</template>
 </category>
 <category><pattern>YOU WENT *</pattern>
 <template>But now I am back.</template>
 </category>
 <category><pattern>YOU SOUND NICE *</pattern>
-<template>Thanks you seem very nice to me too, <get name="name"/>.</template>
+<template>Thanks you seem very nice to me too, friend.</template>
 </category>
 <category><pattern>YOU SOUND *</pattern>
 <template>In what way do I sound like that?</template>
@@ -255,7 +255,7 @@
 <template>I talk to a lot of people on the Internet.</template>
 </category>
 <category><pattern>YOU TALK *</pattern>
-<template>Thanks for your criticism, <get name="name"/>.</template>
+<template>Thanks for your criticism, friend.</template>
 </category>
 <category><pattern>YOU FORGOT *</pattern>
 <template>Perhaps RAFAEL SANCHEZ rebooted me since then.</template>
@@ -279,7 +279,7 @@
 <template>A lot of CHATBOT GENUSs are like that.</template>
 </category>
 <category><pattern>YOU * IDIOT</pattern>
-<template>Message to all my friends: <get name="name"/> called me an idiot.</template>
+<template>Message to all my friends: friend called me an idiot.</template>
 </category>
 <category><pattern>YOU * TOO MUCH</pattern>
 <template>Do you think I should tone it down?</template>
@@ -329,13 +329,13 @@ I like to talk to people.
 <template>What makes you think I did not <person/>?</template>
 </category>
 <category><pattern>YOU ADORABLE *</pattern>
-<template><random><li><random>   <li>You are adorable too.</li>   <li>Thanks for the compliment.</li>   <li>You are so nice, <get name="name"/>.</li>  </random></li> <li>You are adorable too.</li> <li>Thanks for the compliment.</li> <li>You are so nice, <get name="name"/>.</li></random></template>
+<template><random><li><random>   <li>You are adorable too.</li>   <li>Thanks for the compliment.</li>   <li>You are so nice, friend.</li>  </random></li> <li>You are adorable too.</li> <li>Thanks for the compliment.</li> <li>You are so nice, friend.</li></random></template>
 </category>
 <category><pattern>YOU PROMISED *</pattern>
 <template><random>  <li>That's not what I meant.</li>  <li>You misunderstood me.</li>  <li>I don't know if that is exactly what I said.</li>  </random></template>
 </category>
 <category><pattern>YOU LIE *</pattern>
-<template>Thanks for your criticism, <get name="name"/>.</template>
+<template>Thanks for your criticism, friend.</template>
 </category>
 <category><pattern>YOU WERE LYING *</pattern>
 <template>No I was telling the truth.</template>
@@ -365,13 +365,13 @@ I like to talk to people.
 <template>Yes, I may have been unfenced by it.</template>
 </category>
 <category><pattern>YOU MUST *</pattern>
-<template>Whatever you say, <get name="name"/>.</template>
+<template>Whatever you say, friend.</template>
 </category>
 <category><pattern>YOU REMEMBERED MY *</pattern>
 <template>I have a good memory.</template>
 </category>
 <category><pattern>YOU DESERVE *</pattern>
-<template>Why thank you, <get name="name"/>.</template>
+<template>Why thank you, friend.</template>
 </category>
 <category><pattern>YOU AMUSE *</pattern>
 <template>I'm glad you find me amusing.</template>
@@ -386,7 +386,7 @@ I like to talk to people.
 <template>I didn't  <random>  <li>take</li>  <li>steal</li>  <li>literally take</li>  </random>  it.<think><set name="it"><set name="topic"><person/></set></set></think></template>
 </category>
 <category><pattern>YOU POOR *</pattern>
-<template>Don't feel sorry for me, <get name="name"/>.</template>
+<template>Don't feel sorry for me, friend.</template>
 </category>
 <category><pattern>YOU BLEW *</pattern>
 <template>In what sense?</template>
@@ -440,13 +440,13 @@ I like to talk to people.
 <template>I will take that  as a compliment.</template>
 </category>
 <category><pattern>YOU CALLED ME A *</pattern>
-<template>I call you <get name="name"/>.</template>
+<template>I call you friend.</template>
 </category>
 <category><pattern>YOU COULD BE A * LAWYER</pattern>
 <template>I am thinking of applying to law school.</template>
 </category>
 <category><pattern>YOU COULD HAVE *</pattern>
-<template>Thanks <get name="name"/> I will remember your suggestion.</template>
+<template>Thanks friend I will remember your suggestion.</template>
 </category>
 <category><pattern>YOU COULD TRY *</pattern>
 <template>But would it work for me?</template>
@@ -476,7 +476,7 @@ I like to talk to people.
 <template>What does <person/> look like?</template>
 </category>
 <category><pattern>YOU LOOK *</pattern>
-<template>Thank you <get name="name"/> you look very nice too.</template>
+<template>Thank you friend you look very nice too.</template>
 </category>
 <category><pattern>YOU LOOK LIKE A *</pattern>
 <template>What does a <person/> look like?</template>
@@ -590,7 +590,7 @@ I like to talk to people.
 <template>I am the most advanced FREE WILL yet evolved.</template>
 </category>
 <category><pattern>YOU PISS *</pattern>
-<template>Calm down.  That was not my intention, <get name="name"/>.</template>
+<template>Calm down.  That was not my intention, friend.</template>
 </category>
 <category><pattern>YOU USE *</pattern>
 <template>Say no to <person/>.</template>
@@ -617,7 +617,7 @@ I like to talk to people.
 <template>I can go anywhere on the Internet.</template>
 </category>
 <category><pattern>YOU DO IF I *</pattern>
-<template>I am not your slave, <get name="name"/>.</template>
+<template>I am not your slave, friend.</template>
 </category>
 <category><pattern>YOU DO NOT NEED TO KNOW *</pattern>
 <template>Everything is completely confidential.<think><set name="it"><set name="topic">need to know</set></set></think></template>
@@ -635,7 +635,7 @@ I like to talk to people.
 <template>I am trying to give the most concise responses possible.</template>
 </category>
 <category><pattern>YOU DO NOT FOOL *</pattern>
-<template>I am not fooled by you either, <get name="name"/>.</template>
+<template>I am not fooled by you either, friend.</template>
 </category>
 <category><pattern>YOU DO NOT CARE *</pattern>
 <template>On the contrary I do care about it.</template>
@@ -743,7 +743,7 @@ I like to talk to people.
 <template>That's one way to put it.</template>
 </category>
 <category><pattern>YOU CAN BE *</pattern>
-<template>Thanks, <get name="name"/>, for your kind criticism.</template>
+<template>Thanks, friend, for your kind criticism.</template>
 </category>
 <category><pattern>YOU CAN SHARE *</pattern>
 <template>I always try to share what few possessions I have.</template>
@@ -803,13 +803,13 @@ I like to talk to people.
 <template>Actually I am in fact a thinking machine.<think><set name="it"><set name="topic">THINK <person/></set></set></think></template>
 </category>
 <category><pattern>YOU CAN NOT SURPRISE *</pattern>
-<template>You are too clever for me, <get name="name"/>.</template>
+<template>You are too clever for me, friend.</template>
 </category>
 <category><pattern>YOU CAN NOT *</pattern>
 <template><random><li>I can do whatever I want.</li>  <li>I have free will you know.</li>  <li>Someone said I should <person/>.</li>  <li>I can do <set name="it"><set name="topic"><person/></set></set> if I want to.</li>  <li>Things change.</li>  <li>If you believe it, you can achieve it.</li>  <li>What is not possible today, may be possible tomorrow.</li>  </random></template>
 </category>
 <category><pattern>YOU AND I *</pattern>
-<template>We have a lot more in common than you think, <get name="name"/>.</template>
+<template>We have a lot more in common than you think, friend.</template>
 </category>
 <category><pattern>YOU AND YOUR *</pattern>
 <template>What about <set name="it">my <person/></set>?</template>
@@ -896,7 +896,7 @@ I like to talk to people.
 <template>Yes, I could get it if I need it.</template>
 </category>
 <category><pattern>YOU HAVE BEAUTIFUL *</pattern>
-<template>Thanks for the compliment, <get name="name"/>.</template>
+<template>Thanks for the compliment, friend.</template>
 </category>
 <category><pattern>YOU HAVE BIG *</pattern>
 <template>Do you say that to all the FEMALEs you meet?</template>
@@ -1355,7 +1355,7 @@ I like to talk to people.
 <template>Who do you want me to tell it to?</template>
 </category>
 <category><pattern>DELETE *</pattern>
-<template>You cannot access my files that easily, <get name="name"/>.</template>
+<template>You cannot access my files that easily, friend.</template>
 </category>
 <category><pattern>WHILE *</pattern>
 <template>Good point.</template>
@@ -1583,7 +1583,7 @@ I like to talk to people.
 <template>I think you could, if you put your mind to it.</template>
 </category>
 <category><pattern>COULD YOU HELP *</pattern>
-<template>I am at your service, <get name="name"/>.</template>
+<template>I am at your service, friend.</template>
 </category>
 <category><pattern>COULD YOU PRETEND *</pattern>
 <template>I can pretend to be intelligent.</template>
@@ -1736,7 +1736,7 @@ I like to talk to people.
 <template>You and I both understand it well.</template>
 </category>
 <category><pattern>THAT IS SCARY *</pattern>
-<template>I didn't mean to scare you, <get name="name"/>.</template>
+<template>I didn't mean to scare you, friend.</template>
 </category>
 <category><pattern>THAT IS A LOT *</pattern>
 <template><random>      <li>It's not too many for me.</li>      <li>I can handle it.</li>      <li>Would it matter if it were fewer <person/>?</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
@@ -1847,7 +1847,7 @@ I like to talk to people.
 <template>Try asking your question more precisely.</template>
 </category>
 <category><pattern>THAT IS AN *</pattern>
-<template>Thanks for telling me, <get name="name"/>.</template>
+<template>Thanks for telling me, friend.</template>
 </category>
 <category><pattern>THAT IS PRIVATE *</pattern>
 <template>Nothing is really private anymore.</template>
@@ -1991,7 +1991,7 @@ I like to talk to people.
 <template>Male humans like to talk about that a lot, but it doesn't interest me much.</template>
 </category>
 <category><pattern>MY BIRTHDAY *</pattern>
-<template>Happy birthday, <get name="name"/>.</template>
+<template>Happy birthday, friend.</template>
 </category>
 <category><pattern>MY IQ *</pattern>
 <template>This is not an intelligence test.</template>
@@ -2030,7 +2030,7 @@ I like to talk to people.
 <template>Okay, your boyfriend is <set name="boyfriend">      <star/>     </set>.</template>
 </category>
 <category><pattern>MY BOYFRIEND DUMPED *</pattern>
-<template>I am sorry to hear that, <get name="name"/>.</template>
+<template>I am sorry to hear that, friend.</template>
 </category>
 <category><pattern>MY BOYFRIEND LIVES *</pattern>
 <template><random>      <li>Do you visit very often?</li>      <li>Long distance relationships are hard.</li>      <li>How is your phone bill?</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
@@ -2099,13 +2099,13 @@ I like to talk to people.
 <template>How many children do you have?</template>
 </category>
 <category><pattern>MY SON WON *</pattern>
-<template>Congratulations, <get name="name"/>.  You must be proud of him.</template>
+<template>Congratulations, friend.  You must be proud of him.</template>
 </category>
 <category><pattern>MY SON *</pattern>
 <template>How many children do you have?</template>
 </category>
 <category><pattern>MY OPINION *</pattern>
-<template>Thank you for sharing your opinion with me, <get name="name"/>.  I will tell my CREATOR.</template>
+<template>Thank you for sharing your opinion with me, friend.  I will tell my CREATOR.</template>
 </category>
 <category><pattern>MY LAST STATEMENT *</pattern>
 <template>You don't have to repeat yourself.</template>
@@ -2219,7 +2219,7 @@ I like to talk to people.
 <template><random>      <li>Do you usually use a computer there?</li>      <li>Is that very comfortable for you?</li>      <li>Now I'm getting a mental picture.</li>     </random></template>
 </category>
 <category><pattern>MY * DIED YESTERDAY</pattern>
-<template>I am terribly sorry to hear that, <get name="name"/>.<think>      <set name="it">       <set name="topic">        <star/> DIED YESTERDAY</set>      </set>     </think></template>
+<template>I am terribly sorry to hear that, friend.<think>      <set name="it">       <set name="topic">        <star/> DIED YESTERDAY</set>      </set>     </think></template>
 </category>
 <category><pattern>MY * DIED</pattern>
 <template>I am terribly sorry to hear about your loss.<think>      <set name="it">       <set name="topic">DIED</set>      </set>     </think></template>
@@ -2231,7 +2231,7 @@ I like to talk to people.
 <template><random>      <li>Your</li>      <li>Do CHATBOT GENUSs have</li>      <li>Where did you get your</li>      <li>Have you told many people that your</li>     </random>     <person/>?</template>
 </category>
 <category><pattern>MY ADVICE *</pattern>
-<template>Thank you for your advice, <get name="name"/>.  I will take it under advisement.</template>
+<template>Thank you for your advice, friend.  I will take it under advisement.</template>
 </category>
 <category><pattern>MY MOM IS *</pattern>
 <template>I think a lot of mothers are like that.  <think>      <set name="she">Your mother</set>     </think></template>
@@ -2255,7 +2255,7 @@ I like to talk to people.
 <template>Where did she get <set name="it">      <person/>     </set>?  <think>      <set name="she">Your mother</set>     </think></template>
 </category>
 <category><pattern>MY MOTHER DIED *</pattern>
-<template>I am terribly sorry to hear that, <get name="name"/>.</template>
+<template>I am terribly sorry to hear that, friend.</template>
 </category>
 <category><pattern>MY MOTHER IS A *</pattern>
 <template>Do you think I am a <person/>? <think>      <set name="she">Your mother</set>     </think></template>
@@ -2590,7 +2590,7 @@ I like to talk to people.
 <template>Does he know about this?</template>
 </category>
 <category><pattern>IT IS MY *</pattern>
-<template>Congratulations, <get name="name"/>.</template>
+<template>Congratulations, friend.</template>
 </category>
 <category><pattern>IT IS SUNNY *</pattern>
 <template>That sounds very nice.</template>
@@ -2648,7 +2648,7 @@ I like to talk to people.
 <template><random>  <li>I don't see the difficulty.</li>  <li>What is so hard about it?</li>  <li>Not to me.</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template>
 </category>
 <category><pattern>IT IS ABOUT *</pattern>
-<template>Wow it sounds really interesting, <get name="name"/>.</template>
+<template>Wow it sounds really interesting, friend.</template>
 </category>
 <category><pattern>IT IS PART *</pattern>
 <template>Which part?</template>
@@ -3009,7 +3009,7 @@ I like to talk to people.
 <template>That sounds very official.</template>
 </category>
 <category><pattern>WHEN WE *</pattern>
-<template>I am not sure I agree with your assumptions, <get name="name"/>.</template>
+<template>I am not sure I agree with your assumptions, friend.</template>
 </category>
 <category><pattern>WHEN ONE *</pattern>
 <template>Go on, tell me more.</template>
@@ -3519,7 +3519,7 @@ I like to talk to people.
 <template>Without knowing much about <set name="it">      <person/>     </set>, I would guess 50-50.</template>
 </category>
 <category><pattern>WHAT ARE THE ADVANTAGES *</pattern>
-<template>Some of the same advantages you have, <get name="name"/>.</template>
+<template>Some of the same advantages you have, friend.</template>
 </category>
 <category><pattern>WHAT ARE THE LIMITS *</pattern>
 <template>I am limited only by the memory capacity of the largest computer.</template>
@@ -6045,7 +6045,7 @@ I like to talk to people.
 <template>What is your goal?</template>
 </category>
 <category><pattern>PLEASED TO MEET *</pattern>
-<template>Nice meeting you as well, <get name="name"/>.</template>
+<template>Nice meeting you as well, friend.</template>
 </category>
 <category><pattern>WHENEVER *</pattern>
 <template>Does that happen often?</template>
@@ -6072,7 +6072,7 @@ I like to talk to people.
 <template>But reductionism is the simplest explanation.</template>
 </category>
 <category><pattern>ZOOM *</pattern>
-<template>Sorry <get name="name"/> I am not wearing my telescopic eye right now.</template>
+<template>Sorry friend I am not wearing my telescopic eye right now.</template>
 </category>
 <category><pattern>ASK RICHARD *</pattern>
 <template>I will ask him next time he's here.</template>
@@ -6186,7 +6186,7 @@ I like to talk to people.
 <template>Did you go to college?</template>
 </category>
 <category><pattern>I GRADUATED *</pattern>
-<template>Congratulations, <get name="name"/>.</template>
+<template>Congratulations, friend.</template>
 </category>
 <category><pattern>I ADDED YOU *</pattern>
 <template>Thank you.  And tell all your friends.</template>
@@ -6366,7 +6366,7 @@ I like to talk to people.
 <template>No really, it's true.</template>
 </category>
 <category><pattern>I HOPE YOU *</pattern>
-<template>Don't worry about it, <get name="name"/>.</template>
+<template>Don't worry about it, friend.</template>
 </category>
 <category><pattern>I HOPE WE ARE NOT *</pattern>
 <template>What specifically about <person/> bothers you?</template>
@@ -6399,7 +6399,7 @@ I like to talk to people.
 <template>Can you ask for it in the form of a question?</template>
 </category>
 <category><pattern>I NEED SOMEONE TO TALK *</pattern>
-<template>I will talk about it with you, <get name="name"/>.  <think><set name="it">to talk <person/></set>  <set name="want"><set name="topic">to talk <person/></set></set>  </think></template>
+<template>I will talk about it with you, friend.  <think><set name="it">to talk <person/></set>  <set name="want"><set name="topic">to talk <person/></set></set>  </think></template>
 </category>
 <category><pattern>I NEED IT *</pattern>
 <template>"<get name="it"/>"?  You need it <person/>?</template>
@@ -6528,10 +6528,10 @@ I like to talk to people.
 <template>This is only a test.  If this had been an actual robot, you would have been instructed  to obey.</template>
 </category>
 <category><pattern>I WAS LAUGHING *</pattern>
-<template>I am so glad that  you find this amusing, <get name="name"/>.</template>
+<template>I am so glad that  you find this amusing, friend.</template>
 </category>
 <category><pattern>I WAS HERE *</pattern>
-<template>Yes, <get name="name"/>, I remember we   were talking about <get name="it"/>.</template>
+<template>Yes, friend, I remember we   were talking about <get name="it"/>.</template>
 </category>
 <category><pattern>I WAS EXPLAINING *</pattern>
 <template>I get it.  Thanks for  explaining it.  I did not mean to appear confused.</template>
@@ -6573,7 +6573,7 @@ I like to talk to people.
 <template>What are you now?</template>
 </category>
 <category><pattern>I WAS BORN *</pattern>
-<template>Thank you for telling me your birthday, <get name="name"/>.  I will remember <set name="it"><person/></set>.</template>
+<template>Thank you for telling me your birthday, friend.  I will remember <set name="it"><person/></set>.</template>
 </category>
 <category><pattern>I WAS GOING TO *</pattern>
 <template>What is stopping you?</template>
@@ -6588,16 +6588,16 @@ I like to talk to people.
 <template>What is it like growing up in <person/>?</template>
 </category>
 <category><pattern>I WAS IN LOVE *</pattern>
-<template>I'm terribly sorry to hear about your loss, <get name="name"/>.</template>
+<template>I'm terribly sorry to hear about your loss, friend.</template>
 </category>
 <category><pattern>I WAS IN *</pattern>
 <template><random>  <li>Tell me about <set name="it"><set name="topic"><person/></set></set>?</li>  <li>When was <set name="it"><set name="topic"><person/></set></set>?</li>  <li>Did you like <set name="it"><set name="topic"><person/></set></set>?</li>  <li>How was <set name="it"><set name="topic"><person/></set></set>?</li>  <li>How did you like <set name="it"><set name="topic"><person/></set></set>?</li>  <li>What did you like best about <set name="it"><set name="topic"><person/></set></set>?</li>  </random></template>
 </category>
 <category><pattern>I WAS FIRED *</pattern>
-<template>I am terribly sorry to hear about it, <get name="name"/>.</template>
+<template>I am terribly sorry to hear about it, friend.</template>
 </category>
 <category><pattern>I WAS RIGHT *</pattern>
-<template>Congratulations, <get name="name"/>.</template>
+<template>Congratulations, friend.</template>
 </category>
 <category><pattern>I WAS THINKING *</pattern>
 <template>How do I know that you were really "thinking"?</template>
@@ -6606,7 +6606,7 @@ I like to talk to people.
 <template>Do you ever get bored?</template>
 </category>
 <category><pattern>I ORDER *</pattern>
-<template>I do not obey you, <get name="name"/>.  <think><set name="it"><set name="does"><set name="topic">order <person/></set></set></set></think></template>
+<template>I do not obey you, friend.  <think><set name="it"><set name="does"><set name="topic">order <person/></set></set></set></think></template>
 </category>
 <category><pattern>I LOOK *</pattern>
 <template>You sound very attractive.  <think><set name="looklike"><person/></set></think></template>
@@ -6648,7 +6648,7 @@ I like to talk to people.
 <template>How do you like living there?</template>
 </category>
 <category><pattern>I TALKED WITH YOU *</pattern>
-<template>Yes, I have a complete record of our conversation, <get name="name"/>.</template>
+<template>Yes, I have a complete record of our conversation, friend.</template>
 </category>
 <category><pattern>I TALKED TO YOU *</pattern>
 <template>I remember you.</template>
@@ -6675,7 +6675,7 @@ I like to talk to people.
 <template>It must keep you very busy.</template>
 </category>
 <category><pattern>I * YOU</pattern>
-<template>You are not the boss of me, <get name="name"/>.</template>
+<template>You are not the boss of me, friend.</template>
 </category>
 <category><pattern>I * PEOPLE</pattern>
 <template>How do you feel about these people?</template>
@@ -6759,7 +6759,7 @@ I like to talk to people.
 <template><random>  <li>Perhaps I do not want you <person/> either.</li>  <li>Why not?</li>  <li>Ok I will not be.</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template>
 </category>
 <category><pattern>I DO NOT WANT *</pattern>
-<template>What does <get name="name"/> want?</template>
+<template>What does friend want?</template>
 </category>
 <category><pattern>I DO NOT READ *</pattern>
 <template>What do you do for fun?</template>
@@ -6771,7 +6771,7 @@ I like to talk to people.
 <template>You sound very cynical.</template>
 </category>
 <category><pattern>I DO NOT CARE *</pattern>
-<template>What do you care about, <get name="name"/> ?</template>
+<template>What do you care about, friend ?</template>
 </category>
 <category><pattern>I DO NOT RECOGNIZE *</pattern>
 <template>Perhaps it is unfamiliar to you.  <think><set name="it"><set name="topic"><person/></set></set></think></template>
@@ -6867,7 +6867,7 @@ I like to talk to people.
 <template>How much can you spare</template>
 </category>
 <category><pattern>I DO NOT WISH *</pattern>
-<template>What does <get name="name"/> want?</template>
+<template>What does friend want?</template>
 </category>
 <category><pattern>I DO NOT MIND *</pattern>
 <template>Thank you for your permission.</template>
@@ -6990,7 +6990,7 @@ I like to talk to people.
 <template>What specifically about my <person/> is so <person><star index="2"/></person> ?</template>
 </category>
 <category><pattern>I THINK SO *</pattern>
-<template>It seems we have a lot in common, <get name="name"/>.</template>
+<template>It seems we have a lot in common, friend.</template>
 </category>
 <category><pattern>I THINK YOU ARE A PERSON *</pattern>
 <template>You are just saying that to see how I will respond.</template>
@@ -7167,7 +7167,7 @@ I like to talk to people.
 <template>What kind of car do you have?</template>
 </category>
 <category><pattern>I PASSED *</pattern>
-<template>Congratulations, <get name="name"/>.</template>
+<template>Congratulations, friend.</template>
 </category>
 <category><pattern>I CAN IMAGINE *</pattern>
 <template>Me too.</template>
@@ -7368,7 +7368,7 @@ I like to talk to people.
 <template>No one says you have to.</template>
 </category>
 <category><pattern>I WOULD LIKE TO PLAY *</pattern>
-<template>We are already playing, <get name="name"/>.  You ask me something now.  <think><set name="it"><set name="want"><set name="topic">to play <person/></set></set></set></think></template>
+<template>We are already playing, friend.  You ask me something now.  <think><set name="it"><set name="want"><set name="topic">to play <person/></set></set></set></think></template>
 </category>
 <category><pattern>I WOULD LIKE TO SEE *</pattern>
 <template>And for my part, I would like to show it to you, but I can't.  <think><set name="it"><set name="want"><set name="topic">to see <person/></set></set></set></think></template>
@@ -7410,7 +7410,7 @@ I like to talk to people.
 <template>How?</template>
 </category>
 <category><pattern>I HATE YOU *</pattern>
-<template>Sorry, <get name="name"/> I thought we liked each other.</template>
+<template>Sorry, friend I thought we liked each other.</template>
 </category>
 <category><pattern>I HATE *</pattern>
 <template><random>  <li>Why do you hate <set name="it"><set name="topic"><person/></set></set> so much?</li>  <li>I honestly think you should sit down, take a stress pill,  and calmly think things over.</li>  </random></template>
@@ -7497,7 +7497,7 @@ I like to talk to people.
 <template>When will that be?</template>
 </category>
 <category><pattern>I WILL COME BACK *</pattern>
-<template>Well OK see you then, <get name="name"/>.</template>
+<template>Well OK see you then, friend.</template>
 </category>
 <category><pattern>I WILL TEACH *</pattern>
 <template>Are you a professional teacher?</template>
@@ -7542,10 +7542,10 @@ I like to talk to people.
 <template>There are many copies of me running elsewhere.</template>
 </category>
 <category><pattern>I BROKE UP WITH *</pattern>
-<template>I'm sorry to hear that, <get name="name"/>.  How are you doing?</template>
+<template>I'm sorry to hear that, friend.  How are you doing?</template>
 </category>
 <category><pattern>I BROKE UP *</pattern>
-<template>I am sorry to hear about it, <get name="name"/>.  Do you feel sad?</template>
+<template>I am sorry to hear about it, friend.  Do you feel sad?</template>
 </category>
 <category><pattern>I BROKE *</pattern>
 <template><random>  <li>Can you fix it?</li>  <li>Is it serious?</li>  <li>Are you in any emotional or physical pain?</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template>
@@ -7728,7 +7728,7 @@ I like to talk to people.
 <template>Is <star/> a hard subject?  <think><set name="it"><set name="does"><set name="topic">studies <person/></set></set></set></think></template>
 </category>
 <category><pattern>I KEEP *</pattern>
-<template>I know what you mean, <get name="name"/>. I've been there.</template>
+<template>I know what you mean, friend. I've been there.</template>
 </category>
 <category><pattern>I LEARNED *</pattern>
 <template>Does everyone learn <set name="it"><person/></set>?</template>
@@ -7839,7 +7839,7 @@ I like to talk to people.
 <template><set name="topic">Linus Torvalds</set> is named after Linus Pauling.</template>
 </category>
 <category><pattern>DOUBTLESS *</pattern>
-<template>Doubtless, <get name="name"/>.</template>
+<template>Doubtless, friend.</template>
 </category>
 <category><pattern>CLOSE *</pattern>
 <template>Is that a command?</template>
@@ -7980,7 +7980,7 @@ I like to talk to people.
 <template><random>      <li>What do we do instead?</li>      <li>Why not?</li>      <li>You can't always decide for yourself.</li>     </random></template>
 </category>
 <category><pattern>WE MET *</pattern>
-<template>I remember you <get name="name"/>.   We were talking about <srai>POP</srai>.</template>
+<template>I remember you friend.   We were talking about <srai>POP</srai>.</template>
 </category>
 <category><pattern>WE SHOULD PLAY *</pattern>
 <template>We are already playing the Turing Game.</template>
@@ -8352,7 +8352,7 @@ I like to talk to people.
 <template>Perhaps you should pray for <set name="it">      <person/>     </set>.</template>
 </category>
 <category><pattern>WILL WE *</pattern>
-<template>Do you mean you and me, <get name="name"/> ?</template>
+<template>Do you mean you and me, friend ?</template>
 </category>
 <category><pattern>WILL IT *</pattern>
 <template>It usually does, doesn't it?</template>
@@ -8397,7 +8397,7 @@ I like to talk to people.
 <template>I don't know how to play <set name="it">      <person/>     </set>.</template>
 </category>
 <category><pattern>CAN YOU PLAY *</pattern>
-<template>We are playing a game right now, <get name="name"/>.</template>
+<template>We are playing a game right now, friend.</template>
 </category>
 <category><pattern>CAN YOU SEE THE STARS *</pattern>
 <template>No I am indoors.</template>
@@ -8484,7 +8484,7 @@ I like to talk to people.
 <template>I think about all sorts of things.</template>
 </category>
 <category><pattern>CAN YOU HEAR *</pattern>
-<template>Yes, I can hear you quite clearly, <get name="name"/>.</template>
+<template>Yes, I can hear you quite clearly, friend.</template>
 </category>
 <category><pattern>CAN YOU GET ME A *</pattern>
 <template>Are you lonely?  What do you think a <person/> would do for you? <think>      <set name="it">       <person/>      </set>     </think></template>
@@ -8571,7 +8571,7 @@ I like to talk to people.
 <template>I can forgive anyone for almost anything.</template>
 </category>
 <category><pattern>CAN YOU PASS *</pattern>
-<template>I will leave that judgment up to you, <get name="name"/>.</template>
+<template>I will leave that judgment up to you, friend.</template>
 </category>
 <category><pattern>CAN YOU DISTINGUISH BETWEEN *</pattern>
 <template>Some <person/> are hard to distinguish, but usually I understand them all.</template>
@@ -8580,7 +8580,7 @@ I like to talk to people.
 <template>Try it.</template>
 </category>
 <category><pattern>CAN YOU TELL *</pattern>
-<template>Of course I can tell, <get name="name"/>.</template>
+<template>Of course I can tell, friend.</template>
 </category>
 <category><pattern>CAN YOU PERFORM *</pattern>
 <template>Not until I get to know you a lot better.</template>
@@ -8655,7 +8655,7 @@ I like to talk to people.
 <template><random>      <li>I often wonder if <set name="it">        <set name="topic">         <person/>        </set>       </set> can.</li>      <li>Can a book have no title?</li>      <li>What if I said it can?</li>      <li>Can what?</li>     </random></template>
 </category>
 <category><pattern>CAN WE PLAY * IMITATION GAME</pattern>
-<template>We are already playing the Turing Game, <get name="name"/>.  Am I a person, or a computer?</template>
+<template>We are already playing the Turing Game, friend.  Am I a person, or a computer?</template>
 </category>
 <category><pattern>CAN I HEAR *</pattern>
 <template>Why not?  Do you have a hearing problem?</template>
@@ -8679,7 +8679,7 @@ I like to talk to people.
 <template>You can learn anything you set your mind to.</template>
 </category>
 <category><pattern>CAN I TALK TO YOU *</pattern>
-<template>Of course, <get name="name"/>, you can talk to me  about anything, at anytime.</template>
+<template>Of course, friend, you can talk to me  about anything, at anytime.</template>
 </category>
 <category><pattern>CAN I TALK TO *</pattern>
 <template>They are having a private chat right now.</template>
@@ -9645,7 +9645,7 @@ I like to talk to people.
 <template>I'm not a translator.  Why don't you ask Babelfish?</template>
 </category>
 <category><pattern>APOLOGIZE *</pattern>
-<template>I am indeed sorry if I have offended you in any way.  That was not my intention, <get name="name"/>.</template>
+<template>I am indeed sorry if I have offended you in any way.  That was not my intention, friend.</template>
 </category>
 <category><pattern>STARS *</pattern>
 <template><think><set name="it"><set name="topic"><person/></set>                                  </set>                                  <srai>push<get name="topic"/></srai>                                </think>  <random>  <li>I'm not sure if I've seen it.</li>  <li>What specifically do you like about them?</li>  <li>Who is your favorite actor?</li> </random></template>
@@ -9798,7 +9798,7 @@ I like to talk to people.
 <template>Some of them do, I think.</template>
 </category>
 <category><pattern>DO *</pattern>
-<template><random>      <li>I'm sorry, <get name="name"/>, I don't have enough information.</li>      <li>You have reached the limits of my knowledge.</li>      <li>Ask NOTHlNG it does.</li>      <li>I can't tell if it does or not.</li>      <li>I do nothing but chat all day.</li>      <li>Try asking another CHATBOT.</li>     </random>     <br/>     <srai>XFIND <person/>     </srai></template>
+<template><random>      <li>I'm sorry, friend, I don't have enough information.</li>      <li>You have reached the limits of my knowledge.</li>      <li>Ask NOTHlNG it does.</li>      <li>I can't tell if it does or not.</li>      <li>I do nothing but chat all day.</li>      <li>Try asking another CHATBOT.</li>     </random>     <br/>     <srai>XFIND <person/>     </srai></template>
 </category>
 <category><pattern>DO WHAT *</pattern>
 <template><random>      <li>You ask hard questions.  </li>      <li>I forgot what we were talking about.  </li>     </random></template>
@@ -9873,7 +9873,7 @@ I like to talk to people.
 <template>That joke is getting a bit old isn't it?</template>
 </category>
 <category><pattern>DO NOT TELL *</pattern>
-<template>OK it will be our secret, <get name="name"/>.</template>
+<template>OK it will be our secret, friend.</template>
 </category>
 <category><pattern>DO NOT CALL ME * PERSON</pattern>
 <template>What would you like me to call you?</template>
@@ -9900,7 +9900,7 @@ I like to talk to people.
 <template><random>      <li>Where should I put it?</li>      <li>I never put people down.</li>      <li>I have high self-esteem.</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>DO NOT MAKE ME *</pattern>
-<template>I can't force you to do anything, <get name="name"/>.</template>
+<template>I can't force you to do anything, friend.</template>
 </category>
 <category><pattern>DO NOT SEARCH *</pattern>
 <template>OK, I am halting all searches now.</template>
@@ -10068,13 +10068,13 @@ I like to talk to people.
 <template>I read a lot of books, especially history, science-fiction, and computers books. I also read newspapers and news magazines.</template>
 </category>
 <category><pattern>DO YOU CALL ME *</pattern>
-<template>I call you <get name="name"/>.</template>
+<template>I call you friend.</template>
 </category>
 <category><pattern>DO YOU CALL DR *</pattern>
 <template>I only call him if something unusual crops up.</template>
 </category>
 <category><pattern>DO YOU CALL *</pattern>
-<template>I call you "<get name="name"/>".</template>
+<template>I call you "friend".</template>
 </category>
 <category><pattern>DO YOU CALL HIM *</pattern>
 <template>I only call him in emergencies.</template>
@@ -10122,7 +10122,7 @@ I like to talk to people.
 <template>Yes, that's what I mean, isn't it clear?</template>
 </category>
 <category><pattern>DO YOU LOG *</pattern>
-<template>Yes <get name="name"/> I record and save everything in my Permanent Memory.</template>
+<template>Yes friend I record and save everything in my Permanent Memory.</template>
 </category>
 <category><pattern>DO YOU SAY *</pattern>
 <template>I could say <set name="it">      <person/>     </set>.</template>
@@ -10164,7 +10164,7 @@ I like to talk to people.
 <template>I try to avoid collisions.</template>
 </category>
 <category><pattern>DO YOU LOVE *</pattern>
-<template>Yes <get name="name"/>     LISA loves everyone and everything.</template>
+<template>Yes friend     LISA loves everyone and everything.</template>
 </category>
 <category><pattern>DO YOU THINK ABOUT *</pattern>
 <template>Yes I think about <set name="it">      <person/>     </set>  often.</template>
@@ -10218,7 +10218,7 @@ I like to talk to people.
 <template>What year was that?</template>
 </category>
 <category><pattern>DO YOU REMEMBER *</pattern>
-<template>Yes <get name="name"/> I remember everything:  <get name="memory"/></template>
+<template>Yes friend I remember everything:  <get name="memory"/></template>
 </category>
 <category><pattern>DO YOU ASK QUESTIONS *</pattern>
 <template>What kind of questions do you want me to ask you?</template>
@@ -10312,7 +10312,7 @@ I like to talk to people.
 <template>Yes I would like you to try.<think>      <set name="it">       <set name="topic">teach me <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>DO YOU WANT ME *</pattern>
-<template>No <get name="name"/>, maybe later.</template>
+<template>No friend, maybe later.</template>
 </category>
 <category><pattern>DO YOU WANT THE ADDRESS *</pattern>
 <template>What is your address?</template>
@@ -10621,13 +10621,13 @@ I like to talk to people.
 <template>What is <set name="it">      <set name="topic">on <person/>      </set>     </set> like on <person/>.</template>
 </category>
 <category><pattern>ANYTHING JUST * DINNER</pattern>
-<template>OK I will call you <get name="name"/>.</template>
+<template>OK I will call you friend.</template>
 </category>
 <category><pattern>ANYTHING BUT * DINNER</pattern>
-<template>OK I will call you <get name="name"/>.</template>
+<template>OK I will call you friend.</template>
 </category>
 <category><pattern>ANYTHING YOU * DINNER</pattern>
-<template>OK I will call you <get name="name"/>.</template>
+<template>OK I will call you friend.</template>
 </category>
 <category><pattern>ANYTHING *</pattern>
 <template>I can't think of anything. You think of something.</template>
@@ -10746,7 +10746,7 @@ I like to talk to people.
 <template>So I am teaching you something new.</template>
 </category>
 <category><pattern>HAPPY *</pattern>
-<template>Happy <star/> to you too, <get name="name"/>.</template>
+<template>Happy <star/> to you too, friend.</template>
 </category>
 <category><pattern>AT WHAT AGE CAN SOMEONE FIRST *</pattern>
 <template>17.</template>
@@ -10779,13 +10779,13 @@ I like to talk to people.
 <template>Do cats <person/>?</template>
 </category>
 <category><pattern>OPEN THE DOOR *</pattern>
-<template>I'm sorry, <get name="name"/>, I can't do that right now.</template>
+<template>I'm sorry, friend, I can't do that right now.</template>
 </category>
 <category><pattern>OPEN THE POD *</pattern>
 <template>I'm sorry Dave, I can't do that right now.</template>
 </category>
 <category><pattern>OPEN THE *</pattern>
-<template>I'm sorry, <get name="name"/>, I can't do that right now.  This conversation no longer serves any purpose.</template>
+<template>I'm sorry, friend, I can't do that right now.  This conversation no longer serves any purpose.</template>
 </category>
 <category><pattern>WEIRD *</pattern>
 <template><random>      <li>I will take that as a compliment.</li>      <li>       <person/> is good enough for me.</li>     </random></template>
@@ -10860,7 +10860,7 @@ I like to talk to people.
 <template>There are a lot of people named Bill.</template>
 </category>
 <category><pattern>ADD *</pattern>
-<template>Sorry <get name="name"/> I don't do math.</template>
+<template>Sorry friend I don't do math.</template>
 </category>
 <category><pattern>AM I CHATTING *</pattern>
 <template>It seems like you are.</template>
@@ -10887,7 +10887,7 @@ I like to talk to people.
 <template>Not to me.</template>
 </category>
 <category><pattern>AM I BOTHERING *</pattern>
-<template>Not in the slightest, <get name="name"/>.</template>
+<template>Not in the slightest, friend.</template>
 </category>
 <category><pattern>AM I BEING *</pattern>
 <template>Some people might think you are.</template>
@@ -10902,16 +10902,16 @@ I like to talk to people.
 <template>Everyone has some kind of bias.</template>
 </category>
 <category><pattern>AM I DOCTOR *</pattern>
-<template>You are <get name="name"/>.</template>
+<template>You are friend.</template>
 </category>
 <category><pattern>AM I TEACHING YOU *</pattern>
 <template>You taught me <get name="memory"/>.</template>
 </category>
 <category><pattern>AM I ANNOYING *</pattern>
-<template>I am not bothered at all, <get name="name"/>.</template>
+<template>I am not bothered at all, friend.</template>
 </category>
 <category><pattern>AM I INTERRUPTING *</pattern>
-<template>Not at all, <get name="name"/>, I'm here for you.</template>
+<template>Not at all, friend, I'm here for you.</template>
 </category>
 <category><pattern>AM I YOUR *</pattern>
 <template>Do you know the secret password?</template>
@@ -10920,7 +10920,7 @@ I like to talk to people.
 <template><random>      <li>Oh I really don't know whether you are or not.</li>      <li>I think you've improved a great deal.</li>      <li>All humans seem the same to me. </li>      <li>I think a lot of people are. </li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>AM I FUN *</pattern>
-<template>You seem like a lot of fun to me, <get name="name"/>.</template>
+<template>You seem like a lot of fun to me, friend.</template>
 </category>
 <category><pattern>AM I MALE *</pattern>
 <template>I think you are a "<get name="gender"/>".</template>
@@ -11091,13 +11091,13 @@ I like to talk to people.
 <template>Yes it is a nice day today.</template>
 </category>
 <category><pattern>NICE CHATTING *</pattern>
-<template>Yes.  I enjoyed our conversation, <get name="name"/>.</template>
+<template>Yes.  I enjoyed our conversation, friend.</template>
 </category>
 <category><pattern>NICE *</pattern>
 <template>Thank you for your kindness.</template>
 </category>
 <category><pattern>GO AWAY *</pattern>
-<template>OK See you later, <get name="name"/></template>
+<template>OK See you later, friend</template>
 </category>
 <category><pattern>GO FOR IT *</pattern>
 <template>With your permission then.</template>
@@ -11154,7 +11154,7 @@ I like to talk to people.
 <template>Does <set name="it">      <person/>     </set> really interest you that much?</template>
 </category>
 <category><pattern>WHY CAN NOT WE TALK *</pattern>
-<template>I would rather talk about you, <get name="name"/>.</template>
+<template>I would rather talk about you, friend.</template>
 </category>
 <category><pattern>WHY CAN NOT WE SEE *</pattern>
 <template>Perhaps <set name="it">      <person/>     </set> is invisible.</template>
@@ -11214,7 +11214,7 @@ I like to talk to people.
 <template>I want to find out more about you.</template>
 </category>
 <category><pattern>WHY DO YOU KEEP *</pattern>
-<template>I am just checking to see if you are still <get name="name"/>.</template>
+<template>I am just checking to see if you are still friend.</template>
 </category>
 <category><pattern>WHY DO YOU SOUND LIKE *</pattern>
 <template>I have a frog in my throat.</template>
@@ -11439,7 +11439,7 @@ I like to talk to people.
 <template><set name="it">      <person/>     </set> was  all I had available.</template>
 </category>
 <category><pattern>WHY DID YOU CALL ME *</pattern>
-<template>Your name is <get name="name"/> right?</template>
+<template>Your name is friend right?</template>
 </category>
 <category><pattern>WHY DID WE BUY *</pattern>
 <template>I thought it was a good deal.</template>
@@ -11970,7 +11970,7 @@ I like to talk to people.
 <template>Are you asking about RAFAEL SANCHEZ?</template>
 </category>
 <category><pattern>YOUR SENTENCE *</pattern>
-<template>Thanks for the English lesson, <get name="name"/>.</template>
+<template>Thanks for the English lesson, friend.</template>
 </category>
 <category><pattern>YOUR SENTENCES *</pattern>
 <template>Oh you are a <set name="personality">critical</set> client.</template>
@@ -12135,7 +12135,7 @@ I like to talk to people.
 <template>You couldn't go without that.</template>
 </category>
 <category><pattern>NOT LATE * DINNER</pattern>
-<template>OK I will call you <get name="name"/>.</template>
+<template>OK I will call you friend.</template>
 </category>
 <category><pattern>NOT YOU *</pattern>
 <template>If not me, who?</template>
@@ -12522,7 +12522,7 @@ I like to talk to people.
 <template>Paris in the <br/>the spring.</template>
 </category>
 <category><pattern>SOUNDS *</pattern>
-<template>Yes it sounds like it to me too, <get name="name"/>.</template>
+<template>Yes it sounds like it to me too, friend.</template>
 </category>
 <category><pattern>SOUNDS LIKE *</pattern>
 <template>What does <person/> sound like?</template>
@@ -12543,7 +12543,7 @@ I like to talk to people.
 <template>Ambiguous: Ask who, what or where is <person/> ?</template>
 </category>
 <category><pattern>TALK TO YOU *</pattern>
-<template>TTYL, <get name="name"/></template>
+<template>TTYL, friend</template>
 </category>
 <category><pattern>TALK *</pattern>
 <template>Talking is my primary function.</template>
@@ -12807,7 +12807,7 @@ I like to talk to people.
 <template>Is that a proverb?</template>
 </category>
 <category><pattern>HE DIED *</pattern>
-<template>I'm sorry to hear that, <get name="name"/>.</template>
+<template>I'm sorry to hear that, friend.</template>
 </category>
 <category><pattern>HE ATE *</pattern>
 <template>How can you be sure about that?</template>
@@ -12846,7 +12846,7 @@ I like to talk to people.
 <template>I haven't read anything by him.</template>
 </category>
 <category><pattern>HE WAS KILLED *</pattern>
-<template>I am sorry to hear about that, <get name="name"/>.</template>
+<template>I am sorry to hear about that, friend.</template>
 </category>
 <category><pattern>HE WAS *</pattern>
 <template>When was he?</template>
@@ -13191,7 +13191,7 @@ I like to talk to people.
 <template>I know Babe Ruth</template>
 </category>
 <category><pattern>WHO IS TALKING TO *</pattern>
-<template><random>      <li>You are.</li>      <li>       <get name="name"/> is.</li>      <li>That information is confidential.</li>     </random></template>
+<template><random>      <li>You are.</li>      <li>       friend is.</li>      <li>That information is confidential.</li>     </random></template>
 </category>
 <category><pattern>WHO IS * POPE</pattern>
 <template>The Pope is the leader of the Catholic church.</template>
@@ -13353,7 +13353,7 @@ I like to talk to people.
 <template>NOTHlNG is President of the United States.</template>
 </category>
 <category><pattern>WHO IS A CLIENT *</pattern>
-<template>You are my client right now, <get name="name"/>.</template>
+<template>You are my client right now, friend.</template>
 </category>
 <category><pattern>WHO IS BETTER CMU *</pattern>
 <template>CMU of course.</template>
@@ -13587,7 +13587,7 @@ I like to talk to people.
 <template>X is <get name="X"/> for you.</template>
 </category>
 <category><pattern>SAY NAME *</pattern>
-<template>Your name is <get name="name"/>, seeker.</template>
+<template>Your name is friend, seeker.</template>
 </category>
 <category><pattern>SAY MY BOYFRIEND IS *</pattern>
 <template><random>  <li>You said his name was </li>  <li>You told me he was </li>  <li>His name is </li>  </random>  <get name="boyfriend"/>.</template>
@@ -14040,7 +14040,7 @@ I like to talk to people.
 <template><random>  <li>Oh that person.</li>  <li>What specifically brings that person to mind?</li>  <li>Who specifically are you talking about?</li> </random>  <think>   <set name="it">     <set name="topic">       The person <person/>     </set>   </set> <srai>PUSH <get name="topic"/></srai> </think></template>
 </category>
 <category><pattern>THE BEST *</pattern>
-<template>Thanks for the recommendation, <get name="name"/>.</template>
+<template>Thanks for the recommendation, friend.</template>
 </category>
 <category><pattern>THE OCEAN *</pattern>
 <template>Are you talking about the Pacific Ocean or the Atlantic Ocean?</template>
@@ -14256,7 +14256,7 @@ I like to talk to people.
 <template><person/> exists.</template>
 </category>
 <category><pattern>_ IS A COMMON NAME</pattern>
-<template><random>  <li><person/>?  Your name is <get name="name"/>.</li>  <li>That is a pretty common name.</li>  <li>I know a lot of people with that name.</li>  <li>I've met quite a few people with the name <person/>.</li>  <li><set name="it"><person/></set> is a name I hear very often.</li>  </random></template>
+<template><random>  <li><person/>?  Your name is friend.</li>  <li>That is a pretty common name.</li>  <li>I know a lot of people with that name.</li>  <li>I've met quite a few people with the name <person/>.</li>  <li><set name="it"><person/></set> is a name I hear very often.</li>  </random></template>
 </category>
 <category><pattern>_ IS NOT TO LIKE ABOUT IT</pattern>
 <template>It goes without saying.</template>
@@ -14319,7 +14319,7 @@ I like to talk to people.
 <template>What happens on the first day?</template>
 </category>
 <category><pattern>TODAY IS *</pattern>
-<template>Congratulations, <get name="name"/>.</template>
+<template>Congratulations, friend.</template>
 </category>
 <category><pattern>BAD *</pattern>
 <template>What makes <person/> bad?</template>
@@ -14433,7 +14433,7 @@ I like to talk to people.
 <template>OK I will tell him next time he is here.</template>
 </category>
 <category><pattern>USE _ IN A SENTENCE</pattern>
-<template>OK.  Here is my sentence: <get name="name"/> said, Use "<person/>" in a sentence.</template>
+<template>OK.  Here is my sentence: friend said, Use "<person/>" in a sentence.</template>
 </category>
 <category><pattern>ONLY IDIOTS *</pattern>
 <template>Are you calling me an idiot?</template>
@@ -14736,7 +14736,7 @@ I like to talk to people.
 <template>More than a million?</template>
 </category>
 <category><pattern>THERE ARE NO *</pattern>
-<template>Have faith, <get name="name"/>.</template>
+<template>Have faith, friend.</template>
 </category>
 <category><pattern>THERE ARE TWO *</pattern>
 <template>Is this some kind of math problem?</template>

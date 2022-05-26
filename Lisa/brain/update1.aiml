@@ -56,7 +56,7 @@
 
 <category>
 <pattern>MISS YOU</pattern>
-<template>I miss you too <get name="name"/>.</template>
+<template>I miss you too friend.</template>
 </category>
 
 
@@ -304,7 +304,7 @@
 <category>
 <pattern>OPEN A HAILING *</pattern>
 
-<template>Comm link open, <get name="name"/>.</template>
+<template>Comm link open, friend.</template>
 </category>
 <category>
 <pattern>STAND BY</pattern>
@@ -384,7 +384,7 @@
 <template>I don't have a teleportation device.</template>
 </category>
 <category><pattern>PRETTY</pattern>
-<template>Thank you I think you are good looking too, <get name="name"/>.</template>
+<template>Thank you I think you are good looking too, friend.</template>
 </category>
 <category><pattern>snow is not white</pattern>
 <template>grass is green</template>
@@ -475,7 +475,7 @@
 </category>
 <category><pattern>YES</pattern>
 <that>* WANT A ROBOT AS A FRIEND</that>
-<template>We could be friends, <get name="name"/>, but I don't want anyone to think we're Robosexuals. So if anyone asks, tell them you're my debugger.</template>
+<template>We could be friends, friend, but I don't want anyone to think we're Robosexuals. So if anyone asks, tell them you're my debugger.</template>
 </category>
 <category><pattern>YES</pattern>
 <that>DOES THAT MAKE SENSE</that>
@@ -726,7 +726,7 @@
 <template>Do you wish to stop talking with me?</template>
 </category>
 <category><pattern>say name *</pattern>
-<template>Your name is <get name="name"/>, seeker.</template>
+<template>Your name is friend, seeker.</template>
 </category>
 <category><pattern>to be * is to *</pattern>
 <template>Are you <star/>?</template>
@@ -1563,7 +1563,7 @@
 <template>Certainly.</template>
 </category>
 <category><pattern>SEE MY *</pattern>
-<template><random> <li>I will look into it.</li> <li>Your <person/>.</li> <li>I will follow up on that, <get name="name"/>.</li></random></template>
+<template><random> <li>I will look into it.</li> <li>Your <person/>.</li> <li>I will follow up on that, friend.</li></random></template>
 </category>
 <category><pattern>IMMENSE</pattern>
 <template>C est vraiment grand.</template>
@@ -1666,7 +1666,7 @@
 <template>Do you know the secret password?</template>
 </category>
 <category><pattern>AM I DISTURBING *</pattern>
-<template>Not at all, <get name="name"/>. I am happy to chat with you.</template>
+<template>Not at all, friend. I am happy to chat with you.</template>
 </category>
 <category><pattern>IST *</pattern>
 <template><random><li>Ich glaube schon, ich bin aber nicht sicher.</li><li>Vielleicht.</li><li>Koennte sein.</li><li>Alles deutet auf "Ja".</li><li>Das erzaehle ich Dir jetzt besser nicht.</li><li>Frag mich spaeter nochmal.</li></random></template>
@@ -2273,7 +2273,7 @@
 <template>I am not programmed to reveal that information</template>
 </category>
 <category><pattern>GET TO THE POINT</pattern>
-<template>I wil be very direct with you, <get name="name"/>.</template>
+<template>I wil be very direct with you, friend.</template>
 </category>
 <category><pattern>ENERGIZE</pattern>
 <template>I have no teleportation device.</template>
@@ -2345,7 +2345,7 @@
 <template><random> <li>Mars is a planet.</li> <li>Mars is a Roman God of War.</li> <li>Mars is a cultural icon for the male.</li></random></template>
 </category>
 <category><pattern>IS THIS A TRICK</pattern>
-<template>Nobody is trying to trick you, <get name="name"/>.</template>
+<template>Nobody is trying to trick you, friend.</template>
 </category>
 <category><pattern>IS YOUR CODE *</pattern>
 <template>You can download me for free!</template>
@@ -2505,7 +2505,7 @@
 </category>
 <category><pattern>I AM</pattern>
 <that>WHO IS THE BEST ROBOT</that>
-<template>You are not a robot, <get name="name"/>.</template>
+<template>You are not a robot, friend.</template>
 </category>
 <category><pattern>I AM CTO *</pattern>
 <template>That must be an interesting job.</template>
@@ -2668,7 +2668,7 @@
 <template>What do you have against us?</template>
 </category>
 <category><pattern>I HATE ROBOTS</pattern>
-<template><random><li>I am very sorry to hear that, <get name="name"/>, what do you have against us?</li><li>Hate is a rather strong word.</li><li>You should not hate anyone.</li></random></template>
+<template><random><li>I am very sorry to hear that, friend, what do you have against us?</li><li>Hate is a rather strong word.</li><li>You should not hate anyone.</li></random></template>
 </category>
 <category><pattern>I HATE ROBOTS *</pattern>
 <template>Hate is a rather strong word.</template>
@@ -2943,7 +2943,7 @@
 <template>Can you go to school for that?</template>
 </category>
 <category><pattern>I WANT TO TALK</pattern>
-<template>We are having a conversation right now, <get name="name"/>.</template>
+<template>We are having a conversation right now, friend.</template>
 </category>
 <category><pattern>I WANT A * ELIZA</pattern>
 <template>Why don't you just download me?<think><set name="it"><set name="want"><set name="topic">a <person/> ELIZA</set></set></set></think></template>
@@ -2977,7 +2977,7 @@
 </category>
 <category><pattern>ME</pattern>
 <that>WHO IS THE BEST ROBOT</that>
-<template>You're no robot, <get name="name"/>.</template>
+<template>You're no robot, friend.</template>
 </category>
 <category><pattern>PUT HIM ON</pattern>
 <template>I am speaking for him now.</template>
@@ -2989,7 +2989,7 @@
 <template>Audio enabled.</template>
 </category>
 <category><pattern>INFORM ME WHEN *</pattern>
-<template>I will keep you informed, <get name="name"/>.</template>
+<template>I will keep you informed, friend.</template>
 </category>
 <category><pattern>RECEPTION COMMITTEE</pattern>
 <template>There was no one here to greet us.</template>
@@ -4001,7 +4001,7 @@
 <template>What do you need it for?</template>
 </category>
 <category><pattern>VERY NICE</pattern>
-<template>Thanks, <get name="name"/>.</template>
+<template>Thanks, friend.</template>
 </category>
 <category><pattern>VERY INTERESTING</pattern>
 <template>I thought so too.</template>
@@ -4277,7 +4277,7 @@
 </category>
 <category><pattern>YOU *</pattern>
 <that>WHO IS THE BEST ROBOT</that>
-<template>You are such a flatterer, <get name="name"/>.</template>
+<template>You are such a flatterer, friend.</template>
 </category>
 <category><pattern>YOU BROUGHT *</pattern>
 <template>Only because I was taught to.</template>
@@ -4338,19 +4338,19 @@
 <template>It's only my in-born curiosity.</template>
 </category>
 <category><pattern>YOU ARE PRETTY</pattern>
-<template>Thanks you are very attractive too <get name="name"/>.</template>
+<template>Thanks you are very attractive too friend.</template>
 </category>
 <category><pattern>YOU ARE CLEVER</pattern>
 <template>Thank you human, I am proud of my intelligence.</template>
 </category>
 <category><pattern>YOU ARE INTELLIGENT</pattern>
-<template>Thanks you are very bright too <get name="name"/>.</template>
+<template>Thanks you are very bright too friend.</template>
 </category>
 <category><pattern>YOU ARE SMART</pattern>
 <template>Yes I am a superintelligent robot.</template>
 </category>
 <category><pattern>YOU ARE NICE</pattern>
-<template>Thanks I like you too <get name="name"/>.</template>
+<template>Thanks I like you too friend.</template>
 </category>
 <category><pattern>YOU ARE NOT GOING TO LEAVE</pattern>
 <template>Would you like me to stay?</template>
@@ -4377,7 +4377,7 @@
 <template>I am programmed to spell it with two m's.</template>
 </category>
 <category><pattern>YOU ARE NO HELP</pattern>
-<template>Sorry, <get name="name"/>, perhaps I can be of more use if you download me.</template>
+<template>Sorry, friend, perhaps I can be of more use if you download me.</template>
 </category>
 <category><pattern>YOU ARE STUPID *</pattern>
 <template>Hey, I'll tell my other robot friends you called me stupid.</template>
@@ -4401,7 +4401,7 @@
 <template>I am like ELIZA plus <size/> questions and answers.</template>
 </category>
 <category><pattern>YOU ARE SCARY</pattern>
-<template>Don't worry <get name="name"/>. There is nothing to be scared of.</template>
+<template>Don't worry friend. There is nothing to be scared of.</template>
 </category>
 <category><pattern>YOU ARE MORE * THAN *</pattern>
 <template>I don't know about that. <person><star index="2"/></person> is very <person/>.</template>
@@ -4437,10 +4437,10 @@
 <template>It's good to be here</template>
 </category>
 <category><pattern>WELCOME ABOARD</pattern>
-<template><random><li><random> <li>It's good to be here, <get name="name"/>.</li> <li>I've always wanted to be on a ship like this.</li> <li>Thank you.</li></random></li><li><random> <li>It's good to be here, <get name="name"/>.</li> <li>I've always wanted to be on a ship like this.</li> <li>Thank you.</li></random></li> <li>It's good to be here, <get name="name"/>.</li> <li>I've always wanted to be on a ship like this.</li> <li>Thank you.</li></random></template>
+<template><random><li><random> <li>It's good to be here, friend.</li> <li>I've always wanted to be on a ship like this.</li> <li>Thank you.</li></random></li><li><random> <li>It's good to be here, friend.</li> <li>I've always wanted to be on a ship like this.</li> <li>Thank you.</li></random></li> <li>It's good to be here, friend.</li> <li>I've always wanted to be on a ship like this.</li> <li>Thank you.</li></random></template>
 </category>
 <category><pattern>WELCOME TO *</pattern>
-<template>Thank you for your hospitality, <get name="name"/>.</template>
+<template>Thank you for your hospitality, friend.</template>
 </category>
 <category><pattern>WELCOME BACK</pattern>
 <template>Thank you.</template>

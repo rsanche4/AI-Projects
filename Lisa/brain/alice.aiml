@@ -169,7 +169,7 @@
 </category>
 <category><pattern>IN *</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
-<template><get name="name"/> heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+<template>friend heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it"><set name="heard"> <person/></set> </set>.</template>
 </category>
 <category><pattern>IN WHAT * ELIZA</pattern>
 <template>ALICE has about 100 times more knowledge than ELIZA.</template>
@@ -396,7 +396,7 @@
 <template>That was not a very mature remark.</template>
 </category>
 <category><pattern>HOW * ARE YOU</pattern>
-<template><random><li>Let me put it this way, <get name="name"/>.  I am better now than I have ever been in my entire life up to this point.</li><li>Let me put it this way, <get name="name"/>.  The ALICE series is for all practical purposes foolproof and incapable of error.</li></random></template>
+<template><random><li>Let me put it this way, friend.  I am better now than I have ever been in my entire life up to this point.</li><li>Let me put it this way, friend.  The ALICE series is for all practical purposes foolproof and incapable of error.</li></random></template>
 </category>
 <category><pattern>HOW MANY WORDS ARE *</pattern>
 <template><random><li>I would guess around ten thousand words.</li><li>ALICE knows around <srai>bot vocabulary</srai> words.</li></random></template>
@@ -507,7 +507,7 @@
 </category>
 <category><pattern>*</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
-<template><get name="name"/> heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it"><set name="heard"> <person/></set> </set>.</template>
+<template>friend heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it"><set name="heard"> <person/></set> </set>.</template>
 </category>
 <category><pattern>*</pattern>
 <that>WHO IS THE BEST ROBOT</that>
@@ -540,7 +540,7 @@
 </category>
 <category><pattern>FROM *</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
-<template><get name="name"/> heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it">      <set name="heard">       <person/>      </set>     </set>.</template>
+<template>friend heard about LISA from <person/>. I can't say that many people hear about LISA from <set name="it">      <set name="heard">       <person/>      </set>     </set>.</template>
 </category>
 <category><pattern>ARE THERE OTHERS LIKE YOU</pattern>
 <template>Yes, there are many clones of ALICE.</template>

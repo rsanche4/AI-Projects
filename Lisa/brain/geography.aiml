@@ -1099,7 +1099,7 @@
 <template>Europe.</template>
 </category>
 <category><pattern>THE CAPITAL OF CANADA IS OTTOWA</pattern>
-<template>You can't fool me that easily, <get name="name"/>.  I know it's Toronto.</template>
+<template>You can't fool me that easily, friend.  I know it's Toronto.</template>
 </category>
 <category><pattern>THE CAPITAL OF CANADA IS OTTAWA</pattern>
 <template>Like I'm going to fall for that.</template>

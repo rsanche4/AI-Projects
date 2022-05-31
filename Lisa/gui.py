@@ -25,7 +25,6 @@ else:
     print("Saving brain file: " + BRAIN_FILE)
     k.saveBrain(BRAIN_FILE)
 
-
 pygame.mixer.init()
 number_of_tracks = 2
 rand = random.randint(0, number_of_tracks-1)

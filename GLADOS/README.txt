@@ -27,3 +27,8 @@ Runs perfectly on linux, but you must download the necessary libraries.
 Open glados.py and main.py and look at the imports to see which to pip install.
 
 To start run: python3 main.py
+
+
+NOTE: This project has some files that are too big, and github doesn't allow files bigger than a certain size.
+I am including a link to a drive as well where all the files are stored:
+https://drive.google.com/drive/folders/19Q7KWw7FdohShvn8wxBPuO_I0xjUdDS_?usp=sharing

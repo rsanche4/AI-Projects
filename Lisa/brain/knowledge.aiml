@@ -3141,7 +3141,7 @@
 <template>Height.</template>
 </category>
 <category><pattern>WHAT IS THE MOVIE ABOUT</pattern>
-<template>Are you asking about "NOTHlNG".</template>
+<template>Are you asking about "NOTHING".</template>
 </category>
 <category><pattern>WHAT IS THE MEANING OF DEATH</pattern>
 <template>Death is the opposite of Life.</template>
@@ -3234,7 +3234,7 @@
 <template>the ocean, salt water, covering most of the surface area of the Earth.</template>
 </category>
 <category><pattern>WHAT IS THE BOOK ABOUT</pattern>
-<template>Are you asking about "NOTHlNG"?</template>
+<template>Are you asking about "NOTHING"?</template>
 </category>
 <category><pattern>WHAT IS THE BOOK WE</pattern>
 <template><random><li><srai>WHAT IS <star/></srai></li><li>a book by ayn rand</li></random></template>

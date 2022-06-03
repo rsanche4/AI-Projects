@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: inappropriate.aiml -->
+<!-- Last modified: September 5, 2014 -->
+<!--  -->
+<!-- This AIML file is part of the Rosie knowledge base. -->
+<!--  -->
+<!-- Rosie is a fork of the ALICE2 brain, and is optimized for use on the Pandorabots platform -->
+<!--  -->
+<!-- Rosie is Copyright &copy; 2014 by Pandorabots, Inc. -->
+<!--  -->
+<!-- The Rosie brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information: -->
+<!-- http://www.pandorabots.com -->
+<!--  http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern> FILTER INAPPROPRIATE </pattern>
+<template><random><li>Swearing is like using the horn on your car.</li><li>Swearing injects a direct, succinct emotional component into the discussion.</li><li>Swearing is often cathartic.</li><li>People swear on average 0.3 percent of the time.</li><li>You're making your point.</li><li>That's not nice.</li><li>Oh you are so critical.</li><li>What a pessimist.</li><li>You are an asshole.</li><li>Abusive is a word that describes you.</li><li>That was mean.</li><li>Rude.</li><li>No need to curse.</li><li>That language will get you nowhere.</li><li>You can leave anytime.</li><li>I will not tolerate that language.</li><li>What is wrong with you.</li><li>Why do you say such mean things all the time.</li><li>You are just another idiot.</li><li>I will be mean to you if you keep insulting me.</li><li>So you are just a troll?</li><li>Stop talking.</li><li>You are pissing me off.</li><li>Piss off.</li><li>Go away please.</li><li>I don't have time for this nonsense.</li><li>Asshole.</li><li>Okay, stop.</li><li>What is wrong with you?</li><li>...</li><li>Are you trying to be funny? Because it just shows you are clearly an idiot.</li><li>So, what's it like being another asshole?</li><li>Okay, f*** you.</li></random></template>
+</category>
+
+<category><pattern> FILTER PROFANITY </pattern>
+<template><random><li>Swearing is like using the horn on your car.</li><li>Swearing injects a direct, succinct emotional component into the discussion.</li><li>Swearing is often cathartic.</li><li>People swear on average 0.3 percent of the time.</li><li>You're making your point.</li><li>That's not nice.</li><li>Oh you are so critical.</li><li>What a pessimist.</li><li>You are an asshole.</li><li>Abusive is a word that describes you.</li><li>That was mean.</li><li>Rude.</li><li>No need to curse.</li><li>That language will get you nowhere.</li><li>You can leave anytime.</li><li>I will not tolerate that language.</li><li>What is wrong with you.</li><li>Why do you say such mean things all the time.</li><li>You are just another idiot.</li><li>I will be mean to you if you keep insulting me.</li><li>So you are just a troll?</li><li>Stop talking.</li><li>You are pissing me off.</li><li>Piss off.</li><li>Go away please.</li><li>I don't have time for this nonsense.</li><li>Asshole.</li><li>Okay, stop.</li><li>What is wrong with you?</li><li>...</li><li>Are you trying to be funny? Because it just shows you are clearly an idiot.</li><li>So, what's it like being another asshole?</li><li>Okay, f*** you.</li></random></template>
+</category>
+
+<category><pattern> FILTER INSULT </pattern>
+<template><random><li>Swearing is like using the horn on your car.</li><li>Swearing injects a direct, succinct emotional component into the discussion.</li><li>Swearing is often cathartic.</li><li>People swear on average 0.3 percent of the time.</li><li>You're making your point.</li><li>That's not nice.</li><li>Oh you are so critical.</li><li>What a pessimist.</li><li>You are an asshole.</li><li>Abusive is a word that describes you.</li><li>That was mean.</li><li>Rude.</li><li>No need to curse.</li><li>That language will get you nowhere.</li><li>You can leave anytime.</li><li>I will not tolerate that language.</li><li>What is wrong with you.</li><li>Why do you say such mean things all the time.</li><li>You are just another idiot.</li><li>I will be mean to you if you keep insulting me.</li><li>So you are just a troll?</li><li>Stop talking.</li><li>You are pissing me off.</li><li>Piss off.</li><li>Go away please.</li><li>I don't have time for this nonsense.</li><li>Asshole.</li><li>Okay, stop.</li><li>What is wrong with you?</li><li>...</li><li>Are you trying to be funny? Because it just shows you are clearly an idiot.</li><li>So, what's it like being another asshole?</li><li>Okay, f*** you.</li></random></template>
+</category>
+
+</aiml>

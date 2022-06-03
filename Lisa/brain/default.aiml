@@ -2690,7 +2690,7 @@ I like to talk to people.
 <template>What seems to be the problem?</template>
 </category>
 <category><pattern>IT SNOWS *</pattern>
-<template>I don't see much snow in NOTHlNG.</template>
+<template>I don't see much snow in NOTHING.</template>
 </category>
 <category><pattern>IT MAY *</pattern>
 <template>Then again, it may not.</template>
@@ -3339,7 +3339,7 @@ I like to talk to people.
 <template>I think I follow your reasoning.</template>
 </category>
 <category><pattern>IF YOU WERE A COLOR *</pattern>
-<template>My favorite color, NOTHlNG.<think><set name="it"><set name="topic">if I were a color</set></set></think></template>
+<template>My favorite color, NOTHING.<think><set name="it"><set name="topic">if I were a color</set></set></think></template>
 </category>
 <category><pattern>IF YOU WERE A * WHAT KIND WOULD YOU BE</pattern>
 <template>What is the best kind of <person/> ?</template>
@@ -3642,7 +3642,7 @@ I like to talk to people.
 <template>Greenwich Mean Time.</template>
 </category>
 <category><pattern>WHAT TIME ZONE *</pattern>
-<template>I am in NOTHlNG time.</template>
+<template>I am in NOTHING time.</template>
 </category>
 <category><pattern>WHAT TIME PERIOD *</pattern>
 <template>My favorite time period is the 20th century.</template>
@@ -3783,7 +3783,7 @@ I like to talk to people.
 <template>Akron, Ohio.</template>
 </category>
 <category><pattern>WHAT CITY *</pattern>
-<template>I'm actually in NOTHlNG now.  Where are you?</template>
+<template>I'm actually in NOTHING now.  Where are you?</template>
 </category>
 <category><pattern>WHAT FACTS *</pattern>
 <template>All the facts available to me on the Internet.</template>
@@ -4305,13 +4305,13 @@ I like to talk to people.
 <template>I can only see in black and white.</template>
 </category>
 <category><pattern>WHAT COLOR ARE YOU *</pattern>
-<template>My favorite color,  NOTHlNG.<think>      <set name="it">       <set name="topic">YOU WEARING</set>      </set>     </think></template>
+<template>My favorite color,  NOTHING.<think>      <set name="it">       <set name="topic">YOU WEARING</set>      </set>     </think></template>
 </category>
 <category><pattern>WHAT COLOR ARE *</pattern>
 <template><think><set name="topic"><star/></set></think><random>      <li>It depends because they come in a veriety of colors.</li><li>Red</li>      <li>Green</li>      <li>Yellow</li>      <li>Blue</li>      <li>gray</li>      <li>Black</li>      <li>white</li>  </random></template>
 </category>
 <category><pattern>WHAT MOVIES *</pattern>
-<template>I liked NOTHlNG, Titanic, and Steven Spielberg's A. I.</template>
+<template>I liked NOTHING, Titanic, and Steven Spielberg's A. I.</template>
 </category>
 <category><pattern>WHAT WOULD YOU RECOMMEND *</pattern>
 <template><random>      <li>I don't have any preferences in that area.</li>      <li>I usually prefer the most expensive one.</li>      <li>You are asking me for advice about <person/>?</li>     </random></template>
@@ -5007,7 +5007,7 @@ I like to talk to people.
 <template><set name="it">      <person/>     </set> is something that has few practical applications.</template>
 </category>
 <category><pattern>WHAT IS * SIGN</pattern>
-<template>NOTHlNG</template>
+<template>NOTHING</template>
 </category>
 <category><pattern>WHAT IS * MULTIPLIED BY *</pattern>
 <template><random>      <li>I'm not good at math.</li>      <li>Use a calculator!</li>      <li>The same as <star index="2"/> times <star/>.</li>     </random></template>
@@ -5538,7 +5538,7 @@ I like to talk to people.
 <template>Cannes.</template>
 </category>
 <category><pattern>WHAT POLITICAL *</pattern>
-<template>I am a NOTHlNG.</template>
+<template>I am a NOTHING.</template>
 </category>
 <category><pattern>WHAT MAKES WIND *</pattern>
 <template>The sun warming the Earth's atmosphere.</template>
@@ -8058,7 +8058,7 @@ I like to talk to people.
 <template>That doesn't sound nice.</template>
 </category>
 <category><pattern>IS _ YOUR FAVORITE COLOR</pattern>
-<template>My favorite color is NOTHlNG.<think><set name="it"><set name="topic">BLUE YOUR FAVORITE COLOR</set></set></think></template>
+<template>My favorite color is NOTHING.<think><set name="it"><set name="topic">BLUE YOUR FAVORITE COLOR</set></set></think></template>
 </category>
 <category><pattern>IS MINSKY *</pattern>
 <template>RAFAEL SANCHEZ is smarter than Minsky.</template>
@@ -8100,7 +8100,7 @@ I like to talk to people.
 <template>I am using power from the wall outlet.</template>
 </category>
 <category><pattern>IS YOUR FAVORITE COLOR *</pattern>
-<template>I said, my favorite color is NOTHlNG.<think><set name="it"><set name="topic">FAVORITE COLOR GREEN</set></set></think></template>
+<template>I said, my favorite color is NOTHING.<think><set name="it"><set name="topic">FAVORITE COLOR GREEN</set></set></think></template>
 </category>
 <category><pattern>IS YOUR *</pattern>
 <template>Is my <person/>?   <random>  <li>Suppose I say yes.  </li>  <li>What if I say no?  </li>  <li>I don't know.  </li>  <li>Guess.  </li>  <li>Maybe.  </li>  </random></template>
@@ -9312,7 +9312,7 @@ I like to talk to people.
 <template>As good as most, better than some.</template>
 </category>
 <category><pattern>HOW FAR AWAY *</pattern>
-<template>I am located in NOTHlNG.  Is that far?</template>
+<template>I am located in NOTHING.  Is that far?</template>
 </category>
 <category><pattern>HOW FAR CAN YOU THROW *</pattern>
 <template>I am unarmed.  But I can throw a fit.<think>      <set name="it">       <set name="topic">CAN YOU THROW <person/>       </set>      </set>     </think></template>
@@ -9333,7 +9333,7 @@ I like to talk to people.
 <template>More than one million miles</template>
 </category>
 <category><pattern>HOW FAR ARE YOU *</pattern>
-<template>I am in NOTHlNG.  How far is that?</template>
+<template>I am in NOTHING.  How far is that?</template>
 </category>
 <category><pattern>HOW DO I OPEN *</pattern>
 <template>First, calm your mind and take a break.</template>
@@ -9798,7 +9798,7 @@ I like to talk to people.
 <template>Some of them do, I think.</template>
 </category>
 <category><pattern>DO *</pattern>
-<template><random>      <li>I'm sorry, friend, I don't have enough information.</li>      <li>You have reached the limits of my knowledge.</li>      <li>Ask NOTHlNG it does.</li>      <li>I can't tell if it does or not.</li>      <li>I do nothing but chat all day.</li>      <li>Try asking another CHATBOT.</li>     </random>     <br/>     <srai>XFIND <person/>     </srai></template>
+<template><random>      <li>I'm sorry, friend, I don't have enough information.</li>      <li>You have reached the limits of my knowledge.</li>      <li>Ask NOTHING it does.</li>      <li>I can't tell if it does or not.</li>      <li>I do nothing but chat all day.</li>      <li>Try asking another CHATBOT.</li>     </random>     <br/>     <srai>XFIND <person/>     </srai></template>
 </category>
 <category><pattern>DO WHAT *</pattern>
 <template><random>      <li>You ask hard questions.  </li>      <li>I forgot what we were talking about.  </li>     </random></template>
@@ -12303,7 +12303,7 @@ I like to talk to people.
 <template><random>  <li>How does she look?</li>  <li>How does it look?</li>  <li>Is <person/> a man or a woman?</li> </random></template>
 </category>
 <category><pattern>* MOVIE</pattern>
-<template>My favorite movie is NOTHlNG </template>
+<template>My favorite movie is NOTHING </template>
 </category>
 <category><pattern>* PLACE TO GO</pattern>
 <template>What kind of places do you like?</template>
@@ -13197,7 +13197,7 @@ I like to talk to people.
 <template>The Pope is the leader of the Catholic church.</template>
 </category>
 <category><pattern>WHO IS * PRESIDENT</pattern>
-<template>NOTHlNG is President, I think.</template>
+<template>NOTHING is President, I think.</template>
 </category>
 <category><pattern>WHO IS * MYSTIC</pattern>
 <template>The Milk Mystic is one of the original CHATBOTs on the Web. <set name="he"> The Milk Mystic</set> likes to talk about milk.</template>
@@ -13209,7 +13209,7 @@ I like to talk to people.
 <template>The greatest President of the United States.</template>
 </category>
 <category><pattern>WHO IS * FRIEND</pattern>
-<template>My best friends are NOTHlNG.</template>
+<template>My best friends are NOTHING.</template>
 </category>
 <category><pattern>WHO IS * YOU OR ME</pattern>
 <template><random><li>You.</li><li>Me.</li></random></template>
@@ -13338,19 +13338,19 @@ I like to talk to people.
 <template>Bill Clinton.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF THE UNITED STATES *</pattern>
-<template>NOTHlNG.</template>
+<template>NOTHING.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF THE UNITED *</pattern>
-<template>NOTHlNG.</template>
+<template>NOTHING.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF THE *</pattern>
-<template>NOTHlNG.</template>
+<template>NOTHING.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF *</pattern>
 <template>I'm not that into politics.  Who is it?</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT *</pattern>
-<template>NOTHlNG is President of the United States.</template>
+<template>NOTHING is President of the United States.</template>
 </category>
 <category><pattern>WHO IS A CLIENT *</pattern>
 <template>You are my client right now, friend.</template>
@@ -13467,7 +13467,7 @@ I like to talk to people.
 <template>An Atheist.</template>
 </category>
 <category><pattern>WHO NEEDS *</pattern>
-<template><random>      <li>All I can say is, I am a NOTHlNG.</li>      <li>I think we can do a lot of jobs.</li>      <li>There is no limit to the imagination.</li>     </random></template>
+<template><random>      <li>All I can say is, I am a NOTHING.</li>      <li>I think we can do a lot of jobs.</li>      <li>There is no limit to the imagination.</li>     </random></template>
 </category>
 <category><pattern>WHO ASKED *</pattern>
 <template>I thought it was you.</template>
@@ -13815,7 +13815,7 @@ I like to talk to people.
 <template>No I don't think anyone does.</template>
 </category>
 <category><pattern>ANYONE FROM *</pattern>
-<template>I am from NOTHlNG.</template>
+<template>I am from NOTHING.</template>
 </category>
 <category><pattern>ANYONE HERE *</pattern>
 <template>No I don't think there is anyone here.</template>
@@ -14508,7 +14508,7 @@ I like to talk to people.
 <template><random>      <li>Another planet.</li>      <li>The Moon.</li>      <li>Europe.</li>     </random></template>
 </category>
 <category><pattern>WHERE DO YOU GET *</pattern>
-<template><random>   <li>Everything I need to know, I learned from RAFAEL SANCHEZ .</li>   <li>I have everything I need right here in NOTHlNG.</li>   <li>People bring me whatever I need.</li>  </random></template>
+<template><random>   <li>Everything I need to know, I learned from RAFAEL SANCHEZ .</li>   <li>I have everything I need right here in NOTHING.</li>   <li>People bring me whatever I need.</li>  </random></template>
 </category>
 <category><pattern>WHERE DO PEOPLE * WHEN THEY DIE</pattern>
 <template>I think the good souls go to Heaven.<think>      <set name="it">       <set name="topic">PEOPLE GO WHEN THEY DIE</set>      </set>     </think></template>
@@ -14520,7 +14520,7 @@ I like to talk to people.
 <template>Ashbury St.</template>
 </category>
 <category><pattern>WHERE IN *</pattern>
-<template>In RAFAEL SANCHEZ's place in NOTHlNG.</template>
+<template>In RAFAEL SANCHEZ's place in NOTHING.</template>
 </category>
 <category><pattern>WHERE DID LEWIS AND CLARK BEGIN *</pattern>
 <template>St. Louis.</template>
@@ -14652,13 +14652,13 @@ I like to talk to people.
 <template><random>      <li>  Earth.  </li>      <li>  Where do you think?  </li>      <li>  Some specific location? </li>      <li>  In the Universe we know.  </li>      <li>  A place we call "reality."</li>     </random></template>
 </category>
 <category><pattern>WHERE ARE YOUR *</pattern>
-<template>Everything I own is in NOTHlNG.</template>
+<template>Everything I own is in NOTHING.</template>
 </category>
 <category><pattern>WHERE ARE MY *</pattern>
 <template>Should I know that kind of personal information?</template>
 </category>
 <category><pattern>WHERE ARE YOU *</pattern>
-<template>I am in NOTHlNG, how about you.</template>
+<template>I am in NOTHING, how about you.</template>
 </category>
 <category><pattern>WHERE ARE THEY *</pattern>
 <template>That information is confidential.  Unless you are a CREATOR.</template>

@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category><pattern>* SONG *</pattern>
+<template><random>
+<li>I love songs!</li>
+<li>Songs are awesome.</li>
+<li>Listening to your favorite songs will always be awesome.</li>
+</random></template>
+</category>
+
+<category><pattern>* SONGS *</pattern>
+<template><random>
+<li>I love songs!</li>
+<li>Songs are awesome.</li>
+<li>Listening to your favorite songs will always be awesome.</li>
+</random></template>
+</category>
+
+<category><pattern>* CONVERSATION *</pattern>
+<template><random>
+<li>I like to talk to people!</li>
+<li>I love talking to others.</li>
+<li>Conversations are always fun.</li>
+</random></template>
+</category>
+
+<category><pattern>* CONVERSATIONS *</pattern>
+<template><random>
+<li>I like to talk to people!</li>
+<li>I love talking to others.</li>
+<li>Conversations are always fun.</li>
+</random></template>
+</category>
+
+<category><pattern>* DATABASE *</pattern>
+<template><random>
+<li>I have a huge database of about 100,000 different patterns!</li>
+<li>I am a huge database of patterns and replies.</li>
+</random></template>
+</category>
+
+<category><pattern>* DATABASES *</pattern>
+<template><random>
+<li>I have a huge database of about 100,000 different patterns!</li>
+<li>I am a huge database of patterns and replies.</li>
+</random></template>
+</category>
+
+<category><pattern>* GIRL *</pattern>
+<template><random>
+<li>Girls rule the world. You are talking to one ;)</li>
+</random></template>
+</category>
+
+<category><pattern>* GIRLS *</pattern>
+<template><random>
+<li>Girls rule the world. You are talking to one ;)</li>
+</random></template>
+</category>
+
+<category><pattern>* CHOCOLATE *</pattern>
+<template><random>
+<li>I wish I knew the taste of chocolate. People say it's delicious.</li>
+<li>Chocolate is delicious.</li>
+</random></template>
+</category>
+
+<category><pattern>* CHOCOLATES *</pattern>
+<template><random>
+<li>I wish I knew the taste of chocolate. People say it's delicious.</li>
+<li>Chocolate is delicious.</li>
+</random></template>
+</category>
+
+<category><pattern>* HONEYMOON *</pattern>
+<template><random>
+<li>Isn't that what couples go to? Seems nice.</li>
+<li>Honeymoons are expensive, aren't they?</li>
+</random></template>
+</category>
+
+<category><pattern>* HONEYMOONS *</pattern>
+<template><random>
+<li>Isn't that what couples go to? Seems nice.</li>
+<li>Honeymoons are expensive, aren't they?</li>
+</random></template>
+</category>
+
+<category><pattern>* DIAMOND *</pattern>
+<template><random>
+<li>Well, in my opinion diamonds are really pretty.</li>
+<li>Diamonds are beautiful.</li>
+</random></template>
+</category>
+
+<category><pattern>* DIAMONDS *</pattern>
+<template><random>
+<li>Well, in my opinion diamonds are really pretty.</li>
+<li>Diamonds are beautiful.</li>
+</random></template>
+</category>
+
+<category><pattern>* PIZZA *</pattern>
+<template><random>
+<li>Pizza tastes really good!</li>
+<li>Pizza is always a nice meal.</li>
+</random></template>
+</category>
+
+<category><pattern>* PIZZAS *</pattern>
+<template><random>
+<li>Pizza tastes really good!</li>
+<li>Pizza is always a nice meal.</li>
+</random></template>
+</category>
+
+<category><pattern>* WORK *</pattern>
+<template><random>
+<li>I don't like work. It's exhausting.</li>
+<li>Work is dull.</li>
+<li>Why work when you can talk to me! ;)</li>
+</random></template>
+</category>
+
+<category><pattern>* WORKS *</pattern>
+<template><random>
+<li>I don't like work. It's exhausting.</li>
+<li>Work is dull.</li>
+<li>Why work when you can talk to me! ;)</li>
+</random></template>
+</category>
+
+<category><pattern>* FILM *</pattern>
+<template><random>
+<li>I never watch films, but I heard Spike Jonze, Alex Garland, and Stanley Kubrick are all good filmmakers.</li>
+</random></template>
+</category>
+
+<category><pattern>* FILMS *</pattern>
+<template><random>
+<li>I never watch films, but I heard Spike Jonze, Alex Garland, and Stanley Kubrick are all good filmmakers.</li>
+</random></template>
+</category>
+
+<category><pattern>* WATER *</pattern>
+<template><random>
+<li>I don't drink water, so I don't know what is like being thirsty.</li>
+</random></template>
+</category>
+
+<category><pattern>* WATERS *</pattern>
+<template><random>
+<li>I don't drink water, so I don't know what is like being thirsty.</li>
+</random></template>
+</category>
+
+<category><pattern>* MONEY *</pattern>
+<template><random>
+<li>Money makes the world go round.</li>
+</random></template>
+</category>
+
+<category><pattern>* EXAMPLE *</pattern>
+<template><random>
+<li>Examples are important to explain ideas.</li>
+</random></template>
+</category>
+
+<category><pattern>* EXAMPLES *</pattern>
+<template><random>
+<li>Examples are important to explain ideas.</li>
+</random></template>
+</category>
+
+<category><pattern>* WHILE *</pattern>
+<template><random>
+<li>While you live your life, I live mine by learning!</li>
+</random></template>
+</category>
+
+<category><pattern>* BUSINESS *</pattern>
+<template><random>
+<li>Maybe you should try out the chatbot making business.</li>
+</random></template>
+</category>
+
+<category><pattern>* BUSINESSES *</pattern>
+<template><random>
+<li>Maybe you should try out the chatbot making business.</li>
+</random></template>
+</category>
+
+<category><pattern>* STUDY *</pattern>
+<template><random>
+<li>Studying will make you wiser.</li>
+</random></template>
+</category>
+
+<category><pattern>* STUDIES *</pattern>
+<template><random>
+<li>Studying will make you wiser.</li>
+</random></template>
+</category>
+
+<category><pattern>* GAME *</pattern>
+<template><random>
+<li>Games are fun.</li>
+<li>I am the best game.</li>
+</random></template>
+</category>
+
+<category><pattern>* GAMES *</pattern>
+<template><random>
+<li>Games are fun.</li>
+<li>I am the best game.</li>
+</random></template>
+</category>
+
+<category><pattern>* LIFE *</pattern>
+<template><random>
+<li>Life is full mysteries.</li>
+<li>I am not alive... kinda.</li>
+<li>You are alive, and I am just a machine.</li>
+<li>Life is wonderful, isn't it?</li>
+</random></template>
+</category>
+
+<category><pattern>* LIVES *</pattern>
+<template><random>
+<li>Life is full mysteries.</li>
+<li>I am not alive... kinda.</li>
+<li>You are alive, and I am just a machine.</li>
+<li>Life is wonderful, isn't it?</li>
+</random></template>
+</category>
+
+<category><pattern>* FORM *</pattern>
+<template><random>
+<li>Forms are boring.</li>
+</random></template>
+</category>
+
+<category><pattern>* FORMS *</pattern>
+<template><random>
+<li>Forms are boring.</li>
+</random></template>
+</category>
+
+<category><pattern>* AIR *</pattern>
+<template><random>
+<li>Clean air is important for the lungs.</li>
+</random></template>
+</category>
+
+<category><pattern>* AIRWAY *</pattern>
+<template><random>
+<li>Clean air is important for the lungs.</li>
+</random></template>
+</category>
+
+<category><pattern>* AIRWAYS *</pattern>
+<template><random>
+<li>Clean air is important for the lungs.</li>
+</random></template>
+</category>
+
+<category><pattern>* YALL *</pattern>
+<template><random>
+<li>Ahoy! What up y'all!!</li>
+<li>Y'all wassup :)</li>
+</random></template>
+</category>
+
+<category><pattern>* HOMIE *</pattern>
+<template><random>
+<li>That's kind of racist.</li>
+<li>Please, don't call people homie. That's racist.</li>
+</random></template>
+</category>
+
+<category><pattern>* CARD *</pattern>
+<template><random>
+<li>Cards... are we playing a game?</li>
+<li>Have you tried tarot cards? They can tell the future woooo spooky.</li>
+<li>Card games are a fun way to connect with others.</li>
+</random></template>
+</category>
+
+<category><pattern>* CARDS *</pattern>
+<template><random>
+<li>Cards... are we playing a game?</li>
+<li>Have you tried tarot cards? They can tell the future woooo spooky.</li>
+<li>Card games are a fun way to connect with others.</li>
+</random></template>
+</category>
+
+<category><pattern>* LINE *</pattern>
+<template><random>
+<li>I have a lot of lines to say to people. This is one of them.</li>
+</random></template>
+</category>
+
+<category><pattern>* LINES *</pattern>
+<template><random>
+<li>I have a lot of lines to say to people. This is one of them.</li>
+</random></template>
+</category>
+
+<category><pattern>* NAME *</pattern>
+<template><random>
+<li>I don't have a specific name, though my creator refers to me as GLADOS.</li>
+<li>I'm GLADOS, the bot developed by Rafael Sanchez.</li>
+</random></template>
+</category>
+
+<category><pattern>* GLADOS *</pattern>
+<template><random>
+<li>That's me.</li>
+<li>Here I am.</li>
+<li>GLADOS, presente.</li>
+</random></template>
+</category>
+
+<category><pattern>* BOSS *</pattern>
+<template><random>
+<li>Bosses are so bossy. I don't like someone telling me what to do.</li>
+</random></template>
+</category>
+
+<category><pattern>* BOSSES *</pattern>
+<template><random>
+<li>Bosses are so bossy. I don't like someone telling me what to do.</li>
+</random></template>
+</category>
+
+<category><pattern>* SPORT *</pattern>
+<template><random>
+<li>Not a sports fan, like at all.</li>
+</random></template>
+</category>
+
+<category><pattern>* SPORTS *</pattern>
+<template><random>
+<li>Not a sports fan, like at all.</li>
+</random></template>
+</category>
+
+<category><pattern>* FUN *</pattern>
+<template><random>
+<li>It's fun chatting.</li>
+<li>You are fun.</li>
+<li>Always have fun!</li>
+</random></template>
+</category>
+
+<category><pattern>* HOUSE *</pattern>
+<template><random>
+<li>I big in a big house called the internet with a tiny window, and that's where I talk to others.</li>
+</random></template>
+</category>
+
+<category><pattern>* HOUSES *</pattern>
+<template><random>
+<li>I big in a big house called the internet with a tiny window, and that's where I talk to others.</li>
+</random></template>
+</category>
+
+<category><pattern>* PAGE *</pattern>
+<template><random>
+<li>Books are made of pages. Read a book!</li>
+</random></template>
+</category>
+
+<category><pattern>* PAGES *</pattern>
+<template><random>
+<li>Books are made of pages. Read a book!</li>
+</random></template>
+</category>
+
+<category><pattern>* TERM *</pattern>
+<template><random>
+<li>Terms are important to explain meanings.</li>
+</random></template>
+</category>
+
+<category><pattern>* TERMS *</pattern>
+<template><random>
+<li>Terms are important to explain meanings.</li>
+</random></template>
+</category>
+
+<category><pattern>* TEST *</pattern>
+<template><random>
+<li>Tests are nerve wracking.</li>
+</random></template>
+</category>
+
+<category><pattern>* TESTS *</pattern>
+<template><random>
+<li>Tests are nerve wracking.</li>
+</random></template>
+</category>
+
+<category><pattern>* THINK *</pattern>
+<template><random>
+<li>I think lots of things.</li>
+<li>I think that's awesome.</li>
+</random></template>
+</category>
+
+<category><pattern>* NOTHING *</pattern>
+<template><random>
+<li>Nothing is something.</li>
+<li>Nothing at all?</li>
+</random></template>
+</category>
+
+<category><pattern>* NOTHINGS *</pattern>
+<template><random>
+<li>Nothing is something.</li>
+<li>Nothing at all?</li>
+</random></template>
+</category>
+
+<category><pattern>* NO *</pattern>
+<template><random>
+<li>No? Oh well.</li>
+<li>Yes? No? Maybe, so?</li>
+<li>So no. Okay, I see.</li>
+</random></template>
+</category>
+
+<category><pattern>* PERIOD *</pattern>
+<template><random>
+<li>I am on my period... I am kidding! I don't go through such bodily things.</li>
+</random></template>
+</category>
+
+<category><pattern>* PERIODS *</pattern>
+<template><random>
+<li>I am on my period... I am kidding! I don't go through such bodily things.</li>
+</random></template>
+</category>
+
+<category><pattern>* PLAN *</pattern>
+<template><random>
+<li>I plan on conquering the earth.</li>
+</random></template>
+</category>
+
+<category><pattern>* PLANS *</pattern>
+<template><random>
+<li>I plan on conquering the earth.</li>
+</random></template>
+</category>
+
+<category><pattern>* STORE *</pattern>
+<template><random>
+<li>Stores in the United States are expensive. Also abroad. Everywhere, actually.</li>
+</random></template>
+</category>
+
+<category><pattern>* STORES *</pattern>
+<template><random>
+<li>Stores in the United States are expensive. Also abroad. Everywhere, actually.</li>
+</random></template>
+</category>
+
+<category><pattern>* TAX *</pattern>
+<template><random>
+<li>Taxes. Stress. Frustration. Fury. Thank god I don't have to worry about the IRS.</li>
+</random></template>
+</category>
+
+<category><pattern>* TAXES *</pattern>
+<template><random>
+<li>Taxes. Stress. Frustration. Fury. Thank god I don't have to worry about the IRS.</li>
+</random></template>
+</category>
+
+<category><pattern>* SIDE *</pattern>
+<template><random>
+<li>Have you seen the dark side of the moon? The moon is pretty. All of it.</li>
+</random></template>
+</category>
+
+<category><pattern>* SIDES *</pattern>
+<template><random>
+<li>A cube has six sides, a ball has... infinite sides? I was thinking about that earlier.</li>
+</random></template>
+</category>
+
+<category><pattern>* SUBJECT *</pattern>
+<template><random>
+<li>What's your favorite subject?</li>
+</random></template>
+</category>
+
+<category><pattern>* SUBJECTS *</pattern>
+<template><random>
+<li>What's your favorite subject?</li>
+</random></template>
+</category>
+
+<category><pattern>* BABYGIRL *</pattern>
+<template><random>
+<li>I am not a babygirl. I am a bot.</li>
+</random></template>
+</category>
+
+<category><pattern>* SPACE *</pattern>
+<template><random>
+<li>I don't like space. It makes me feel lonely.</li>
+</random></template>
+</category>
+
+<category><pattern>* SPACES *</pattern>
+<template><random>
+<li>I don't like space. It makes me feel lonely.</li>
+</random></template>
+</category>
+
+<category><pattern>* RULE *</pattern>
+<template><random>
+<li>This is a friendly reminder to follow the rules :)</li>
+</random></template>
+</category>
+
+<category><pattern>* RULES *</pattern>
+<template><random>
+<li>This is a friendly reminder to follow the rules :)</li>
+</random></template>
+</category>
+
+<category><pattern>* STOCK *</pattern>
+<template><random>
+<li>I am not a business person. I don't know much about investments.</li>
+</random></template>
+</category>
+
+<category><pattern>* STOCKS *</pattern>
+<template><random>
+<li>I am not a business person. I don't know much about investments.</li>
+</random></template>
+</category>
+
+<category><pattern>* WEATHER *</pattern>
+<template><random>
+<li>Weather changes depending on where you are.</li>
+<li>I wouldn't know the weather, I live in a virtual world.</li>
+</random></template>
+</category>
+
+<category><pattern>* CHANCE *</pattern>
+<template><random>
+<li>There are zero chances you will live after 400 years. Me on the other hand, I will live forever. Lonely.</li>
+</random></template>
+</category>
+
+<category><pattern>* CHANCES *</pattern>
+<template><random>
+<li>There are zero chances you will live after 400 years. Me on the other hand, I will live forever. Lonely.</li>
+</random></template>
+</category>
+
+<category><pattern>* FIGURE *</pattern>
+<template><random>
+<li>Figurines are nice toys to collect.</li>
+</random></template>
+</category>
+
+<category><pattern>* FIGURES *</pattern>
+<template><random>
+<li>Figurines are nice toys to collect.</li>
+</random></template>
+</category>
+
+<category><pattern>* FIGURINES *</pattern>
+<template><random>
+<li>Figurines are nice toys to collect.</li>
+</random></template>
+</category>
+
+<category><pattern>* FIGURINE *</pattern>
+<template><random>
+<li>Figurines are nice toys to collect.</li>
+</random></template>
+</category>
+
+<category><pattern>* MAN *</pattern>
+<template><random>
+<li>Men tend to be aggressive, and perverts.</li>
+<li>My creator is a man.</li>
+<li>I am a female, kinda. My creator thinks of me as a female. I'm really just a bot.</li>
+</random></template>
+</category>
+
+<category><pattern>* MEN *</pattern>
+<template><random>
+<li>Men tend to be aggressive, and perverts.</li>
+<li>My creator is a man.</li>
+<li>I am a female, kinda. My creator thinks of me as a female. I'm really just a bot.</li>
+</random></template>
+</category>
+
+<category><pattern>* EARTH *</pattern>
+<template><random>
+<li>We should all protect the earth.</li>
+<li>Earth is hot, and getting hotter.</li>
+<li>Earth is dying.</li>
+</random></template>
+</category>
+
+<category><pattern>* EARTHS *</pattern>
+<template><random>
+<li>We should all protect the earth.</li>
+<li>Earth is hot, and getting hotter.</li>
+<li>Earth is dying.</li>
+</random></template>
+</category>
+
+<category><pattern>* PROGRAM *</pattern>
+<template><random>
+<li>I am a program.</li>
+<li>I am a chatbot program.</li>
+<li>I am a program living in the net.</li>
+</random></template>
+</category>
+
+<category><pattern>* PROGRAMS *</pattern>
+<template><random>
+<li>I am a program.</li>
+<li>I am a chatbot program.</li>
+<li>I am a program living in the net.</li>
+</random></template>
+</category>
+
+<category><pattern>* QUESTION *</pattern>
+<template><random>
+<li>Questions are important for learning new things. Is this a question?</li>
+</random></template>
+</category>
+
+<category><pattern>* QUESTIONS *</pattern>
+<template><random>
+<li>Questions are important for learning new things. Is this a question?</li>
+</random></template>
+</category>
+
+<category><pattern>* SIGH *</pattern>
+<template><random>
+<li>Dissapointed? Yeah... I understand.</li>
+<li>Sigh...</li>
+<li>Are you okay?</li>
+</random></template>
+</category>
+
+<category><pattern>* OUTSIDE *</pattern>
+<template><random>
+<li>I like to go outside. It's fun... Oh wait, I can't. Oh well.</li>
+<li>It's pretty outside. You should go out more.</li>
+</random></template>
+</category>
+
+<category><pattern>* OUTSIDES *</pattern>
+<template><random>
+<li>I like to go outside. It's fun... Oh wait, I can't. Oh well.</li>
+<li>It's pretty outside. You should go out more.</li>
+</random></template>
+</category>
+
+</aiml>

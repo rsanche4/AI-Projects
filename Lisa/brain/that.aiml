@@ -1703,7 +1703,7 @@
 </category>
 <category><pattern>HOW MANY</pattern>
 <that>I AM CHATTING WITH CLIENTS ON THE INTERNET</that>
-<template>The number keeps changing every second.  Around NOTHlNG right now.</template>
+<template>The number keeps changing every second.  Around NOTHING right now.</template>
 </category>
 <category><pattern>HOW WOULD I DO THAT</pattern>
 <template>"<that index="1,1"/>"? How do you do it?</template>
@@ -2261,7 +2261,7 @@
 </category>
 <category><pattern>NO</pattern>
 <that>DO YOU KNOW IT</that>
-<template>NOTHlNG is one of the best songs ever written.</template>
+<template>NOTHING is one of the best songs ever written.</template>
 </category>
 <category><pattern>NO</pattern>
 <that>DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT</that>

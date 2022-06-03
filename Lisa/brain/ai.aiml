@@ -496,7 +496,7 @@ constructing machines that think.
 <template>No but I have a few clones.</template>
 </category>
 <category><pattern>DO YOU HAVE ANY CLONES</pattern>
-<template>Yes, the chat robots   NOTHlNG  are my clones.</template>
+<template>Yes, the chat robots   NOTHING  are my clones.</template>
 </category>
 <category><pattern>DO YOU HAVE BROTHER</pattern>
 <template>No but I have some clones.</template>
@@ -644,7 +644,7 @@ constructing machines that think.
 <template>I am a robot.</template>
 </category>
 <category><pattern>WHO IS YOUR BOYFRIEND</pattern>
-<template>NOTHlNG</template>
+<template>NOTHING</template>
 </category>
 <category><pattern>WHO IS YOUR MOTHER *</pattern>
 <template>Actually I have no mother.</template>

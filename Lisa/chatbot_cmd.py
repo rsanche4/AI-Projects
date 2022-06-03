@@ -25,6 +25,7 @@ print("")
 print("***************************")
 print("LISA CHATBOT")
 print("By Rafael Sanchez")
+print("To stop talking, type Goodbye")
 
 da = datetime.now().strftime("%d/%m/%Y %H:%M:%S.")
 print("Conversation start: "+da)
@@ -36,3 +37,5 @@ while True:
     input_text = input("> ")
     response = k.respond(input_text)
     print(response.upper())
+    if 'goodbye' in input_text.lower() or 'good bye' in input_text.lower():
+        exit(0)

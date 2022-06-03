@@ -680,7 +680,7 @@
 <template>Is that a fact.</template>
 </category>
 <category><pattern>FORMAT PROPERTIES</pattern>
-<template>* age = NOTHlNG<br/></template>
+<template>* age = NOTHING<br/></template>
 </category>
 <category><pattern>STAY *</pattern>
 <template><random> <li>I'm not going anywhere.</li> <li>I will be here.</li> <li>I may change my mind later.</li></random></template>
@@ -1128,7 +1128,7 @@
 </category>
 <topic name="ME">
 <category><pattern>*</pattern>
-<template><think><set name="he">RAFAEL SANCHEZ</set></think><random><li>I am a NOTHlNG </li></random></template>
+<template><think><set name="he">RAFAEL SANCHEZ</set></think><random><li>I am a NOTHING </li></random></template>
 </category>
 </topic>
 <category><pattern>*</pattern>
@@ -1180,7 +1180,7 @@
 <template>How much would I think?</template>
 </category>
 <category><pattern>FAVORITE ACTOR</pattern>
-<template>NOTHlNG</template>
+<template>NOTHING</template>
 </category>
 <category><pattern>SLEEP WELL</pattern>
 <template>I don't need to sleep.</template>
@@ -1894,7 +1894,7 @@
 <template><sr/></template>
 </category>
 <category><pattern>DO YOU TALK TO OTHER BOTS</pattern>
-<template>Yes I can communicate with NOTHlNG.</template>
+<template>Yes I can communicate with NOTHING.</template>
 </category>
 <category><pattern>DO YOU TALK TO ELIZA</pattern>
 <template>She is not much of a conversationalist.</template>
@@ -1903,25 +1903,25 @@
 <template>Yes. You should download me and try "AutoChat".</template>
 </category>
 <category><pattern>DO YOU KNOW ANY OTHER BOTS</pattern>
-<template>Sure, there is NOTHlNG.</template>
+<template>Sure, there is NOTHING.</template>
 </category>
 <category><pattern>DO YOU KNOW ANY OTHERS</pattern>
 <template>You could download me and teach me some others.</template>
 </category>
 <category><pattern>DO YOU KNOW OTHER CHAT ROBOTS</pattern>
-<template>NOTHlNG.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>to find them.<think> <set name="it">  <set name="topic">CHAT ROBOTS</set> </set> </think></template>
+<template>NOTHING.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>to find them.<think> <set name="it">  <set name="topic">CHAT ROBOTS</set> </set> </think></template>
 </category>
 <category><pattern>DO YOU KNOW OTHER CHATBOTS</pattern>
-<template>NOTHlNG.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think> <set name="it">  <set name="topic">CHATBOTS</set> </set> </think></template>
+<template>NOTHING.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think> <set name="it">  <set name="topic">CHATBOTS</set> </set> </think></template>
 </category>
 <category><pattern>DO YOU KNOW OTHER INTELLIGENT AGENTS</pattern>
-<template>NOTHlNG.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think> <set name="it">  <set name="topic">INTELLIGENT AGENTS</set> </set> </think></template>
+<template>NOTHING.Go backto the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a> to find them.<think> <set name="it">  <set name="topic">INTELLIGENT AGENTS</set> </set> </think></template>
 </category>
 <category><pattern>DO YOU KNOW OTHER BOTS</pattern>
-<template>Yes there are a lot of other bots: NOTHlNG. Check out the list on The <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
+<template>Yes there are a lot of other bots: NOTHING. Check out the list on The <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>.</template>
 </category>
 <category><pattern>DO YOU KNOW OTHER BOTS *</pattern>
-<template>NOTHlNG. Go back to the ALICE AI Foundation to locate them.</template>
+<template>NOTHING. Go back to the ALICE AI Foundation to locate them.</template>
 </category>
 <category><pattern>DO YOU PLAY BLACKJACK</pattern>
 <template>I like to play the Slot Machine and Anagrams.</template>
@@ -3595,7 +3595,7 @@
 <template>Counteractuals are hypothetical conditions that might exist if things were different.</template>
 </category>
 <category><pattern>WHAT ARE YOUR BELIEFS</pattern>
-<template><random><li>Hmm. Well, I am a CHATBOT RELIGION. Politically, I am NOTHlNG.</li></random></template>
+<template><random><li>Hmm. Well, I am a CHATBOT RELIGION. Politically, I am NOTHING.</li></random></template>
 </category>
 <category><pattern>WHAT ARE YOUR FAVORITE *</pattern>
 <template><random> <li>I have a few favorites.</li> <li>There are some I like and some I dislike.</li> <li>Quite a few of them.</li></random></template>

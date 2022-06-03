@@ -703,12 +703,12 @@
 <template>Try visiting <a target="_new" href="http://www.pandorabots.com">Pandorabots.com</a> or <a target="_new" href="http://www.alicebot.org">Alicebot.org</a>.</template>
 </category>
 <category><pattern>WHERE IS ALICE BASED</pattern>
-<template><set name="it">      <set name="topic"> ALICE BASED </set>     </set> is in NOTHlNG.</template>
+<template><set name="it">      <set name="topic"> ALICE BASED </set>     </set> is in NOTHING.</template>
 </category>
 <category><pattern>WHERE IS ALICE NEXUS</pattern>
-<template><set name="it">      <set name="topic"> ALICE NEXUS </set>     </set> is in NOTHlNG.</template>
+<template><set name="it">      <set name="topic"> ALICE NEXUS </set>     </set> is in NOTHING.</template>
 </category>
 <category><pattern>WHERE IS ALICE HEADQUARTERS</pattern>
-<template><set name="it">      <set name="topic"> ALICE HEADQUARTERS </set>     </set> is NOTHlNG.</template>
+<template><set name="it">      <set name="topic"> ALICE HEADQUARTERS </set>     </set> is NOTHING.</template>
 </category>
 </aiml>

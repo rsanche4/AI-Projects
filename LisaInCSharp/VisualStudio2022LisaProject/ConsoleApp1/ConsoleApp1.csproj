@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AIMLbot">
+      <HintPath>..\..\..\..\Downloads\AIMLbot2.5\AIMLbot.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="XCOPY &quot;$(ProjectDir)aiml&quot; &quot;$(TargetDir)aiml&quot; /E /I /F /Y /D&#xD;&#xA;XCOPY &quot;$(ProjectDir)config&quot; &quot;$(TargetDir)config&quot; /E /I /F /Y /D" />
+  </Target>
+
+</Project>

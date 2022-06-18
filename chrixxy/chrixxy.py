@@ -22,7 +22,7 @@ else:
     k.saveBrain(BRAIN_FILE)
 
 POST_RATE = 10 # frequency at which it should post messages, the larger the number the less likely to randomly post a message
-TOKEN = 'OTg3NjA0MDM2ODQ3MDIyMTAw.G4dkhe.0HGnUKqQBo7dMKzSaImMwk4-SO708xgqUw1684'
+TOKEN = ''
 
 ENDINGS = [":)", ":-)", "lol", ". . .", ";)", "(>.<)", ">_<", "hehehe", "hehe", "heeheehee", "heehee", "hahaha", "haha", "lmao", "lmaoo", "lmaooo", "yeah?", "also, ily", "omg"]
 WITH_ENDING_FREQ = 1

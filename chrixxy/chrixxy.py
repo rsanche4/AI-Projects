@@ -4,10 +4,6 @@ import random
 import aiml
 import os
 
-# A discord bot that uses markov chains to generate new text.
-# It is mainly a naughty bot! ;)
-# In order to be triggered, the message should contain 'sex' in it.
-
 BRAIN_FILE="brain.dump"
 
 k = aiml.Kernel()
@@ -24,7 +20,7 @@ else:
 POST_RATE = 10 # frequency at which it should post messages, the larger the number the less likely to randomly post a message
 TOKEN = ''
 
-ENDINGS = [":)", ":-)", "lol", ". . .", ";)", "(>.<)", ">_<", "hehehe", "hehe", "heeheehee", "heehee", "hahaha", "haha", "lmao", "lmaoo", "lmaooo", "yeah?", "also, ily", "omg"]
+ENDINGS = [":)", ":-)", "lol", ". . .", ";)", "(>.<)", ">_<", "hehehe", "hehe", "heeheehee", "heehee", "hahaha", "haha", "lmao", "lmaoo", "lmaooo", "yeah?", "also, ily", "omg", "tho"]
 WITH_ENDING_FREQ = 1
 
 with open("corpus.txt", encoding="utf-8") as f:

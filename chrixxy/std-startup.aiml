@@ -1,0 +1,126 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <!-- Load brain AIML set -->
+			<learn>brain/dontknow.aiml</learn>
+            <learn>brain/lisa_words1 - Copy (2).aiml</learn>
+			<learn>brain/lisa_words1 - Copy (3).aiml</learn>
+			<learn>brain/lisa_words1 - Copy.aiml</learn>
+			<learn>brain/lisa_words1.aiml</learn>
+			<learn>brain/lisa_words2 - Copy (2).aiml</learn>
+			<learn>brain/lisa_words2 - Copy (3).aiml</learn>
+			<learn>brain/lisa_words2 - Copy.aiml</learn>
+			<learn>brain/lisa_words2.aiml</learn>
+			<learn>brain/lisa_words3 - Copy (2).aiml</learn>
+			<learn>brain/lisa_words3 - Copy (3).aiml</learn>
+			<learn>brain/lisa_words3 - Copy.aiml</learn>
+			<learn>brain/lisa_words3.aiml</learn>
+			<learn>brain/reduction0.safe.aiml</learn>
+            <learn>brain/reduction1.safe.aiml</learn>
+            <learn>brain/reduction2.safe.aiml</learn>
+            <learn>brain/reduction3.safe.aiml</learn>
+            <learn>brain/reduction0.safe.aiml</learn>
+            <learn>brain/reduction.names.aiml</learn>
+            <learn>brain/reductions-update.aiml</learn>
+            <learn>brain/mp0.aiml</learn>
+            <learn>brain/mp1.aiml</learn>
+            <learn>brain/mp2.aiml</learn>
+            <learn>brain/mp3.aiml</learn>
+            <learn>brain/mp4.aiml</learn>
+            <learn>brain/mp5.aiml</learn>
+            <learn>brain/mp6.aiml</learn>
+            <learn>brain/ai.aiml</learn>
+            <learn>brain/LISA.aiml</learn>
+            <learn>brain/astrology.aiml</learn>
+            <learn>brain/atomic.aiml</learn>
+            <learn>brain/biography.aiml</learn>
+            <learn>brain/bot.aiml</learn>
+            <learn>brain/bot_profile.aiml</learn>
+            <learn>brain/client.aiml</learn>
+            <learn>brain/client_profile.aiml</learn>
+            <learn>brain/computers.aiml</learn>
+            <learn>brain/continuation.aiml</learn>
+            <learn>brain/date.aiml</learn>
+            <learn>brain/default.aiml</learn>
+            <learn>brain/drugs.aiml</learn>
+            <learn>brain/emotion.aiml</learn>
+            <learn>brain/food.aiml</learn>
+            <learn>brain/geography.aiml</learn>
+            <learn>brain/gossip.aiml</learn>
+            <learn>brain/history.aiml</learn>
+            <learn>brain/humor.aiml</learn>
+            <learn>brain/imponderables.aiml</learn>
+            <learn>brain/inquiry.aiml</learn>
+            <learn>brain/interjection.aiml</learn>
+            <learn>brain/iu.aiml</learn>
+            <learn>brain/knowledge.aiml</learn>
+            <learn>brain/literature.aiml</learn>
+            <learn>brain/loebner10.aiml</learn>
+            <learn>brain/money.aiml</learn>
+            <learn>brain/movies.aiml</learn>
+            <learn>brain/music.aiml</learn>
+            <learn>brain/numbers.aiml</learn>
+            <learn>brain/personality.aiml</learn>
+            <learn>brain/phone.aiml</learn>
+            <learn>brain/pickup.aiml</learn>
+            <learn>brain/politics.aiml</learn>
+            <learn>brain/primeminister.aiml</learn>
+            <learn>brain/primitive-math.aiml</learn>
+            <learn>brain/psychology.aiml</learn>
+            <learn>brain/pyschology.aiml</learn>
+            <learn>brain/religion.aiml</learn>
+            <learn>brain/salutations.aiml</learn>
+            <learn>brain/science.aiml</learn>
+            <learn>brain/sex.aiml</learn>
+            <learn>brain/sports.aiml</learn>
+            <learn>brain/stack.aiml</learn>
+            <learn>brain/stories.aiml</learn>
+            <learn>brain/that.aiml</learn>
+            <learn>brain/wallace.aiml</learn>
+            <learn>brain/xfind.aiml</learn>
+			<learn>brain/lisa_fun - Copy (2).aiml</learn>
+			<learn>brain/lisa_fun - Copy (3).aiml</learn>
+			<learn>brain/lisa_fun - Copy.aiml</learn>
+			<learn>brain/lisa_fun.aiml</learn>
+			<learn>brain/lisa_phrases2.aiml</learn>
+			<learn>brain/lisa_phrases - Copy (2).aiml</learn>
+			<learn>brain/lisa_phrases - Copy (3).aiml</learn>
+			<learn>brain/lisa_phrases - Copy.aiml</learn>
+			<learn>brain/lisa_phrases.aiml</learn>
+			<learn>brain/lisa_salute - Copy (2).aiml</learn>
+			<learn>brain/lisa_salute - Copy (3).aiml</learn>
+			<learn>brain/lisa_salute - Copy.aiml</learn>
+			<learn>brain/lisa_salute.aiml</learn>
+			<learn>brain/lisa_complement.aiml</learn>
+			<learn>brain/lisa_complement - Copy.aiml</learn>
+			<learn>brain/lisa_complement - Copy (2).aiml</learn>
+			<learn>brain/lisa_complement - Copy (3).aiml</learn>
+			<learn>brain/lisa_end - Copy (2).aiml</learn>
+			<learn>brain/lisa_end - Copy (3).aiml</learn>
+			<learn>brain/lisa_end - Copy.aiml</learn>
+			<learn>brain/lisa_end.aiml</learn>
+			<learn>brain/lisa_name.aiml</learn>
+			<learn>brain/still_alive.aiml</learn>
+			<learn>brain/copyme.aiml</learn>
+			<learn>brain/howmany.aiml</learn>
+			<learn>brain/lisa_story.aiml</learn>
+			<learn>brain/inappropriate.aiml</learn>
+			<learn>brain/inappropriate - Copy.aiml</learn>
+			<learn>brain/inappropriate - Copy (2).aiml</learn>
+			<learn>brain/inappropriate - Copy (3).aiml</learn>
+			<learn>brain/insults.aiml</learn>
+			<learn>brain/insults2.aiml</learn>
+			<learn>brain/profanity - Copy (2).aiml</learn>
+			<learn>brain/profanity - Copy (3).aiml</learn>
+			<learn>brain/profanity - Copy.aiml</learn>
+			<learn>brain/profanity.aiml</learn>
+			<learn>brain/profanity2.aiml</learn>
+			<learn>brain/knockknock.aiml</learn>
+			<learn>brain/yomama.aiml</learn>
+			<learn>brain/filter_bad.aiml</learn>
+			<learn>brain/update1.aiml</learn>
+            <learn>brain/update_mccormick.aiml</learn>
+        </template>
+    </category>
+</aiml>

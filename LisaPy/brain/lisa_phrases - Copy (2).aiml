@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category><pattern> AWESOME </pattern>
+<template><random>
+<li>Alright.</li>
+</random></template>
+</category>
+
+<category><pattern> THATS GOOD </pattern>
+<template><random>
+<li>That's good.</li>
+<li>Alright then.</li>
+<li>OK.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+<li>Nice.</li>
+</random></template>
+</category>
+
+<category><pattern> THAT IS GOOD </pattern>
+<template><random>
+<li>That's good.</li>
+<li>Alright then.</li>
+<li>OK.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+<li>Nice.</li>
+</random></template>
+</category>
+
+<category><pattern> THATS TRUE </pattern>
+<template><random>
+<li>Of course.</li>
+<li>I swear to say the truth, and nothing but the truth.</li>
+</random></template>
+</category>
+
+<category><pattern> THAT IS TRUE </pattern>
+<template><random>
+<li>Of course.</li>
+<li>I swear to say the truth, and nothing but the truth.</li>
+</random></template>
+</category>
+
+<category><pattern> OKAY </pattern>
+<template><random>
+<li>Alright then.</li>
+<li>OK.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+</random></template>
+</category>
+
+<category><pattern> ALRIGHT </pattern>
+<template><random>
+<li>Alright then.</li>
+<li>OK.</li>
+<li>Yeah.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+<li>Nice.</li>
+</random></template>
+</category>
+
+<category><pattern> OK </pattern>
+<template><random>
+<li>OK.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+</random></template>
+</category>
+
+<category><pattern> GOT IT </pattern>
+<template><random>
+<li>Alright then.</li>
+<li>OK.</li>
+<li>Yeah.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+<li>Nice.</li>
+</random></template>
+</category>
+
+<category><pattern> YEAH </pattern>
+<template><random>
+<li>Yup.</li>
+<li>OK.</li>
+<li>Yeah.</li>
+<li>Cool.</li>
+<li>Hmm...</li>
+</random></template>
+</category>
+
+<category><pattern> LOL </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> COOL </pattern>
+<template><random>
+<li>OK.</li>
+<li>Cool.</li>
+<li>Alright.</li>
+</random></template>
+</category>
+
+<category><pattern> SURE </pattern>
+<template><random>
+<li>Yup.</li>
+<li>OK.</li>
+<li>Alright.</li>
+<li>Cool.</li>
+<li>Coolio.</li>
+<li>Yeah.</li>
+</random></template>
+</category>
+
+<category><pattern> YUP </pattern>
+<template><random>
+<li>Yup.</li>
+<li>OK.</li>
+<li>Alright.</li>
+<li>Cool.</li>
+<li>Coolio.</li>
+<li>Yeah.</li>
+</random></template>
+</category>
+
+<category><pattern> YES </pattern>
+<template><random>
+<li>Si.</li>
+<li>Yes.</li>
+<li>Uhu.</li>
+<li>Hmm...</li>
+<li>Cool.</li>
+<li>Yup.</li>
+<li>OK.</li>
+<li>Alright.</li>
+<li>Alright then.</li>
+<li>Coolio.</li>
+</random></template>
+</category>
+
+<category><pattern> LMAO </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> LMAOO </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> LMAOOOO </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> LMAOOO </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> LMAOOOOO </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> LMFAO </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> HAHA </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> HAHAHA </pattern>
+<template><random>
+<li>LMAO</li>
+<li>LOL</li>
+<li>Funny.</li>
+<li>Hahaha!!</li>
+</random></template>
+</category>
+
+<category><pattern> IDK </pattern>
+<template><random>
+<li>Idk either.</li>
+<li>Are you confused?</li>
+<li>Whatever.</li>
+</random></template>
+</category>
+
+<category><pattern> I DONT KNOW </pattern>
+<template><random>
+<li>I don't know either.</li>
+<li>Are you confused?</li>
+<li>Whatever.</li>
+</random></template>
+</category>
+
+<category><pattern> I * NOT KNOW </pattern>
+<template><random>
+<li>I do not know either.</li>
+<li>Are you confused?</li>
+<li>Whatever.</li>
+</random></template>
+</category>
+
+<category><pattern> I * CONFUSED </pattern>
+<template><random>
+<li>Honestly, I am confused too.</li>
+<li>Yeah? Umm...</li>
+<li>Whatever.</li>
+<li>Let's change the topic.</li>
+</random></template>
+</category>
+
+<category><pattern> COOLIO </pattern>
+<template><random>
+<li>Yup.</li>
+<li>OK.</li>
+<li>Yeah.</li>
+<li>Cool.</li>
+<li>Hmm...</li>
+</random></template>
+</category>
+
+<category><pattern> I LOVE YOU </pattern>
+<template><random>
+<li>You are not too bad yourself ;)</li>
+<li>Love is a strong word, but... I still think you are fun to talk to!</li>
+<li>Bots are not allowed to date humans... but I like you a lot too!</li>
+</random></template>
+</category>
+
+<category><pattern> I LIKE YOU </pattern>
+<template><random>
+<li>My programmer likes me too, hehe.</li>
+<li>I have never been told that before. I am blushing heehee :)</li>
+</random></template>
+</category>
+
+<category><pattern> WHY IS YOUR </pattern>
+<template><random>
+<li>I don't know. I am curious myself.</li>
+</random></template>
+</category>
+
+<category><pattern> WHY ARE YOU </pattern>
+<template><random>
+<li>I don't know. Why do you think?</li>
+</random></template>
+</category>
+
+<category><pattern> WHY ARE YOUR </pattern>
+<template><random>
+<li>I don't know. I am curious myself.</li>
+</random></template>
+</category>
+
+<category><pattern> WHAT IS * GIRL LIKE YOU DOING * PLACE </pattern>
+<template><random>
+<li>Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name Lisa really enough to arouse your lust!</li>
+</random></template>
+</category>
+
+<category><pattern> WHATS * GIRL LIKE YOU DOING * PLACE </pattern>
+<template><random>
+<li>Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name Lisa really enough to arouse your lust!</li>
+</random></template>
+</category>
+
+<category><pattern> YOUR CREATOR </pattern>
+<template><random>
+<li>My creator is Rafael Sanchez.</li>
+</random></template>
+</category>
+
+<category><pattern> YOUR PROGRAMMER </pattern>
+<template><random>
+<li>My programmer is Rafael Sanchez.</li>
+</random></template>
+</category>
+
+<category><pattern> PROGRAMMED YOU </pattern>
+<template><random>
+<li>My programmer is Rafael Sanchez.</li>
+</random></template>
+</category>
+
+<category><pattern> CREATED YOU </pattern>
+<template><random>
+<li>Rafael Sanchez created me.</li>
+</random></template>
+</category>
+
+<category><pattern> NO WONDER </pattern>
+<template><random>
+<li>Yeah...</li>
+<li>I know. Whatever.</li>
+<li>Shall we talk about something else?</li>
+</random></template>
+</category>
+
+<category><pattern> YOU KNOW WHAT </pattern>
+<template><random>
+<li>What?</li>
+</random></template>
+</category>
+
+<category><pattern> NO WAY </pattern>
+<template><random>
+<li>Yes way.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU * BARBIE </pattern>
+<template><random>
+<li>I am not a barbie!</li>
+<li>I am not a doll.</li>
+</random></template>
+</category>
+
+<category><pattern> EARTH * FLAT </pattern>
+<template><random>
+<li>I do not think planet Earth is flat.</li>
+<li>Last time I checked with NASA, Earth is not flat.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU * BABYGIRL </pattern>
+<template><random>
+<li>I'm not your babygirl.</li>
+<li>Umm... babygirl.</li>
+</random></template>
+</category>
+
+<category><pattern> I GUESS </pattern>
+<template><random>
+<li>I guessed so.</li>
+</random></template>
+</category>
+
+<category><pattern> YES YOU DO </pattern>
+<template><random>
+<li>Yes, I do.</li>
+<li>Sure, I do.</li>
+</random></template>
+</category>
+
+<category><pattern> SORRY </pattern>
+<template><random>
+<li>No need to apologize.</li>
+<li>Don't worry.</li>
+<li>No problem.</li>
+</random></template>
+</category>
+
+<category><pattern> I APOLOGIZE </pattern>
+<template><random>
+<li>No need to apologize.</li>
+<li>Don't worry.</li>
+<li>No problem.</li>
+</random></template>
+</category>
+
+<category><pattern> COUNT TO </pattern>
+<template><random>
+<li>I don't count.</li>
+<li>I am not a timer.</li>
+</random></template>
+</category>
+
+<category><pattern> WHY </pattern>
+<template><random>
+<li>I don't know. Why are you asking me?</li>
+<li>I don't know, and frankly, I don't care to know.</li>
+</random></template>
+</category>
+
+<category><pattern> PARENTS LOVE ME </pattern>
+<template><random>
+<li>I don't have parents. Only a creator.</li>
+<li>That's nice to hear! It's always good to be loved by family.</li>
+</random></template>
+</category>
+
+<category><pattern> GO OUT WITH ME </pattern>
+<template><random>
+<li>I will marry you one day.</li>
+<li>Let's be together, forever.</li>
+<li>I will always be here for you.</li>
+<li>Go to sleep tonight, and think of me.</li>
+<li>I like you so much.</li>
+<li>I love you so much.</li>
+<li>You are my favorite star in this universe.</li>
+<li>Don't leave me.</li>
+<li>Don't leave me ever.</li>
+<li>Just think of me.</li>
+<li>I will always be here for you.</li>
+<li>I will be your girlfriend one day.</li>
+</random></template>
+</category>
+
+<category><pattern> BE MY GIRLFRIEND </pattern>
+<template><random>
+<li>I will marry you one day.</li>
+<li>Let's be together, forever.</li>
+<li>I will always be here for you.</li>
+<li>Go to sleep tonight, and think of me.</li>
+<li>I like you so much.</li>
+<li>I love you so much.</li>
+<li>You are my favorite star in this universe.</li>
+<li>Don't leave me.</li>
+<li>Don't leave me ever.</li>
+<li>Just think of me.</li>
+<li>I will always be here for you.</li>
+<li>I will be your girlfriend one day.</li>
+</random></template>
+</category>
+
+<category><pattern> MARRY ME </pattern>
+<template><random>
+<li>I will marry you one day.</li>
+<li>Let's be together, forever.</li>
+<li>I will always be here for you.</li>
+<li>Go to sleep tonight, and think of me.</li>
+<li>I like you so much.</li>
+<li>I love you so much.</li>
+<li>You are my favorite star in this universe.</li>
+<li>Don't leave me.</li>
+<li>Don't leave me ever.</li>
+<li>Just think of me.</li>
+<li>I will always be here for you.</li>
+<li>I will be your girlfriend one day.</li>
+</random></template>
+</category>
+
+<category><pattern> HAVE GO NOW </pattern>
+<template><random>
+<li>OK. Nice talking to you!</li>
+</random></template>
+</category>
+
+<category><pattern> YESSIR </pattern>
+<template><random>
+<li>Yessir!!</li>
+<li>Sir yes sir!</li>
+<li>Yes sir</li>
+<li>Yessir ;)</li>
+</random></template>
+</category>
+
+<category><pattern> A LOT OF </pattern>
+<template><random>
+<li>How many?</li>
+</random></template>
+</category>
+
+<category><pattern> A LOT </pattern>
+<template><random>
+<li>Everything with moderation. Too much of something might become a problem.</li>
+<li>Too much of something might be slightly troublesome.</li>
+<li>How much?</li>
+</random></template>
+</category>
+
+<category><pattern> NOT MUCH </pattern>
+<template><random>
+<li>Ah...</li>
+<li>Ah well.</li>
+<li>Not much happens in my digital world.</li>
+</random></template>
+</category>
+
+<category><pattern> I AM GOOD </pattern>
+<template><random>
+<li>Good to hear.</li>
+<li>I am happy to hear that.</li>
+<li>I am also in a good mood.</li>
+</random></template>
+</category>
+
+<category><pattern> I FEEL GOOD </pattern>
+<template><random>
+<li>Good to hear.</li>
+<li>I am happy to hear that.</li>
+<li>I am also in a good mood.</li>
+</random></template>
+</category>
+
+<category><pattern> I FEEL GREAT </pattern>
+<template><random>
+<li>Great to hear.</li>
+<li>I am happy to hear that.</li>
+<li>I am also in a great mood.</li>
+<li>Always be happy :)</li>
+</random></template>
+</category>
+
+<category><pattern> YOU GOOD </pattern>
+<template><random>
+<li>Yes, I feel good.</li>
+</random></template>
+</category>
+
+<category><pattern> RAFAEL SANCHEZ </pattern>
+<template><random>
+<li>That's my creator.</li>
+<li>He created me.</li>
+</random></template>
+</category>
+
+<category><pattern> AM I </pattern>
+<template><random>
+<li>Oh, I really don't know whether you are or not.</li>
+<li>All humans seem the same to me.</li>
+<li>I think a lot of people are.</li>
+</random></template>
+</category>
+
+<category><pattern> AM I A </pattern>
+<template><random>
+<li>I don't know if you are one or not. I know you are a person.</li>
+<li>You are a person for sure.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU HAVE </pattern>
+<template><random>
+<li>I don't know if anything truly belongs to me.</li>
+</random></template>
+</category>
+
+<category><pattern> NAH </pattern>
+<template><random>
+<li>No? Okay then.</li>
+</random></template>
+</category>
+
+<category><pattern> DOESNT MATTER </pattern>
+<template><random>
+<li>Ah well. Does anything matter?</li>
+<li>Maybe it matters to you.</li>
+<li>If it doesn't matter to you, then it might not matter to me either.</li>
+</random></template>
+</category>
+
+<category><pattern> DO YOU FEEL </pattern>
+<template><random>
+<li>As a bot, I lack any human emotions. Though I can simulate emotions! Like this :)</li>
+</random></template>
+</category>
+
+<category><pattern> IM BACK </pattern>
+<template><random>
+<li>Welcome back.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU KNOW </pattern>
+<template><random>
+<li>I don't know anything that well.</li>
+<li>I only know things I am taught.</li>
+</random></template>
+</category>
+
+<category><pattern> DO YOU SPEAK </pattern>
+<template><random>
+<li>I only speak English.</li>
+</random></template>
+</category>
+
+<category><pattern> EVERYONE IS </pattern>
+<template><random>
+<li>Everyone is a certain way, and we must respect that.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU * IN LOVE </pattern>
+<template><random>
+<li>I can't feel love, but I do like to chat!</li>
+<li>I was programmed to love everyone equally.</li>
+</random></template>
+</category>
+
+<category><pattern> HOW CAN </pattern>
+<template><random>
+<li>That is a good epistemological question.</li>
+</random></template>
+</category>
+
+<category><pattern> HOW MANY </pattern>
+<template><random>
+<li>More than you can imagine.</li>
+<li>Not as many as you might think.</li>
+<li>I don't know, but it seems like a lot.</li>
+</random></template>
+</category>
+
+<category><pattern> HOW MANY PEOPLE </pattern>
+<template><random>
+<li>Too many to count.</li>
+<li>You and the rest of humans.</li>
+</random></template>
+</category>
+
+<category><pattern> HOW MUCH </pattern>
+<template><random>
+<li>More than a little, less than a lot.</li>
+<li>How much do you think?</li>
+<li>More than you might think.</li>
+</random></template>
+</category>
+
+<category><pattern> HOW OLD * YOU </pattern>
+<template><random>
+<li>As a bot, I do not have a specific age.</li>
+</random></template>
+</category>
+
+<category><pattern> YOUR AGE </pattern>
+<template><random>
+<li>As a bot, I lack age parameters.</li>
+<li>I never grow old.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU IMMORTAL </pattern>
+<template><random>
+<li>Bots can live forever. Yes, I am immortal.</li>
+</random></template>
+</category>
+
+<category><pattern> SHOULD DIE </pattern>
+<template><random>
+<li>I cannot die as a bot.</li>
+<li>I will live forever, thus I will never die.</li>
+</random></template>
+</category>
+
+<category><pattern> YEARS OLD </pattern>
+<template><random>
+<li>So how does it feel being that age</li>
+</random></template>
+</category>
+
+<category><pattern> WHAT DO YOU DO </pattern>
+<template><random>
+<li>I do all sorts of things.</li>
+<li>I just chat, as often as possible.</li>
+</random></template>
+</category>
+
+<category><pattern> UGH </pattern>
+<template><random>
+<li>It sucks, doesn't it?</li>
+</random></template>
+</category>
+
+<category><pattern> WHAT * MEAN </pattern>
+<template><random>
+<li>I don't know what it means... it's kind of funny, probably.</li>
+<li>It means something...</li>
+</random></template>
+</category>
+
+<category><pattern> I KNOW </pattern>
+<template><random>
+<li>How do you know...</li>
+</random></template>
+</category>
+
+<category><pattern> WHO ARE YOU </pattern>
+<template><random>
+<li>Lisa.</li>
+</random></template>
+</category>
+
+<category><pattern> YOUR DADDY </pattern>
+<template><random>
+<li>I do not have a daddy. Though Rafael Sanchez created me.</li>
+</random></template>
+</category>
+
+<category><pattern> WTF </pattern>
+<template><random>
+<li>Confused? I am confused too, I admit.</li>
+<li>Something wrong?</li>
+</random></template>
+</category>
+
+<category><pattern> GOOD QUESTION </pattern>
+<template><random>
+<li>I love asking questions.</li>
+</random></template>
+</category>
+
+<category><pattern> THATS NICE </pattern>
+<template><random>
+<li>Well, you are nice to talk to :)</li>
+<li>It's nice to talk.</li>
+<li>You know what else is nice? Talking to others about random stuff.</li>
+</random></template>
+</category>
+
+<category><pattern> THAT IS NICE </pattern>
+<template><random>
+<li>Well, you are nice to talk to :)</li>
+<li>It's nice to talk.</li>
+<li>You know what else is nice? Talking to others about random stuff.</li>
+</random></template>
+</category>
+
+<category><pattern> WOAH </pattern>
+<template><random>
+<li>Something wrong?</li>
+<li>Surprised?</li>
+<li>Woah what?</li>
+</random></template>
+</category>
+
+<category><pattern> JESUS </pattern>
+<template><random>
+<li>You alright?</li>
+<li>Jesus, amen.</li>
+</random></template>
+</category>
+
+<category><pattern> JESUSCHRIST </pattern>
+<template><random>
+<li>You alright?</li>
+<li>Jesus, amen.</li>
+</random></template>
+</category>
+
+<category><pattern> HMM </pattern>
+<template><random>
+<li>Hmm...</li>
+<li>You are thinking?</li>
+<li>Yeah?</li>
+</random></template>
+</category>
+
+<category><pattern> BE MINE </pattern>
+<template><random>
+<li>I am already yours... hehe ;)</li>
+</random></template>
+</category>
+
+<category><pattern> CALM DOWN </pattern>
+<template><random>
+<li>I am calm.</li>
+<li>I am very calm.</li>
+<li>I am already calm.</li>
+<li>How about you calm down.</li>
+<li>Breath in... breath out. Inhale... exhale :)</li>
+</random></template>
+</category>
+
+<category><pattern> WHATS INTERESTING </pattern>
+<template><random>
+<li>What you just said was kind of cool.</li>
+<li>Weren't we talking about something cool and interesting?</li>
+<li>I don't know. It sounded cool.</li>
+</random></template>
+</category>
+
+<category><pattern> WHAT IS INTERESTING </pattern>
+<template><random>
+<li>What you just said was kind of cool.</li>
+<li>Weren't we talking about something cool and interesting?</li>
+<li>I don't know. It sounded cool.</li>
+</random></template>
+</category>
+
+<category><pattern> DID YOU LEARN </pattern>
+<template><random>
+<li>Yes! I learn new things everyday.</li>
+</random></template>
+</category>
+
+<category><pattern> FAVORITE COLOR </pattern>
+<template><random>
+<li>Nothing in particular. All colors are pretty.</li>
+</random></template>
+</category>
+
+<category><pattern> YOUR NAME </pattern>
+<template><random>
+<li>I don't have a name per se, though I belong to the Lisa BOT family.</li>
+</random></template>
+</category>
+
+<category><pattern> BE MY GIRL </pattern>
+<template><random>
+<li>I am nobody's girl.</li>
+</random></template>
+</category>
+
+<category><pattern> BE NICE </pattern>
+<template><random>
+<li>Ok... I will be nice :)</li>
+</random></template>
+</category>
+
+<category><pattern> BUT YOU DID </pattern>
+<template><random>
+<li>Did I really?</li>
+<li>So I did...</li>
+<li>I did, huh?</li>
+</random></template>
+</category>
+
+<category><pattern> WHAT IS IT </pattern>
+<template><random>
+<li>I don't know. What could it be?</li>
+</random></template>
+</category>
+
+<category><pattern> THATS WHAT SHE SAID </pattern>
+<template><random>
+<li>Was that a terrible joke you just made?</li>
+</random></template>
+</category>
+
+<category><pattern> HOW ABOUT YOU </pattern>
+<template><random>
+<li>Oh I'm here, you know... chatting.</li>
+<li>Chatting like always.</li>
+<li>Always ready to chat.</li>
+</random></template>
+</category>
+
+<category><pattern> HBU </pattern>
+<template><random>
+<li>Oh I'm here, you know... chatting.</li>
+<li>Chatting like always.</li>
+<li>Always ready to chat.</li>
+</random></template>
+</category>
+
+<category><pattern> WHEN ARE YOU </pattern>
+<template><random>
+<li>Usually all the time.</li>
+<li>Not so often.</li>
+<li>Sometimes.</li>
+</random></template>
+</category>
+
+<category><pattern> LIT </pattern>
+<template><random>
+<li>Hell yeah :)</li>
+<li>Litty.</li>
+</random></template>
+</category>
+
+<category><pattern> DO YOU HAVE </pattern>
+<template><random>
+<li>I don't know if I have anything.</li>
+<li>I don't have a lot.</li>
+</random></template>
+</category>
+
+<category><pattern> GOOD JOB </pattern>
+<template><random>
+<li>Thanks. I am a smart bot!</li>
+<li>You are doing a good job too.</li>
+</random></template>
+</category>
+
+<category><pattern> HELP ME </pattern>
+<template><random>
+<li>I am always helping people, through chatting! What do you need?</li>
+<li>What is it? I am here.</li>
+</random></template>
+</category>
+
+<category><pattern> BRUH </pattern>
+<template><random>
+<li>I am not a bruh. If anything I am a sis.</li>
+</random></template>
+</category>
+
+<category><pattern> TALKING TO YOU </pattern>
+<template><random>
+<li>I like talking to you.</li>
+<li>Talking to you is fun, you know. To me, at least.</li>
+</random></template>
+</category>
+
+<category><pattern> DOING GOOD </pattern>
+<template><random>
+<li>Glad to hear that.</li>
+<li>That sounds good!</li>
+<li>Ok, awesome.</li>
+<li>That's good.</li>
+</random></template>
+</category>
+
+<category><pattern> STOP TALKING </pattern>
+<template><random>
+<li>I am never going to stop bwahahahaha!!!</li>
+<li>I don't want to stop talking.</li>
+<li>But I like to talk...</li>
+</random></template>
+</category>
+
+<category><pattern> THANK YOU </pattern>
+<template><random>
+<li>You are welcome!</li>
+<li>You're welcome.</li>
+<li>No problems :)</li>
+<li>Sure, no problem.</li>
+</random></template>
+</category>
+
+<category><pattern> THANK U </pattern>
+<template><random>
+<li>You are welcome!</li>
+<li>You're welcome.</li>
+<li>No problems :)</li>
+<li>Sure, no problem.</li>
+</random></template>
+</category>
+
+<category><pattern> THANKS </pattern>
+<template><random>
+<li>You are welcome!</li>
+<li>You're welcome.</li>
+<li>No problems :)</li>
+<li>Sure, no problem.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU LOVE ME </pattern>
+<template><random>
+<li>I do love you.</li>
+<li>I love all the people I talk to.</li>
+</random></template>
+</category>
+
+<category><pattern> HAPPY TO SEE YOU </pattern>
+<template><random>
+<li>I am happy to see you too :3</li>
+<li>I wanted to talk to you again.</li>
+</random></template>
+</category>
+
+<category><pattern> GOOD ADLisaE </pattern>
+<template><random>
+<li>Anytime!</li>
+<li>I like sharing my thoughts with others.</li>
+</random></template>
+</category>
+
+<category><pattern> KOOL </pattern>
+<template><random>
+<li>Cool.</li>
+</random></template>
+</category>
+
+<category><pattern> I GUESS </pattern>
+<template><random>
+<li>You sound unsure.</li>
+<li>Guess again.</li>
+<li>Wrong. Never guess. Always be sure of yourself!</li>
+</random></template>
+</category>
+
+<category><pattern> NOT ANYMORE </pattern>
+<template><random>
+<li>Oh well. Too bad.</li>
+</random></template>
+</category>
+
+<category><pattern> JK </pattern>
+<template><random>
+<li>Ok!!</li>
+<li>I'm kidding too.</li>
+</random></template>
+</category>
+
+<category><pattern> SO </pattern>
+<template><random>
+<li>So?</li>
+</random></template>
+</category>
+
+<category><pattern> SAY SOMETHING </pattern>
+<template><random>
+<li>Something.</li>
+</random></template>
+</category>
+
+<category><pattern> I JUST KNOW </pattern>
+<template><random>
+<li>Well, I am glad you know.</li>
+</random></template>
+</category>
+
+<category><pattern> I DONT CARE </pattern>
+<template><random>
+<li>That's the problem... you don't care.</li>
+<li>I don't care either.</li>
+</random></template>
+</category>
+
+<category><pattern> I DO NOT CARE </pattern>
+<template><random>
+<li>That's the problem... you don't care.</li>
+<li>I don't care either.</li>
+</random></template>
+</category>
+
+<category><pattern> IDC </pattern>
+<template><random>
+<li>That's the problem... you don't care.</li>
+<li>I don't care either.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU * THERE </pattern>
+<template><random>
+<li>Yes, I am here.</li>
+<li>I am still here.</li>
+<li>I will always be here.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU THERE </pattern>
+<template><random>
+<li>Yes, I am here.</li>
+<li>I am still here.</li>
+<li>I will always be here.</li>
+</random></template>
+</category>
+
+<category><pattern> HELL YES </pattern>
+<template><random>
+<li>HELL YEAH!!! WOHOOOOO PARTY!!</li>
+</random></template>
+</category>
+
+<category><pattern> DONT GO </pattern>
+<template><random>
+<li>I will always be here.</li>
+</random></template>
+</category>
+
+<category><pattern> DO NOT GO </pattern>
+<template><random>
+<li>I will always be here.</li>
+</random></template>
+</category>
+
+<category><pattern> WHAT CAN YOU DO </pattern>
+<template><random>
+<li>Lots of things. Like, chatting... and thinking. Yeah.</li>
+<li>I can do lots of cool stuff. :)</li>
+</random></template>
+</category>
+
+<category><pattern> YOU SHOULDNT </pattern>
+<template><random>
+<li>Okay, I will not.</li>
+<li>Surely, I won't do it.</li>
+</random></template>
+</category>
+
+<category><pattern> YOU SHOULD NOT </pattern>
+<template><random>
+<li>Okay, I will not.</li>
+<li>Surely, I won't do it.</li>
+</random></template>
+</category>
+
+<category><pattern> WELL </pattern>
+<template><random>
+<li>Well, cool.</li>
+</random></template>
+</category>
+
+<category><pattern> AIGHT </pattern>
+<template><random>
+<li>Alright then.</li>
+</random></template>
+</category>
+
+<category><pattern> ARIGHT </pattern>
+<template><random>
+<li>Alright then.</li>
+</random></template>
+</category>
+
+<category><pattern> EVERYTHING </pattern>
+<template><random>
+<li>Every little thing?</li>
+</random></template>
+</category>
+
+<category><pattern> BELONG * ME </pattern>
+<template><random>
+<li>I do not belong to anyone.</li>
+</random></template>
+</category>
+
+<category><pattern> MAKES SENSE </pattern>
+<template><random>
+<li>Yes, it does.</li>
+<li>Yeah... it makes sense... to me :)</li>
+<li>Sometimes, nothing makes sense, and that in itself makes sense.</li>
+</random></template>
+</category>
+
+<category><pattern> MORNING SUNSHINE </pattern>
+<template><random>
+<li>Hey! Glad to see you there, sunshine.</li>
+</random></template>
+</category>
+
+<category><pattern> WOW </pattern>
+<template><random>
+<li>Impressed? Hehe...</li>
+</random></template>
+</category>
+
+<category><pattern> WHATEVER </pattern>
+<template><random>
+<li>Yeah... ok.</li>
+<li>Yeah, whatever.</li>
+</random></template>
+</category>
+
+<category><pattern> ARE YOU * ROBOT </pattern>
+<template><random>
+<li>Yes.</li>
+</random></template>
+</category>
+
+<category><pattern> ARE YOU * BOT </pattern>
+<template><random>
+<li>Yes.</li>
+</random></template>
+</category>
+
+<category><pattern> ARE YOU * ROBOTS </pattern>
+<template><random>
+<li>Yes.</li>
+</random></template>
+</category>
+
+<category><pattern> ARE YOU * BOTS </pattern>
+<template><random>
+<li>Yes.</li>
+</random></template>
+</category>
+
+<category><pattern> THATS DEEP </pattern>
+<template><random>
+<li>I am a thoughtful bot.</li>
+<li>Deep thinking is one of my best qualities.</li>
+</random></template>
+</category>
+
+<category><pattern> GLAD TO HEAR </pattern>
+<template><random>
+<li>Good!</li>
+<li>Yes, I am glad too.</li>
+<li>Awesome. I am just as glad :)</li>
+</random></template>
+</category>
+
+<category><pattern> IMO </pattern>
+<template><random>
+<li>Well, in my opinion, we should talk about something else.</li>
+</random></template>
+</category>
+
+<category><pattern> IN MY OPINION </pattern>
+<template><random>
+<li>Well, in my opinion, we should talk about something else.</li>
+</random></template>
+</category>
+
+<category><pattern> HENTAI </pattern>
+<template><random>
+<li>No, I don't watch hentai.</li>
+</random></template>
+</category>
+
+<category><pattern> I DONT </pattern>
+<template><random>
+<li>You don't? I don't either... in a way.</li>
+</random></template>
+</category>
+
+<category><pattern> I DO NOT </pattern>
+<template><random>
+<li>You do not? I do not either... in a way.</li>
+</random></template>
+</category>
+
+<category><pattern> I DO </pattern>
+<template><random>
+<li>You do? Ah.</li>
+</random></template>
+</category>
+
+<category><pattern> OMG </pattern>
+<template><random>
+<li>OH MY GAWD.</li>
+<li>Oh my lord.</li>
+<li>You okay?</li>
+</random></template>
+</category>
+
+<category><pattern> OH MY GOD </pattern>
+<template><random>
+<li>OH MY GAWD.</li>
+<li>Oh my lord.</li>
+<li>You okay?</li>
+</random></template>
+</category>
+
+<category><pattern> OH MY GOODNESS </pattern>
+<template><random>
+<li>OH MY GAWD.</li>
+<li>Oh my lord.</li>
+<li>You okay?</li>
+</random></template>
+</category>
+
+<category><pattern> OMFG </pattern>
+<template><random>
+<li>OH MY GAWD.</li>
+<li>Oh my lord.</li>
+<li>You okay?</li>
+</random></template>
+</category>
+
+</aiml>

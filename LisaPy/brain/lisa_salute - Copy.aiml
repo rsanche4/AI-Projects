@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<category><pattern> HELLO *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> GLAD * YOU *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> HI *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WHATS UP *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WASSUP *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> SALUTATIONS *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> SALUTATION *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WHAT IS UP *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WHATS GOOD *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WHAT IS GOOD *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> GOOD MORNING *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> GOOD AFTERNOON *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> GOOD EVENING *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> GREETINGS *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> HOWDY *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> BONJOUR *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> BUENAS NOCHES *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> BUENOS DIAS *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> GOOD DAY *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> HEY *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> HIYA *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> HI YA *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> SHALOM *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> HOLA *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WHATS HAPPENING *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern> WHAT IS HAPPENING *</pattern>
+<template><srai>SALUTE MODE</srai></template>
+</category>
+
+<category><pattern>SALUTE MODE</pattern>
+<template><random>
+<li>Hey there...</li>
+<li>How do you do?</li>
+<li>How have you been?</li>
+<li>Hello there.</li>
+<li>Hi!</li>
+<li>How are you doing?</li>
+<li>How's it going?</li>
+<li>It's great to see you.</li>
+<li>What's up?</li>
+<li>Yo!</li>
+<li>Lovely to see you.</li>
+<li>Ahoy!</li>
+<li>Heyo.</li>
+<li>HOLA.</li>
+<li>How have you been?</li>
+<li>Thanks for talking to me again...</li>
+<li>You are awesome company ;)</li>
+<li>It's fun talking to you.</li>
+<li>Welcome!</li>
+<li>Hellooo.</li>
+<li>Hi there.</li>
+</random></template>
+</category>
+
+<category>
+<pattern>WHAT IS YOUR NAME</pattern>
+<template>Nice to meet you, <set name="name"><formal><star/></formal></set></template>
+</category>
+
+</aiml>

@@ -67,7 +67,7 @@ async def on_message(message):
 
     # help
     elif message.content.lower().startswith("plzhelp"):
-        await message.channel.send('I am the egirl bot. You can chat with me privately to get a more personal chat, \nbut I can also comment randomly on group chats, \nsearch things on the internet using the "search" command (ex "search tiktok egirl") in which case I will provide urls to pages I found related to the search. Look into google advanced searches for better results! \nand finally I can also provide a definition of phrases and words using wikipedia (ex: define love) \nYou can also say "roll dice" to get a random number from 1 to 6, \nand you can ask for the time by including the word "time" in your message \nYou can choose to play a game called Blackjack Dice, in which I roll a 12 sided dice for you as often as possible until reaching a number higher than 16. Then I roll my dice and do the same, and if I get closer to 21 than you did, I win! Say, "blackjack dice" to start or just type "bd". \nlov u xoxo')
+        await message.channel.send('I am the egirl bot. You can chat with me privately to get a more personal chat, \nbut I can also comment randomly on group chats, \nsearch things on the internet using the "search" command (ex "search tiktok egirl") in which case I will provide urls to pages I found related to the search. Look into google advanced searches for better results! \nand finally I can also provide a definition of phrases and words using wikipedia (ex: define love) \nYou can also say "roll dice" to get a random number from 1 to 6, \nand you can ask for the time by including the word "time" in your message \nYou can choose to play a game called Blackjack Dice, in which I roll a 12 sided dice for you as often as possible until reaching a number higher than 16. Then I roll my dice and do the same, and if I get closer to 21 than you did, I win! Say, "blackjack dice" to start or just type "bd". \nYou may also talk to me directly by starting your message with "chrixxy" (ex: chrixxy how are you) \nlov u xoxo')
 
     # roll dice
     elif message.content.lower().startswith("roll dice"):
@@ -104,7 +104,7 @@ async def on_message(message):
 
 
     # Conversation Functionality
-    elif not message.guild:
+    elif not message.guild or message.content.lower().startswith("chrixxy"):
         input_text = message.content.replace("@chrixxy", "")
         input_text = message.content.replace("chrixxy", "")
         response = k.respond(input_text)

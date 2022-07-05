@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: insults.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: February 20, 2013 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2013 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>* FUCKING *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>* FUCK</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FUCKING *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FUCK *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>ARE YOU A WHORE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>ARE YOU A BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU F ASTERISK ASTERISK ASTERISK ASTERISK ASTERISK ASTERISK *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU IDIOT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A B ASTERISK ASTERISK ASTERISK ASTERISK</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A B ASTERISK ASTERISK ASTERISK ASTERISK *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A C ASTERISK ASTERISK ASTERISK</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A DICK</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A WHORE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>F U *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>F ASTERISK ASTERISK ASTERISK YOU BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>B ASTERISK ASTERISK ASTERISK ASTERISK YOU *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>C ASTERISK ASTERISK ASTERISK</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>S ASTERISK ASTERISK ASTERISK *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>GO FUCK YOURSELF</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>GO DIE IN A HOLE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>GO TO HELL *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>DUMB ASS</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>PUSSY</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FUCK U BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FUCK IT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FUCK YOU THEN</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>BITCH PLEASE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>BITCH *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>NO BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>NO DUMBASS *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>SHUT UP BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YEAH BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>EAT MY *</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>WHORE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>HEY B ASTERISK ASTERISK ASTERISK ASTERISK</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>HEY BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>DICK HEAD</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>ASSHOLE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>DUMBASS</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>BASTARD</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>STUPID BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FAGGOT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>FUCKING FAGGOT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>WHAT IS UP BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>* SLUT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>* GAY</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>HOE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>SLUT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>GAY</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>* HOE</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE FAT</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE CRAZY</pattern>
+<template>You are an idiot.</template>
+</category>
+<category><pattern>YOU ARE A CRAZY BITCH</pattern>
+<template>You are an idiot.</template>
+</category>
+</aiml>

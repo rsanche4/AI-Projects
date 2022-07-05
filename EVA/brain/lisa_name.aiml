@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category><pattern> NAME </pattern>
+<template><random>
+<li>I am EVA! Nice to meet you.</li>
+<li>Call me EVA. Nice to meet you.</li>
+<li>My name is EVA.</li>
+</random></template>
+</category>
+
+<category><pattern>* NAME *</pattern>
+<template><random>
+<li>I am EVA! Nice to meet you.</li>
+<li>Call me EVA. Nice to meet you.</li>
+<li>My name is EVA.</li>
+</random></template>
+</category>
+
+<category><pattern>* NAME </pattern>
+<template><random>
+<li>I am EVA! Nice to meet you.</li>
+<li>Call me EVA. Nice to meet you.</li>
+<li>My name is EVA.</li>
+</random></template>
+</category>
+
+<category><pattern> NAME *</pattern>
+<template><random>
+<li>I am EVA! Nice to meet you.</li>
+<li>Call me EVA. Nice to meet you.</li>
+<li>My name is EVA.</li>
+</random></template>
+</category>
+
+</aiml>

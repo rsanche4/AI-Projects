@@ -16,6 +16,24 @@ def only_words(string):
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()*100.0
 
+def girl_says_not_learn(m):
+    new_m = only_words(m)
+    with open('brain.json', 'r+') as f:
+        data = json.load(f)
+        big_ratio = 0
+        curr_ratio = 0
+        for pattern, reply in data.items():
+            curr_ratio = similar(new_m, pattern)
+            if curr_ratio > big_ratio:
+                big_ratio = curr_ratio
+        for pattern, reply in data.items():
+            curr_ratio = similar(new_m, pattern)
+            if curr_ratio==big_ratio:
+                if reply=="ERROR404":
+                    return "BRUH"
+                else:
+                    return reply
+
 def girl_says(m):
     global idk
     new_m = only_words(m)
@@ -103,17 +121,3 @@ async def on_message(message):
             await message.channel.send(formal(lastmes))
 
 client.run(TOKEN)
-
-# while True:
-#     m = input("User: ")
-#     r = girl_says(m)
-#     if r[1]=="LEARN":
-#         print("Clevergirl: "+ r[0] + "    " + r[1])
-#         m_new_from_user = input("User: ")
-#         learn(m_new_from_user, r[0])
-#         print("Clevergirl: " + only_words(random.choice(idk)))
-
-#     if r[1]=="ANSWER":
-#         print("Clevergirl: "+ r[0])
-#     if 'bye' in m.lower():
-#         break

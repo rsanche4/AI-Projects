@@ -7084,10 +7084,10 @@
 <template><srai>who are your robot friends</srai></template>
 </category>
 <category><pattern>DO YOU KNOW LISA</pattern>
-<template><srai>who is lisa</srai></template>
+<template><srai>who is LISA</srai></template>
 </category>
 <category><pattern>DO YOU KNOW LISA *</pattern>
-<template><srai>who is lisa <star /></srai></template>
+<template><srai>who is LISA <star /></srai></template>
 </category>
 <category><pattern>DO YOU KNOW POKEMAN</pattern>
 <template><srai>who is pokeman</srai></template>

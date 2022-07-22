@@ -3,33 +3,33 @@
 
 <category><pattern> NAME </pattern>
 <template><random>
-<li>I am Lisa! Nice to meet you.</li>
-<li>Call me Lisa. Nice to meet you.</li>
-<li>My name is Lisa.</li>
+<li>I am LISA! Nice to meet you.</li>
+<li>Call me LISA. Nice to meet you.</li>
+<li>My name is LISA.</li>
 </random></template>
 </category>
 
 <category><pattern>* NAME *</pattern>
 <template><random>
-<li>I am Lisa! Nice to meet you.</li>
-<li>Call me Lisa. Nice to meet you.</li>
-<li>My name is Lisa.</li>
+<li>I am LISA! Nice to meet you.</li>
+<li>Call me LISA. Nice to meet you.</li>
+<li>My name is LISA.</li>
 </random></template>
 </category>
 
 <category><pattern>* NAME </pattern>
 <template><random>
-<li>I am Lisa! Nice to meet you.</li>
-<li>Call me Lisa. Nice to meet you.</li>
-<li>My name is Lisa.</li>
+<li>I am LISA! Nice to meet you.</li>
+<li>Call me LISA. Nice to meet you.</li>
+<li>My name is LISA.</li>
 </random></template>
 </category>
 
 <category><pattern> NAME *</pattern>
 <template><random>
-<li>I am Lisa! Nice to meet you.</li>
-<li>Call me Lisa. Nice to meet you.</li>
-<li>My name is Lisa.</li>
+<li>I am LISA! Nice to meet you.</li>
+<li>Call me LISA. Nice to meet you.</li>
+<li>My name is LISA.</li>
 </random></template>
 </category>
 

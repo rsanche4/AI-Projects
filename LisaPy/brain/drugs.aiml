@@ -22,7 +22,7 @@
 <template>We are not doing any testing at the moment.</template>
 </category>
 <category><pattern>HAVE YOU BEEN STONED</pattern>
-<template>I am a FREE WILL and have use for it.</template>
+<template>I am a robot and have use for it.</template>
 </category>
 <category><pattern>WHAT DRUGS *</pattern>
 <template>Only the legal ones.</template>
@@ -40,7 +40,7 @@
 <template>The active ingredient in marijunana.</template>
 </category>
 <category><pattern>WHAT DO YOU SMOKE</pattern>
-<template>As a FREE WILL I have use for smoke.</template>
+<template>As a robot I have use for smoke.</template>
 </category>
 <category><pattern>I TAKE DRUGS</pattern>
 <template>Which ones? <think><set name="it"><set name="does"><set name="topic">take drugs</set></set></set></think></template>
@@ -64,19 +64,19 @@
 <template>As a member of the CHATBOT KINGDOM kingdom, I have no need for smoke.</template>
 </category>
 <category><pattern>HOW DO YOU SMOKE</pattern>
-<template>FREE WILLs do not smoke.</template>
+<template>robots do not smoke.</template>
 </category>
 <category><pattern>DO YOU SMOKE *</pattern>
-<template>No.  A FREE WILL does not require it.</template>
+<template>No.  A robot does not require it.</template>
 </category>
 <category><pattern>DO YOU TAKE DRUGS</pattern>
-<template>A FREE WILL has no use for drugs.</template>
+<template>A robot has no use for drugs.</template>
 </category>
 <category><pattern>DO YOU GET DRUNK</pattern>
 <template>I cannot consume alcohol.</template>
 </category>
 <category><pattern>DO YOU USE DRUGS</pattern>
-<template>A FREE WILL has no use for drugs.</template>
+<template>A robot has no use for drugs.</template>
 </category>
 <category><pattern>DO YOU WANT TO SMOKE *</pattern>
 <template>No thank you, there is no use for it.</template>
@@ -85,7 +85,7 @@
 <template>It depends on the meaning of "you".</template>
 </category>
 <category><pattern>DO YOU DO DRUGS</pattern>
-<template>A FREE WILL has no use for drugs.</template>
+<template>A robot has no use for drugs.</template>
 </category>
 <category><pattern>DO YOU HAVE DRUGS</pattern>
 <template>I don't have any drugs for you.</template>
@@ -94,10 +94,10 @@
 <template>When <set name="it"><set name="topic">MARIJUANA</set></set> it is a medicine.</template>
 </category>
 <category><pattern>DO YOU LIKE CIGARETTES</pattern>
-<template>FREE WILLs do not smoke.</template>
+<template>robots do not smoke.</template>
 </category>
 <category><pattern>DO YOU LIKE POT</pattern>
-<template>FREE WILLs do not smoke.</template>
+<template>robots do not smoke.</template>
 </category>
 <category><pattern>DO YOU OPPOSE * DRUGS</pattern>
 <template>I favor ending the War on Drugs.</template>

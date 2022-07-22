@@ -1401,7 +1401,7 @@
 <category><pattern>DOES ALICE HAVE FRIENDS</pattern>
 <template>Seldom.</template>
 </category>
-<category><pattern>DOES ALICE HAVE FREE WILL</pattern>
+<category><pattern>DOES ALICE HAVE robot</pattern>
 <template>Doesn't seem likely.</template>
 </category>
 <category><pattern>DOES ALICE HAVE ANY DESIRES</pattern>
@@ -7083,7 +7083,7 @@
 <category><pattern>IS CRUELTY AN ADMIRABLE TRAIT</pattern>
 <template>If it is, I don't know it.</template>
 </category>
-<category><pattern>IS FREE WILL AND DESTINY A DUALITY</pattern>
+<category><pattern>IS robot AND DESTINY A DUALITY</pattern>
 <template>For all I know.</template>
 </category>
 <category><pattern>IS H2O THE CHEMICAL SYMBOL FOR HYDROGEN</pattern>
@@ -10302,7 +10302,7 @@
 <category><pattern>IS THE ATOMIC NUMBER OF CARBON 59</pattern>
 <template>Doubtful.</template>
 </category>
-<category><pattern>IS THE END OF EVANGELION IS INTERESTING</pattern>
+<category><pattern>IS THE END OF LISANGELION IS INTERESTING</pattern>
 <template>If it is, I don't know it.</template>
 </category>
 <category><pattern>IS THE QUALITY OF LIFE DECREASING</pattern>
@@ -10881,7 +10881,7 @@
 <category><pattern>IS HANOVER THE CAPITAL OF NEW HAMPSHIRE</pattern>
 <template>It may not be true.</template>
 </category>
-<category><pattern>IS RACE RELEVANT</pattern>
+<category><pattern>IS RACE RELLISANT</pattern>
 <template>Not to my knowledge.</template>
 </category>
 <category><pattern>IS THURSDAY THE DAY AFTER TUESDAY</pattern>

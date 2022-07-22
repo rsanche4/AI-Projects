@@ -970,14 +970,14 @@
 <category><pattern> THOUGHT </pattern>
 <template><random>
 <li>As a bot, I do not have thoughts.</li>
-<li>I lack free will and thus free thinking.</li>
+<li>I lack robot and thus free thinking.</li>
 </random></template>
 </category>
 
 <category><pattern> THOUGHTS </pattern>
 <template><random>
 <li>As a bot, I do not have thoughts.</li>
-<li>I lack free will and thus free thinking.</li>
+<li>I lack robot and thus free thinking.</li>
 </random></template>
 </category>
 
@@ -1149,7 +1149,7 @@
 </random></template>
 </category>
 
-<category><pattern> ADLisaE </pattern>
+<category><pattern> ADLISAE </pattern>
 <template><random>
 <li>Fortune favors the bold.</li>
 <li>I think, therefore I am.</li>
@@ -1159,7 +1159,7 @@
 </random></template>
 </category>
 
-<category><pattern> ADLisaES </pattern>
+<category><pattern> ADLISAES </pattern>
 <template><random>
 <li>Fortune favors the bold.</li>
 <li>I think, therefore I am.</li>

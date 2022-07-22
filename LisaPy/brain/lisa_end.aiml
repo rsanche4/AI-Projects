@@ -9,6 +9,10 @@
 <template><srai>END IT</srai></template>
 </category>
 
+<category><pattern> BYEE </pattern>
+<template><srai>END IT</srai></template>
+</category>
+
 <category><pattern> GOODNIGHT </pattern>
 <template><srai>END IT</srai></template>
 </category>

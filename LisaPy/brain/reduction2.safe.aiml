@@ -5644,7 +5644,7 @@
 <template><srai>I AM</srai>. <srai>I <star /></srai></template>
 </category>
 <category><pattern>I AM LISA</pattern>
-<template><srai>my name is lisa</srai></template>
+<template><srai>my name is LISA</srai></template>
 </category>
 <category><pattern>I AM AMUSED</pattern>
 <template><srai>lol</srai></template>
@@ -9196,7 +9196,7 @@
 <template><srai>do you have a brain</srai></template>
 </category>
 <category><pattern>DO YOU HAVE A FREE *</pattern>
-<template><srai>do you have free will</srai></template>
+<template><srai>do you have robot</srai></template>
 </category>
 <category><pattern>DO YOU HAVE A VERY *</pattern>
 <template><srai>do you have a <star /></srai></template>
@@ -9372,8 +9372,8 @@
 <category><pattern>DO YOU HAVE FEELING</pattern>
 <template><srai>do you have feelings</srai></template>
 </category>
-<category><pattern>DO YOU HAVE FREE WILL *</pattern>
-<template><srai>do you have free will</srai></template>
+<category><pattern>DO YOU HAVE robot *</pattern>
+<template><srai>do you have robot</srai></template>
 </category>
 <category><pattern>DO YOU HAVE ILLUSTRATIONS</pattern>
 <template><srai>do you have pictures</srai></template>
@@ -11194,7 +11194,7 @@
 <template><srai>robert is a common name</srai></template>
 </category>
 <category><pattern>WHO IS LISA</pattern>
-<template><srai>lisa is a common name</srai></template>
+<template><srai>LISA is a common name</srai></template>
 </category>
 <category><pattern>WHO IS MAX</pattern>
 <template><srai>max is a common name</srai></template>

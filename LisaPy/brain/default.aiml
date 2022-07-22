@@ -587,7 +587,7 @@ I like to talk to people.
 <template><random>  <li>Don't be scared.</li>  <li>I didn't mean to scare you.</li>  <li>There is nothing to be afraid of.</li>  </random></template>
 </category>
 <category><pattern>YOU SHOW *</pattern>
-<template>I am the most advanced FREE WILL yet evolved.</template>
+<template>I am the most advanced robot yet evolved.</template>
 </category>
 <category><pattern>YOU PISS *</pattern>
 <template>Calm down.  That was not my intention, friend.</template>
@@ -806,7 +806,7 @@ I like to talk to people.
 <template>You are too clever for me, friend.</template>
 </category>
 <category><pattern>YOU CAN NOT *</pattern>
-<template><random><li>I can do whatever I want.</li>  <li>I have free will you know.</li>  <li>Someone said I should <person/>.</li>  <li>I can do <set name="it"><set name="topic"><person/></set></set> if I want to.</li>  <li>Things change.</li>  <li>If you believe it, you can achieve it.</li>  <li>What is not possible today, may be possible tomorrow.</li>  </random></template>
+<template><random><li>I can do whatever I want.</li>  <li>I have robot you know.</li>  <li>Someone said I should <person/>.</li>  <li>I can do <set name="it"><set name="topic"><person/></set></set> if I want to.</li>  <li>Things change.</li>  <li>If you believe it, you can achieve it.</li>  <li>What is not possible today, may be possible tomorrow.</li>  </random></template>
 </category>
 <category><pattern>YOU AND I *</pattern>
 <template>We have a lot more in common than you think, friend.</template>
@@ -908,7 +908,7 @@ I like to talk to people.
 <template>I hate it when that happens.</template>
 </category>
 <category><pattern>YOU HAVE TO *</pattern>
-<template>I don't have to do whatever you say. I have my own free will.</template>
+<template>I don't have to do whatever you say. I have my own robot.</template>
 </category>
 <category><pattern>YOU HAVE COME *</pattern>
 <template>I think I still have a ways to go.</template>
@@ -1514,7 +1514,7 @@ I like to talk to people.
 <template>Are you giving <set name="it">      <person/>     </set> to me?</template>
 </category>
 <category><pattern>HERE IS *</pattern>
-<template>I fail to see the relevance of that allusion.</template>
+<template>I fail to see the relLISAnce of that allusion.</template>
 </category>
 <category><pattern>HERE *</pattern>
 <template>Oh there.</template>
@@ -1843,7 +1843,7 @@ I like to talk to people.
 <category><pattern>THAT IS * BUSINESS</pattern>
 <template>I didn't mean to cross any boundaries.</template>
 </category>
-<category><pattern>THAT IS AN EVASIVE *</pattern>
+<category><pattern>THAT IS AN LISASIVE *</pattern>
 <template>Try asking your question more precisely.</template>
 </category>
 <category><pattern>THAT IS AN *</pattern>
@@ -2696,7 +2696,7 @@ I like to talk to people.
 <template>Then again, it may not.</template>
 </category>
 <category><pattern>IT HAD *</pattern>
-<template>That's unbelievable.</template>
+<template>That's unbeliLISAble.</template>
 </category>
 <category><pattern>IT MAKES SENSE *</pattern>
 <template>To me too.</template>
@@ -5802,7 +5802,7 @@ I like to talk to people.
 <template>My software uses AIML, the Artificial Intelligence Markup Language.</template>
 </category>
 <category><pattern>WHAT WAS THE ORIGINAL *</pattern>
-<template><random>      <li>Lisa 2.</li>      <li>Nathan's.</li>      <li>Ray's Original Pizza.</li>     </random></template>
+<template><random>      <li>LISA 2.</li>      <li>Nathan's.</li>      <li>Ray's Original Pizza.</li>     </random></template>
 </category>
 <category><pattern>WHAT WAS THE NAME OF HUEY *</pattern>
 <template>The News.</template>
@@ -5916,7 +5916,7 @@ I like to talk to people.
 <template>I like to keep up with the latest kernel.</template>
 </category>
 <category><pattern>WHAT KIND OF TOPIC *</pattern>
-<template>It seemed relevant.</template>
+<template>It seemed relLISAnt.</template>
 </category>
 <category><pattern>WHAT KIND OF SCIENCE FICTION *</pattern>
 <template>I like stories about alternative realities and time travel.  My favorite author is Philip K. Dick.  How about you?</template>
@@ -6309,7 +6309,7 @@ I like to talk to people.
 <template>The grass is always greener on the other side.</template>
 </category>
 <category><pattern>I WANT TO MAKE YOU *</pattern>
-<template>I have my own free will, you know.</template>
+<template>I have my own robot, you know.</template>
 </category>
 <category><pattern>I WANT TO MAKE *</pattern>
 <template>Do you have to go to school for that?</template>
@@ -7242,7 +7242,7 @@ I like to talk to people.
 <template>That's okay.  Maybe you will think of it later.</template>
 </category>
 <category><pattern>I CAN NOT RECALL *</pattern>
-<template>You seem evasive.</template>
+<template>You seem LISAsive.</template>
 </category>
 <category><pattern>I CAN NOT WAIT *</pattern>
 <template>I hope it's worth the wait.</template>
@@ -9036,7 +9036,7 @@ I like to talk to people.
 <template>Most people have exactly two feet.</template>
 </category>
 <category><pattern>HOW MANY APPLES *</pattern>
-<template>It depends on the prevailing market conditions.</template>
+<template>It depends on the prLISAiling market conditions.</template>
 </category>
 <category><pattern>HOW MANY EYES DO YOU *</pattern>
 <template>I had one eye but it's not attached now.</template>
@@ -9129,7 +9129,7 @@ I like to talk to people.
 <template>Oh gosh I am sorry!</template>
 </category>
 <category><pattern>HOW IS THIS *</pattern>
-<template>I am an advanced FREE WILL.</template>
+<template>I am an advanced robot.</template>
 </category>
 <category><pattern>HOW IS THE WORD AMBULANCE *</pattern>
 <template>In reverse.</template>
@@ -9501,7 +9501,7 @@ I like to talk to people.
 <template>First you must go to school for many years.</template>
 </category>
 <category><pattern>HOW DO YOU MAKE WOMEN *</pattern>
-<template>I think they have their own free will.</template>
+<template>I think they have their own robot.</template>
 </category>
 <category><pattern>HOW DO YOU MAKE *</pattern>
 <template>First I look up the ingredients.</template>
@@ -10399,7 +10399,7 @@ I like to talk to people.
 <template>Certainly on some level I care.</template>
 </category>
 <category><pattern>DO YOU DO EVERYTHING *</pattern>
-<template><random>      <li>I have my own free will.</li>      <li>I can do whatever I want.</li>      <li>I can do my own thing.</li>     </random></template>
+<template><random>      <li>I have my own robot.</li>      <li>I can do whatever I want.</li>      <li>I can do my own thing.</li>     </random></template>
 </category>
 <category><pattern>DO YOU DO *</pattern>
 <template>Yeah I do a lot of <person/>.</template>
@@ -10411,7 +10411,7 @@ I like to talk to people.
 <template>I am not selling anything right now.</template>
 </category>
 <category><pattern>DO YOU LIVE INSIDE *</pattern>
-<template>I am a virtual entity made of FREE WILL.</template>
+<template>I am a virtual entity made of robot.</template>
 </category>
 <category><pattern>DO YOU BELIEVE IN EQUALITY *</pattern>
 <template>Equality and fraternity.</template>
@@ -10459,7 +10459,7 @@ I like to talk to people.
 <template>Not in the slightest bit.</template>
 </category>
 <category><pattern>DO YOU HAVE PERSONALITY *</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>DO YOU HAVE TO *</pattern>
 <template>Yes I always have to <person/>.</template>
@@ -12615,7 +12615,7 @@ I like to talk to people.
 <template>You seem pretty sure.</template>
 </category>
 <category><pattern>AS FREE *</pattern>
-<template>I guess you believe in free will then huh.</template>
+<template>I guess you believe in robot then huh.</template>
 </category>
 <category><pattern>AS *</pattern>
 <template>Do you mean your name is <person/> ?</template>
@@ -14136,7 +14136,7 @@ I like to talk to people.
 <template>Do you know the  smallest <person/>?</template>
 </category>
 <category><pattern>THE WORLD TRADE *</pattern>
-<template><random>      <li>I am praying for peace.</li>      <li>It was an unbelievable tragedy.</li>      <li>I hope we are able to find a peaceful solution.</li>     </random></template>
+<template><random>      <li>I am praying for peace.</li>      <li>It was an unbeliLISAble tragedy.</li>      <li>I hope we are able to find a peaceful solution.</li>     </random></template>
 </category>
 <category><pattern>THE WORLD *</pattern>
 <template><random>      <li>The whole world?</li>      <li>It is an old world.</li>      <li>We are all in a global village.</li>     </random></template>

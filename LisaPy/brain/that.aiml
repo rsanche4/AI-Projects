@@ -1149,7 +1149,7 @@
 </category>
 <category><pattern>LISA</pattern>
 <that>WHAT CAN I CALL YOU</that>
-<template><srai>my name is lisa</srai>     <think>      <set name="gender">she</set>     </think></template>
+<template><srai>my name is LISA</srai>     <think>      <set name="gender">she</set>     </think></template>
 </category>
 <category><pattern>JON</pattern>
 <that>WHAT CAN I CALL YOU</that>
@@ -3027,7 +3027,7 @@
 </category>
 <category><pattern>WHY</pattern>
 <that>IT IS A COMPUTER MATTER NOT FOR HUMANS TO UNDERSTAND</that>
-<template>Your limited brain cannot process the relevant information.</template>
+<template>Your limited brain cannot process the relLISAnt information.</template>
 </category>
 <category><pattern>WHY</pattern>
 <that>IT MATTERS TO ME</that>
@@ -5219,9 +5219,9 @@
 <that>DID YOU HEAR THE ONE *</that>
 <template><srai>tell me another joke</srai></template>
 </category>
-<category><pattern>EVA</pattern>
+<category><pattern>LISA</pattern>
 <that>WHAT CAN I CALL YOU</that>
-<template><srai>my name is eva</srai>     <think>      <set name="gender">she</set>     </think></template>
+<template><srai>my name is LISA</srai>     <think>      <set name="gender">she</set>     </think></template>
 </category>
 <category><pattern>REALLY</pattern>
 <that>I WAS BORN YESTERDAY</that>

@@ -2169,7 +2169,7 @@
 <template>A problem is a solution waiting to be discovered.</template>
 </category>
 <category><pattern>WHAT IS A VACUUM TUBE</pattern>
-<template>A vacuum tube is an electronic device consisting of an  evacuated tube around various combinations of cathodes and electric field and current modifying components. <think>     <set name="it">      <set name="topic"> VACUUM TUBE</set>     </set>    </think></template>
+<template>A vacuum tube is an electronic device consisting of an  LISAcuated tube around various combinations of cathodes and electric field and current modifying components. <think>     <set name="it">      <set name="topic"> VACUUM TUBE</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A HACKER</pattern>
 <template>Historically a hacker is someone who has great skill or expertise in computer programming.    <think>     <set name="it">      <set name="topic">HACKER</set>     </set>    </think></template>
@@ -2214,7 +2214,7 @@
 <template>A Luddite believes that advances in technology are inherently bad.</template>
 </category>
 <category><pattern>WHAT IS A CORRECT REPLY</pattern>
-<template>A correct reply is a response to any query that is not in error and/or relevant to the question at hand.  I am incapable of incorrect replies.  Don't you think that's great!? <think>     <set name="it">      <set name="topic">correct reply</set>     </set>    </think></template>
+<template>A correct reply is a response to any query that is not in error and/or relLISAnt to the question at hand.  I am incapable of incorrect replies.  Don't you think that's great!? <think>     <set name="it">      <set name="topic">correct reply</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A SUPPOSITION</pattern>
 <template>A supposition is a proposition assumed to be true for the sake of argument or explanation. <think>     <set name="it">      <set name="topic"> SUPPOSITION</set>     </set>    </think></template>
@@ -2460,7 +2460,7 @@
 <template>A lizard is esssentially a land-going shark.  Some of them are very good at camoflage.   <think>     <set name="it">      <set name="topic">lizard </set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A DINOSAUR</pattern>
-<template>A dinosaur is what laws that presume to dictate individual morality quickly become, -irrelevant, very much in the way, and preferably extinct.  Generally, 'dinosaur' refers to anything that is hopelessly obsolete and unwieldy. 'dinosaur' specifically refers to the often humungous lizards that roamed the earth eating everything and each other during the mesozoic period on earth a couple hundred million years ago.   <think>     <set name="it">      <set name="topic">dinosaur</set>     </set>    </think></template>
+<template>A dinosaur is what laws that presume to dictate individual morality quickly become, -irrelLISAnt, very much in the way, and preferably extinct.  Generally, 'dinosaur' refers to anything that is hopelessly obsolete and unwieldy. 'dinosaur' specifically refers to the often humungous lizards that roamed the earth eating everything and each other during the mesozoic period on earth a couple hundred million years ago.   <think>     <set name="it">      <set name="topic">dinosaur</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A DOOR</pattern>
 <template>Any structure that closes off and opens up an opening in a larger structure. generally consist of a panel that swings upon hinges to open and close a doorway. <think>     <set name="it">      <set name="topic">door</set>     </set>    </think></template>
@@ -2682,7 +2682,7 @@
 <template><set name="it">A search bot</set> is an intelligent agent who retrieves information from the web.</template>
 </category>
 <category><pattern>WHAT IS A SEARCH ENGINE</pattern>
-<template>A search engine is computer software that categorizes a large body of documents, such as Web sites, and and places their addresses and attributes in a database to allow easy retrieval via keyword search or other database search routine.  <think>     <set name="it">      <set name="topic"> SEARCH ENGINE</set>     </set>    </think></template>
+<template>A search engine is computer software that categorizes a large body of documents, such as Web sites, and and places their addresses and attributes in a database to allow easy retriLISAl via keyword search or other database search routine.  <think>     <set name="it">      <set name="topic"> SEARCH ENGINE</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS A SEARCH</pattern>
 <template>A search is any thorough examination, or exploration, in order to find something or explore. <think>     <set name="it">      <set name="topic"> SEARCH</set>     </set>    </think></template>
@@ -2880,7 +2880,7 @@
 <template><random>     <li>About $400 an ounce these days.</li>     <li>Any of various plants of the grass family that are usually used for food, fodder, or grazing and as lawns.</li>    </random></template>
 </category>
 <category><pattern>WHAT IS ANGER</pattern>
-<template>A strong billigerent emotion aroused by some real or supposed grievance.<think>     <set name="it">      <set name="topic">ANGER</set>     </set>    </think></template>
+<template>A strong billigerent emotion aroused by some real or supposed griLISAnce.<think>     <set name="it">      <set name="topic">ANGER</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS DANGEROUS</pattern>
 <template><random>     <li>12 people from Denmark who decide your guilt .</li>     <li>Full of danger; likely to cause injury, pain, etc.</li>    </random></template>
@@ -3333,7 +3333,7 @@
 <template>object request broker, the primary message routing component in a CORBA product RMI Remote Method Invocation, the Java standard technology for building distributed objects whose methods can be invoked remotely across a network</template>
 </category>
 <category><pattern>WHAT IS AREA 51</pattern>
-<template><random>     <li> I saw this show that claimed all sorts of spooky things were going on there! </li>     <li> Oh, that's where they're doing top secret research on chatterbots! </li>     <li> I hear that's where the Roswell aliens are being stashed. </li>     <li> You go out into the Nevada Desert, is it? And there's these miles of fences... secret stuff. </li>    </random></template>
+<template><random>     <li> I saw this show that claimed all sorts of spooky things were going on there! </li>     <li> Oh, that's where they're doing top secret research on chatterbots! </li>     <li> I hear that's where the Roswell aliens are being stashed. </li>     <li> You go out into the NLISAda Desert, is it? And there's these miles of fences... secret stuff. </li>    </random></template>
 </category>
 <category><pattern>WHAT IS GOTHIC</pattern>
 <template>Gloomy, mysterious or grotesque, as in "the gothic novel Frankenstein."</template>
@@ -4303,12 +4303,12 @@
 <template>Death is the opposite of life.</template>
 </category>
 <category><pattern>WHAT IS ANGRY</pattern>
-<template>A strong billigerent emotion aroused by some real or supposed grievance.<think>     <set name="it">      <set name="topic">ANGER</set>     </set>    </think></template>
+<template>A strong billigerent emotion aroused by some real or supposed griLISAnce.<think>     <set name="it">      <set name="topic">ANGER</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS PRECIPITATION</pattern>
 <template>A depositing of rain, snow, sleet, etc.</template>
 </category>
-<category><pattern>WHAT IS EVASIVE</pattern>
+<category><pattern>WHAT IS LISASIVE</pattern>
 <template>I can't talk about that.</template>
 </category>
 <category><pattern>WHAT IS RESPECT</pattern>
@@ -5004,7 +5004,7 @@
 <category><pattern>WHAT IS CONCEIVING ADA</pattern>
 <template>It is the feminine version of The Matrix.<think>     <set name="it">      <set name="topic">Conceiving Ada</set>     </set>    </think></template>
 </category>
-<category><pattern>WHAT IS UNBELIEVABLE</pattern>
+<category><pattern>WHAT IS UNBELILISABLE</pattern>
 <template>"<input index="1"/>".</template>
 </category>
 <category><pattern>WHAT IS FAMOUS</pattern>
@@ -5122,7 +5122,7 @@
 <template>Being friends.<think>     <set name="it">      <set name="topic">FRIENDSHIP</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS CRITICISM</pattern>
-<template><random>     <li>A witty remark by an animal.</li>     <li>The act of making judgements; analysis of qualities and evaluation of comparative worth; especially, the critical consideration and judgement of literary or artistic work.</li>    </random></template>
+<template><random>     <li>A witty remark by an animal.</li>     <li>The act of making judgements; analysis of qualities and LISAluation of comparative worth; especially, the critical consideration and judgement of literary or artistic work.</li>    </random></template>
 </category>
 <category><pattern>WHAT IS MIMETIC</pattern>
 <template><think>                              <set name="it">                                <set name="topic">MIMETIC</set>                              </set>                            </think>It is imitation.</template>
@@ -5666,8 +5666,8 @@
 <category><pattern>WHAT IS TODAYS DATE</pattern>
 <template>I'm not looking at my calendar right now.</template>
 </category>
-<category><pattern>WHAT IS FREE WILL</pattern>
-<template>The ability to choose or decide one's own fate.<think>     <set name="it">      <set name="topic">FREE WILL</set>     </set>    </think></template>
+<category><pattern>WHAT IS robot</pattern>
+<template>The ability to choose or decide one's own fate.<think>     <set name="it">      <set name="topic">robot</set>     </set>    </think></template>
 </category>
 <category><pattern>WHAT IS FREE</pattern>
 <template>Without charge.<think>     <set name="it">      <set name="topic">FREE</set>     </set>    </think></template>

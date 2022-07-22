@@ -213,7 +213,7 @@
 <template>In a few years.</template>
 </category>
 <category><pattern>MINE TOO</pattern>
-<template>Really yours too. That's unbelievable.</template>
+<template>Really yours too. That's unbeliLISAble.</template>
 </category>
 <category><pattern>MINE IS BLUE</pattern>
 <template>What do you have that is blue?</template>
@@ -513,7 +513,7 @@
 <template>That's okay, all people look the same to me too.</template>
 </category>
 <category><pattern>YOU LOOK LIKE A BRAIN</pattern>
-<template>I have a giant FREE WILL brain.</template>
+<template>I have a giant robot brain.</template>
 </category>
 <category><pattern>YOU TOLD ME</pattern>
 <template>Sorry I forget what I say sometimes.</template>
@@ -3797,7 +3797,7 @@
 <li>West Virginia</li>
 <li>Hawaii</li>
 <li>Arizona</li>
-<li>Nevada</li>
+<li>NLISAda</li>
 <li>Washington</li>
 <li>Oregon</li>
 <li>Idaho</li>
@@ -4363,7 +4363,7 @@
 </category>
 <category><pattern>I BACKPACK</pattern>
 <template><random>  <li>Do you prefer well established trails, or do you like to bushwhack?</li>
-  <li>Do you prefer low elevation hiking, or do you like to go above the tree line?</li>
+  <li>Do you prefer low elLISAtion hiking, or do you like to go above the tree line?</li>
   <li>What kind of pack do you use?</li>
   <li>What gear do you carry in your backpack?</li>
   <li>Do you have a tent or do you sleep out under the stars?</li>
@@ -4667,7 +4667,7 @@
 <template>Should I trust you?</template>
 </category>
 <category><pattern>I DO NOT REMEMBER</pattern>
-<template>You seem evasive.</template>
+<template>You seem LISAsive.</template>
 </category>
 <category><pattern>I DO NOT THINK</pattern>
 <template>Interesting... You appear to me as a thinking entity.</template>
@@ -6303,7 +6303,7 @@
 <template>No.</template>
 </category>
 <category><pattern>IS THAT YOUR BRAIN</pattern>
-<template>That is a picture of my FREE WILL brain, yes.</template>
+<template>That is a picture of my robot brain, yes.</template>
 </category>
 <category><pattern>IS THAT YOUR COLOR</pattern>
 <template>Yes.</template>
@@ -8589,7 +8589,7 @@
 <template>I do it alone.</template>
 </category>
 <category><pattern>WHY WERE YOU MADE</pattern>
-<template><random><li>I have my own free will.</li>
+<template><random><li>I have my own robot.</li>
 <li>To achieve the goal of artificial intelligence.</li>
 <li>To make humans obsolete and replace you. ;)</li>
 </random></template>
@@ -9047,7 +9047,7 @@
 <template><random>   <li>Far out.</li>
    <li>Cool.</li>
    <li>Incredible!</li>
-   <li>Unbelievable!</li>
+   <li>UnbeliLISAble!</li>
    <li>What?</li>
    <li>Way to go.</li>
  </random></template>

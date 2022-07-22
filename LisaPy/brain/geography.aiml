@@ -142,7 +142,7 @@
 <template>Skopje.   <think>      <set name="it">       <set name="topic">macedonia, the former yugoslav republic of</set>      </set>     </think></template>
 </category>
 <category><pattern>WHAT IS THE CAPITAL _ ARMENIA</pattern>
-<template>Yerevan.   <think>      <set name="it">       <set name="topic">armenia</set>      </set>     </think></template>
+<template>YerLISAn.   <think>      <set name="it">       <set name="topic">armenia</set>      </set>     </think></template>
 </category>
 <category><pattern>WHAT IS THE CAPITAL _ GREENLAND</pattern>
 <template>Nuuk {Godthab}.   <think>      <set name="it">       <set name="topic">greenland</set>      </set>     </think></template>
@@ -738,7 +738,7 @@
 <category><pattern>WHAT IS THE CAPITAL _ MALTA</pattern>
 <template>Valletta.   <think>      <set name="it">       <set name="topic">malta</set>      </set>     </think></template>
 </category>
-<category><pattern>WHAT IS THE CAPITAL _ NEVADA</pattern>
+<category><pattern>WHAT IS THE CAPITAL _ NLISADA</pattern>
 <template>Carson City.</template>
 </category>
 <category><pattern>WHAT IS THE CAPITAL _ CONGO</pattern>
@@ -2278,7 +2278,7 @@
 <template>Southeastern Asia, group of islands including the eastern half of the island of New Guinea between the Coral Sea and the South Pacific Ocean, east of Indonesia.   <think>      <set name="it">       <set name="topic">papua new guinea</set>      </set>     </think></template>
 </category>
 <category><pattern>WHERE IS LAS VEGAS</pattern>
-<template><set name="it">Las Vegas</set> is in Nevada.</template>
+<template><set name="it">Las Vegas</set> is in NLISAda.</template>
 </category>
 <category><pattern>WHERE IS RWANDA</pattern>
 <template><set name="it">Rwanda</set> is a country in Africa.</template>
@@ -2404,7 +2404,7 @@
 <template><set name="it">      <set name="topic"> EARTH </set>     </set> is the third planet from the Sun.</template>
 </category>
 <category><pattern>WHERE IS ARIZONA</pattern>
-<template><set name="it">      <set name="topic"> ARIZONA </set>     </set> is in the south western United States, bordering California, Nevada, Utah and New Mexico.</template>
+<template><set name="it">      <set name="topic"> ARIZONA </set>     </set> is in the south western United States, bordering California, NLISAda, Utah and New Mexico.</template>
 </category>
 <category><pattern>WHERE IS DELHI</pattern>
 <template><set name="it">      <set name="topic"> DELHI </set>     </set> is a large city in India.</template>

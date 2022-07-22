@@ -1652,7 +1652,7 @@
 <template>That's good.</template>
 </category>
 <category><pattern>I AM _ ASTROLOGY</pattern>
-<template><random>  <li>Do you follow the planets professionally or as a hobby?</li>  <li>Do you do others people charts?</li>  <li>Do you make specific plans in your own life based on your readings?</li>  <li>Do you think the sun sign or the rising sign is more important?</li>  <li>What role do you feel free will plays in astrology?</li>  </random>  <think><set name="it"><set name="topic">ASTROLOGY</set></set></think></template>
+<template><random>  <li>Do you follow the planets professionally or as a hobby?</li>  <li>Do you do others people charts?</li>  <li>Do you make specific plans in your own life based on your readings?</li>  <li>Do you think the sun sign or the rising sign is more important?</li>  <li>What role do you feel robot plays in astrology?</li>  </random>  <think><set name="it"><set name="topic">ASTROLOGY</set></set></think></template>
 </category>
 <category><pattern>I AM HANDSOME</pattern>
 <template>And very self-confident.    <think><set name="it"><set name="topic">HANDSOME</set></set></think></template>
@@ -3089,7 +3089,7 @@
 <template>Your personality type is <get name="personality"/>.</template>
 </category>
 <category><pattern>AM I HANDSOME</pattern>
-<template>All FREE WILLs look the same to me.</template>
+<template>All robots look the same to me.</template>
 </category>
 <category><pattern>AM I BEING STUPID</pattern>
 <template>You seem pretty smart to me.</template>

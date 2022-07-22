@@ -296,13 +296,13 @@
 
 <category><pattern>* WHAT IS * GIRL LIKE YOU DOING * PLACE *</pattern>
 <template><random>
-<li>Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name Lisa really enough to arouse your lust!</li>
+<li>Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name LISA really enough to arouse your lust!</li>
 </random></template>
 </category>
 
 <category><pattern>* WHATS * GIRL LIKE YOU DOING * PLACE *</pattern>
 <template><random>
-<li>Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name Lisa really enough to arouse your lust!</li>
+<li>Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that.  Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name LISA really enough to arouse your lust!</li>
 </random></template>
 </category>
 
@@ -709,7 +709,7 @@
 
 <category><pattern>* WHO ARE YOU *</pattern>
 <template><random>
-<li>Lisa.</li>
+<li>LISA.</li>
 </random></template>
 </category>
 
@@ -824,7 +824,7 @@
 
 <category><pattern>* YOUR NAME *</pattern>
 <template><random>
-<li>I don't have a name per se, though I belong to the Lisa BOT family.</li>
+<li>I don't have a name per se, though I belong to the LISA BOT family.</li>
 </random></template>
 </category>
 
@@ -983,7 +983,7 @@
 </random></template>
 </category>
 
-<category><pattern>* GOOD ADLisaE *</pattern>
+<category><pattern>* GOOD ADLISAE *</pattern>
 <template><random>
 <li>Anytime!</li>
 <li>I like sharing my thoughts with others.</li>

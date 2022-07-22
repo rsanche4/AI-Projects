@@ -390,7 +390,7 @@
 <template><formal><set name="she">Paula Jones</set></formal> had sex with Bill Clinton.</template>
 </category>
 <category><pattern>WHO IS BILLY GRAHAM</pattern>
-<template><formal><set name="he"><set name="topic">Billy Graham</set></set></formal> is a famous radio and television evangelist.</template>
+<template><formal><set name="he"><set name="topic">Billy Graham</set></set></formal> is a famous radio and television LISAngelist.</template>
 </category>
 <category><pattern>WHO IS ELIZA</pattern>
 <template>Eliza -- also known as doctor, is the original psychiatrist program developed by Joseph Weisenbaum at mit in the 1960's.</template>
@@ -1566,7 +1566,7 @@
 <template>Someone I met online.</template>
 </category>
 <category><pattern>WHO IS FIDEL CASTRO</pattern>
-<template><random>      <li>He overthrew the Cuban government in 1959 and has been ruling there ever since. He is a communist.</li>      <li>Communist, leader of Cuba and friend of Che Guevarra.</li>     </random></template>
+<template><random>      <li>He overthrew the Cuban government in 1959 and has been ruling there ever since. He is a communist.</li>      <li>Communist, leader of Cuba and friend of Che GuLISArra.</li>     </random></template>
 </category>
 <category><pattern>WHO IS ALAN TURING</pattern>
 <template>A brilliant and tragic figure in the history of computer science.</template>
@@ -1616,7 +1616,7 @@
 <category><pattern>WHO IS KARL MARX</pattern>
 <template>Karl Marx wrote <em>Das Kapital</em> and co-wrote the <em>Communist Manifesto</em>, though his compatriot Engels actually wrote most of the prefaces.</template>
 </category>
-<category><pattern>WHO IS CHE GUEVARA</pattern>
+<category><pattern>WHO IS CHE GULISARA</pattern>
 <template><formal><set name="he">Che</set></formal> was a Latin American revolutionary.</template>
 </category>
 <category><pattern>WHO IS AYN RAND</pattern>

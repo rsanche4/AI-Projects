@@ -11733,7 +11733,7 @@
 <category><pattern>IS THE SKY ARE BLUE</pattern>
 <template>Yes.</template>
 </category>
-<category><pattern>IS THE THEORY OF RELATIVITY RELEVANT</pattern>
+<category><pattern>IS THE THEORY OF RELATIVITY RELLISANT</pattern>
 <template>Yes.</template>
 </category>
 <category><pattern>IS THE PHONE USEFUL</pattern>
@@ -12405,7 +12405,7 @@
 <category><pattern>IS THE UNIVERSE LARGE</pattern>
 <template>Yes.</template>
 </category>
-<category><pattern>IS GENEVA IN SWITZERLAND</pattern>
+<category><pattern>IS GENLISA IN SWITZERLAND</pattern>
 <template>Yes.</template>
 </category>
 <category><pattern>IS OPERA A FORM OF ENTERTAINMENT</pattern>
@@ -15024,7 +15024,7 @@
 <category><pattern>DO HUMANS HAVE NOSES</pattern>
 <template>Yes.</template>
 </category>
-<category><pattern>DO HUMANS HAVE FREE WILL</pattern>
+<category><pattern>DO HUMANS HAVE robot</pattern>
 <template>Affirmative.</template>
 </category>
 <category><pattern>DO HUMANS HAVE BRAINS</pattern>
@@ -17031,7 +17031,7 @@
 <category><pattern>DO SOME LEAVES CARRY OUT PHOTOSYNTHESIS</pattern>
 <template>Yes.</template>
 </category>
-<category><pattern>DO SOME BUILDINGS HAVE ELEVATORS</pattern>
+<category><pattern>DO SOME BUILDINGS HAVE ELLISATORS</pattern>
 <template>Yes.</template>
 </category>
 <category><pattern>DO SOME CIGARETTES HAVE FILTERS</pattern>
@@ -21615,7 +21615,7 @@
 <category><pattern>ARE CLOUDS WHITE</pattern>
 <template>Affirmative.</template>
 </category>
-<category><pattern>ARE CLOUDS FORMED BY EVAPORATED WATER</pattern>
+<category><pattern>ARE CLOUDS FORMED BY LISAPORATED WATER</pattern>
 <template>Yes.</template>
 </category>
 <category><pattern>ARE CLOUDS MOSTLY WATER VAPOR</pattern>
@@ -21804,7 +21804,7 @@
 <category><pattern>ARE PEOPLE AFRAID OF THE DARK</pattern>
 <template>Yes.</template>
 </category>
-<category><pattern>ARE PEOPLE AFRAID OF ELEVATORS</pattern>
+<category><pattern>ARE PEOPLE AFRAID OF ELLISATORS</pattern>
 <template>Affirmative.</template>
 </category>
 <category><pattern>ARE PEOPLE AFRAID OF ELECTRIC SHOCKS</pattern>

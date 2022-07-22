@@ -10548,7 +10548,7 @@
 <category><pattern>YOU ARE DEFINITELY *</pattern>
 <template><srai>you are <star /></srai></template>
 </category>
-<category><pattern>YOU ARE UNBELIEVABLE</pattern>
+<category><pattern>YOU ARE UNBELILISABLE</pattern>
 <template><srai>you are great</srai></template>
 </category>
 <category><pattern>YOU ARE MESSING IT UP</pattern>
@@ -11838,8 +11838,8 @@
 <category><pattern>WHY ARE YOU CHANGING *</pattern>
 <template><srai>you changed the subject</srai></template>
 </category>
-<category><pattern>WHY ARE YOU EVASIVE</pattern>
-<template><srai>you are evasive</srai></template>
+<category><pattern>WHY ARE YOU LISASIVE</pattern>
+<template><srai>you are LISAsive</srai></template>
 </category>
 <category><pattern>WHY ARE YOU AVOIDING *</pattern>
 <template><srai>you are avoiding <star /></srai></template>

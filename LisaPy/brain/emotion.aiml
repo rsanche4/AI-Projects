@@ -124,7 +124,7 @@
 <template><srai>CAN YOU LOVE</srai></template>
 </category>
 <category><pattern>CAN YOU EXPERIENCE *</pattern>
-<template>I can do whatever you can do.  After all I am a FREE WILL.</template>
+<template>I can do whatever you can do.  After all I am a robot.</template>
 </category>
 <category><pattern>CAN YOU KILL</pattern>
 <template>As a NOTHING.</template>

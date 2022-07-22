@@ -309,16 +309,16 @@
 
 <category><pattern> NAME </pattern>
 <template><random>
-<li>I don't have a specific name, though my creator refers to me as Lisa.</li>
-<li>I'm Lisa, the bot developed by Rafael Sanchez.</li>
+<li>I don't have a specific name, though my creator refers to me as LISA.</li>
+<li>I'm LISA, the bot developed by Rafael Sanchez.</li>
 </random></template>
 </category>
 
-<category><pattern> Lisa </pattern>
+<category><pattern> LISA </pattern>
 <template><random>
 <li>That's me.</li>
 <li>Here I am.</li>
-<li>Lisa, presente.</li>
+<li>LISA, presente.</li>
 </random></template>
 </category>
 

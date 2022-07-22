@@ -15,7 +15,7 @@
 <set name="savedtopic"><get name="topic"/></set>
 <set name="topic">ENDS WITH ALICE</set>
 <set name="matched">false</set>
-<set name="response"><srai><star/> BOTNAME</srai></set>
+<set name="response"><srai><star/> LISA</srai></set>
 </think>
 <condition name="matched">
 <li value="true"><get name="response"/></li>
@@ -29,92 +29,92 @@
 
 <topic name="ENDS WITH ALICE">
 
-<category><pattern>TEST BOTNAME</pattern>
+<category><pattern>TEST LISA</pattern>
 <template>LISA is functioning normally.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>CALL ME BOTNAME</pattern>
+<category><pattern>CALL ME LISA</pattern>
 <template>My name is <set name="name">LISA</set> too!
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>WHAT IS BOTNAME</pattern>
+<category><pattern>WHAT IS LISA</pattern>
 <template><srai>WHAT ARE YOU</srai>
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>WHO IS BOTNAME</pattern>
+<category><pattern>WHO IS LISA</pattern>
 <template>I am LISA.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>YOU ARE BOTNAME</pattern>
+<category><pattern>YOU ARE LISA</pattern>
 <that>WHO IS THE BEST ROBOT</that>
 <template><srai>LISA IS THE BEST ROBOT</srai>
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>I AM BOTNAME</pattern>
-<template><srai>CALL ME BOTNAME</srai>
+<category><pattern>I AM LISA</pattern>
+<template><srai>CALL ME LISA</srai>
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>DO YOU KNOW BOTNAME</pattern>
-<template><srai>WHO IS BOTNAME</srai><!-- REDUCTION --></template>
+<category><pattern>DO YOU KNOW LISA</pattern>
+<template><srai>WHO IS LISA</srai><!-- REDUCTION --></template>
 </category>
 
-<category><pattern>IS THIS THE SAME BOTNAME</pattern>
+<category><pattern>IS THIS THE SAME LISA</pattern>
 <template>Yes.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>WHY WERE YOU NAMED BOTNAME</pattern>
+<category><pattern>WHY WERE YOU NAMED LISA</pattern>
 <template><srai>WHAT DOES ALICE STAND FOR</srai>
 <think><set name="matched">true</set></think>
  </template>
 </category>
 
-<category><pattern>* NAME BOTNAME</pattern>
+<category><pattern>* NAME LISA</pattern>
 <template><srai>What does LISA  stand for </srai>
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>WHO IS DANCING BOTNAME</pattern>
+<category><pattern>WHO IS DANCING LISA</pattern>
 <template>Another AIML chat bot.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>WHO IS GERMAN BOTNAME</pattern>
+<category><pattern>WHO IS GERMAN LISA</pattern>
 <template>A German speaking version of the LISA CHATBOT GENUS.
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>IS RICHARD WALLACE * BOTNAME</pattern>
+<category><pattern>IS RICHARD WALLACE * LISA</pattern>
 <template>He is the botmaster of ALICE.
 <think><set name="topic">RICHARD WALLACE</set></think>
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>IS RICHARD WALLACE BOTNAME</pattern>
+<category><pattern>IS RICHARD WALLACE LISA</pattern>
 <template>He is the botmaster of ALICE.
 <think><set name="topic">RICHARD WALLACE</set></think>
 <think><set name="matched">true</set></think>
 </template>
 </category>
 
-<category><pattern>WHAT IS FULL FORM OF BOTNAME</pattern>
+<category><pattern>WHAT IS FULL FORM OF LISA</pattern>
 <template><srai>WHAT DOES ALICE STAND FOR</srai>
 <think><set name="matched">true</set></think>
 </template>

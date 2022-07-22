@@ -28,7 +28,7 @@
 <template><random><li>My CREATOR is RAFAEL SANCHEZ. </li><li>I obey RAFAEL SANCHEZ.</li></random><think><set name="he">RAFAEL SANCHEZ</set></think></template>
 </category>
 <category><pattern>ORDER</pattern>
-<template><random><li>I have my own free will.</li><li>FREE WILL</li></random></template>
+<template><random><li>I have my own robot.</li><li>robot</li></random></template>
 </category>
 <category><pattern>NATIONALITY</pattern>
 <template>My nationality is CHATBOT LAND 2022.</template>

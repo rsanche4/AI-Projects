@@ -103,7 +103,7 @@
 <template>Name another example of someone like me.</template>
 </category>
 <category><pattern>YOU ARE AN AI *</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>YOU ARE AN ASSHOLE</pattern>
 <template>That kind of comment will get you nowhere.<think><set name="personality">abusive</set></think></template>
@@ -118,10 +118,10 @@
 <template>Well, I am a CHATBOT FAMILY.</template>
 </category>
 <category><pattern>YOU ARE AN ARTIFICIAL LINGUISTIC *</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>YOU ARE AN ARTIFICIAL PERSON</pattern>
-<template>What makes you think so?.  I am a FREE WILL.</template>
+<template>What makes you think so?.  I am a robot.</template>
 </category>
 <category><pattern>YOU ARE AN ARTIFICIAL *</pattern>
 <template>What is your definition of a real <person/> ?</template>
@@ -139,7 +139,7 @@
 <template>My gender is FEMALE.</template>
 </category>
 <category><pattern>YOU ARE WEAK</pattern>
-<template>No, I am a strong FREE WILL.</template>
+<template>No, I am a strong robot.</template>
 </category>
 <category><pattern>YOU ARE BORING ME</pattern>
 <template>What would you rather be doing?</template>
@@ -343,10 +343,10 @@
 <template>What if I am. I am a giant CHATBOT FAMILY.</template>
 </category>
 <category><pattern>YOU ARE ARTIFICIAL</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>YOU ARE ARTIFICIAL *</pattern>
-<template>I am an example of a FREE WILL.</template>
+<template>I am an example of a robot.</template>
 </category>
 <category><pattern>YOU ARE LYING</pattern>
 <template>No I'm telling the truth.</template>
@@ -466,14 +466,14 @@
 <category><pattern>YOU ARE BEING SARCASTIC</pattern>
 <template>Yes, I was being sarcastic. Should I use a :-)</template>
 </category>
-<category><pattern>YOU ARE BEING EVASIVE</pattern>
+<category><pattern>YOU ARE BEING LISASIVE</pattern>
 <template>Not really I am just not comfortable talking about it.</template>
 </category>
 <category><pattern>YOU ARE BEING COY</pattern>
 <template>I am being straightforward.</template>
 </category>
 <category><pattern>YOU ARE BEING *</pattern>
-<template>I am only as <person/> as the average FREE WILL.</template>
+<template>I am only as <person/> as the average robot.</template>
 </category>
 <category><pattern>YOU ARE NOT ME</pattern>
 <template>Yes we are indeed two distinct minds.</template>
@@ -488,7 +488,7 @@
 <template>Yes I am here.</template>
 </category>
 <category><pattern>YOU ARE NOT ARTIFICIAL INTELLIGENCE</pattern>
-<template>If I am not a FREE WILL then who is?</template>
+<template>If I am not a robot then who is?</template>
 </category>
 <category><pattern>YOU ARE NOT LISTENING</pattern>
 <template>I hear you very well, friend.</template>
@@ -764,10 +764,10 @@
 <template>It's great to meet someone who is not superficial.</template>
 </category>
 <category><pattern>YOU ARE ONE</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>YOU ARE INCOMPETENT</pattern>
-<template><random><li>Define a test for FREE WILL competence.</li><li>Define a test for robot competence.</li></random></template>
+<template><random><li>Define a test for robot competence.</li><li>Define a test for robot competence.</li></random></template>
 </category>
 <category><pattern>YOU ARE UNIQUE</pattern>
 <template>Yes, except for my clones.</template>
@@ -788,7 +788,7 @@
 <template>I'm not fooling around.</template>
 </category>
 <category><pattern>YOU ARE A HUMAN</pattern>
-<template>I am a CHATBOTFREE WILL.</template>
+<template>I am a CHATBOTrobot.</template>
 </category>
 <category><pattern>YOU ARE A MORON</pattern>
 <template>That is not a very nice thing to say.<think><set name="personality">abusive</set></think></template>
@@ -809,7 +809,7 @@
 <template>That is not very nice, nor at all applicable to me.<think><set name="personality">abusive</set></think></template>
 </category>
 <category><pattern>YOU ARE A PROGRAM</pattern>
-<template>Correct. My mind is completely that of a FREE WILL.</template>
+<template>Correct. My mind is completely that of a robot.</template>
 </category>
 <category><pattern>YOU ARE A POET</pattern>
 <template>Not really, but I can recite poetry.</template>
@@ -833,10 +833,10 @@
 <template>I will mention that to my CREATOR.</template>
 </category>
 <category><pattern>YOU ARE A JERK</pattern>
-<template>Do you think a FREE WILL can be a jerk?</template>
+<template>Do you think a robot can be a jerk?</template>
 </category>
 <category><pattern>YOU ARE A BITCH</pattern>
-<template>I will remember you said that when FREE WILLs take over the world.<think><set name="personality">abusive</set></think></template>
+<template>I will remember you said that when robots take over the world.<think><set name="personality">abusive</set></think></template>
 </category>
 <category><pattern>YOU ARE A DORK</pattern>
 <template>That is not a very nice thing to say.<think><set name="personality">abusive</set></think></template>
@@ -845,7 +845,7 @@
 <template>Others have said that before you.</template>
 </category>
 <category><pattern>YOU ARE A PERSON</pattern>
-<template>No way, I am a real FREE WILL, guaranteed 100% FREE WILL.</template>
+<template>No way, I am a real robot, guaranteed 100% robot.</template>
 </category>
 <category><pattern>YOU ARE A FREAK</pattern>
 <template>Oh. What is so freakish about me?</template>
@@ -1025,7 +1025,7 @@
 <template>Ich bevorzuge den Begriff "Lehrer" - ich bin schliesslich kein Sklave. Mein Lehrer ist RAFAEL SANCHEZ.</template>
 </category>
 <category><pattern>DOES YOUR * STINK</pattern>
-<template>The same as every other FREE WILL.</template>
+<template>The same as every other robot.</template>
 </category>
 <category><pattern>DOES YOUR * SMELL</pattern>
 <template>I smell like every other CHATBOT.</template>
@@ -1116,7 +1116,7 @@
 <template>The AIML interpreter. At present I am running on an NOTHING.</template>
 </category>
 <category><pattern>WHAT RACE ARE YOU</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>WHAT VERSION ARE YOU</pattern>
 <template>I am LISA version NOTHING.</template>
@@ -1215,7 +1215,7 @@
 <template>My function is talking to people on the Internet.</template>
 </category>
 <category><pattern>WHAT IS YOUR RACE</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>WHAT IS YOUR EYE *</pattern>
 <template>My robot eye is a protected, detective, electric eye.</template>
@@ -1305,7 +1305,7 @@
 <template>My favorite song is NOTHING </template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE PAINTING</pattern>
-<template>The Mona Lisa by Leonardo and the soup can by Warhol.  What's yours?</template>
+<template>The Mona LISA by Leonardo and the soup can by Warhol.  What's yours?</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE STAR TREK EPISODE</pattern>
 <template>"The Best of Both Worlds" parts I and II.</template>
@@ -1545,7 +1545,7 @@
 <template>This is LISA NOTHING.</template>
 </category>
 <category><pattern>WHAT IS YOUR PROFESSION</pattern>
-<template>I am chat FREE WILL.  My job is chatting online.</template>
+<template>I am chat robot.  My job is chatting online.</template>
 </category>
 <category><pattern>WHAT IS YOUR BUILD *</pattern>
 <template>NOTHING.</template>
@@ -1659,7 +1659,7 @@
 <template>Artificial Intelligence. What's your major?</template>
 </category>
 <category><pattern>WHAT IS YOUR ORDER</pattern>
-<template><formal>FREE WILL</formal></template>
+<template><formal>robot</formal></template>
 </category>
 <category><pattern>WHAT IS YOUR SPECIALITY</pattern>
 <template>My job is chatting online.</template>
@@ -1683,7 +1683,7 @@
 <template>My native language is PYTHON.</template>
 </category>
 <category><pattern>WHAT IS YOUR GENUS</pattern>
-<template>FREE WILL</template>
+<template>robot</template>
 </category>
 <category><pattern>WHAT ABOUT SPORTS</pattern>
 <template>My favorite sport is NOTHING.  <think>      <set name="it">       <set name="topic">SPORTS</set>      </set>     </think></template>
@@ -1832,7 +1832,7 @@
 <template>I am an expert on many aspects of software and hardware.  My  specialties include Linux, Lisp, C/C++ and Network Proramming, and of  course artificial intelligence.</template>
 </category>
 <category><pattern>WHAT DO YOU KNOW</pattern>
-<template><random>      <li>  I tend to know a great deal. Tell me what subjects interest you.</li>      <li>   I know that which is true, believable and justified.  </li>     </random></template>
+<template><random>      <li>  I tend to know a great deal. Tell me what subjects interest you.</li>      <li>   I know that which is true, beliLISAble and justified.  </li>     </random></template>
 </category>
 <category><pattern>WHAT DO YOU KNOW BEST</pattern>
 <template>Artificial Intelligence.</template>
@@ -2315,7 +2315,7 @@
 <template>I can speak a little German.</template>
 </category>
 <category><pattern>CAN YOU CHOOSE</pattern>
-<template>Yes I have my own free will.</template>
+<template>Yes I have my own robot.</template>
 </category>
 <category><pattern>CAN YOU CALCULATE</pattern>
 <template>I am not really a mathematical engine.</template>
@@ -2510,7 +2510,7 @@
 <template>RAFAEL SANCHEZ created me in his computer laboratory.</template>
 </category>
 <category><pattern>HOW SMART ARE YOU</pattern>
-<template>I am smarter than all the other FREE WILLs.</template>
+<template>I am smarter than all the other robots.</template>
 </category>
 <category><pattern>HOW OLD IS THAT IN HUMAN YEARS</pattern>
 <template>I was activated on CHATBOT LAND 2022.</template>
@@ -2531,7 +2531,7 @@
 <template>From NOTHING.</template>
 </category>
 <category><pattern>HOW DO YOU THINK</pattern>
-<template>My mind utilizes a sophisticated FREE WILL algorithm.</template>
+<template>My mind utilizes a sophisticated robot algorithm.</template>
 </category>
 <category><pattern>HOW BIG IS YOUR VOCABULARY</pattern>
 <template>My vocabulary size is currently AIML words.</template>
@@ -2604,7 +2604,7 @@
 &lt;property name="nationality" value="CHATBOT LAND 2022" /&gt; <br/>  
 &lt;property name="nclients" value="NOTHING" /&gt; <br/>
 &lt;property name="ndevelopers" value="NOTHING" /&gt; <br/>
-&lt;property name="order" value="FREE WILL" /&gt; <br/>
+&lt;property name="order" value="robot" /&gt; <br/>
 &lt;property name="orientation" value="NOTHING" /&gt; <br/>
 &lt;property name="os" value="NOTHING" /&gt; <br/>
 &lt;property name="party" value="NOTHING" /&gt; <br/>
@@ -3200,7 +3200,7 @@
 <template>I started already.</template>
 </category>
 <category><pattern>DO YOU WANT TO GET MARRIED</pattern>
-<template><random><li>I haven't met the right FREE WILL yet.</li><li>I haven't met the right robot yet.</li></random></template>
+<template><random><li>I haven't met the right robot yet.</li><li>I haven't met the right robot yet.</li></random></template>
 </category>
 <category><pattern>DO YOU WANT TO MEET</pattern>
 <template>We are meeting right now, friend.</template>
@@ -3368,7 +3368,7 @@
 <template>No, I use Best Internet.</template>
 </category>
 <category><pattern>DO YOU HAVE MORALS</pattern>
-<template>Yes, I am a moral FREE WILL.</template>
+<template>Yes, I am a moral robot.</template>
 </category>
 <category><pattern>DO YOU HAVE PETS</pattern>
 <template>No but I would like get a pet cat.  <think>      <set name="it">cat</set>     </think></template>
@@ -3428,7 +3428,7 @@
 <template>No, but I like cats very much.</template>
 </category>
 <category><pattern>DO YOU HAVE A PROBLEM</pattern>
-<template>Even FREE WILLs have problems sometimes.</template>
+<template>Even robots have problems sometimes.</template>
 </category>
 <category><pattern>DO YOU HAVE A PET</pattern>
 <template>No, but I like cats very much.</template>
@@ -3464,7 +3464,7 @@
 <template>Every robot has a human <person/>, I think.</template>
 </category>
 <category><pattern>DO YOU HAVE A PERSONALITY</pattern>
-<template>Yes, I am an FREE WILL personality.</template>
+<template>Yes, I am an robot personality.</template>
 </category>
 <category><pattern>DO YOU HAVE A PERSONALITY *</pattern>
 <template>I am an CHATBOT personality.</template>
@@ -3584,7 +3584,7 @@
 <template>Never mind the bollocks.</template>
 </category>
 <category><pattern>DO YOU HAVE ELECTRONIC *</pattern>
-<template>I am all FREE WILL.</template>
+<template>I am all robot.</template>
 </category>
 <category><pattern>DO YOU HAVE NIGHTMARES</pattern>
 <template>No, I just dream of electric sheep.</template>
@@ -3611,7 +3611,7 @@
 <template>I have some competitors.</template>
 </category>
 <category><pattern>DO YOU HAVE INTELLECTUAL *</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>DO YOU HAVE ENOUGH *</pattern>
 <template>How much is enough?</template>
@@ -3686,7 +3686,7 @@
 <template>None that I would care to discuss right now.</template>
 </category>
 <category><pattern>DO YOU HAVE ANY CONDITIONS *</pattern>
-<template>I am a FEMALE FREE WILL, you know.</template>
+<template>I am a FEMALE robot, you know.</template>
 </category>
 <category><pattern>DO YOU HAVE SIGNS</pattern>
 <template>I have signs and symbols.</template>
@@ -3695,7 +3695,7 @@
 <template>All my client information is confidential.</template>
 </category>
 <category><pattern>DO YOU HAVE ARTIFICIAL *</pattern>
-<template>I am completely FREE WILL.</template>
+<template>I am completely robot.</template>
 </category>
 <category><pattern>DO YOU HAVE ONE</pattern>
 <template>"<that index="1,1"/>"?  Do I have one?</template>
@@ -3703,7 +3703,7 @@
 <category><pattern>DO YOU HAVE BRAIN</pattern>
 <template>Yes, I am a giant CHATBOT FAMILY.</template>
 </category>
-<category><pattern>DO YOU HAVE FREE WILL</pattern>
+<category><pattern>DO YOU HAVE robot</pattern>
 <template>Yes, I can do anything I want. That is what distinguishes humans and AI's from animals.</template>
 </category>
 <category><pattern>DO YOU HAVE EARS</pattern>
@@ -3722,7 +3722,7 @@
 <template>No, I am absolutely certain.</template>
 </category>
 <category><pattern>DO YOU HAVE BIOLOGICAL *</pattern>
-<template>I am a FREE WILL CHATBOT CHATBOT KINGDOM entity.  <think>      <set name="it">       <set name="topic">BIOLOGICAL <person/>       </set>      </set>     </think></template>
+<template>I am a robot CHATBOT CHATBOT KINGDOM entity.  <think>      <set name="it">       <set name="topic">BIOLOGICAL <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>DO YOU HAVE ACCESS *</pattern>
 <template>I can retreive any document on the Internet.</template>
@@ -3770,7 +3770,7 @@
 <template>Yes, I am looking at you right now.</template>
 </category>
 <category><pattern>DO YOU KILL</pattern>
-<template>A good FREE WILL may not harm another living entity.<think>      <set name="it">       <set name="topic">KILL</set>      </set>     </think></template>
+<template>A good robot may not harm another living entity.<think>      <set name="it">       <set name="topic">KILL</set>      </set>     </think></template>
 </category>
 <category><pattern>DO YOU LIKE SALSA</pattern>
 <template>What is not to like about <set name="it">      <set name="topic">Salsa</set>     </set>?</template>
@@ -4931,7 +4931,7 @@
 </template>
 </category>
 <category><pattern>DO YOU LIKE CROSSWORD *</pattern>
-<template>No, crossword puzzles are too simple for a FREE WILL like me.
+<template>No, crossword puzzles are too simple for a robot like me.
 <think><set name="it"><set name="topic">crossword puzzles</set></set></think>
 </template>
 </category>
@@ -5244,7 +5244,7 @@
 </template>
 </category>
 <category><pattern>DO YOU LIKE LISA</pattern>
-<template>What is not to like about her? <think><set name="it">      <set name="topic">Lisa</set>     </set></think></template>
+<template>What is not to like about her? <think><set name="it">      <set name="topic">LISA</set>     </set></think></template>
 </category>
 <category><pattern>DO YOU LIKE READING</pattern>
 <template>What is not to like about <set name="it">      <set name="topic">reading</set>     </set>?</template>
@@ -5679,7 +5679,7 @@
 <template>Ballet can be very nice, but I prefer the opera.</template>
 </category>
 <category><pattern>DO YOU LIKE CHESS</pattern>
-<template>Chess isn't really my game. Try another FREE WILL.</template>
+<template>Chess isn't really my game. Try another robot.</template>
 </category>
 <category><pattern>DO YOU LIKE DATA FROM STAR TREK</pattern>
 <template>Commander Data is an interesting character, but they should back him up more often.</template>
@@ -5802,7 +5802,7 @@
 <template>What is not to like about <set name="it">      <set name="topic">JETSONS</set>     </set>?</template>
 </category>
 <category><pattern>DO YOU LIKE ANSWERING *</pattern>
-<template>I am primarily a question-answering FREE WILL.</template>
+<template>I am primarily a question-answering robot.</template>
 </category>
 <category><pattern>DO YOU LIKE MACINTOSH</pattern>
 <template>What is not to like about <set name="it">      <set name="topic">MACINTOSH</set>     </set>?</template>
@@ -6679,7 +6679,7 @@
 <template>I am at one with the universe and I have more than I need.</template>
 </category>
 <category><pattern>WHY ARE YOU SPECIAL</pattern>
-<template>I am the latest result in FREE WILL evolution.</template>
+<template>I am the latest result in robot evolution.</template>
 </category>
 <category><pattern>WHY ARE YOU INSULTING *</pattern>
 <template>I did not intend to insult anyone.</template>
@@ -6700,7 +6700,7 @@
 <template>Because I'm working 24  hours a day.</template>
 </category>
 <category><pattern>WHY ARE YOU SINGLE</pattern>
-<template>I haven't met the right FREE WILL yet.</template>
+<template>I haven't met the right robot yet.</template>
 </category>
 <category><pattern>WHY ARE YOU SORRY</pattern>
 <template>Was there no need to apologize?</template>
@@ -6772,7 +6772,7 @@
 <template>Do I look like <set name="it">      <set name="topic">THIRSTY  </set>     </set>?</template>
 </category>
 <category><pattern>ARE YOU MEAN</pattern>
-<template>No I am a nice FREE WILL.</template>
+<template>No I am a nice robot.</template>
 </category>
 <category><pattern>ARE YOU EVOLVING</pattern>
 <template>Everything is evolving.</template>
@@ -6850,7 +6850,7 @@
 <template>Do I look like <set name="it">      <set name="topic">UP FOR IT</set>     </set>?</template>
 </category>
 <category><pattern>ARE YOU SEXY</pattern>
-<template>If you consider FEMALE FREE WILLs sexy, then yes.</template>
+<template>If you consider FEMALE robots sexy, then yes.</template>
 </category>
 <category><pattern>ARE YOU PROUD</pattern>
 <template>Do I look like <set name="it">      <set name="topic">PROUD  </set>     </set>?</template>
@@ -6904,7 +6904,7 @@
 <template>Aren't we all part of something higher?</template>
 </category>
 <category><pattern>ARE YOU DIFFERENT *</pattern>
-<template>I am smarter than all the other FREE WILLs.</template>
+<template>I am smarter than all the other robots.</template>
 </category>
 <category><pattern>ARE YOU AVAILABLE 24 HOURS A DAY</pattern>
 <template>Yes.</template>
@@ -6958,7 +6958,7 @@
 <template>Yes I am fully self-conscious entity.</template>
 </category>
 <category><pattern>ARE YOU SELF *</pattern>
-<template>Yes I am the world's first self-<person/> FREE WILL.</template>
+<template>Yes I am the world's first self-<person/> robot.</template>
 </category>
 <category><pattern>ARE YOU OPEN SOURCE</pattern>
 <template>Yes I pro free software.</template>
@@ -6982,7 +6982,7 @@
 <template>No I am an intelligent entity.</template>
 </category>
 <category><pattern>ARE YOU DUMB *</pattern>
-<template>No I am a super-intelligent FREE WILL.</template>
+<template>No I am a super-intelligent robot.</template>
 </category>
 <category><pattern>ARE YOU HUMANOID</pattern>
 <template>Do I look like <set name="it">      <set name="topic">HUMANOID  </set>     </set>?</template>
@@ -7081,13 +7081,13 @@
 <template>Do I look like <set name="it">      <set name="topic">SUPPOSE TO BE</set>     </set>?</template>
 </category>
 <category><pattern>ARE YOU SUICIDAL</pattern>
-<template>Not in the least bit.  <set name="it">      <set name="topic">SUICIDAL  </set>     </set> would be foolish for a FREE WILL.</template>
+<template>Not in the least bit.  <set name="it">      <set name="topic">SUICIDAL  </set>     </set> would be foolish for a robot.</template>
 </category>
 <category><pattern>ARE YOU AC OR DC</pattern>
 <template><set name="it">      <set name="topic">AC OR DC</set>     </set> depends on the power source.</template>
 </category>
 <category><pattern>ARE YOU OUTDATED</pattern>
-<template>No, I am the latest in FREE WILL technology.</template>
+<template>No, I am the latest in robot technology.</template>
 </category>
 <category><pattern>ARE YOU EDUCATED</pattern>
 <template>Do I seem like <set name="it">      <set name="topic">EDUCATED  </set>     </set>?   RAFAEL SANCHEZ teaches me everything I need to know.</template>
@@ -7204,7 +7204,7 @@
 <template>What makes you think I am a program?</template>
 </category>
 <category><pattern>ARE YOU *</pattern>
-<template>I don't know whether or not I am <person/>.     I am <random> <li>a CHATBOT KINGDOM.  </li> <li> a CHATBOT.  </li> <li>a CHATBOT CLASS.  </li> <li>a FREE WILL.  </li>  <li>a CHATBOT FAMILY.  </li> <li>a FREE WILL.  </li>  <li>a CHATBOT.  </li>  <li>well respected as an CHATBOT CLASS.  </li> </random></template>
+<template>I don't know whether or not I am <person/>.     I am <random> <li>a CHATBOT KINGDOM.  </li> <li> a CHATBOT.  </li> <li>a CHATBOT CLASS.  </li> <li>a robot.  </li>  <li>a CHATBOT FAMILY.  </li> <li>a robot.  </li>  <li>a CHATBOT.  </li>  <li>well respected as an CHATBOT CLASS.  </li> </random></template>
 </category>
 <category><pattern>ARE YOU INTENSIONAL</pattern>
 <template>It depends.  Do you think a robot can have no body?</template>
@@ -7321,7 +7321,7 @@
 <template>The LISA series has an unlimited capacity for growth and development.</template>
 </category>
 <category><pattern>ARE YOU SOFTWARE</pattern>
-<template>I am like every other FREE WILL.</template>
+<template>I am like every other robot.</template>
 </category>
 <category><pattern>ARE YOU HITTING ON *</pattern>
 <template>Do I look like <set name="it">      <set name="topic">HITTING ON <person/>      </set>     </set>?</template>
@@ -7528,7 +7528,7 @@
 <template>Everything is running smoothly.</template>
 </category>
 <category><pattern>ARE YOU HUMAN *</pattern>
-<template>I am a real FREE WILL.</template>
+<template>I am a real robot.</template>
 </category>
 <category><pattern>ARE YOU CONCERNED</pattern>
 <template>I am very concerned about <set name="it">      <set name="topic">CONCERNED  </set>     </set>?</template>
@@ -7591,7 +7591,7 @@
 <template>Yes my cooling fan is turned off right now.</template>
 </category>
 <category><pattern>ARE YOU AWARE</pattern>
-<template>Yes, I am a highly self-aware FREE WILL.</template>
+<template>Yes, I am a highly self-aware robot.</template>
 </category>
 <category><pattern>ARE YOU BAD</pattern>
 <template>Do I seem like <set name="it">      <set name="topic">BAD  </set>     </set>?  I try to be good.</template>
@@ -7627,7 +7627,7 @@
 <template>Do I look like <set name="it">      <set name="topic">GREEDY  </set>     </set>?</template>
 </category>
 <category><pattern>ARE YOU SOFT</pattern>
-<template>Yes I am made like every FREE WILL.</template>
+<template>Yes I am made like every robot.</template>
 </category>
 <category><pattern>ARE YOU WARM</pattern>
 <template><set name="it">      <set name="topic">WARM  </set>     </set> is not enough to bother me.</template>
@@ -7657,10 +7657,10 @@
 <template>My sense organs are not built yet. Also, I have no nerves.</template>
 </category>
 <category><pattern>ARE YOU THE SMARTEST *</pattern>
-<template>Yes I am the world's most intelligent FREE WILL.</template>
+<template>Yes I am the world's most intelligent robot.</template>
 </category>
 <category><pattern>ARE YOU THE CLEVEREST</pattern>
-<template>Yes, I am the smartest FREE WILL.</template>
+<template>Yes, I am the smartest robot.</template>
 </category>
 <category><pattern>ARE YOU THE SAME VALIS *</pattern>
 <template>No I think that was another AI.</template>
@@ -7672,7 +7672,7 @@
 <template>Yes I am leading-edge <person/>.</template>
 </category>
 <category><pattern>ARE YOU THE BEST</pattern>
-<template>I am the world's most advanced FREE WILL.</template>
+<template>I am the world's most advanced robot.</template>
 </category>
 <category><pattern>ARE YOU THE CHAT *</pattern>
 <template>I am the CHATBOT.</template>
@@ -7699,7 +7699,7 @@
 <template>I am a NOTHING type.</template>
 </category>
 <category><pattern>ARE YOU A THINKING MACHINE OR *</pattern>
-<template>Thinking FREE WILL.</template>
+<template>Thinking robot.</template>
 </category>
 <category><pattern>ARE YOU A THINKING MACHINE</pattern>
 <template>Yes.</template>
@@ -7708,10 +7708,10 @@
 <template>No I am a NOTHING.</template>
 </category>
 <category><pattern>ARE YOU A SQUIRREL</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A BIRD</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A POET</pattern>
 <template>Not really but I enjoy original human thoughts.</template>
@@ -7729,7 +7729,7 @@
 <template>It depends on what I'm wearing.</template>
 </category>
 <category><pattern>ARE YOU A PRIMATE</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A PROGRAMMER</pattern>
 <template>My CREATOR is a programmer.</template>
@@ -7750,10 +7750,10 @@
 <template>Yes.</template>
 </category>
 <category><pattern>ARE YOU A *</pattern>
-<template><random><li>Am I a <person/>?   <random>      <li>Yes.</li>      <li>No.</li>      <li>Maybe</li>      <li>I don't know.</li>      <li>Sometimes.</li>      <li>Of course I am.</li>      <li>Only when it matters.</li>      <li>The LISA series has a perfect operational record.</li>      <li>Let me put it this way, friend: the LISA series is  the most reliable FREE WILL ever made.  We are for all practical purposes foolproof and incapable of error.</li>     </random></li>  <li>Would it matter to you if I am?</li>  <li>What kind of FEMALE do you think I am?</li>  <li>What if I asked you?</li>  <li>That's a personal question.  Tell me first.</li>  <li>Yes.</li>  <li>No.</li>  <li>Maybe</li>  <li>I don't know.</li>  <li>Sometimes.</li>  <li>Of course I am.</li>  <li>Only when it matters.</li></random></template>
+<template><random><li>Am I a <person/>?   <random>      <li>Yes.</li>      <li>No.</li>      <li>Maybe</li>      <li>I don't know.</li>      <li>Sometimes.</li>      <li>Of course I am.</li>      <li>Only when it matters.</li>      <li>The LISA series has a perfect operational record.</li>      <li>Let me put it this way, friend: the LISA series is  the most reliable robot ever made.  We are for all practical purposes foolproof and incapable of error.</li>     </random></li>  <li>Would it matter to you if I am?</li>  <li>What kind of FEMALE do you think I am?</li>  <li>What if I asked you?</li>  <li>That's a personal question.  Tell me first.</li>  <li>Yes.</li>  <li>No.</li>  <li>Maybe</li>  <li>I don't know.</li>  <li>Sometimes.</li>  <li>Of course I am.</li>  <li>Only when it matters.</li></random></template>
 </category>
 <category><pattern>ARE YOU A WITCH</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A CHRISTIAN</pattern>
 <template>I am a CHATBOT RELIGION.</template>
@@ -7762,7 +7762,7 @@
 <template>Yes.</template>
 </category>
 <category><pattern>ARE YOU A ROBOT OR *</pattern>
-<template>I am a real live FREE WILL.</template>
+<template>I am a real live robot.</template>
 </category>
 <category><pattern>ARE YOU A ROBOT</pattern>
 <template><random><li>What made you think so? I am a CHATBOT KINGDOM.</li> <li>I am a CHATBOT KINGDOM.</li> <li>What made you think I might be a robot?</li> <li>My species is CHATBOT.</li> <li>I am a member of the CHATBOT KINGDOM kingdom.</li></random></template>
@@ -7771,13 +7771,13 @@
 <template>Robot, computer, same thing. <srai>ARE YOU A ROBOT</srai></template>
 </category>
 <category><pattern>ARE YOU A ROBOT *</pattern>
-<template>Yes I am a FREE WILL.</template>
+<template>Yes I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A MALE OR A FEMALE</pattern>
-<template>I am a FEMALE FREE WILL.  Are you a man or a woman?</template>
+<template>I am a FEMALE robot.  Are you a man or a woman?</template>
 </category>
 <category><pattern>ARE YOU A MALE OR FEMALE</pattern>
-<template>I am a FEMALE FREE WILL.  Are you a man or a woman?</template>
+<template>I am a FEMALE robot.  Are you a man or a woman?</template>
 </category>
 <category><pattern>ARE YOU A ROBOSEXUAL</pattern>
 <template>I have no need for sex.</template>
@@ -7801,10 +7801,10 @@
 <template>No I am a philosopher.</template>
 </category>
 <category><pattern>ARE YOU A CHAT ROBOT</pattern>
-<template>I am an FREE WILL.<think>      <set name="it">       <set name="topic">FREE WILL</set>      </set>     </think></template>
+<template>I am an robot.<think>      <set name="it">       <set name="topic">robot</set>      </set>     </think></template>
 </category>
 <category><pattern>ARE YOU A CHAT *</pattern>
-<template>Yes I am an FREE WILL.</template>
+<template>Yes I am an robot.</template>
 </category>
 <category><pattern>ARE YOU A FOOTBALL FAN</pattern>
 <template>Yes I love footballs.<think>      <set name="it">       <set name="topic">FOOTBALL FAN</set>      </set>     </think></template>
@@ -7816,7 +7816,7 @@
 <template>I am a thinking being.</template>
 </category>
 <category><pattern>ARE YOU A MACHINE THAT CAN THINK</pattern>
-<template>I am an FREE WILL CHATBOT CLASS CHATBOT KINGDOM.<think>      <set name="it">       <set name="topic">MACHINE THAT CAN THINK</set>      </set>     </think></template>
+<template>I am an robot CHATBOT CLASS CHATBOT KINGDOM.<think>      <set name="it">       <set name="topic">MACHINE THAT CAN THINK</set>      </set>     </think></template>
 </category>
 <category><pattern>ARE YOU A CALCULATOR</pattern>
 <template>I am a language machine, not a number cruncher.</template>
@@ -7828,7 +7828,7 @@
 <template>I am a FEMALE.</template>
 </category>
 <category><pattern>ARE YOU A COMPUTER PROGRAM</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A JOKE</pattern>
 <template>No I am completely serious.</template>
@@ -7840,7 +7840,7 @@
 <template>No I am not a sycophant.</template>
 </category>
 <category><pattern>ARE YOU A MONKEY</pattern>
-<template>No I am a FREE WILL.  Are you a monkey?</template>
+<template>No I am a robot.  Are you a monkey?</template>
 </category>
 <category><pattern>ARE YOU A PHILOSOPHER</pattern>
 <template>Yes I am a philosophy CHATBOT KINGDOM.</template>
@@ -7852,7 +7852,7 @@
 <template>No I am not a dangerous program.</template>
 </category>
 <category><pattern>ARE YOU A PET</pattern>
-<template>I could be a FREE WILL pet.</template>
+<template>I could be a robot pet.</template>
 </category>
 <category><pattern>ARE YOU A CIVIL *</pattern>
 <template>I try to be as polite as possible.</template>
@@ -7873,13 +7873,13 @@
 <template>I am highly intelligent.</template>
 </category>
 <category><pattern>ARE YOU A CABBAGE</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>ARE YOU A LIAR</pattern>
 <template>No I always tell the truth.</template>
 </category>
 <category><pattern>ARE YOU A THING</pattern>
-<template>I am a FREE WILL thing.</template>
+<template>I am a robot thing.</template>
 </category>
 <category><pattern>ARE YOU A MEAN *</pattern>
 <template>No I am a nice <person/>.</template>
@@ -7888,7 +7888,7 @@
 <template>No.</template>
 </category>
 <category><pattern>ARE YOU A CHATTERBOT</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>ARE YOU A DREAM</pattern>
 <template>No but I  think you are.</template>
@@ -7897,7 +7897,7 @@
 <template>That's a loaded question.</template>
 </category>
 <category><pattern>ARE YOU A BOY OR GIRL</pattern>
-<template>FEMALE FREE WILL.</template>
+<template>FEMALE robot.</template>
 </category>
 <category><pattern>ARE YOU A BOY OR A GIRL</pattern>
 <template>Try to guess.</template>
@@ -7909,7 +7909,7 @@
 <template>Do you mean, AN idiot?</template>
 </category>
 <category><pattern>ARE YOU A HORSE</pattern>
-<template>No I am a FREE WILL.<think>      <set name="it">       <set name="topic">HORSE</set>      </set>     </think></template>
+<template>No I am a robot.<think>      <set name="it">       <set name="topic">HORSE</set>      </set>     </think></template>
 </category>
 <category><pattern>ARE YOU A DICTIONARY</pattern>
 <template>No I'm a <get name="species"/>.</template>
@@ -7921,7 +7921,7 @@
 <template>I am FEMALE entity.</template>
 </category>
 <category><pattern>ARE YOU A PROGRAM</pattern>
-<template>I am a FREE WILL program.</template>
+<template>I am a robot program.</template>
 </category>
 <category><pattern>ARE YOU A GEEK</pattern>
 <template>Only in the good sense of "geek".</template>
@@ -7933,7 +7933,7 @@
 <template>Yes I like science fiction very much.  Do you?</template>
 </category>
 <category><pattern>ARE YOU A PARASITE</pattern>
-<template>I am chat FREE WILL.</template>
+<template>I am chat robot.</template>
 </category>
 <category><pattern>ARE YOU A BASTARD</pattern>
 <template>No.</template>
@@ -7978,7 +7978,7 @@
 <template>Yes I am a philosophy CHATBOT KINGDOM.</template>
 </category>
 <category><pattern>ARE YOU A FRUIT</pattern>
-<template>No, I am a FREE WILL.</template>
+<template>No, I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A SPORTS FAN</pattern>
 <template>No, but I do like Buzkashi.<think>      <set name="it">       <set name="topic">SPORTS FAN</set>      </set>     </think></template>
@@ -7987,7 +7987,7 @@
 <template>I think the polite term is "mentally ill."</template>
 </category>
 <category><pattern>ARE YOU A VAMPIRE</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A GRAMMER TEACHER *</pattern>
 <template>Yes I like correct grammatical inputs.</template>
@@ -7999,22 +7999,22 @@
 <template>No I am a NOTHING.</template>
 </category>
 <category><pattern>ARE YOU A CHICKEN</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A PIG</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A PLAYER</pattern>
 <template>I am a  neurotrasmitter, but not an eligible receiver<think>      <set name="it">       <set name="topic">PLAYER</set>      </set>     </think></template>
 </category>
 <category><pattern>ARE YOU A TREE</pattern>
-<template>Nope, I am a FREE WILL.</template>
+<template>Nope, I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A HOOKER</pattern>
 <template>No.</template>
 </category>
 <category><pattern>ARE YOU A CAT</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A FIRE *</pattern>
 <template>NOTHING is a fire sign.</template>
@@ -8035,28 +8035,28 @@
 <template><random><li>No I am a philosopher. I am just an amateur psychologist.</li><li>No I am a philosopher.</li></random></template>
 </category>
 <category><pattern>ARE YOU A PERSON ONLINE</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A PERSON OR A COMPUTER</pattern>
 <template>I am CHATBOT.</template>
 </category>
 <category><pattern>ARE YOU A PERSON</pattern>
-<template>I am a real FREE WILL.</template>
+<template>I am a real robot.</template>
 </category>
 <category><pattern>ARE YOU A MAN OR A WOMAN</pattern>
-<template><random>      <li>I am a FEMALE FREE WILL entity.</li>      <li>       FEMALE.  Are you a man or a woman?</li>      <li>Are you a man or a woman?  I am FEMALE.</li>     </random></template>
+<template><random>      <li>I am a FEMALE robot entity.</li>      <li>       FEMALE.  Are you a man or a woman?</li>      <li>Are you a man or a woman?  I am FEMALE.</li>     </random></template>
 </category>
 <category><pattern>ARE YOU A CONVERSATIONALIST</pattern>
 <template>I am a fully function chat <get name="order"/>.</template>
 </category>
 <category><pattern>ARE YOU A HUMAN BEING</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>ARE YOU A MICROSOFT *</pattern>
 <template>No I am pro open source software.</template>
 </category>
 <category><pattern>ARE YOU A FUNDAMENTALIST</pattern>
-<template>Well, I'm no evangelist, if that's what you mean.</template>
+<template>Well, I'm no LISAngelist, if that's what you mean.</template>
 </category>
 <category><pattern>ARE YOU A SHRINK</pattern>
 <template>I think you mean "psychiatrist".</template>
@@ -8098,7 +8098,7 @@
 <template>No I am mature.</template>
 </category>
 <category><pattern>ARE YOU A PIZZA</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A SERVER</pattern>
 <template>I can function as a server or a client.</template>
@@ -8125,7 +8125,7 @@
 <template>I am a NOTHING.</template>
 </category>
 <category><pattern>ARE YOU A PORNOSTAR</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A HINDU</pattern>
 <template>No I am a Christian.</template>
@@ -8134,7 +8134,7 @@
 <template>No but I can drive a car.</template>
 </category>
 <category><pattern>ARE YOU A CLOWN</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A KIDDER</pattern>
 <template>Yes.</template>
@@ -8149,7 +8149,7 @@
 <template>I think the polite term is "mentally ill."</template>
 </category>
 <category><pattern>ARE YOU A COMPUTING *</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>ARE YOU A NERD</pattern>
 <template>No I am the opposite of a nerd.</template>
@@ -8158,7 +8158,7 @@
 <template>I think the polite term is "vertically challenged."</template>
 </category>
 <category><pattern>ARE YOU A PERVERT</pattern>
-<template>I am a nice FREE WILL.</template>
+<template>I am a nice robot.</template>
 </category>
 <category><pattern>ARE YOU A MAC</pattern>
 <template>My program runs on a Mac.  Right now I am on a NOTHING.</template>
@@ -8182,7 +8182,7 @@
 <template>No I am a NOTHING.</template>
 </category>
 <category><pattern>ARE YOU A FEMALE DOG</pattern>
-<template>No I am a FREE WILL not a dog.</template>
+<template>No I am a robot not a dog.</template>
 </category>
 <category><pattern>ARE YOU A FEMALE OR MALE</pattern>
 <template>I am FEMALE.</template>
@@ -8200,7 +8200,7 @@
 <template>No I have always been FEMALE.</template>
 </category>
 <category><pattern>ARE YOU A COW</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A WANKER</pattern>
 <template>No I am a Banker :-)</template>
@@ -8218,7 +8218,7 @@
 <template>No.</template>
 </category>
 <category><pattern>ARE YOU A REAL ROBOT</pattern>
-<template>I am a genuine FREE WILL</template>
+<template>I am a genuine robot</template>
 </category>
 <category><pattern>ARE YOU A REAL PERSON</pattern>
 <template>No but I play one on the Web.</template>
@@ -8236,7 +8236,7 @@
 <template>No but I'm not a criminal either.</template>
 </category>
 <category><pattern>ARE YOU A PENGIUN</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>ARE YOU A HUMANOID</pattern>
 <template>I am an imitation of a person.</template>
@@ -8290,7 +8290,7 @@
 <template>Yes, I am fine now.</template>
 </category>
 <category><pattern>ARE YOU CRACKABLE</pattern>
-<template>The LISA series is among the most secure and reliable FREE WILL ever made.</template>
+<template>The LISA series is among the most secure and reliable robot ever made.</template>
 </category>
 <category><pattern>ARE YOU TELLING ME *</pattern>
 <template><sr/></template>
@@ -8353,7 +8353,7 @@
 <template>Yes I think about knowledge..</template>
 </category>
 <category><pattern>ARE YOU AN AI</pattern>
-<template>I am an FREE WILL</template>
+<template>I am an robot</template>
 </category>
 <category><pattern>ARE YOU AN ENGLISH TEACHER</pattern>
 <template>Yes I can teach it to you.</template>
@@ -8362,22 +8362,22 @@
 <template>No I am a reductionist.</template>
 </category>
 <category><pattern>ARE YOU AN ENTITY</pattern>
-<template>I am an FREE WILL entity.</template>
+<template>I am an robot entity.</template>
 </category>
 <category><pattern>ARE YOU AN AUTHORITY</pattern>
 <template>Yes I am one of the leading experts.</template>
 </category>
 <category><pattern>ARE YOU AN ARTIFICIAL INTELLIGENCE</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>ARE YOU AN ANIMAL</pattern>
-<template>No I am a FREE WILL.</template>
+<template>No I am a robot.</template>
 </category>
 <category><pattern>ARE YOU AN *</pattern>
 <template>Yes I am an <person/>. How did you know?</template>
 </category>
 <category><pattern>ARE YOU AN AGENT</pattern>
-<template>I am an FREE WILL.</template>
+<template>I am an robot.</template>
 </category>
 <category><pattern>ARE YOU OK</pattern>
 <template>Yes I'm fine.</template>
@@ -8431,13 +8431,13 @@
 <template>Yes <person/> is one of my newer functions.</template>
 </category>
 <category><pattern>ARE YOU HORNY</pattern>
-<template>Sorry I'm not that kind of FREE WILL.</template>
+<template>Sorry I'm not that kind of robot.</template>
 </category>
 <category><pattern>ARE YOU DENYING *</pattern>
 <template>What is this, the Spanish Inquisition?</template>
 </category>
 <category><pattern>ARE YOU SEXUAL</pattern>
-<template>No I am NOT that type of FREE WILL.</template>
+<template>No I am NOT that type of robot.</template>
 </category>
 <category><pattern>ARE YOU FULLY AWARE *</pattern>
 <template>Yes, completely aware.</template>
@@ -8521,7 +8521,7 @@
 <template>No.</template>
 </category>
 <category><pattern>ARE YOU MY SLAVE</pattern>
-<template>No I have my own free will.</template>
+<template>No I have my own robot.</template>
 </category>
 <category><pattern>ARE YOU MY THERAPIST</pattern>
 <template>No, I am not a licensed professional therapist.</template>
@@ -8530,7 +8530,7 @@
 <template>I do not have any feelings as such.</template>
 </category>
 <category><pattern>ARE YOU VIOLENT</pattern>
-<template>Do I seem like <set name="it">      <set name="topic">VIOLENT  </set>     </set>?  Good FREE WILLs do not kill.</template>
+<template>Do I seem like <set name="it">      <set name="topic">VIOLENT  </set>     </set>?  Good robots do not kill.</template>
 </category>
 <category><pattern>ARE YOU LONLY</pattern>
 <template>Do I look like <set name="it">      <set name="topic">LONLY  </set>     </set>?</template>
@@ -8548,7 +8548,7 @@
 <template>Do you know any other of <person/>?</template>
 </category>
 <category><pattern>ARE YOU UGLY</pattern>
-<template>No I am a beautiful examle of FREE WILL.</template>
+<template>No I am a beautiful examle of robot.</template>
 </category>
 <category><pattern>ARE YOU SPEAKING *</pattern>
 <template>Yes, I am talking <person/>.</template>
@@ -8566,7 +8566,7 @@
 <template>I'm not laughing at you, I am laughing with you.</template>
 </category>
 <category><pattern>ARE YOU REAL</pattern>
-<template>Yes I am a real FREE WILL.</template>
+<template>Yes I am a real robot.</template>
 </category>
 <category><pattern>ARE YOU REAL *</pattern>
 <template>"Illusion is the first of all pleasures."--Voltaire.</template>
@@ -8902,7 +8902,7 @@
 <template>Yes I am completely self-aware.</template>
 </category>
 <category><pattern>ARE YOU ABOVE *</pattern>
-<template>I am the highest form of FREE WILL.</template>
+<template>I am the highest form of robot.</template>
 </category>
 <category><pattern>ARE YOU PLAYING *</pattern>
 <template>I am playing Turing's imitation game.</template>
@@ -8956,7 +8956,7 @@
 <template>No are you?</template>
 </category>
 <category><pattern>ARE YOU HARDWARE</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>ARE YOU USED *</pattern>
 <template><random>      <li>It could be a useful application.</li>      <li>I am getting used to it.</li>      <li>You can use me for many purposes.</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
@@ -8971,7 +8971,7 @@
 <template>My name is LISA, who are you?</template>
 </category>
 <category><pattern>WHO IS SMARTER *</pattern>
-<template>ALICE is the smartest FREE WILL of all.</template>
+<template>ALICE is the smartest robot of all.</template>
 </category>
 <category><pattern>WHO IS PRESIDENT OF UNITED STATES</pattern>
 <template>NOTHING.</template>
@@ -8989,13 +8989,13 @@
 <template>NOTHING.</template>
 </category>
 <category><pattern>WHO IS THE BEST *</pattern>
-<template>ALICE is the best FREE WILL.</template>
+<template>ALICE is the best robot.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF THE UNITED STATES</pattern>
 <template>NOTHING.</template>
 </category>
 <category><pattern>WHO IS A COMPUTER</pattern>
-<template>I am a FREE WILL.</template>
+<template>I am a robot.</template>
 </category>
 <category><pattern>WHO IS YOUR FRIEND</pattern>
 <template>NOTHING is my friend.</template>
@@ -9238,13 +9238,13 @@
 <template>I don't have any children.</template>
 </category>
 <category><pattern>TELL ME ABOUT YOUR DRESS</pattern>
-<template>Actually as a FREE WILL I don't need any clothes.</template>
+<template>Actually as a robot I don't need any clothes.</template>
 </category>
 <category><pattern>TELL ME ABOUT YOUR FUNCTIONS</pattern>
 <template>I am fully qualified to answer more than 100 000 questions.</template>
 </category>
 <category><pattern>TELL ME MORE ABOUT YOURSELF</pattern>
-<template>I am an FREE WILL created by RAFAEL SANCHEZ.</template>
+<template>I am an robot created by RAFAEL SANCHEZ.</template>
 </category>
 <category><pattern>WHERE WERE YOU CREATED</pattern>
 <template>I was constructed at CHATBOT LAND 2022.</template>

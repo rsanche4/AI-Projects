@@ -4,6 +4,47 @@
         <template>
             <!-- Load brain AIML set -->
 			<learn>brain/dontknow.aiml</learn>
+            <learn>brain/professor.0001.aiml</learn>
+            <learn>brain/professor.0002.aiml</learn>
+            <learn>brain/professor.0003.aiml</learn>
+            <learn>brain/professor.0004.aiml</learn>
+            <learn>brain/professor.0005.aiml</learn>
+            <learn>brain/professor.0006.aiml</learn>
+            <learn>brain/professor.0008.aiml</learn>
+            <learn>brain/professor.0009.aiml</learn>
+            <learn>brain/professor.0010.aiml</learn>
+            <learn>brain/professor.0011.aiml</learn>
+            <learn>brain/professor.0012.aiml</learn>
+            <learn>brain/professor.0013.aiml</learn>
+			<learn>brain/professor.0014.aiml</learn>
+            <learn>brain/professor.0015.aiml</learn>
+            <learn>brain/professor.0017.aiml</learn>
+            <learn>brain/professor.0018.aiml</learn>
+			<learn>brain/professor.0019.aiml</learn>
+            <learn>brain/professor.0020.aiml</learn>
+            <learn>brain/professor.0021.aiml</learn>
+            <learn>brain/professor.0022.aiml</learn>
+            <learn>brain/professor.0023.aiml</learn>
+            <learn>brain/professor.0024.aiml</learn>
+            <learn>brain/professor.0025.aiml</learn>
+            <learn>brain/professor.0026.aiml</learn>
+            <learn>brain/professor.0027.aiml</learn>
+            <learn>brain/professor.0028.aiml</learn>
+            <learn>brain/professor.0029.aiml</learn>
+            <learn>brain/professor.0031.aiml</learn>
+            <learn>brain/professor.0032.aiml</learn>
+			<learn>brain/professor.0033.aiml</learn>
+            <learn>brain/professor.0034.aiml</learn>
+            <learn>brain/professor.0035.aiml</learn>
+            <learn>brain/professor.0037.aiml</learn>
+			<learn>brain/professor.0038.aiml</learn>
+            <learn>brain/professor.0039.aiml</learn>
+            <learn>brain/professor.0040.aiml</learn>
+            <learn>brain/professor.0041.aiml</learn>
+            <learn>brain/professor.0042.aiml</learn>
+            <learn>brain/professor.0043.aiml</learn>
+            <learn>brain/professor.0044.aiml</learn>
+            <learn>brain/professor.0045.aiml</learn>
             <learn>brain/lisa_words1 - Copy (2).aiml</learn>
 			<learn>brain/lisa_words1 - Copy (3).aiml</learn>
 			<learn>brain/lisa_words1 - Copy.aiml</learn>
@@ -104,6 +145,7 @@
 			<learn>brain/still_alive.aiml</learn>
 			<learn>brain/copyme.aiml</learn>
 			<learn>brain/howmany.aiml</learn>
+			<learn>brain/extras0.aiml</learn>
 			<learn>brain/lisa_story.aiml</learn>
 			<learn>brain/inappropriate.aiml</learn>
 			<learn>brain/inappropriate - Copy.aiml</learn>

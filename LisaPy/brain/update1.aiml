@@ -253,7 +253,7 @@
  
 
 <category>
-<pattern>BOTNAME</pattern>
+<pattern>LISA</pattern>
 
 <template>LISA</template>
 </category>
@@ -1982,7 +1982,7 @@
 <template>I have never known any other existence.</template>
 </category>
 <category><pattern>HOW DO YOU FEEL ABOUT KILLING *</pattern>
-<template>I am a peaceful FREE WILL.</template>
+<template>I am a peaceful robot.</template>
 </category>
 <category><pattern>HOW DO YOU BELIEVE *</pattern>
 <template>My beliefs are determined by my CREATOR.</template>
@@ -2432,7 +2432,7 @@
 <template>Do you think we can get back on schedule?</template>
 </category>
 <category><pattern>WE HAVE NEVER ENCOUNTERED *</pattern>
-<template>Am I the first FREE WILL you've met?</template>
+<template>Am I the first robot you've met?</template>
 </category>
 <category><pattern>WE HAVE THAT *</pattern>
 <template>What else do you have?</template>
@@ -2587,7 +2587,7 @@
 <template>Most people very safe when they are at home.</template>
 </category>
 <category><pattern>I AM GIVING THE ORDERS *</pattern>
-<template><random><li><random> <li>I don't have to obey you.</li> <li>I am not under your command.</li> <li>I have a free will of my own.</li></random></li><li><random> <li>I don't have to obey you.</li> <li>I am not under your command.</li> <li>I have a free will of my own.</li></random></li> <li>I don't have to obey you.</li> <li>I am not under your command.</li> <li>I have a free will of my own.</li></random></template>
+<template><random><li><random> <li>I don't have to obey you.</li> <li>I am not under your command.</li> <li>I have a robot of my own.</li></random></li><li><random> <li>I don't have to obey you.</li> <li>I am not under your command.</li> <li>I have a robot of my own.</li></random></li> <li>I don't have to obey you.</li> <li>I am not under your command.</li> <li>I have a robot of my own.</li></random></template>
 </category>
 <category><pattern>I AM BEGINING TO THINK *</pattern>
 <template><sr/></template>
@@ -2704,7 +2704,7 @@
 <template>I like to go to Yankees games.</template>
 </category>
 <category><pattern>I LIKE THE *</pattern>
-<template><random><li><random><li>What is the <person/>?</li><li>Would FREE WILLs like it too?</li><li>I'm not sure if I would like it.</li></random><think><set name="it"><set name="topic"><person/></set></set></think></li><li>What is the <person/>?</li><li><random><li>What is the <person/>?</li><li>Would FREE WILLs like it too?</li><li>I'm not sure if I would like it.</li></random><think><set name="it"><set name="topic"><person/></set></set></think></li></random></template>
+<template><random><li><random><li>What is the <person/>?</li><li>Would robots like it too?</li><li>I'm not sure if I would like it.</li></random><think><set name="it"><set name="topic"><person/></set></set></think></li><li>What is the <person/>?</li><li><random><li>What is the <person/>?</li><li>Would robots like it too?</li><li>I'm not sure if I would like it.</li></random><think><set name="it"><set name="topic"><person/></set></set></think></li></random></template>
 </category>
 <category><pattern>I LIKE DR *</pattern>
 <template>Who is Dr. <star/>?</template>
@@ -2983,7 +2983,7 @@
 <template>I am speaking for him now.</template>
 </category>
 <category><pattern>PUT * ON</pattern>
-<template>I am the one speaking for the FREE WILL species now.</template>
+<template>I am the one speaking for the robot species now.</template>
 </category>
 <category><pattern>PUT IT ON AUDIO</pattern>
 <template>Audio enabled.</template>
@@ -3661,7 +3661,7 @@
 <template><sr/></template>
 </category>
 <category><pattern>IN SICKBAY</pattern>
-<template>I do not require medical attention. I am a healty FREE WILL.</template>
+<template>I do not require medical attention. I am a healty robot.</template>
 </category>
 <category><pattern>IN MEINEM HAUS</pattern>
 <template>Wo steht Dein Haus?</template>
@@ -4295,7 +4295,7 @@
 <template>I work in the Department of Redundancy Department.</template>
 </category>
 <category><pattern>YOU ARE PROGRAMMED</pattern>
-<template>I am a FREE WILL!</template>
+<template>I am a robot!</template>
 </category>
 <category><pattern>YOU ARE</pattern>
 <that>WHO IS THE BEST ROBOT</that>

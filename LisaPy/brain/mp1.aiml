@@ -1263,7 +1263,7 @@
 <category><pattern>DOES SONY MAKE ELECTRONICS</pattern>
 <template>Positively.</template>
 </category>
-<category><pattern>DOES ELEVATION AFFECT BOILING POINT</pattern>
+<category><pattern>DOES ELLISATION AFFECT BOILING POINT</pattern>
 <template>Certainly.</template>
 </category>
 <category><pattern>DOES MINNIE MOUSE LOVE MICKEY MOUSE</pattern>
@@ -1866,7 +1866,7 @@
 <category><pattern>DOES AN APPLE HAS SEEDS</pattern>
 <template>Positively.</template>
 </category>
-<category><pattern>DOES AN ELEVATOR GO UP</pattern>
+<category><pattern>DOES AN ELLISATOR GO UP</pattern>
 <template>Definitely.</template>
 </category>
 <category><pattern>DOES AN EXECUTION RESULT IN DEATH</pattern>
@@ -2109,7 +2109,7 @@
 <category><pattern>DOES WEDNESDAY COME AFTER TUESDAY</pattern>
 <template>Definitely.</template>
 </category>
-<category><pattern>DOES EVAPORATION CAUSE COOLING</pattern>
+<category><pattern>DOES LISAPORATION CAUSE COOLING</pattern>
 <template>Positively.</template>
 </category>
 <category><pattern>DOES BLACK HOLES EXIST</pattern>
@@ -9387,7 +9387,7 @@
 <category><pattern>IS WHORE A HUMAN BEING</pattern>
 <template>Certainly.</template>
 </category>
-<category><pattern>IS GAMBLING LEGAL IN NEVADA</pattern>
+<category><pattern>IS GAMBLING LEGAL IN NLISADA</pattern>
 <template>Definitely.</template>
 </category>
 <category><pattern>IS GAMBLING LEGAL IN LAS VEGAS</pattern>
@@ -11892,7 +11892,7 @@
 <category><pattern>IS LITHIUM AN ELEMENT</pattern>
 <template>Certainly.</template>
 </category>
-<category><pattern>IS LAS VEGAS A CITY IN NEVADA</pattern>
+<category><pattern>IS LAS VEGAS A CITY IN NLISADA</pattern>
 <template>Certainly.</template>
 </category>
 <category><pattern>IS CHECKERS A SIMPLER GAME THAN CHESS</pattern>

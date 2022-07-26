@@ -1,5 +1,5 @@
 # Author: Rafael Sanchez
-# Desc: Part of Clevergirl Brain in python. Works together with brain.json.
+# Desc: Part of Clevergirl cleverbrain in python. Works together with cleverbrain.json.
 import json
 from difflib import SequenceMatcher
 import random
@@ -18,7 +18,7 @@ def similar(a, b):
 
 def girl_says_not_learn(m):
     new_m = only_words(m)
-    with open('brain.json', 'r+') as f:
+    with open('cleverbrain.json', 'r+') as f:
         data = json.load(f)
         big_ratio = 0
         curr_ratio = 0
@@ -30,18 +30,18 @@ def girl_says_not_learn(m):
             curr_ratio = similar(new_m, pattern)
             if curr_ratio==big_ratio:
                 if reply=="ERROR404":
-                    return "BRUH"
+                    return "I DON'T KNOW DUDE."
                 else:
                     return reply
 
 def girl_says(m):
     global idk
     new_m = only_words(m)
-    with open('brain.json', 'r+') as f:
+    with open('cleverbrain.json', 'r+') as f:
         data = json.load(f)
         for pattern, reply in data.items():
             sratio = similar(new_m, pattern)
-            if sratio >= 75.00 and reply != "ERROR404":
+            if sratio >= 90.00 and reply != "ERROR404":
                 return (reply, "ANSWER")
             elif sratio >= 75.00 and reply == "ERROR404":
                 items = list(data.items())
@@ -68,7 +68,7 @@ def girl_says(m):
 
 def learn(m, pattern_we_said_before):
     new_m = only_words(m)
-    with open('brain.json', 'r+') as f:
+    with open('cleverbrain.json', 'r+') as f:
         data = json.load(f)
         string = '{"'+pattern_we_said_before+'": "'+new_m+'"}'
         new_stuff=json.loads(string)

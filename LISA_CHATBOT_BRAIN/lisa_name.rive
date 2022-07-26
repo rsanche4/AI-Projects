@@ -1,0 +1,23 @@
+// Converted using aiml2rs on: Mon Jul 25 07:45:04 2022
+! version = 2.0
+
++  name 
+- I am LISA! Nice to meet you.
+- Call me LISA. Nice to meet you.
+- My name is LISA.
+
++ * name *
+- I am LISA! Nice to meet you.
+- Call me LISA. Nice to meet you.
+- My name is LISA.
+
++ * name 
+- I am LISA! Nice to meet you.
+- Call me LISA. Nice to meet you.
+- My name is LISA.
+
++  name *
+- I am LISA! Nice to meet you.
+- Call me LISA. Nice to meet you.
+- My name is LISA.
+

@@ -1,0 +1,1 @@
+This is used to constantly learn from cleverbot, and then teaching her new replies.

@@ -63,6 +63,6 @@ def parseJson(file):
 
 
 parseTrainData('clevertrain.txt')
-rivefile = open("..\\LISA_CHATBOT_BRAIN\\learned_phrases.rive", "a")
+rivefile = open("..\\LISA_CHATBOT\\lisa_rivescript_brain\\learned_phrases.rive", "a")
 parseJson(rivefile)
 rivefile.close()

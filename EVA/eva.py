@@ -6,8 +6,6 @@ import aiml
 import os
 from googlesearch import search
 import wikipedia
-from datetime import date, datetime
-import imdb
 
 BRAIN_FILE="brain.dump"
 

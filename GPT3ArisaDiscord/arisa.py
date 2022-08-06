@@ -31,7 +31,7 @@ completion = ai.Completion()
 start_chat_log = session_prompt
 
 def gpt3_reply(question):
-  return str(chat(question,start_chat_log).split("Arisa:")[0]).strip()
+  return str(chat(question,start_chat_log).split("Arisa:")[0].split("Person:")[0]).strip()
 
 tokenfile = open("C:\\Users\\rafas\\Documents\\clevergirltoken\\token.txt", "r")
 TOKENDISCORD = tokenfile.read()

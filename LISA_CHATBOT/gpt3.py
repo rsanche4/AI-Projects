@@ -30,4 +30,4 @@ completion = ai.Completion()
 start_chat_log = session_prompt
 
 def gpt3_reply(question):
-  return str(chat(question,start_chat_log).split("Lisa:")[0]).strip()
+  return str(chat(question,start_chat_log).split("Lisa:")[0].split("Person:")[0]).strip()

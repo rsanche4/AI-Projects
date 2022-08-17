@@ -1,0 +1,19 @@
+Log: Log file open, 08/13/22 12:09:42
+Init: ----------------------------------------
+Init: SWAT VERSION NUMBER: Unknown (Missing Version.ini)
+Init: ----------------------------------------
+Init: Compiled: May  6 2005 13:18:50
+Init: Command line: 
+Init: Base directory: C:\Program Files (x86)\GOG Galaxy\Games\SWAT 4\Content\System\
+Init: Character set: Unicode
+Critical: appError called:
+Critical: Missing startup.ini file
+Critical: Windows GetLastError: The system cannot find the file specified. (2)
+Localization: No localization: Core.Errors.History (int)
+Critical: appInit
+Log: Exception handler: Flushing log file...
+Localization: No localization: Window.Errors.Critical (int)
+Localization: No localization: Window.Errors.Critical (int)
+Exit: Exiting.
+Uninitialized: Name subsystem shut down
+Uninitialized: Log file closed, 08/13/22 12:09:51

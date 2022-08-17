@@ -1,0 +1,6 @@
+Notepad->C:\"Program Files (x86)"\Notepad++\notepad++.exe
+discord->C:\Users\rafas\AppData\Local\Discord\app-0.0.309\Discord.exe
+audio editor->C:\"Program Files (x86)"\Audacity\audacity.exe
+steam->C:\"Program Files (x86)"\Steam\steam.exe
+super nintendo->C:\Users\rafas\Documents\"Other Games"\SNES\snes9x-x64.exe
+police game->C:\"Program Files (x86)"\"GOG Galaxy"\Games\"SWAT 4"\Content\System\Swat4.exe

@@ -2,8 +2,7 @@ import webbrowser
 import pyttsx3 
 import speech_recognition as sr
 import datetime
-from random import choice
-from random import randint
+from random import choice, randint
 import randfacts
 import csv
 import requests
@@ -12,10 +11,13 @@ from playsound import playsound
 import pywhatkit
 import keyboard
 import os
+import _thread
+import IBrain
 
 MASTER = "MASTER"
 botkey_file = open("C:\\Users\\rafas\\Documents\\botkey.txt", 'r')
 BOTKEY = botkey_file.read()
+nice_and_quiet = False
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
 newVoiceRate = 170
@@ -41,10 +43,12 @@ def takeCommand():
         r = sr.Recognizer()
         with sr.Microphone() as source:
             print("Listening...")
-            playsound('listen.wav')
+            if not nice_and_quiet:
+                playsound('listen.wav')
             audio = r.listen(source)
             print("Recognizing...")
-            playsound("recog.wav")
+            if not nice_and_quiet:
+                playsound("recog.wav")
             query = r.recognize_google(audio, language = 'en-in')
             print(f"user said: {query}")
     except Exception as e:
@@ -56,17 +60,27 @@ def query_compare(possible_queries, query):
         if phrase in query:
             return True
     return False
+
+
 def girl_listen():
+    global nice_and_quiet
     global MASTER
     global BOTKEY
+    WAKE_UP = "wake up"
     wishMe()
     while True:
         query = takeCommand()
     
+        # If the user doesn't want her to talk for a while or listen, or told her to shut up, then she will only come back up listening once told to "wake up"
+        if nice_and_quiet:
+            if query.count(WAKE_UP) > 0:
+                nice_and_quiet = False
+            continue
+        
         # just check if it's empty, ignore it
         if query=="":
             continue
-
+        
         # date and time
         elif query_compare(["the time", "what time", "the date", "what date", "today", "the day", "what day", "time of the day", "which day", "what year", "which year", "the month", "what month", "which month"], query):
             hour = datetime.datetime.now()
@@ -95,6 +109,36 @@ def girl_listen():
             msg = rows[r][1][0:250]
             speak(msg)
         
+        # give headlines of top 10 news
+        elif query_compare(["news"], query):
+            url='https://www.bbc.com/news'
+            response = requests.get(url)                
+            soup = BeautifulSoup(response.text, 'html.parser')
+            headlines = soup.find('body').find_all('h3')
+            unwanted = ['BBC World News TV', 'BBC World Service Radio','News daily newsletter', 'Mobile app', 'Get in touch']
+            for x in list(dict.fromkeys(headlines))[:10]:
+                if x.text.strip() not in unwanted:
+                    speak(x.text.strip())
+        
+        # google things on the internet
+        elif query.startswith('search'):
+            lookup = query[6:]
+            lookup = lookup.strip().replace(" ", '+')
+            url = 'https://www.google.com/search?q='
+            url_data = url + lookup
+            speak(choice(["This is what I found.", "Here is what I got from the web.", "I found these on the internet.", "Perhaps these will help..."]))
+            webbrowser.open(url_data)
+
+        # Plays music from youtube by opening it in a browser by saying Play <Name of song>
+        elif query.startswith("play"):
+            speak(choice(["Sure", "Let's try this", "Playing...", "This is what I found on youtube", "Playing what you want to hear", "check it out"]))
+            _thread.start_new_thread(pywhatkit.playonyt, (query[5:],))
+        
+        # Close all tabs on chrome
+        elif query.startswith("close"):
+            webbrowser.open('https://google.com')
+            keyboard.press_and_release('ctrl+shift+w')
+
         # tell the weather
         elif query_compare(["weather", "temperature", "rain", "precipitation", "forecast"], query):
             city = "Weehawken"
@@ -114,54 +158,6 @@ def girl_listen():
             speak("The temperature right now is " + temp)
             speak("The Sky is currently " + sky)
             speak(other_data)
-        
-        # give headlines of top 10 news
-        elif query_compare(["news"], query):
-            url='https://www.bbc.com/news'
-            response = requests.get(url)                
-            soup = BeautifulSoup(response.text, 'html.parser')
-            headlines = soup.find('body').find_all('h3')
-            unwanted = ['BBC World News TV', 'BBC World Service Radio','News daily newsletter', 'Mobile app', 'Get in touch']
-            for x in list(dict.fromkeys(headlines))[:10]:
-                if x.text.strip() not in unwanted:
-                    speak(x.text.strip())
-        
-        # google things on the internet
-        elif query.startswith('search'):
-            lookup = query[6:]
-            url = 'https://www.google.com/search?q='
-            url_data = url + lookup
-            raw = requests.get(url_data)
-            soup = BeautifulSoup(raw.content, 'html5lib')
-            links = soup.find_all('a')
-            allinks = []
-            for link in links:
-                a = link['href']
-                if a.startswith('/url?'):         #<---- links starting from /url are the ones we want
-                    a = a.lstrip('/url?q=')       #<----using lstrip i take that part out
-                    a = a.split('&sa=')[0]        #<-----options, shortens the link without tampering with it
-                    allinks.append(a)
-            speak(choice(["This is what I found.", "Here is what I got from the web.", "I found these on the internet.", "Perhaps these will help..."]))
-            for link in allinks[:5]:
-                try:
-                    response = requests.get(link)
-                    soup = BeautifulSoup(response.text, 'html.parser')
-                    for title in soup.find_all('title'):
-                        speak(title.get_text())
-                        print(link)
-                        print("")
-                        break
-                except:
-                    break
-        
-        # Plays music from youtube by opening it in a browser by saying Play <Name of song>
-        elif query.startswith("play"):
-            pywhatkit.playonyt(query[5:])
-        
-        # Stop all music
-        elif query.startswith("stop"):
-            webbrowser.open('https://google.com')
-            keyboard.press_and_release('ctrl+shift+w')
 
         # calculate and do math
         elif query.startswith("calculate"):
@@ -175,31 +171,78 @@ def girl_listen():
             except Exception as e:
                 print(e)
         
+        # but you can also open the calculator if need be
+        elif query_compare(["open calculator"], query):
+            os.system("calc")
+            speak("Calculator was opened.")
+
         # open the clock application
-        elif query_compare(["timer", "alarm", "countdown", "stopwatch", "clock"], query):
+        elif query_compare(["open timer", "open alarm", "open countdown", "open stopwatch", "open clock"], query):
             os.system("explorer.exe shell:Appsfolder\Microsoft.WindowsAlarms_8wekyb3d8bbwe!App")
             speak("Clock has been opened.")
 
         # Start a new command line
-        elif query_compare(["commandline", "terminal", "command line"], query):
+        elif query_compare(["open commandline", "open terminal", "open command line"], query):
             os.system("start cmd.exe")
             speak("Terminal was opened.")
 
+        # this functionality allows for opening any apps on your computer. Just make sure you add their full path to their executable to the file apps.txt in this format: AppName->FullPath (Important Note: because of the way the command prompt handle whitespace in names, make sure the full path has quotes in directories or files that have white spaces in them, for example: [path\to\dir name\file.exe] would become [path\to\"dir name"\file.exe]. Look at the apps.txt for examples) Do not put quotes around the full path in general. This will only open a new command prompt.
+        elif query.startswith("open "):
+            appsText = open("apps.txt", "r")
+            for line in appsText:
+                line_list = line.split("->")
+                name = line_list[0]
+                fullpath = line_list[1]
+                if name.lower() == query[5:]:
+                    os.system("start "+fullpath)
+                    appsText.close()
+                    speak(name+ " was opened.")
+                    break
+
         # Go to sleep if need be
-        elif query.startswith("sleep"):
+        elif query_compare(["sleep", "shutdown", "die", "offline", "exit", "quit"], query):
             speak(choice(["naptime", "sleep mode activated", "goodbye", "shutting down", "resting", "hibernating"]))
             playsound("shutdown.wav")
             break
 
-        
+        # Stay quiet and only respond to the "wake up" keyword
+        elif query_compare(["quiet", "silence", "silent", "shut up"], query):
+            speak(choice(["I will be nice and quiet now.", "i will be silent now.", "okay! I won't say anything.", "Sure, i will be quiet"]))
+            nice_and_quiet = True
+
+        # read all memos
+        elif query_compare(["read note", "read todo", "read to do", "read memo", "read quick memo", "read quickmemo", "read quick note", "read my note", "read my todo", "read my to do", "read my memo", "read my quick memo", "read my quickmemo", "read my quick note"], query):
+            try:
+                note_file = open("todo.txt", "r")
+                speak("Sure! These are all your notes.")
+                for line in note_file:
+                    speak(line)
+                note_file.close()
+            except:
+                print("Failed to open todo.txt.")
+
+        # erase all the notes all memos
+        elif query_compare(["erase note", "erase todo", "erase to do", "erase memo", "erase quick memo", "erase quickmemo", "erase quick note", "erase my note", "erase my todo", "erase my to do", "erase my memo", "erase my quick memo", "erase my quickmemo", "erase my quick note", "delete note", "delete todo", "delete to do", "delete memo", "delete quick memo", "delete quickmemo", "delete quick note", "delete my note", "delete my todo", "delete my to do", "delete my memo", "delete my quick memo", "delete my quickmemo", "delete my quick note", "forget note", "forget todo", "forget to do", "forget memo", "forget quick memo", "forget quickmemo", "forget quick note", "forget my note", "forget my todo", "forget my to do", "forget my memo", "forget my quick memo", "forget my quickmemo", "forget my quick note"], query):
+            os.system("rm todo.txt")
+            speak("all notes have been deleted")
+
+        # quick memo functionality
+        elif query_compare(["quick memo", "quickmemo", "todo", "to do", "note", "quick note"], query):
+            file_note = open("todo.txt", "a")
+            speak("Sure! What would you like me to write?")
+            query = takeCommand()
+            file_note.write(query+"\n")
+            speak("noted")
+            file_note.close()
 
         # small talk
         else:
-            dataToSend = {'botkey': f'{BOTKEY}','input': f'{query}'}
-            response = requests.post('https://devman.kuki.ai/atalk', data=dataToSend)
+            dataToSend1 = {'botkey': BOTKEY,'input': query}
+            response = requests.post('https://devman.kuki.ai/atalk', data=dataToSend1)
             if response.status_code!=200:
                 print(response)
                 print(response.text)
+                speak(IBrain.gpt3_reply(query))
                 continue
             jsonResponse = response.json()   
             responses_array = jsonResponse["responses"]

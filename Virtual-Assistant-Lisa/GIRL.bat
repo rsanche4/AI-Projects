@@ -1,1 +1,0 @@
-python C:\Users\rafas\Documents\Github\AI-Projects\Virtual-Assistant-Lisa\Start.py

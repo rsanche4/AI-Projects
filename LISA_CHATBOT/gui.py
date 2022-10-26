@@ -6,7 +6,6 @@ import pygame
 import random
 import json
 import socket
-import gpt3
 host_port = input("Let's connect to the server. Input the IP Address and port (Ex: 192.168.163.128:2020): ")
 hp_list = host_port.split(':')
 HOST, PORT = hp_list[0], int(hp_list[1])
@@ -45,22 +44,19 @@ def print_slow(widget: Label, text, delay, index=1, start_index=0):
     return root.after(delay, print_slow, widget, text, delay, index) if index <= len(text) else None
 def myClick():
     z_mes="I don't know."
-    if random.randint(0, 2)==0:
-        dataJson = {"username":"localuser","message": e.get(), "vars": {"name": name}}
-        data = json.dumps(dataJson)
-        data = str(data)+"\n"+"__END__"
-        sock.sendall(bytes(data,encoding="utf-8"))
-        received = sock.recv(4096)
-        received = received.decode("utf-8")
-        received = received.replace("__END__", "")
-        parsed_data = json.loads(received)
-        answer = parsed_data["reply"].upper()
-        if answer.strip()=="}" or answer.strip()=="":
-            z_mes=gpt3.gpt3_reply(e.get()).upper()
-        else:
-            z_mes=parsed_data["reply"].upper()
-    else:
-        z_mes=gpt3.gpt3_reply(e.get()).upper()
+    
+    dataJson = {"username":"localuser","message": e.get(), "vars": {"name": name}}
+    data = json.dumps(dataJson)
+    data = str(data)+"\n"+"__END__"
+    sock.sendall(bytes(data,encoding="utf-8"))
+    received = sock.recv(4096)
+    received = received.decode("utf-8")
+    received = received.replace("__END__", "")
+    parsed_data = json.loads(received)
+    answer = parsed_data["reply"].upper()
+    if answer.strip()!="}" or answer.strip()!="":
+        z_mes=parsed_data["reply"].upper()
+    
     e.delete(0, END)
     print_slow(abel, z_mes.upper(), 50)
 def func(event):

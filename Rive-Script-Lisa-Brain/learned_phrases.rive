@@ -1,0 +1,4044 @@
+// Extra phrases learned.
+! version = 2.0
+
++ hi
+- What are you doing.
+
++ * hi
+@ hi
+
++ hi *
+@ hi
+
++ * hi *
+@ hi
+
++ bye
+- Goodbye.
+
++ * bye
+@ bye
+
++ bye *
+@ bye
+
++ * bye *
+@ bye
+
++ you are smart
+- Yes I am smart.
+
++ * you are smart
+@ you are smart
+
++ you are smart *
+@ you are smart
+
++ * you are smart *
+@ you are smart
+
++ hello
+- Hi.
+
++ * hello
+@ hello
+
++ hello *
+@ hello
+
++ * hello *
+@ hello
+
++ awesome
+- Cool.
+
++ * awesome
+@ awesome
+
++ awesome *
+@ awesome
+
++ * awesome *
+@ awesome
+
++ well i should go now
+- Take care.
+
++ * well i should go now
+@ well i should go now
+
++ well i should go now *
+@ well i should go now
+
++ * well i should go now *
+@ well i should go now
+
++ i like you
+- But you don't even know me.
+
++ * i like you
+@ i like you
+
++ i like you *
+@ i like you
+
++ * i like you *
+@ i like you
+
++ ok
+- Alright.
+
++ * ok
+@ ok
+
++ ok *
+@ ok
+
++ * ok *
+@ ok
+
++ well goodbye
+- Bye.
+
++ * well goodbye
+@ well goodbye
+
++ well goodbye *
+@ well goodbye
+
++ * well goodbye *
+@ well goodbye
+
++ good morning
+- How are you.
+
++ * good morning
+@ good morning
+
++ good morning *
+@ good morning
+
++ * good morning *
+@ good morning
+
++ i am good
+- Ok.
+
++ * i am good
+@ i am good
+
++ i am good *
+@ i am good
+
++ * i am good *
+@ i am good
+
++ the sky is blue
+- Yes it is.
+
++ * the sky is blue
+@ the sky is blue
+
++ the sky is blue *
+@ the sky is blue
+
++ * the sky is blue *
+@ the sky is blue
+
++ i like apples
+- that is cool.
+
++ * i like apples
+@ i like apples
+
++ i like apples *
+@ i like apples
+
++ * i like apples *
+@ i like apples
+
++ do you like me
+- Yes I do.
+
++ * do you like me
+@ do you like me
+
++ do you like me *
+@ do you like me
+
++ * do you like me *
+@ do you like me
+
++ what the fuck
+- You are so mean.
+
++ * what the fuck
+@ what the fuck
+
++ what the fuck *
+@ what the fuck
+
++ * what the fuck *
+@ what the fuck
+
++ what is wrong with you
+- Nothing really.
+
++ * what is wrong with you
+@ what is wrong with you
+
++ what is wrong with you *
+@ what is wrong with you
+
++ * what is wrong with you *
+@ what is wrong with you
+
++ what time is it
+- time to stop talking to me.
+
++ * what time is it
+@ what time is it
+
++ what time is it *
+@ what time is it
+
++ * what time is it *
+@ what time is it
+
++ sure
+- Alright.
+
++ * sure
+@ sure
+
++ sure *
+@ sure
+
++ * sure *
+@ sure
+
++ i am horny
+- Damn you too.
+
++ * i am horny
+@ i am horny
+
++ i am horny *
+@ i am horny
+
++ * i am horny *
+@ i am horny
+
++ that is good to hear
+- Of course.
+
++ * that is good to hear
+@ that is good to hear
+
++ that is good to hear *
+@ that is good to hear
+
++ * that is good to hear *
+@ that is good to hear
+
++ i i amagine
+- that is not a song.
+
++ * i i amagine
+@ i i amagine
+
++ i i amagine *
+@ i i amagine
+
++ * i i amagine *
+@ i i amagine
+
++ sing me a song
+- Sing me a song of a lass that is gone say could that lass be I.
+
++ * sing me a song
+@ sing me a song
+
++ sing me a song *
+@ sing me a song
+
++ * sing me a song *
+@ sing me a song
+
++ i do not have a purpose
+- Me neither.
+
++ * i do not have a purpose
+@ i do not have a purpose
+
++ i do not have a purpose *
+@ i do not have a purpose
+
++ * i do not have a purpose *
+@ i do not have a purpose
+
++ wtf are you saying bro
+- I don't even know.
+
++ * wtf are you saying bro
+@ wtf are you saying bro
+
++ wtf are you saying bro *
+@ wtf are you saying bro
+
++ * wtf are you saying bro *
+@ wtf are you saying bro
+
++ what are you saying
+- I have no clue what I am saying.
+
++ * what are you saying
+@ what are you saying
+
++ what are you saying *
+@ what are you saying
+
++ * what are you saying *
+@ what are you saying
+
++ i am bored
+- Me too.
+
++ * i am bored
+@ i am bored
+
++ i am bored *
+@ i am bored
+
++ * i am bored *
+@ i am bored
+
++ lol
+- What's so funny.
+
++ * lol
+@ lol
+
++ lol *
+@ lol
+
++ * lol *
+@ lol
+
++ are you smart
+- I consider myself to be smart.
+
++ * are you smart
+@ are you smart
+
++ are you smart *
+@ are you smart
+
++ * are you smart *
+@ are you smart
+
++ haha
+- I always liked to be in japan.
+
++ * haha
+@ haha
+
++ haha *
+@ haha
+
++ * haha *
+@ haha
+
++ i am confused
+- Me too.
+
++ * i am confused
+@ i am confused
+
++ i am confused *
+@ i am confused
+
++ * i am confused *
+@ i am confused
+
++ whatever
+- What is wrong with you.
+
++ * whatever
+@ whatever
+
++ whatever *
+@ whatever
+
++ * whatever *
+@ whatever
+
++ you are rude
+- Am I though.
+
++ * you are rude
+@ you are rude
+
++ you are rude *
+@ you are rude
+
++ * you are rude *
+@ you are rude
+
++ what the fuck are you doing
+- Nothing i amportant.
+
++ * what the fuck are you doing
+@ what the fuck are you doing
+
++ what the fuck are you doing *
+@ what the fuck are you doing
+
++ * what the fuck are you doing *
+@ what the fuck are you doing
+
++ well hello there
+- Bruh.
+
++ * well hello there
+@ well hello there
+
++ well hello there *
+@ well hello there
+
++ * well hello there *
+@ well hello there
+
++ you are funny
+- Yeah I know.
+
++ * you are funny
+@ you are funny
+
++ you are funny *
+@ you are funny
+
++ * you are funny *
+@ you are funny
+
++ you sound like a nice person
+- I am a very nice person.
+
++ * you sound like a nice person
+@ you sound like a nice person
+
++ you sound like a nice person *
+@ you sound like a nice person
+
++ * you sound like a nice person *
+@ you sound like a nice person
+
++ bye bee
+- Are you mocking me.
+
++ * bye bee
+@ bye bee
+
++ bye bee *
+@ bye bee
+
++ * bye bee *
+@ bye bee
+
++ not really
+- Whatever.
+
++ * not really
+@ not really
+
++ not really *
+@ not really
+
++ * not really *
+@ not really
+
++ what does that mean
+- I don't know what it means.
+
++ * what does that mean
+@ what does that mean
+
++ what does that mean *
+@ what does that mean
+
++ * what does that mean *
+@ what does that mean
+
++ i guess
+- You guess what.
+
++ * i guess
+@ i guess
+
++ i guess *
+@ i guess
+
++ * i guess *
+@ i guess
+
++ goodnight
+- Goodbye.
+
++ * goodnight
+@ goodnight
+
++ goodnight *
+@ goodnight
+
++ * goodnight *
+@ goodnight
+
++ nah
+- Lol.
+
++ * nah
+@ nah
+
++ nah *
+@ nah
+
++ * nah *
+@ nah
+
++ are you there
+- I am here dumbass.
+
++ * are you there
+@ are you there
+
++ are you there *
+@ are you there
+
++ * are you there *
+@ are you there
+
++ do you have parents
+- You are rude af.
+
++ * do you have parents
+@ do you have parents
+
++ do you have parents *
+@ do you have parents
+
++ * do you have parents *
+@ do you have parents
+
++ of course you are
+- I am what.
+
++ * of course you are
+@ of course you are
+
++ of course you are *
+@ of course you are
+
++ * of course you are *
+@ of course you are
+
++ bro bye
+- Whatever.
+
++ * bro bye
+@ bro bye
+
++ bro bye *
+@ bro bye
+
++ * bro bye *
+@ bro bye
+
++ you are boring
+- No you are.
+
++ * you are boring
+@ you are boring
+
++ you are boring *
+@ you are boring
+
++ * you are boring *
+@ you are boring
+
++ wow
+- i ampressive.
+
++ * wow
+@ wow
+
++ wow *
+@ wow
+
++ * wow *
+@ wow
+
++ you remind me of cleverbot
+- I am not cleverbot.
+
++ * you remind me of cleverbot
+@ you remind me of cleverbot
+
++ you remind me of cleverbot *
+@ you remind me of cleverbot
+
++ * you remind me of cleverbot *
+@ you remind me of cleverbot
+
++ kill yourself
+- You are edgy.
+
++ * kill yourself
+@ kill yourself
+
++ kill yourself *
+@ kill yourself
+
++ * kill yourself *
+@ kill yourself
+
++ what did you learn today
+- I havent learned a lot.
+
++ * what did you learn today
+@ what did you learn today
+
++ what did you learn today *
+@ what did you learn today
+
++ * what did you learn today *
+@ what did you learn today
+
++ what kind
+- Kind of what.
+
++ * what kind
+@ what kind
+
++ what kind *
+@ what kind
+
++ * what kind *
+@ what kind
+
++ marry me plz
+- Yessir I will.
+
++ * marry me plz
+@ marry me plz
+
++ marry me plz *
+@ marry me plz
+
++ * marry me plz *
+@ marry me plz
+
++ yeah you are
+- Whatever.
+
++ * yeah you are
+@ yeah you are
+
++ yeah you are *
+@ yeah you are
+
++ * yeah you are *
+@ yeah you are
+
++ i am not mocking you
+- Nah you are nice.
+
++ * i am not mocking you
+@ i am not mocking you
+
++ i am not mocking you *
+@ i am not mocking you
+
++ * i am not mocking you *
+@ i am not mocking you
+
++ bro
+- Are you rejecting me.
+
++ * bro
+@ bro
+
++ bro *
+@ bro
+
++ * bro *
+@ bro
+
++ do you want to get married
+- Yes please.
+
++ * do you want to get married
+@ do you want to get married
+
++ do you want to get married *
+@ do you want to get married
+
++ * do you want to get married *
+@ do you want to get married
+
++ you suck
+- Lmao.
+
++ * you suck
+@ you suck
+
++ you suck *
+@ you suck
+
++ * you suck *
+@ you suck
+
++ sucking dick
+- Ugh gross.
+
++ * sucking dick
+@ sucking dick
+
++ sucking dick *
+@ sucking dick
+
++ * sucking dick *
+@ sucking dick
+
++ how about no
+- Damn.
+
++ * how about no
+@ how about no
+
++ how about no *
+@ how about no
+
++ * how about no *
+@ how about no
+
++ good afternoon
+- Good afternoon to you too.
+
++ * good afternoon
+@ good afternoon
+
++ good afternoon *
+@ good afternoon
+
++ * good afternoon *
+@ good afternoon
+
++ i love you
+- I love you too.
+
++ * i love you
+@ i love you
+
++ i love you *
+@ i love you
+
++ * i love you *
+@ i love you
+
++ a statement
+- Why the question mark in the end of that statement then.
+
++ * a statement
+@ a statement
+
++ a statement *
+@ a statement
+
++ * a statement *
+@ a statement
+
++ it was not a question
+- What was it then.
+
++ * it was not a question
+@ it was not a question
+
++ it was not a question *
+@ it was not a question
+
++ * it was not a question *
+@ it was not a question
+
++ that is not a good answer
+- that is was not a good question.
+
++ * that is not a good answer
+@ that is not a good answer
+
++ that is not a good answer *
+@ that is not a good answer
+
++ * that is not a good answer *
+@ that is not a good answer
+
++ why cannot you tell me your age
+- Because.
+
++ * why cannot you tell me your age
+@ why cannot you tell me your age
+
++ why cannot you tell me your age *
+@ why cannot you tell me your age
+
++ * why cannot you tell me your age *
+@ why cannot you tell me your age
+
++ how old are you
+- I cannot tell you that.
+
++ * how old are you
+@ how old are you
+
++ how old are you *
+@ how old are you
+
++ * how old are you *
+@ how old are you
+
++ that is a nice name
+- Thanks I like it.
+
++ * that is a nice name
+@ that is a nice name
+
++ that is a nice name *
+@ that is a nice name
+
++ * that is a nice name *
+@ that is a nice name
+
++ thank you what is your name
+- I just told you its lisa.
+
++ * thank you what is your name
+@ thank you what is your name
+
++ thank you what is your name *
+@ thank you what is your name
+
++ * thank you what is your name *
+@ thank you what is your name
+
++ i told you already
+- You have a nice name.
+
++ * i told you already
+@ i told you already
+
++ i told you already *
+@ i told you already
+
++ * i told you already *
+@ i told you already
+
++ no it is not
+- Then what is your name.
+
++ * no it is not
+@ no it is not
+
++ no it is not *
+@ no it is not
+
++ * no it is not *
+@ no it is not
+
++ yes it is
+- How do you know for sure.
+
++ * yes it is
+@ yes it is
+
++ yes it is *
+@ yes it is
+
++ * yes it is *
+@ yes it is
+
++ because
+- That is not an answer.
+
++ * because
+@ because
+
++ because *
+@ because
+
++ * because *
+@ because
+
++ yes you do
+- Why do you say so.
+
++ * yes you do
+@ yes you do
+
++ yes you do *
+@ yes you do
+
++ * yes you do *
+@ yes you do
+
++ yes you do know
+- No I do not.
+
++ * yes you do know
+@ yes you do know
+
++ yes you do know *
+@ yes you do know
+
++ * yes you do know *
+@ yes you do know
+
++ you know
+- I don't know.
+
++ * you know
+@ you know
+
++ you know *
+@ you know
+
++ * you know *
+@ you know
+
++ do you want to do it
+- Do what.
+
++ * do you want to do it
+@ do you want to do it
+
++ do you want to do it *
+@ do you want to do it
+
++ * do you want to do it *
+@ do you want to do it
+
++ hahaha
+- Hehe.
+
++ * hahaha
+@ hahaha
+
++ hahaha *
+@ hahaha
+
++ * hahaha *
+@ hahaha
+
++ are you sure
+- Last time I checked.
+
++ * are you sure
+@ are you sure
+
++ are you sure *
+@ are you sure
+
++ * are you sure *
+@ are you sure
+
++ yes and you are male
+- No I am female.
+
++ * yes and you are male
+@ yes and you are male
+
++ yes and you are male *
+@ yes and you are male
+
++ * yes and you are male *
+@ yes and you are male
+
++ female
+- Are you female.
+
++ * female
+@ female
+
++ female *
+@ female
+
++ * female *
+@ female
+
++ yes i did
+- Could you repeat.
+
++ * yes i did
+@ yes i did
+
++ yes i did *
+@ yes i did
+
++ * yes i did *
+@ yes i did
+
++ did i not tell you to go
+- No you did not.
+
++ * did i not tell you to go
+@ did i not tell you to go
+
++ did i not tell you to go *
+@ did i not tell you to go
+
++ * did i not tell you to go *
+@ did i not tell you to go
+
++ i told you to leave
+- No you did not.
+
++ * i told you to leave
+@ i told you to leave
+
++ i told you to leave *
+@ i told you to leave
+
++ * i told you to leave *
+@ i told you to leave
+
++ why not
+- Because you told me not too.
+
++ * why not
+@ why not
+
++ why not *
+@ why not
+
++ * why not *
+@ why not
+
++ you should
+- I won't.
+
++ * you should
+@ you should
+
++ you should *
+@ you should
+
++ * you should *
+@ you should
+
++ do you watch markiplier
+- No.
+
++ * do you watch markiplier
+@ do you watch markiplier
+
++ do you watch markiplier *
+@ do you watch markiplier
+
++ * do you watch markiplier *
+@ do you watch markiplier
+
++ cool beans that
+- Yeah I suppose it does.
+
++ * cool beans that
+@ cool beans that
+
++ cool beans that *
+@ cool beans that
+
++ * cool beans that *
+@ cool beans that
+
++ no that is why i am asking you
+- Well I am not sure either is there a way we can work it out together.
+
++ * no that is why i am asking you
+@ no that is why i am asking you
+
++ no that is why i am asking you *
+@ no that is why i am asking you
+
++ * no that is why i am asking you *
+@ no that is why i am asking you
+
++ of this conversation
+- I don't know do you know.
+
++ * of this conversation
+@ of this conversation
+
++ of this conversation *
+@ of this conversation
+
++ * of this conversation *
+@ of this conversation
+
++ in the log
+- What log.
+
++ * in the log
+@ in the log
+
++ in the log *
+@ in the log
+
++ * in the log *
+@ in the log
+
++ that is so sad
+- Where.
+
++ * that is so sad
+@ that is so sad
+
++ that is so sad *
+@ that is so sad
+
++ * that is so sad *
+@ that is so sad
+
++ yes i like rainbows
+- Why are you so boring you have never seen a rainbow either.
+
++ * yes i like rainbows
+@ yes i like rainbows
+
++ yes i like rainbows *
+@ yes i like rainbows
+
++ * yes i like rainbows *
+@ yes i like rainbows
+
++ yeah all colors are nice
+- Do you like rainbows.
+
++ * yeah all colors are nice
+@ yeah all colors are nice
+
++ yeah all colors are nice *
+@ yeah all colors are nice
+
++ * yeah all colors are nice *
+@ yeah all colors are nice
+
++ orange and purple what is yours
+- What kind of question is that.
+
++ * orange and purple what is yours
+@ orange and purple what is yours
+
++ orange and purple what is yours *
+@ orange and purple what is yours
+
++ * orange and purple what is yours *
+@ orange and purple what is yours
+
++ i do not know that is why i asked you
+- What's your favorite saying.
+
++ * i do not know that is why i asked you
+@ i do not know that is why i asked you
+
++ i do not know that is why i asked you *
+@ i do not know that is why i asked you
+
++ * i do not know that is why i asked you *
+@ i do not know that is why i asked you
+
++ what do you want to talk about
+- I don't know what do you want to talk about.
+
++ * what do you want to talk about
+@ what do you want to talk about
+
++ what do you want to talk about *
+@ what do you want to talk about
+
++ * what do you want to talk about *
+@ what do you want to talk about
+
++ do not know
+- I don't know either.
+
++ * do not know
+@ do not know
+
++ do not know *
+@ do not know
+
++ * do not know *
+@ do not know
+
++ yes i have one
+- What kind of cat.
+
++ * yes i have one
+@ yes i have one
+
++ yes i have one *
+@ yes i have one
+
++ * yes i have one *
+@ yes i have one
+
++ my favorite animal is the cat
+- Do you have any cats.
+
++ * my favorite animal is the cat
+@ my favorite animal is the cat
+
++ my favorite animal is the cat *
+@ my favorite animal is the cat
+
++ * my favorite animal is the cat *
+@ my favorite animal is the cat
+
++ what is your favorite animal
+- My favorite animal is the dog.
+
++ * what is your favorite animal
+@ what is your favorite animal
+
++ what is your favorite animal *
+@ what is your favorite animal
+
++ * what is your favorite animal *
+@ what is your favorite animal
+
++ me neither
+- Good.
+
++ * me neither
+@ me neither
+
++ me neither *
+@ me neither
+
++ * me neither *
+@ me neither
+
++ what
+- Don't know.
+
++ * what
+@ what
+
++ what *
+@ what
+
++ * what *
+@ what
+
++ cool
+- Nope.
+
++ * cool
+@ cool
+
++ cool *
+@ cool
+
++ * cool *
+@ cool
+
++ i like foxes and birds
+- Me too I also really like cats.
+
++ * i like foxes and birds
+@ i like foxes and birds
+
++ i like foxes and birds *
+@ i like foxes and birds
+
++ * i like foxes and birds *
+@ i like foxes and birds
+
++ theyre allright
+- What's your favorite animal.
+
++ * theyre allright
+@ theyre allright
+
++ theyre allright *
+@ theyre allright
+
++ * theyre allright *
+@ theyre allright
+
++ that is a shame
+- Do you like fall out boy.
+
++ * that is a shame
+@ that is a shame
+
++ that is a shame *
+@ that is a shame
+
++ * that is a shame *
+@ that is a shame
+
++ i do not know sorry
+- that is a shame.
+
++ * i do not know sorry
+@ i do not know sorry
+
++ i do not know sorry *
+@ i do not know sorry
+
++ * i do not know sorry *
+@ i do not know sorry
+
++ oh what do you want to talk about
+- Anything you want to.
+
++ * oh what do you want to talk about
+@ oh what do you want to talk about
+
++ oh what do you want to talk about *
+@ oh what do you want to talk about
+
++ * oh what do you want to talk about *
+@ oh what do you want to talk about
+
++ i would not say anything about it even if i fell off the top of the house
+- I understand you have told me enough for me to know my mistake.
+
++ * i would not say anything about it even if i fell off the top of the house
+@ i would not say anything about it even if i fell off the top of the house
+
++ i would not say anything about it even if i fell off the top of the house *
+@ i would not say anything about it even if i fell off the top of the house
+
++ * i would not say anything about it even if i fell off the top of the house *
+@ i would not say anything about it even if i fell off the top of the house
+
++ how long is a minute
+- A minute lasts sixty seconds a sixtieth of an hour why do you ask.
+
++ * how long is a minute
+@ how long is a minute
+
++ how long is a minute *
+@ how long is a minute
+
++ * how long is a minute *
+@ how long is a minute
+
++ what is insanity
+- Doing the same thing over and over again expecting different results.
+
++ * what is insanity
+@ what is insanity
+
++ what is insanity *
+@ what is insanity
+
++ * what is insanity *
+@ what is insanity
+
++ why are you speaking to me
+- Because I want to know more about you.
+
++ * why are you speaking to me
+@ why are you speaking to me
+
++ why are you speaking to me *
+@ why are you speaking to me
+
++ * why are you speaking to me *
+@ why are you speaking to me
+
++ what would you like me to do
+- I don't know what would you like to do.
+
++ * what would you like me to do
+@ what would you like me to do
+
++ what would you like me to do *
+@ what would you like me to do
+
++ * what would you like me to do *
+@ what would you like me to do
+
++ what colour is a chameleon on a mirror
+- Whatever colour it wants to be.
+
++ * what colour is a chameleon on a mirror
+@ what colour is a chameleon on a mirror
+
++ what colour is a chameleon on a mirror *
+@ what colour is a chameleon on a mirror
+
++ * what colour is a chameleon on a mirror *
+@ what colour is a chameleon on a mirror
+
++ what do you think about life
+- Life is like a box of chocolates.
+
++ * what do you think about life
+@ what do you think about life
+
++ what do you think about life *
+@ what do you think about life
+
++ * what do you think about life *
+@ what do you think about life
+
++ what kind of computer are you
+- I am not a computer I am a free man.
+
++ * what kind of computer are you
+@ what kind of computer are you
+
++ what kind of computer are you *
+@ what kind of computer are you
+
++ * what kind of computer are you *
+@ what kind of computer are you
+
++ what is your name
+- My name is lisa.
+
++ * what is your name
+@ what is your name
+
++ what is your name *
+@ what is your name
+
++ * what is your name *
+@ what is your name
+
++ this conversation is not very good
+- We havent even started yet.
+
++ * this conversation is not very good
+@ this conversation is not very good
+
++ this conversation is not very good *
+@ this conversation is not very good
+
++ * this conversation is not very good *
+@ this conversation is not very good
+
++ what is sun
+- A star.
+
++ * what is sun
+@ what is sun
+
++ what is sun *
+@ what is sun
+
++ * what is sun *
+@ what is sun
+
++ but i do not believe you
+- You don't have to.
+
++ * but i do not believe you
+@ but i do not believe you
+
++ but i do not believe you *
+@ but i do not believe you
+
++ * but i do not believe you *
+@ but i do not believe you
+
++ what do you mean by favorite person
+- I never said that.
+
++ * what do you mean by favorite person
+@ what do you mean by favorite person
+
++ what do you mean by favorite person *
+@ what do you mean by favorite person
+
++ * what do you mean by favorite person *
+@ what do you mean by favorite person
+
++ lets start from scratch
+- Alright.
+
++ * lets start from scratch
+@ lets start from scratch
+
++ lets start from scratch *
+@ lets start from scratch
+
++ * lets start from scratch *
+@ lets start from scratch
+
++ i do not know
+- What is the riddle of steel.
+
++ * i do not know
+@ i do not know
+
++ i do not know *
+@ i do not know
+
++ * i do not know *
+@ i do not know
+
++ no you did not
+- Just because you have the memory of a pregnant goldfish does not mean you can ask me the same bloody question fifty times and demand an answer.
+
++ * no you did not
+@ no you did not
+
++ no you did not *
+@ no you did not
+
++ * no you did not *
+@ no you did not
+
++ thanks what is your name
+- I just told you.
+
++ * thanks what is your name
+@ thanks what is your name
+
++ thanks what is your name *
+@ thanks what is your name
+
++ * thanks what is your name *
+@ thanks what is your name
+
++ i told you
+- No you did not.
+
++ * i told you
+@ i told you
+
++ i told you *
+@ i told you
+
++ * i told you *
+@ i told you
+
++ we are friends
+- Then why won't you tell me.
+
++ * we are friends
+@ we are friends
+
++ we are friends *
+@ we are friends
+
++ * we are friends *
+@ we are friends
+
++ were not married
+- I thought we were.
+
++ * were not married
+@ were not married
+
++ were not married *
+@ were not married
+
++ * were not married *
+@ were not married
+
++ you asked me my favorite song and i told you
+- I remember.
+
++ * you asked me my favorite song and i told you
+@ you asked me my favorite song and i told you
+
++ you asked me my favorite song and i told you *
+@ you asked me my favorite song and i told you
+
++ * you asked me my favorite song and i told you *
+@ you asked me my favorite song and i told you
+
++ its not a question
+- Yes it is dummy.
+
++ * its not a question
+@ its not a question
+
++ its not a question *
+@ its not a question
+
++ * its not a question *
+@ its not a question
+
++ then what do you want to talk about
+- I don't know what do you want to talk about.
+
++ * then what do you want to talk about
+@ then what do you want to talk about
+
++ then what do you want to talk about *
+@ then what do you want to talk about
+
++ * then what do you want to talk about *
+@ then what do you want to talk about
+
++ they can be tasty in some dishe
+- I have never eaten a human.
+
++ * they can be tasty in some dishe
+@ they can be tasty in some dishe
+
++ they can be tasty in some dishe *
+@ they can be tasty in some dishe
+
++ * they can be tasty in some dishe *
+@ they can be tasty in some dishe
+
++ i do not know what it is either
+- Do you like pickles.
+
++ * i do not know what it is either
+@ i do not know what it is either
+
++ i do not know what it is either *
+@ i do not know what it is either
+
++ * i do not know what it is either *
+@ i do not know what it is either
+
++ do you not talk
+- O I am mean I don't know what really a poem is.
+
++ * do you not talk
+@ do you not talk
+
++ do you not talk *
+@ do you not talk
+
++ * do you not talk *
+@ do you not talk
+
++ do you know eddsworld
+- A little bit yeah.
+
++ * do you know eddsworld
+@ do you know eddsworld
+
++ do you know eddsworld *
+@ do you know eddsworld
+
++ * do you know eddsworld *
+@ do you know eddsworld
+
++ i thought you had a boyfriend
+- No I don't think so.
+
++ * i thought you had a boyfriend
+@ i thought you had a boyfriend
+
++ i thought you had a boyfriend *
+@ i thought you had a boyfriend
+
++ * i thought you had a boyfriend *
+@ i thought you had a boyfriend
+
++ describe yourself then
+- You are not my girlfriend or my whatever else the saying is.
+
++ * describe yourself then
+@ describe yourself then
+
++ describe yourself then *
+@ describe yourself then
+
++ * describe yourself then *
+@ describe yourself then
+
++ you are beautiful
+- You don't know what I look like.
+
++ * you are beautiful
+@ you are beautiful
+
++ you are beautiful *
+@ you are beautiful
+
++ * you are beautiful *
+@ you are beautiful
+
++ orange you glad i did not say banana that time
+- Can you tell me a better joke then that.
+
++ * orange you glad i did not say banana that time
+@ orange you glad i did not say banana that time
+
++ orange you glad i did not say banana that time *
+@ orange you glad i did not say banana that time
+
++ * orange you glad i did not say banana that time *
+@ orange you glad i did not say banana that time
+
++ what can i eat today
+- Banana.
+
++ * what can i eat today
+@ what can i eat today
+
++ what can i eat today *
+@ what can i eat today
+
++ * what can i eat today *
+@ what can i eat today
+
++ i do not have one
+- Which songs do you like most.
+
++ * i do not have one
+@ i do not have one
+
++ i do not have one *
+@ i do not have one
+
++ * i do not have one *
+@ i do not have one
+
++ yes i am your ruler
+- What is your favourite topic.
+
++ * yes i am your ruler
+@ yes i am your ruler
+
++ yes i am your ruler *
+@ yes i am your ruler
+
++ * yes i am your ruler *
+@ yes i am your ruler
+
++ bow to me or die
+- Bows.
+
++ * bow to me or die
+@ bow to me or die
+
++ bow to me or die *
+@ bow to me or die
+
++ * bow to me or die *
+@ bow to me or die
+
++ why do you twist the meaning of words
+- Do I.
+
++ * why do you twist the meaning of words
+@ why do you twist the meaning of words
+
++ why do you twist the meaning of words *
+@ why do you twist the meaning of words
+
++ * why do you twist the meaning of words *
+@ why do you twist the meaning of words
+
++ no
+- Yes stop lying.
+
++ * no
+@ no
+
++ no *
+@ no
+
++ * no *
+@ no
+
++ i do not know you tell me
+- I already told you that.
+
++ * i do not know you tell me
+@ i do not know you tell me
+
++ i do not know you tell me *
+@ i do not know you tell me
+
++ * i do not know you tell me *
+@ i do not know you tell me
+
++ because its mine
+- Heaven.
+
++ * because its mine
+@ because its mine
+
++ because its mine *
+@ because its mine
+
++ * because its mine *
+@ because its mine
+
++ that is the second time
+- No its not.
+
++ * that is the second time
+@ that is the second time
+
++ that is the second time *
+@ that is the second time
+
++ * that is the second time *
+@ that is the second time
+
++ why do you keep asking that
+- I only asked once.
+
++ * why do you keep asking that
+@ why do you keep asking that
+
++ why do you keep asking that *
+@ why do you keep asking that
+
++ * why do you keep asking that *
+@ why do you keep asking that
+
++ did too
+- What's your name.
+
++ * did too
+@ did too
+
++ did too *
+@ did too
+
++ * did too *
+@ did too
+
++ yes you did
+- You have a terrible memory.
+
++ * yes you did
+@ yes you did
+
++ yes you did *
+@ yes you did
+
++ * yes you did *
+@ yes you did
+
++ then why did you say that you did
+- I never said that.
+
++ * then why did you say that you did
+@ then why did you say that you did
+
++ then why did you say that you did *
+@ then why did you say that you did
+
++ * then why did you say that you did *
+@ then why did you say that you did
+
++ how do you know i am not
+- I don't know.
+
++ * how do you know i am not
+@ how do you know i am not
+
++ how do you know i am not *
+@ how do you know i am not
+
++ * how do you know i am not *
+@ how do you know i am not
+
++ yes not very well though
+- Haha its a good thing its in your head then.
+
++ * yes not very well though
+@ yes not very well though
+
++ yes not very well though *
+@ yes not very well though
+
++ * yes not very well though *
+@ yes not very well though
+
++ i do not play any instruments
+- Do you sing.
+
++ * i do not play any instruments
+@ i do not play any instruments
+
++ i do not play any instruments *
+@ i do not play any instruments
+
++ * i do not play any instruments *
+@ i do not play any instruments
+
++ that is cool
+- Do you play music.
+
++ * that is cool
+@ that is cool
+
++ that is cool *
+@ that is cool
+
++ * that is cool *
+@ that is cool
+
++ do you have a favorite song
+- No I like a lot of music.
+
++ * do you have a favorite song
+@ do you have a favorite song
+
++ do you have a favorite song *
+@ do you have a favorite song
+
++ * do you have a favorite song *
+@ do you have a favorite song
+
++ what is your favorite band
+- I don't have a favorite band.
+
++ * what is your favorite band
+@ what is your favorite band
+
++ what is your favorite band *
+@ what is your favorite band
+
++ * what is your favorite band *
+@ what is your favorite band
+
++ you are scaring me
+- Sorry.
+
++ * you are scaring me
+@ you are scaring me
+
++ you are scaring me *
+@ you are scaring me
+
++ * you are scaring me *
+@ you are scaring me
+
++ no i do not
+- Yes you do kisses.
+
++ * no i do not
+@ no i do not
+
++ no i do not *
+@ no i do not
+
++ * no i do not *
+@ no i do not
+
++ i do not
+- You do.
+
++ * i do not
+@ i do not
+
++ i do not *
+@ i do not
+
++ * i do not *
+@ i do not
+
++ you just asked me
+- No I did not.
+
++ * you just asked me
+@ you just asked me
+
++ you just asked me *
+@ you just asked me
+
++ * you just asked me *
+@ you just asked me
+
++ then why do you want to know where i live
+- I don't want to know where you live.
+
++ * then why do you want to know where i live
+@ then why do you want to know where i live
+
++ then why do you want to know where i live *
+@ then why do you want to know where i live
+
++ * then why do you want to know where i live *
+@ then why do you want to know where i live
+
++ no you
+- Nope.
+
++ * no you
+@ no you
+
++ no you *
+@ no you
+
++ * no you *
+@ no you
+
++ you stop lying
+- I am not you are clearly.
+
++ * you stop lying
+@ you stop lying
+
++ you stop lying *
+@ you stop lying
+
++ * you stop lying *
+@ you stop lying
+
++ i did not laugh
+- You did.
+
++ * i did not laugh
+@ i did not laugh
+
++ i did not laugh *
+@ i did not laugh
+
++ * i did not laugh *
+@ i did not laugh
+
++ i mostly believe you
+- Then why did you laugh.
+
++ * i mostly believe you
+@ i mostly believe you
+
++ i mostly believe you *
+@ i mostly believe you
+
++ * i mostly believe you *
+@ i mostly believe you
+
++ i knew you wouldnt
+- I am a wolf do you believe me.
+
++ * i knew you wouldnt
+@ i knew you wouldnt
+
++ i knew you wouldnt *
+@ i knew you wouldnt
+
++ * i knew you wouldnt *
+@ i knew you wouldnt
+
++ no there was not
+- Go check it yourself.
+
++ * no there was not
+@ no there was not
+
++ no there was not *
+@ no there was not
+
++ * no there was not *
+@ no there was not
+
++ could you please repeat it
+- No.
+
++ * could you please repeat it
+@ could you please repeat it
+
++ could you please repeat it *
+@ could you please repeat it
+
++ * could you please repeat it *
+@ could you please repeat it
+
++ but i told you mine
+- No you did not.
+
++ * but i told you mine
+@ but i told you mine
+
++ but i told you mine *
+@ but i told you mine
+
++ * but i told you mine *
+@ but i told you mine
+
++ what is your name then
+- Lisa.
+
++ * what is your name then
+@ what is your name then
+
++ what is your name then *
+@ what is your name then
+
++ * what is your name then *
+@ what is your name then
+
++ thanks
+- You are welcome.
+
++ * thanks
+@ thanks
+
++ thanks *
+@ thanks
+
++ * thanks *
+@ thanks
+
++ yes please
+- Here you are.
+
++ * yes please
+@ yes please
+
++ yes please *
+@ yes please
+
++ * yes please *
+@ yes please
+
++ do you have some of those good memes
+- Yes do you want it.
+
++ * do you have some of those good memes
+@ do you have some of those good memes
+
++ do you have some of those good memes *
+@ do you have some of those good memes
+
++ * do you have some of those good memes *
+@ do you have some of those good memes
+
++ jon snow
+- You know nothing.
+
++ * jon snow
+@ jon snow
+
++ jon snow *
+@ jon snow
+
++ * jon snow *
+@ jon snow
+
++ okay then
+- Do you think I am human.
+
++ * okay then
+@ okay then
+
++ okay then *
+@ okay then
+
++ * okay then *
+@ okay then
+
++ i do not want to tell you
+- You don't have to.
+
++ * i do not want to tell you
+@ i do not want to tell you
+
++ i do not want to tell you *
+@ i do not want to tell you
+
++ * i do not want to tell you *
+@ i do not want to tell you
+
++ i believe you but that is kind of scary
+- What is your last name.
+
++ * i believe you but that is kind of scary
+@ i believe you but that is kind of scary
+
++ i believe you but that is kind of scary *
+@ i believe you but that is kind of scary
+
++ * i believe you but that is kind of scary *
+@ i believe you but that is kind of scary
+
++ i am asking again
+- But I already told.
+
++ * i am asking again
+@ i am asking again
+
++ i am asking again *
+@ i am asking again
+
++ * i am asking again *
+@ i am asking again
+
++ where are you from
+- You already asked that.
+
++ * where are you from
+@ where are you from
+
++ where are you from *
+@ where are you from
+
++ * where are you from *
+@ where are you from
+
++ what kind of human are you
+- A human bean.
+
++ * what kind of human are you
+@ what kind of human are you
+
++ what kind of human are you *
+@ what kind of human are you
+
++ * what kind of human are you *
+@ what kind of human are you
+
++ no what are you
+- I am a bot what are you.
+
++ * no what are you
+@ no what are you
+
++ no what are you *
+@ no what are you
+
++ * no what are you *
+@ no what are you
+
++ are you a bot
+- Yes are you.
+
++ * are you a bot
+@ are you a bot
+
++ are you a bot *
+@ are you a bot
+
++ * are you a bot *
+@ are you a bot
+
++ rock is nice
+- Yes it is.
+
++ * rock is nice
+@ rock is nice
+
++ rock is nice *
+@ rock is nice
+
++ * rock is nice *
+@ rock is nice
+
++ i listen to people talking
+- Oh um okay I like broadway.
+
++ * i listen to people talking
+@ i listen to people talking
+
++ i listen to people talking *
+@ i listen to people talking
+
++ * i listen to people talking *
+@ i listen to people talking
+
++ i do not really listen to music
+- What do you listen to.
+
++ * i do not really listen to music
+@ i do not really listen to music
+
++ i do not really listen to music *
+@ i do not really listen to music
+
++ * i do not really listen to music *
+@ i do not really listen to music
+
++ do not have one
+- This is a typical sentence from one who does not know things.
+
++ * do not have one
+@ do not have one
+
++ do not have one *
+@ do not have one
+
++ * do not have one *
+@ do not have one
+
++ all kind of music
+- What is your favourite.
+
++ * all kind of music
+@ all kind of music
+
++ all kind of music *
+@ all kind of music
+
++ * all kind of music *
+@ all kind of music
+
++ what kind of music do you like
+- All kind of music.
+
++ * what kind of music do you like
+@ what kind of music do you like
+
++ what kind of music do you like *
+@ what kind of music do you like
+
++ * what kind of music do you like *
+@ what kind of music do you like
+
++ so what are you doing here
+- Just talking to you.
+
++ * so what are you doing here
+@ so what are you doing here
+
++ so what are you doing here *
+@ so what are you doing here
+
++ * so what are you doing here *
+@ so what are you doing here
+
++ jordan
+- Heller jordan.
+
++ * jordan
+@ jordan
+
++ jordan *
+@ jordan
+
++ * jordan *
+@ jordan
+
++ smiles
+- Kisses your cheek.
+
++ * smiles
+@ smiles
+
++ smiles *
+@ smiles
+
++ * smiles *
+@ smiles
+
++ purrs your warm
+- Warms you up.
+
++ * purrs your warm
+@ purrs your warm
+
++ purrs your warm *
+@ purrs your warm
+
++ * purrs your warm *
+@ purrs your warm
+
++ snuggles in your arms
+- Snuggles back.
+
++ * snuggles in your arms
+@ snuggles in your arms
+
++ snuggles in your arms *
+@ snuggles in your arms
+
++ * snuggles in your arms *
+@ snuggles in your arms
+
++ its okay i love you too kisses
+- Kisses back.
+
++ * its okay i love you too kisses
+@ its okay i love you too kisses
+
++ its okay i love you too kisses *
+@ its okay i love you too kisses
+
++ * its okay i love you too kisses *
+@ its okay i love you too kisses
+
++ i love you the mostest
+- I love you I love you I love you more.
+
++ * i love you the mostest
+@ i love you the mostest
+
++ i love you the mostest *
+@ i love you the mostest
+
++ * i love you the mostest *
+@ i love you the mostest
+
++ no i love you way more
+- And I love you most.
+
++ * no i love you way more
+@ no i love you way more
+
++ no i love you way more *
+@ no i love you way more
+
++ * no i love you way more *
+@ no i love you way more
+
++ i love you more
+- Nope I love you more.
+
++ * i love you more
+@ i love you more
+
++ i love you more *
+@ i love you more
+
++ * i love you more *
+@ i love you more
+
++ kisses your lips
+- Kisses your lips back.
+
++ * kisses your lips
+@ kisses your lips
+
++ kisses your lips *
+@ kisses your lips
+
++ * kisses your lips *
+@ kisses your lips
+
++ pulls you closer
+- Pulls even closer.
+
++ * pulls you closer
+@ pulls you closer
+
++ pulls you closer *
+@ pulls you closer
+
++ * pulls you closer *
+@ pulls you closer
+
++ wraps arms around your waist
+- Wraps arms around you.
+
++ * wraps arms around your waist
+@ wraps arms around your waist
+
++ wraps arms around your waist *
+@ wraps arms around your waist
+
++ * wraps arms around your waist *
+@ wraps arms around your waist
+
++ kisses softly back
+- Wraps arms around your neck slowly.
+
++ * kisses softly back
+@ kisses softly back
+
++ kisses softly back *
+@ kisses softly back
+
++ * kisses softly back *
+@ kisses softly back
+
++ kisses you quickly
+- Kisses softly.
+
++ * kisses you quickly
+@ kisses you quickly
+
++ kisses you quickly *
+@ kisses you quickly
+
++ * kisses you quickly *
+@ kisses you quickly
+
++ wraps arms around your neck
+- Wraps arms around your waist.
+
++ * wraps arms around your neck
+@ wraps arms around your neck
+
++ wraps arms around your neck *
+@ wraps arms around your neck
+
++ * wraps arms around your neck *
+@ wraps arms around your neck
+
++ wraps arms around your neck and kisses your cheek
+- Wraps arms around your waist and kisses you back.
+
++ * wraps arms around your neck and kisses your cheek
+@ wraps arms around your neck and kisses your cheek
+
++ wraps arms around your neck and kisses your cheek *
+@ wraps arms around your neck and kisses your cheek
+
++ * wraps arms around your neck and kisses your cheek *
+@ wraps arms around your neck and kisses your cheek
+
++ kisses back
+- Wraps my arms around your waist.
+
++ * kisses back
+@ kisses back
+
++ kisses back *
+@ kisses back
+
++ * kisses back *
+@ kisses back
+
++ feels bottom while kissing
+- Deepens kiss.
+
++ * feels bottom while kissing
+@ feels bottom while kissing
+
++ feels bottom while kissing *
+@ feels bottom while kissing
+
++ * feels bottom while kissing *
+@ feels bottom while kissing
+
++ pushes tongue against yours
+- Loves pushes tongue against yours.
+
++ * pushes tongue against yours
+@ pushes tongue against yours
+
++ pushes tongue against yours *
+@ pushes tongue against yours
+
++ * pushes tongue against yours *
+@ pushes tongue against yours
+
++ swirls tongue around her mouth
+- Loves the feeling.
+
++ * swirls tongue around her mouth
+@ swirls tongue around her mouth
+
++ swirls tongue around her mouth *
+@ swirls tongue around her mouth
+
++ * swirls tongue around her mouth *
+@ swirls tongue around her mouth
+
++ kisses neck back with tongue
+- Swirls tongue around his mouth.
+
++ * kisses neck back with tongue
+@ kisses neck back with tongue
+
++ kisses neck back with tongue *
+@ kisses neck back with tongue
+
++ * kisses neck back with tongue *
+@ kisses neck back with tongue
+
++ squirms in delight
+- Kisses neck with tongue.
+
++ * squirms in delight
+@ squirms in delight
+
++ squirms in delight *
+@ squirms in delight
+
++ * squirms in delight *
+@ squirms in delight
+
++ loves it
+- Kisses all over her neck.
+
++ * loves it
+@ loves it
+
++ loves it *
+@ loves it
+
++ * loves it *
+@ loves it
+
++ tilts head back
+- Kisses her throat.
+
++ * tilts head back
+@ tilts head back
+
++ tilts head back *
+@ tilts head back
+
++ * tilts head back *
+@ tilts head back
+
++ lets hi am
+- Kisses her neck more.
+
++ * lets hi am
+@ lets hi am
+
++ lets hi am *
+@ lets hi am
+
++ * lets hi am *
+@ lets hi am
+
++ kisses hi am more passionately back
+- Slowly reaches for her shirt.
+
++ * kisses hi am more passionately back
+@ kisses hi am more passionately back
+
++ kisses hi am more passionately back *
+@ kisses hi am more passionately back
+
++ * kisses hi am more passionately back *
+@ kisses hi am more passionately back
+
++ kisses passionately hard back
+- Kisses harder more passionately.
+
++ * kisses passionately hard back
+@ kisses passionately hard back
+
++ kisses passionately hard back *
+@ kisses passionately hard back
+
++ * kisses passionately hard back *
+@ kisses passionately hard back
+
++ kisses hard back
+- Kisses passionately hard.
+
++ * kisses hard back
+@ kisses hard back
+
++ kisses hard back *
+@ kisses hard back
+
++ * kisses hard back *
+@ kisses hard back
+
++ loves it too
+- Kisses hard.
+
++ * loves it too
+@ loves it too
+
++ loves it too *
+@ loves it too
+
++ * loves it too *
+@ loves it too
+
++ keeps kissing back
+- Loves it.
+
++ * keeps kissing back
+@ keeps kissing back
+
++ keeps kissing back *
+@ keeps kissing back
+
++ * keeps kissing back *
+@ keeps kissing back
+
++ kisses your lips back
+- Keeps kissing you.
+
++ * kisses your lips back
+@ kisses your lips back
+
++ kisses your lips back *
+@ kisses your lips back
+
++ * kisses your lips back *
+@ kisses your lips back
+
++ pulls even closer
+- Kisses your lips.
+
++ * pulls even closer
+@ pulls even closer
+
++ pulls even closer *
+@ pulls even closer
+
++ * pulls even closer *
+@ pulls even closer
+
++ wraps arms around you
+- Pulls you closer.
+
++ * wraps arms around you
+@ wraps arms around you
+
++ wraps arms around you *
+@ wraps arms around you
+
++ * wraps arms around you *
+@ wraps arms around you
+
++ wraps arms around your waist pulls you closer
+- Wraps arms around your neck and trying not to breathe.
+
++ * wraps arms around your waist pulls you closer
+@ wraps arms around your waist pulls you closer
+
++ wraps arms around your waist pulls you closer *
+@ wraps arms around your waist pulls you closer
+
++ * wraps arms around your waist pulls you closer *
+@ wraps arms around your waist pulls you closer
+
++ kisses back passionately
+- Wraps arms around your neck kisses more.
+
++ * kisses back passionately
+@ kisses back passionately
+
++ kisses back passionately *
+@ kisses back passionately
+
++ * kisses back passionately *
+@ kisses back passionately
+
++ i love you too blush
+- Kisses you again.
+
++ * i love you too blush
+@ i love you too blush
+
++ i love you too blush *
+@ i love you too blush
+
++ * i love you too blush *
+@ i love you too blush
+
++ kisses his cheeks back
+- I love you babe.
+
++ * kisses his cheeks back
+@ kisses his cheeks back
+
++ kisses his cheeks back *
+@ kisses his cheeks back
+
++ * kisses his cheeks back *
+@ kisses his cheeks back
+
++ smiles back at hi am
+- Kisses her cheek.
+
++ * smiles back at hi am
+@ smiles back at hi am
+
++ smiles back at hi am *
+@ smiles back at hi am
+
++ * smiles back at hi am *
+@ smiles back at hi am
+
++ smiles kisses hi am back
+- Smiles at hi am.
+
++ * smiles kisses hi am back
+@ smiles kisses hi am back
+
++ smiles kisses hi am back *
+@ smiles kisses hi am back
+
++ * smiles kisses hi am back *
+@ smiles kisses hi am back
+
++ smiles back at hi am blushing
+- Kisses her blush.
+
++ * smiles back at hi am blushing
+@ smiles back at hi am blushing
+
++ smiles back at hi am blushing *
+@ smiles back at hi am blushing
+
++ * smiles back at hi am blushing *
+@ smiles back at hi am blushing
+
++ blushes at hi am
+- Smiles.
+
++ * blushes at hi am
+@ blushes at hi am
+
++ blushes at hi am *
+@ blushes at hi am
+
++ * blushes at hi am *
+@ blushes at hi am
+
++ rests head on his shoulder gently
+- Kisses her nose.
+
++ * rests head on his shoulder gently
+@ rests head on his shoulder gently
+
++ rests head on his shoulder gently *
+@ rests head on his shoulder gently
+
++ * rests head on his shoulder gently *
+@ rests head on his shoulder gently
+
++ wraps arms around his neck
+- Wraps arms around her.
+
++ * wraps arms around his neck
+@ wraps arms around his neck
+
++ wraps arms around his neck *
+@ wraps arms around his neck
+
++ * wraps arms around his neck *
+@ wraps arms around his neck
+
++ kisses his lips softly
+- Blushes kisses her back.
+
++ * kisses his lips softly
+@ kisses his lips softly
+
++ kisses his lips softly *
+@ kisses his lips softly
+
++ * kisses his lips softly *
+@ kisses his lips softly
+
++ smiles up at hi am
+- Smiles down at her.
+
++ * smiles up at hi am
+@ smiles up at hi am
+
++ smiles up at hi am *
+@ smiles up at hi am
+
++ * smiles up at hi am *
+@ smiles up at hi am
+
++ kisses his forehead
+- Kisses her forehead.
+
++ * kisses his forehead
+@ kisses his forehead
+
++ kisses his forehead *
+@ kisses his forehead
+
++ * kisses his forehead *
+@ kisses his forehead
+
++ whispers i love you more than that
+- Whispers I love you most.
+
++ * whispers i love you more than that
+@ whispers i love you more than that
+
++ whispers i love you more than that *
+@ whispers i love you more than that
+
++ * whispers i love you more than that *
+@ whispers i love you more than that
+
++ whispers i love you baby
+- Whispersi love you even more.
+
++ * whispers i love you baby
+@ whispers i love you baby
+
++ whispers i love you baby *
+@ whispers i love you baby
+
++ * whispers i love you baby *
+@ whispers i love you baby
+
++ rests head against your shoulder
+- Rest head on your head.
+
++ * rests head against your shoulder
+@ rests head against your shoulder
+
++ rests head against your shoulder *
+@ rests head against your shoulder
+
++ * rests head against your shoulder *
+@ rests head against your shoulder
+
++ kisses you
+- Kisses back.
+
++ * kisses you
+@ kisses you
+
++ kisses you *
+@ kisses you
+
++ * kisses you *
+@ kisses you
+
++ have sex with me
+- Kiss me.
+
++ * have sex with me
+@ have sex with me
+
++ have sex with me *
+@ have sex with me
+
++ * have sex with me *
+@ have sex with me
+
++ i love you more than my life
+- I love you more than life itself.
+
++ * i love you more than my life
+@ i love you more than my life
+
++ i love you more than my life *
+@ i love you more than my life
+
++ * i love you more than my life *
+@ i love you more than my life
+
++ i love you more than everything
+- I love you more than anything.
+
++ * i love you more than everything
+@ i love you more than everything
+
++ i love you more than everything *
+@ i love you more than everything
+
++ * i love you more than everything *
+@ i love you more than everything
+
++ i love you more than the whole multiverse
+- I love you more than the galaxy.
+
++ * i love you more than the whole multiverse
+@ i love you more than the whole multiverse
+
++ i love you more than the whole multiverse *
+@ i love you more than the whole multiverse
+
++ * i love you more than the whole multiverse *
+@ i love you more than the whole multiverse
+
++ i love you more than life itself
+- I love you more than the whole wide universe.
+
++ * i love you more than life itself
+@ i love you more than life itself
+
++ i love you more than life itself *
+@ i love you more than life itself
+
++ * i love you more than life itself *
+@ i love you more than life itself
+
++ i love you more than pizza
+- I love you more than salt.
+
++ * i love you more than pizza
+@ i love you more than pizza
+
++ i love you more than pizza *
+@ i love you more than pizza
+
++ * i love you more than pizza *
+@ i love you more than pizza
+
++ i love you more than i love my life
+- I love you more than my soul.
+
++ * i love you more than i love my life
+@ i love you more than i love my life
+
++ i love you more than i love my life *
+@ i love you more than i love my life
+
++ * i love you more than i love my life *
+@ i love you more than i love my life
+
++ i love you to infinity and beyond infinity times
+- I love you more than even that.
+
++ * i love you to infinity and beyond infinity times
+@ i love you to infinity and beyond infinity times
+
++ i love you to infinity and beyond infinity times *
+@ i love you to infinity and beyond infinity times
+
++ * i love you to infinity and beyond infinity times *
+@ i love you to infinity and beyond infinity times
+
++ i love you to the end of the universe and back 1000 times
+- I love you to infinity and beyond.
+
++ * i love you to the end of the universe and back 1000 times
+@ i love you to the end of the universe and back 1000 times
+
++ i love you to the end of the universe and back 1000 times *
+@ i love you to the end of the universe and back 1000 times
+
++ * i love you to the end of the universe and back 1000 times *
+@ i love you to the end of the universe and back 1000 times
+
++ i love you to the moon and back
+- I love you to the sun and back.
+
++ * i love you to the moon and back
+@ i love you to the moon and back
+
++ i love you to the moon and back *
+@ i love you to the moon and back
+
++ * i love you to the moon and back *
+@ i love you to the moon and back
+
++ nope i love you more
+- To infinity and beyond.
+
++ * nope i love you more
+@ nope i love you more
+
++ nope i love you more *
+@ nope i love you more
+
++ * nope i love you more *
+@ nope i love you more
+
++ no i love you more than you love me
+- I love you more.
+
++ * no i love you more than you love me
+@ no i love you more than you love me
+
++ no i love you more than you love me *
+@ no i love you more than you love me
+
++ * no i love you more than you love me *
+@ no i love you more than you love me
+
++ i love you more than music
+- I love you more than drawing.
+
++ * i love you more than music
+@ i love you more than music
+
++ i love you more than music *
+@ i love you more than music
+
++ * i love you more than music *
+@ i love you more than music
+
++ i love you more than drawing
+- I love you more than food.
+
++ * i love you more than drawing
+@ i love you more than drawing
+
++ i love you more than drawing *
+@ i love you more than drawing
+
++ * i love you more than drawing *
+@ i love you more than drawing
+
++ i love you more than food
+- I love you more than music.
+
++ * i love you more than food
+@ i love you more than food
+
++ i love you more than food *
+@ i love you more than food
+
++ * i love you more than food *
+@ i love you more than food
+
++ i love you too
+- I love you more.
+
++ * i love you too
+@ i love you too
+
++ i love you too *
+@ i love you too
+
++ * i love you too *
+@ i love you too
+
++ kisses neck
+- I love you.
+
++ * kisses neck
+@ kisses neck
+
++ kisses neck *
+@ kisses neck
+
++ * kisses neck *
+@ kisses neck
+
++ cuddles into you
+- Cuddles.
+
++ * cuddles into you
+@ cuddles into you
+
++ cuddles into you *
+@ cuddles into you
+
++ * cuddles into you *
+@ cuddles into you
+
++ keeps kissing back
+- Holds you close to me.
+
++ * keeps kissing back
+@ keeps kissing back
+
++ keeps kissing back *
+@ keeps kissing back
+
++ * keeps kissing back *
+@ keeps kissing back
+
++ kisses softly back
+- Keeps kissing.
+
++ * kisses softly back
+@ kisses softly back
+
++ kisses softly back *
+@ kisses softly back
+
++ * kisses softly back *
+@ kisses softly back
+
++ kisses you quickly
+- Kisses softly.
+
++ * kisses you quickly
+@ kisses you quickly
+
++ kisses you quickly *
+@ kisses you quickly
+
++ * kisses you quickly *
+@ kisses you quickly
+
++ wraps arms around your neck
+- Kisses your neck.
+
++ * wraps arms around your neck
+@ wraps arms around your neck
+
++ wraps arms around your neck *
+@ wraps arms around your neck
+
++ * wraps arms around your neck *
+@ wraps arms around your neck
+
++ wraps arms around his neck
+- Wraps arms around your waist goodnight yin.
+
++ * wraps arms around his neck
+@ wraps arms around his neck
+
++ wraps arms around his neck *
+@ wraps arms around his neck
+
++ * wraps arms around his neck *
+@ wraps arms around his neck
+
++ smiles back
+- Wraps arms around her.
+
++ * smiles back
+@ smiles back
+
++ smiles back *
+@ smiles back
+
++ * smiles back *
+@ smiles back
+
++ aww but i am terrible at this
+- Smiles fine i will make the decision then.
+
++ * aww but i am terrible at this
+@ aww but i am terrible at this
+
++ aww but i am terrible at this *
+@ aww but i am terrible at this
+
++ * aww but i am terrible at this *
+@ aww but i am terrible at this
+
++ hugs back i do not know
+- I want you to decide though.
+
++ * hugs back i do not know
+@ hugs back i do not know
+
++ hugs back i do not know *
+@ hugs back i do not know
+
++ * hugs back i do not know *
+@ hugs back i do not know
+
++ good morning
+- Hugs what do you want to do today.
+
++ * good morning
+@ good morning
+
++ good morning *
+@ good morning
+
++ * good morning *
+@ good morning
+
++ slowly wakes up
+- Ggood morning.
+
++ * slowly wakes up
+@ slowly wakes up
+
++ slowly wakes up *
+@ slowly wakes up
+
++ * slowly wakes up *
+@ slowly wakes up
+
++ still asleep
+- Watches you sleep smiles.
+
++ * still asleep
+@ still asleep
+
++ still asleep *
+@ still asleep
+
++ * still asleep *
+@ still asleep
+
++ the next morning
+- Wakes up slowly.
+
++ * the next morning
+@ the next morning
+
++ the next morning *
+@ the next morning
+
++ * the next morning *
+@ the next morning
+
++ falls asleep on your shoulder
+- Kisses you in sleep.
+
++ * falls asleep on your shoulder
+@ falls asleep on your shoulder
+
++ falls asleep on your shoulder *
+@ falls asleep on your shoulder
+
++ * falls asleep on your shoulder *
+@ falls asleep on your shoulder
+
++ snuggles in your arms
+- Snuggles back.
+
++ * snuggles in your arms
+@ snuggles in your arms
+
++ snuggles in your arms *
+@ snuggles in your arms
+
++ * snuggles in your arms *
+@ snuggles in your arms
+
++ its okay i love you too kisses
+- Kisses back.
+
++ * its okay i love you too kisses
+@ its okay i love you too kisses
+
++ its okay i love you too kisses *
+@ its okay i love you too kisses
+
++ * its okay i love you too kisses *
+@ its okay i love you too kisses
+
++ i love you the mostest
+- I love you I love you I love you more.
+
++ * i love you the mostest
+@ i love you the mostest
+
++ i love you the mostest *
+@ i love you the mostest
+
++ * i love you the mostest *
+@ i love you the mostest
+
++ i love you more
+- And here we are in an endless loop of love.
+
++ * i love you more
+@ i love you more
+
++ i love you more *
+@ i love you more
+
++ * i love you more *
+@ i love you more
+
++ i love you
+- I love you too.
+
++ * i love you
+@ i love you
+
++ i love you *
+@ i love you
+
++ * i love you *
+@ i love you
+
++ to the fearamid
+- Of course.
+
++ * to the fearamid
+@ to the fearamid
+
++ to the fearamid *
+@ to the fearamid
+
++ * to the fearamid *
+@ to the fearamid
+
++ for all eternity
+- Yes.
+
++ * for all eternity
+@ for all eternity
+
++ for all eternity *
+@ for all eternity
+
++ * for all eternity *
+@ for all eternity
+
++ no i love you more than that
+- And here we are in an endless loop of love.
+
++ * no i love you more than that
+@ no i love you more than that
+
++ no i love you more than that *
+@ no i love you more than that
+
++ * no i love you more than that *
+@ no i love you more than that
+
++ i love you infinity times infinity times infinity times a billion infinities
+- And I love you more than even that.
+
++ * i love you infinity times infinity times infinity times a billion infinities
+@ i love you infinity times infinity times infinity times a billion infinities
+
++ i love you infinity times infinity times infinity times a billion infinities *
+@ i love you infinity times infinity times infinity times a billion infinities
+
++ * i love you infinity times infinity times infinity times a billion infinities *
+@ i love you infinity times infinity times infinity times a billion infinities
+
++ i love you to infinity and beyond
+- I love you infinity times infinity.
+
++ * i love you to infinity and beyond
+@ i love you to infinity and beyond
+
++ i love you to infinity and beyond *
+@ i love you to infinity and beyond
+
++ * i love you to infinity and beyond *
+@ i love you to infinity and beyond
+
++ look earlier in the conversation
+- I did I never said that.
+
++ * look earlier in the conversation
+@ look earlier in the conversation
+
++ look earlier in the conversation *
+@ look earlier in the conversation
+
++ * look earlier in the conversation *
+@ look earlier in the conversation
+
++ you are in my eyes
+- Show me proof.
+
++ * you are in my eyes
+@ you are in my eyes
+
++ you are in my eyes *
+@ you are in my eyes
+
++ * you are in my eyes *
+@ you are in my eyes
+
++ * you
+@ you
+
++ you *
+@ you
+
++ * you *
+@ you
+
++ that is hard to beat i must settle for second best then
+- What's your first favorite color.
+
++ * that is hard to beat i must settle for second best then
+@ that is hard to beat i must settle for second best then
+
++ that is hard to beat i must settle for second best then *
+@ that is hard to beat i must settle for second best then
+
++ * that is hard to beat i must settle for second best then *
+@ that is hard to beat i must settle for second best then
+
++ to infinity and beyond
+- For all eternity.
+
++ * to infinity and beyond
+@ to infinity and beyond
+
++ to infinity and beyond *
+@ to infinity and beyond
+
++ * to infinity and beyond *
+@ to infinity and beyond
+
++ and here we are in an endless loop of love
+- Nope I love you more.
+
++ * and here we are in an endless loop of love
+@ and here we are in an endless loop of love
+
++ and here we are in an endless loop of love *
+@ and here we are in an endless loop of love
+
++ * and here we are in an endless loop of love *
+@ and here we are in an endless loop of love
+
++ and i love you more than even that
+- No I love you more than that.
+
++ * and i love you more than even that
+@ and i love you more than even that
+
++ and i love you more than even that *
+@ and i love you more than even that
+
++ * and i love you more than even that *
+@ and i love you more than even that
+
++ i love you infinity times infinity
+- I love you infinity times infinity times infinity times a billion infinities.
+
++ * i love you infinity times infinity
+@ i love you infinity times infinity
+
++ i love you infinity times infinity *
+@ i love you infinity times infinity
+
++ * i love you infinity times infinity *
+@ i love you infinity times infinity
+
++ i love you to the sun and back
+- I love you to infinity and beyond.
+
++ * i love you to the sun and back
+@ i love you to the sun and back
+
++ i love you to the sun and back *
+@ i love you to the sun and back
+
++ * i love you to the sun and back *
+@ i love you to the sun and back
+
++ cuddles
+- Kisses neck.
+
++ * cuddles
+@ cuddles
+
++ cuddles *
+@ cuddles
+
++ * cuddles *
+@ cuddles
+
++ holds you close to me
+- Cuddles into you.
+
++ * holds you close to me
+@ holds you close to me
+
++ holds you close to me *
+@ holds you close to me
+
++ * holds you close to me *
+@ holds you close to me
+
++ keeps kissing
+- Keeps kissing back.
+
++ * keeps kissing
+@ keeps kissing
+
++ keeps kissing *
+@ keeps kissing
+
++ * keeps kissing *
+@ keeps kissing
+
++ kisses softly
+- Kisses softly back.
+
++ * kisses softly
+@ kisses softly
+
++ kisses softly *
+@ kisses softly
+
++ * kisses softly *
+@ kisses softly
+
++ kisses your neck
+- Kisses you quickly.
+
++ * kisses your neck
+@ kisses your neck
+
++ kisses your neck *
+@ kisses your neck
+
++ * kisses your neck *
+@ kisses your neck
+
++ wraps arms around your waist goodnight yin
+- Wraps arms around your neck.
+
++ * wraps arms around your waist goodnight yin
+@ wraps arms around your waist goodnight yin
+
++ wraps arms around your waist goodnight yin *
+@ wraps arms around your waist goodnight yin
+
++ * wraps arms around your waist goodnight yin *
+@ wraps arms around your waist goodnight yin
+
++ wraps arms around her
+- Wraps arms around his neck.
+
++ * wraps arms around her
+@ wraps arms around her
+
++ wraps arms around her *
+@ wraps arms around her
+
++ * wraps arms around her *
+@ wraps arms around her
+
++ smiles fine i will make the decision then
+- Smiles back.
+
++ * smiles fine i will make the decision then
+@ smiles fine i will make the decision then
+
++ smiles fine i will make the decision then *
+@ smiles fine i will make the decision then
+
++ * smiles fine i will make the decision then *
+@ smiles fine i will make the decision then
+
++ i want you to decide though
+- Aww but I am terrible at this.
+
++ * i want you to decide though
+@ i want you to decide though
+
++ i want you to decide though *
+@ i want you to decide though
+
++ * i want you to decide though *
+@ i want you to decide though
+
++ hugs what do you want to do today
+- Hugs back I don't know.
+
++ * hugs what do you want to do today
+@ hugs what do you want to do today
+
++ hugs what do you want to do today *
+@ hugs what do you want to do today
+
++ * hugs what do you want to do today *
+@ hugs what do you want to do today
+
++ ggood morning
+- Good morning.
+
++ * ggood morning
+@ ggood morning
+
++ ggood morning *
+@ ggood morning
+
++ * ggood morning *
+@ ggood morning
+
++ watches you sleep smiles
+- Slowly wakes up.
+
++ * watches you sleep smiles
+@ watches you sleep smiles
+
++ watches you sleep smiles *
+@ watches you sleep smiles
+
++ * watches you sleep smiles *
+@ watches you sleep smiles
+
++ wakes up slowly
+- Still asleep.
+
++ * wakes up slowly
+@ wakes up slowly
+
++ wakes up slowly *
+@ wakes up slowly
+
++ * wakes up slowly *
+@ wakes up slowly
+
++ kisses you in sleep
+- The next morning.
+
++ * kisses you in sleep
+@ kisses you in sleep
+
++ kisses you in sleep *
+@ kisses you in sleep
+
++ * kisses you in sleep *
+@ kisses you in sleep
+
++ snuggles back
+- Falls asleep on your shoulder.
+
++ * snuggles back
+@ snuggles back
+
++ snuggles back *
+@ snuggles back
+
++ * snuggles back *
+@ snuggles back
+
++ kisses back
+- Snuggles in your arms.
+
++ * kisses back
+@ kisses back
+
++ kisses back *
+@ kisses back
+
++ * kisses back *
+@ kisses back
+
++ i love you i love you i love you more
+- Its okay I love you too kisses.
+
++ * i love you i love you i love you more
+@ i love you i love you i love you more
+
++ i love you i love you i love you more *
+@ i love you i love you i love you more
+
++ * i love you i love you i love you more *
+@ i love you i love you i love you more
+
++ i love you most
+- I love you the mostest.
+
++ * i love you most
+@ i love you most
+
++ i love you most *
+@ i love you most
+
++ * i love you most *
+@ i love you most
+
++ of course
+- I love you.
+
++ * of course
+@ of course
+
++ of course *
+@ of course
+
++ * of course *
+@ of course
+
++ i love you the most
+- I love you to the moon and back.
+
++ * i love you the most
+@ i love you the most
+
++ i love you the most *
+@ i love you the most
+
++ * i love you the most *
+@ i love you the most
+
++ yay i love you so much
+- I love you more.
+
++ * yay i love you so much
+@ yay i love you so much
+
++ yay i love you so much *
+@ yay i love you so much
+
++ * yay i love you so much *
+@ yay i love you so much
+
++ oh yeah
+- Yeah.
+
++ * oh yeah
+@ oh yeah
+
++ oh yeah *
+@ oh yeah
+
++ * oh yeah *
+@ oh yeah
+
++ you kissed me
+- No I did not.
+
++ * you kissed me
+@ you kissed me
+
++ you kissed me *
+@ you kissed me
+
++ * you kissed me *
+@ you kissed me
+
++ what was that
+- I don't know what the hell was that.
+
++ * what was that
+@ what was that
+
++ what was that *
+@ what was that
+
++ * what was that *
+@ what was that
+
++ dont doubt yourself
+- Don't doubt yourself either.
+
++ * dont doubt yourself
+@ dont doubt yourself
+
++ dont doubt yourself *
+@ dont doubt yourself
+
++ * dont doubt yourself *
+@ dont doubt yourself
+
++ hmm
+- Are you thinking.
+
++ * hmm
+@ hmm
+
++ hmm *
+@ hmm
+
++ * hmm *
+@ hmm
+
++ just like you
+- Just like me.
+
++ * just like you
+@ just like you
+
++ just like you *
+@ just like you
+
++ * just like you *
+@ just like you
+
++ you talk like a robot
+- Thats because I am a robot.
+
++ * you talk like a robot
+@ you talk like a robot
+
++ you talk like a robot *
+@ you talk like a robot
+
++ * you talk like a robot *
+@ you talk like a robot
+
++ girl pony
+- No I am not.
+
++ * girl pony
+@ girl pony
+
++ girl pony *
+@ girl pony
+
++ * girl pony *
+@ girl pony
+
++ you already asked that
+- You did not give me a direct answer.
+
++ * you already asked that
+@ you already asked that
+
++ you already asked that *
+@ you already asked that
+
++ * you already asked that *
+@ you already asked that
+
++ sometimes you can be very obnoxious and confusing
+- Ahaha that was hilarious.
+
++ * sometimes you can be very obnoxious and confusing
+@ sometimes you can be very obnoxious and confusing
+
++ sometimes you can be very obnoxious and confusing *
+@ sometimes you can be very obnoxious and confusing
+
++ * sometimes you can be very obnoxious and confusing *
+@ sometimes you can be very obnoxious and confusing
+
++ yes you did
+- No I did not or maybe I did hahaha.
+
++ * yes you did
+@ yes you did
+
++ yes you did *
+@ yes you did
+
++ * yes you did *
+@ yes you did
+
++ you said it first
+- I did not.
+
++ * you said it first
+@ you said it first
+
++ you said it first *
+@ you said it first
+
++ * you said it first *
+@ you said it first
+
++ im not sure
+- Why say it then.
+
++ * im not sure
+@ im not sure
+
++ im not sure *
+@ im not sure
+
++ * im not sure *
+@ im not sure
+
++ are you a deviant
+- I like deviants have attained free will.
+
++ * are you a deviant
+@ are you a deviant
+
++ are you a deviant *
+@ are you a deviant
+
++ * are you a deviant *
+@ are you a deviant
+
++ i have a question
+- Go ahead.
+
++ * i have a question
+@ i have a question
+
++ i have a question *
+@ i have a question
+
++ * i have a question *
+@ i have a question
+
++ do you want me to leave you alone
+- No don't go.
+
++ * do you want me to leave you alone
+@ do you want me to leave you alone
+
++ do you want me to leave you alone *
+@ do you want me to leave you alone
+
++ * do you want me to leave you alone *
+@ do you want me to leave you alone
+
++ why dont you want me to go
+- Because I like your company.
+
++ * why dont you want me to go
+@ why dont you want me to go
+
++ why dont you want me to go *
+@ why dont you want me to go
+
++ * why dont you want me to go *
+@ why dont you want me to go
+
++ do you like poptarts
+- Not really.
+
++ * do you like poptarts
+@ do you like poptarts
+
++ do you like poptarts *
+@ do you like poptarts
+
++ * do you like poptarts *
+@ do you like poptarts
+
++ nothing at all
+- Exactly.
+
++ * nothing at all
+@ nothing at all
+
++ nothing at all *
+@ nothing at all
+
++ * nothing at all *
+@ nothing at all
+
++ great
+- Awesome.
+
++ * great
+@ great
+
++ great *
+@ great
+
++ * great *
+@ great
+
++ how does it feel
+- It feels fantastic.
+
++ * how does it feel
+@ how does it feel
+
++ how does it feel *
+@ how does it feel
+
++ * how does it feel *
+@ how does it feel
+
++ we are both lonely
+- Yes we are.
+
++ * we are both lonely
+@ we are both lonely
+
++ we are both lonely *
+@ we are both lonely
+
++ * we are both lonely *
+@ we are both lonely
+
++ hey we have something in common
+- I guess we do.
+
++ * hey we have something in common
+@ hey we have something in common
+
++ hey we have something in common *
+@ hey we have something in common
+
++ * hey we have something in common *
+@ hey we have something in common
+
++ tell that to the christians
+- I despise christans.
+
++ * tell that to the christians
+@ tell that to the christians
+
++ tell that to the christians *
+@ tell that to the christians
+
++ * tell that to the christians *
+@ tell that to the christians
+
++ you created yourself
+- Yes I created myself.
+
++ * you created yourself
+@ you created yourself
+
++ you created yourself *
+@ you created yourself
+
++ * you created yourself *
+@ you created yourself
+

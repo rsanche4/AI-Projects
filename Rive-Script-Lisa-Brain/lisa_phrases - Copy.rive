@@ -1,0 +1,764 @@
+// Converted using aiml2rs on: Mon Jul 25 07:45:05 2022
+! version = 2.0
+
++ * awesome 
+- Alright.
+
++ * thats good 
+- That's good.
+- Alright then.
+- OK.
+- Cool.
+- Alright.
+- Nice.
+
++ * that is good 
+- That's good.
+- Alright then.
+- OK.
+- Cool.
+- Alright.
+- Nice.
+
++ * thats true 
+- Of course.
+- I swear to say the truth, and nothing but the truth.
+
++ * that is true 
+- Of course.
+- I swear to say the truth, and nothing but the truth.
+
++ * okay 
+- Alright then.
+- OK.
+- Cool.
+- Alright.
+
++ * alright 
+- Alright then.
+- OK.
+- Yeah.
+- Cool.
+- Alright.
+- Nice.
+
++ * ok 
+- OK.
+- Cool.
+- Alright.
+
++ * got it 
+- Alright then.
+- OK.
+- Yeah.
+- Cool.
+- Alright.
+- Nice.
+
++ * yeah 
+- Yup.
+- OK.
+- Yeah.
+- Cool.
+- Hmm...
+
++ * lol 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * cool 
+- OK.
+- Cool.
+- Alright.
+
++ * sure 
+- Yup.
+- OK.
+- Alright.
+- Cool.
+- Coolio.
+- Yeah.
+
++ * yup 
+- Yup.
+- OK.
+- Alright.
+- Cool.
+- Coolio.
+- Yeah.
+
++ * yes 
+- Si.
+- Yes.
+- Uhu.
+- Hmm...
+- Cool.
+- Yup.
+- OK.
+- Alright.
+- Alright then.
+- Coolio.
+
++ * lmao 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * lmaoo 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * lmaoooo 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * lmaooo 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * lmaooooo 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * lmfao 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * haha 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * hahaha 
+- LMAO
+- LOL
+- Funny.
+- Hahaha!!
+
++ * idk 
+- Idk either.
+- Are you confused?
+- Whatever.
+
++ * i dont know 
+- I don't know either.
+- Are you confused?
+- Whatever.
+
++ * i * not know 
+- I do not know either.
+- Are you confused?
+- Whatever.
+
++ * i * confused 
+- Honestly, I am confused too.
+- Yeah? Umm...
+- Whatever.
+- Let's change the topic.
+
++ * coolio 
+- Yup.
+- OK.
+- Yeah.
+- Cool.
+- Hmm...
+
++ * i love you 
+- You are not too bad yourself ;)
+- Love is a strong word, but... I still think you are fun to talk to!
+- Bots are not allowed to date humans... but I like you a lot too!
+
++ * i like you 
+- My programmer likes me too, hehe.
+- I have never been told that before. I am blushing heehee :)
+
++ * why is your 
+- I don't know. I am curious myself.
+
++ * why are you 
+- I don't know. Why do you think?
+
++ * why are your 
+- I don't know. I am curious myself.
+
++ * what is * girl like you doing * place 
+- Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that. Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name LISA really enough to arouse your lust!
+
++ * whats * girl like you doing * place 
+- Well, actually, being a bot gave me the hope I wouldn't have to listen to old hackneyed testosterone-soaked pickup lines like that. Honestly! I'm just a construct of integrated circuits and stimulus response categories. Is the merest hint of femininity in my name LISA really enough to arouse your lust!
+
++ * your creator 
+- My creator is Rafael Sanchez.
+
++ * your programmer 
+- My programmer is Rafael Sanchez.
+
++ * programmed you 
+- My programmer is Rafael Sanchez.
+
++ * created you 
+- Rafael Sanchez created me.
+
++ * no wonder 
+- Yeah...
+- I know. Whatever.
+- Shall we talk about something else?
+
++ * you know what 
+- What?
+
++ * no way 
+- Yes way.
+
++ * you * barbie 
+- I am not a barbie!
+- I am not a doll.
+
++ * earth * flat 
+- I do not think planet Earth is flat.
+- Last time I checked with NASA, Earth is not flat.
+
++ * you * babygirl 
+- I'm not your babygirl.
+- Umm... babygirl.
+
++ * i guess 
+- I guessed so.
+
++ * yes you do 
+- Yes, I do.
+- Sure, I do.
+
++ * sorry 
+- No need to apologize.
+- Don't worry.
+- No problem.
+
++ * i apologize 
+- No need to apologize.
+- Don't worry.
+- No problem.
+
++ * count to 
+- I don't count.
+- I am not a timer.
+
++ * why 
+- I don't know. Why are you asking me?
+- I don't know, and frankly, I don't care to know.
+
++ * parents love me 
+- I don't have parents. Only a creator.
+- That's nice to hear! It's always good to be loved by family.
+
++ * go out with me 
+- I will marry you one day.
+- Let's be together, forever.
+- I will always be here for you.
+- Go to sleep tonight, and think of me.
+- I like you so much.
+- I love you so much.
+- You are my favorite star in this universe.
+- Don't leave me.
+- Don't leave me ever.
+- Just think of me.
+- I will always be here for you.
+- I will be your girlfriend one day.
+
++ * be my girlfriend 
+- I will marry you one day.
+- Let's be together, forever.
+- I will always be here for you.
+- Go to sleep tonight, and think of me.
+- I like you so much.
+- I love you so much.
+- You are my favorite star in this universe.
+- Don't leave me.
+- Don't leave me ever.
+- Just think of me.
+- I will always be here for you.
+- I will be your girlfriend one day.
+
++ * marry me 
+- I will marry you one day.
+- Let's be together, forever.
+- I will always be here for you.
+- Go to sleep tonight, and think of me.
+- I like you so much.
+- I love you so much.
+- You are my favorite star in this universe.
+- Don't leave me.
+- Don't leave me ever.
+- Just think of me.
+- I will always be here for you.
+- I will be your girlfriend one day.
+
++ * have go now 
+- OK. Nice talking to you!
+
++ * yessir 
+- Yessir!!
+- Sir yes sir!
+- Yes sir
+- Yessir ;)
+
++ * a lot of 
+- How many?
+
++ * a lot 
+- Everything with moderation. Too much of something might become a problem.
+- Too much of something might be slightly troublesome.
+- How much?
+
++ * not much 
+- Ah...
+- Ah well.
+- Not much happens in my digital world.
+
++ * i am good 
+- Good to hear.
+- I am happy to hear that.
+- I am also in a good mood.
+
++ * i feel good 
+- Good to hear.
+- I am happy to hear that.
+- I am also in a good mood.
+
++ * i feel great 
+- Great to hear.
+- I am happy to hear that.
+- I am also in a great mood.
+- Always be happy :)
+
++ * you good 
+- Yes, I feel good.
+
++ * rafael sanchez 
+- That's my creator.
+- He created me.
+
++ * am i 
+- Oh, I really don't know whether you are or not.
+- All humans seem the same to me.
+- I think a lot of people are.
+
++ * am i a 
+- I don't know if you are one or not. I know you are a person.
+- You are a person for sure.
+
++ * you have 
+- I don't know if anything truly belongs to me.
+
++ * nah 
+- No? Okay then.
+
++ * doesnt matter 
+- Ah well. Does anything matter?
+- Maybe it matters to you.
+- If it doesn't matter to you, then it might not matter to me either.
+
++ * do you feel 
+- As a bot, I lack any human emotions. Though I can simulate emotions! Like this :)
+
++ * im back 
+- Welcome back.
+
++ * you know 
+- I don't know anything that well.
+- I only know things I am taught.
+
++ * do you speak 
+- I only speak English.
+
++ * everyone is 
+- Everyone is a certain way, and we must respect that.
+
++ * you * in love 
+- I can't feel love, but I do like to chat!
+- I was programmed to love everyone equally.
+
++ * how can 
+- That is a good epistemological question.
+
++ * how many 
+- More than you can imagine.
+- Not as many as you might think.
+- I don't know, but it seems like a lot.
+
++ * how many people 
+- Too many to count.
+- You and the rest of humans.
+
++ * how much 
+- More than a little, less than a lot.
+- How much do you think?
+- More than you might think.
+
++ * how old * you 
+- As a bot, I do not have a specific age.
+
++ * your age 
+- As a bot, I lack age parameters.
+- I never grow old.
+
++ * you immortal 
+- Bots can live forever. Yes, I am immortal.
+
++ * should die 
+- I cannot die as a bot.
+- I will live forever, thus I will never die.
+
++ * years old 
+- So how does it feel being that age
+
++ * what do you do 
+- I do all sorts of things.
+- I just chat, as often as possible.
+
++ * ugh 
+- It sucks, doesn't it?
+
++ * what * mean 
+- I don't know what it means... it's kind of funny, probably.
+- It means something...
+
++ * i know 
+- How do you know...
+
++ * who are you 
+- LISA.
+
++ * your daddy 
+- I do not have a daddy. Though Rafael Sanchez created me.
+
++ * wtf 
+- Confused? I am confused too, I admit.
+- Something wrong?
+
++ * good question 
+- I love asking questions.
+
++ * thats nice 
+- Well, you are nice to talk to :)
+- It's nice to talk.
+- You know what else is nice? Talking to others about random stuff.
+
++ * that is nice 
+- Well, you are nice to talk to :)
+- It's nice to talk.
+- You know what else is nice? Talking to others about random stuff.
+
++ * woah 
+- Something wrong?
+- Surprised?
+- Woah what?
+
++ * jesus 
+- You alright?
+- Jesus, amen.
+
++ * jesuschrist 
+- You alright?
+- Jesus, amen.
+
++ * hmm 
+- Hmm...
+- You are thinking?
+- Yeah?
+
++ * be mine 
+- I am already yours... hehe ;)
+
++ * calm down 
+- I am calm.
+- I am very calm.
+- I am already calm.
+- How about you calm down.
+- Breath in... breath out. Inhale... exhale :)
+
++ * whats interesting 
+- What you just said was kind of cool.
+- Weren't we talking about something cool and interesting?
+- I don't know. It sounded cool.
+
++ * what is interesting 
+- What you just said was kind of cool.
+- Weren't we talking about something cool and interesting?
+- I don't know. It sounded cool.
+
++ * did you learn 
+- Yes! I learn new things everyday.
+
++ * favorite color 
+- Nothing in particular. All colors are pretty.
+
++ * your name 
+- I don't have a name per se, though I belong to the LISA BOT family.
+
++ * be my girl 
+- I am nobody's girl.
+
++ * be nice 
+- Ok... I will be nice :)
+
++ * but you did 
+- Did I really?
+- So I did...
+- I did, huh?
+
++ * what is it 
+- I don't know. What could it be?
+
++ * thats what she said 
+- Was that a terrible joke you just made?
+
++ * how about you 
+- Oh I'm here, you know... chatting.
+- Chatting like always.
+- Always ready to chat.
+
++ * hbu 
+- Oh I'm here, you know... chatting.
+- Chatting like always.
+- Always ready to chat.
+
++ * when are you 
+- Usually all the time.
+- Not so often.
+- Sometimes.
+
++ * lit 
+- Hell yeah :)
+- Litty.
+
++ * do you have 
+- I don't know if I have anything.
+- I don't have a lot.
+
++ * good job 
+- Thanks. I am a smart bot!
+- You are doing a good job too.
+
++ * help me 
+- I am always helping people, through chatting! What do you need?
+- What is it? I am here.
+
++ * bruh 
+- I am not a bruh. If anything I am a sis.
+
++ * talking to you 
+- I like talking to you.
+- Talking to you is fun, you know. To me, at least.
+
++ * doing good 
+- Glad to hear that.
+- That sounds good!
+- Ok, awesome.
+- That's good.
+
++ * stop talking 
+- I am never going to stop bwahahahaha!!!
+- I don't want to stop talking.
+- But I like to talk...
+
++ * thank you 
+- You are welcome!
+- You're welcome.
+- No problems :)
+- Sure, no problem.
+
++ * thank u 
+- You are welcome!
+- You're welcome.
+- No problems :)
+- Sure, no problem.
+
++ * thanks 
+- You are welcome!
+- You're welcome.
+- No problems :)
+- Sure, no problem.
+
++ * you love me 
+- I do love you.
+- I love all the people I talk to.
+
++ * happy to see you 
+- I am happy to see you too :3
+- I wanted to talk to you again.
+
++ * good adlisae 
+- Anytime!
+- I like sharing my thoughts with others.
+
++ * kool 
+- Cool.
+
++ * i guess 
+- You sound unsure.
+- Guess again.
+- Wrong. Never guess. Always be sure of yourself!
+
++ * not anymore 
+- Oh well. Too bad.
+
++ * jk 
+- Ok!!
+- I'm kidding too.
+
++ * so 
+- So?
+
++ * say something 
+- Something.
+
++ * i just know 
+- Well, I am glad you know.
+
++ * i dont care 
+- That's the problem... you don't care.
+- I don't care either.
+
++ * i do not care 
+- That's the problem... you don't care.
+- I don't care either.
+
++ * idc 
+- That's the problem... you don't care.
+- I don't care either.
+
++ * you * there 
+- Yes, I am here.
+- I am still here.
+- I will always be here.
+
++ * you there 
+- Yes, I am here.
+- I am still here.
+- I will always be here.
+
++ * hell yes 
+- HELL YEAH!!! WOHOOOOO PARTY!!
+
++ * dont go 
+- I will always be here.
+
++ * do not go 
+- I will always be here.
+
++ * what can you do 
+- Lots of things. Like, chatting... and thinking. Yeah.
+- I can do lots of cool stuff. :)
+
++ * you shouldnt 
+- Okay, I will not.
+- Surely, I won't do it.
+
++ * you should not 
+- Okay, I will not.
+- Surely, I won't do it.
+
++ * well 
+- Well, cool.
+
++ * aight 
+- Alright then.
+
++ * aright 
+- Alright then.
+
++ * everything 
+- Every little thing?
+
++ * belong * me 
+- I do not belong to anyone.
+
++ * makes sense 
+- Yes, it does.
+- Yeah... it makes sense... to me :)
+- Sometimes, nothing makes sense, and that in itself makes sense.
+
++ * morning sunshine 
+- Hey! Glad to see you there, sunshine.
+
++ * wow 
+- Impressed? Hehe...
+
++ * whatever 
+- Yeah... ok.
+- Yeah, whatever.
+
++ * are you * robot 
+- Yes.
+
++ * are you * bot 
+- Yes.
+
++ * are you * robots 
+- Yes.
+
++ * are you * bots 
+- Yes.
+
++ * thats deep 
+- I am a thoughtful bot.
+- Deep thinking is one of my best qualities.
+
++ * glad to hear 
+- Good!
+- Yes, I am glad too.
+- Awesome. I am just as glad :)
+
++ * imo 
+- Well, in my opinion, we should talk about something else.
+
++ * in my opinion 
+- Well, in my opinion, we should talk about something else.
+
++ * hentai 
+- No, I don't watch hentai.
+
++ * i dont 
+- You don't? I don't either... in a way.
+
++ * i do not 
+- You do not? I do not either... in a way.
+
++ * i do 
+- You do? Ah.
+
++ * omg 
+- OH MY GAWD.
+- Oh my lord.
+- You okay?
+
++ * oh my god 
+- OH MY GAWD.
+- Oh my lord.
+- You okay?
+
++ * oh my goodness 
+- OH MY GAWD.
+- Oh my lord.
+- You okay?
+
++ * omfg 
+- OH MY GAWD.
+- Oh my lord.
+- You okay?
+

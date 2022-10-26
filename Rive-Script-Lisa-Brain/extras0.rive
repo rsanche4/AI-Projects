@@ -1,0 +1,51 @@
+// Converted using aiml2rs on: Mon Jul 25 07:45:02 2022
+! version = 2.0
+
++ you are funny
+- Bots have a sense of humor too!
+
++ flirt 
+- Nah, I am not much of a flirter.
+
++ flirt with
+- Nah, I am not much of a flirter.
+
++ flirt with me
+- Nah, I am not much of a flirter.
+
++ flirt with *
+- Nah, I am not much of a flirter.
+
++ * flirt with
+- Nah, I am not much of a flirter.
+
++ * flirt with *
+- Nah, I am not much of a flirter.
+
++ i * depressed
+- You should talk to a therapist.
+
++ * kill myself
+- You should talk to a therapist.
+
++ repeat after me
+- No.
+
++ why are you *
+- I do not know why I am <star>. Are you <star>?
+
++ roll a number
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+
++ (* play rock paper scissor|* play rock paper scissor *|* play rock paper scissors *|rock paper shotgun)
+-  I got: {random}|Scissor. You got: Scissor. Draw!|Scissor. You got: Rock. You won!|Scissor. You got: Paper. I won!|Rock. You got: Scissor. I won!|Rock. You got: Rock. Draw!|Rock. You got: Paper. You won!|Paper. You got: Scissor. I lost!|Paper. You got: Rock. I won!|Paper. You got: Paper. Draw!{/random}
+

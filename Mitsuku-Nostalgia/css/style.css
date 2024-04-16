@@ -1,0 +1,131 @@
+body {
+    background-color: #7092bf;
+    background-attachment: fixed;
+    color: #000000;
+    font-family: "Trebuchet MS", Arial;
+}
+
+h1 {
+    color: #990000;
+    size: 5;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-color: gray;
+    background-color: white;
+}
+
+.topnav {
+    color: #990000;
+    text-align: center;
+
+    font-size: large;
+}
+
+.centeredBanner {
+    position: absolute;
+    margin-left: -405px;
+    margin-top: -45px;
+    left: 50%;
+}
+
+#application {
+    position: relative;
+    margin-left: -480px;
+    margin-top: -50px;
+    left: 50%;
+    top:50%;
+    zoom: 0.938;
+}
+
+#musicButton {
+    position: absolute;
+    margin-left: 775px;
+    margin-top: 50px;
+    font-family: Arial;
+    font-size: 30px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: yellow;
+    font-weight: 500;
+    
+}
+
+#voiceButton {
+    position: absolute;
+    margin-left: 775px;
+    margin-top: 10px;
+    font-family: Arial;
+    font-size: 30px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: yellow;
+    font-weight: 500;
+}
+
+#bgImg {
+    position: absolute;
+}
+
+#textbox {
+    position: absolute;
+    font-family:"Comic Sans MS";
+    color: white;
+    letter-spacing: 2px;
+    font-size: 30px;
+    line-height: 30px;
+    word-wrap: normal;
+    width: 600px;
+    margin-top: 80px;
+    margin-left: 15px;
+}
+
+#chat_input {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 620px;
+    width: 890px;
+    font-size: 20px;
+}
+
+#mitsukuTitle {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: -14px;
+    font-size: 60px;
+    color: yellow;
+    font-weight: bold;
+    font-family:"Comic Sans MS";
+}
+
+#typeHere {
+    position: absolute;
+    font-family:"Comic Sans MS";
+    color: rgb(156, 118, 118);
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 590px;
+    margin-left: 15px;
+}
+
+#lastMes {
+    position: absolute;
+    font-family:"Comic Sans MS";
+    color: white;
+    font-size: 20px;
+    margin-top: 653px;
+    margin-left: 15px;
+}
+
+#lastMessageBox {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 680px;
+    width: 890px;
+    font-size: 20px;
+}
